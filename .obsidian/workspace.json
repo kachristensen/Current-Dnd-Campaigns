@@ -11,17 +11,28 @@
             "id": "46350945d604200c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Session Notes/Session 1.md",
-                "mode": "source",
-                "source": false
+                "file": "References/Lore/What You've Learned So Far...(Zephyra) (1).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Session 1"
+              "icon": "lucide-file-text",
+              "title": "What You've Learned So Far...(Zephyra) (1)"
+            }
+          },
+          {
+            "id": "b1624a4f8d749bc9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6e1551ecb61e7680",
@@ -156,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -185,13 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46350945d604200c",
+  "active": "b1624a4f8d749bc9",
   "lastOpenFiles": [
+    "Session Notes/Session 1.md",
     "References/Tool Kits/PoisonersKit.pdf",
     "References/Tool Kits/Weaver's+Tools.pdf",
     "References/Lore/The Pantheon.pdf",
     "References/Lore/What You've Learned So Far...(Zephyra) (1).pdf",
-    "Session Notes/Session 1.md",
     "References/Tool Kits/Painter's+Supplies.pdf",
     "References/Lore/Magic Explained.pdf",
     "References/Lore/Session Zero.md",
@@ -199,7 +209,6 @@
     "References/Lore/Eidynites.pdf",
     "References/Lore/Children of Maira.pdf",
     "References/Lore",
-    "References/Tool Kits/HealersKit.pdf",
     "References/Lore/Maps/Revas.jpg",
     "Revas-DnD-Campaign/README.md",
     "Markdown Cheat Sheet.md",
