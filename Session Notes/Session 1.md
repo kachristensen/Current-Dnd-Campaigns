@@ -21,7 +21,7 @@
 				- S made a comment about Vali's people stealing strength, she said it was her own. Sarannis did a distraction, got into a tussle with Laedra, Cass healed Peter the halfling child. 
 		- Mining demand has increased lately, as if Imperium is requiring more materials for something
 		- Mr Portshire is smelly, seemed to be staring at the spit on Sarannis's foot.
-- Mining
+- Mining - warforged supervisors, gold
 	- I told the girls we should try and get closer to Sarannis. Elaine seemed to be a bit aloof from me, said I was an unknown, I prodded for deeper reasons, she said she knew more about the others, I said that would be useful, she shied away and took Cheria with her.
 	- Sarannis told Mr. Portshire he was strong and tried to recruit him for an escape. Portshire nodded and grunted, spat out some food, cleared out his throat. Aussie accent, can finally talk. He got down and slurped the spit off of Sarannis's boot.
 		- His people believe not to waste moisture. He's a little fish cutie
@@ -30,4 +30,6 @@
 	- I talked with Serannis, his cell mates are also interested in escaping. We know he's in for murder but thats it. I said we would talk later tonight during the evening shift.
 	- Mr. Portshire said Sebastian the tiefling was a friend of his. Sebastian has been telling him a lot cuz Ptshr couldn't speak. Mr. Portshire's dad's name is Mister, his name is Glubbory Portshire. He asked if we were with Vali, the beautiful bombshell. 
 	- Sebastian has a file. Portshire has a different voice, this is his common voice. Portshire gave Cheria the file. 
-	- Mr. Portshire - Sebastian mentioned a heist of a ruby, Portshire said yeah everything is true, sus. 
+	- Mr. Portshire - Sebastian mentioned a heist of a ruby, Portshire said yeah everything is true, sus. There is a clock in the cell block so we can tell time. I told them to shut up and we would talk later at night. 
+- Lunch
+	- Cass purifying the food, Sarannis used a distraction to accuse Laedra of taking more, but failed to convince the warforged guards. They make a move to grab Sarannis but the female drow started yelling at the dueregar. She swung at Laedra.
