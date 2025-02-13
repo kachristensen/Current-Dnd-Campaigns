@@ -28,3 +28,4 @@
 	- Cass said there are more ppl in the evidence room because of Laedra. Laedra very racist to drow. She brought something very important to the evidence room.
 	- I talked with Serannis, his cell mates are also interested in escaping. We know he's in for murder but thats it. I said we would talk later tonight during the evening shift.
 	- Mr. Portshire said Sebastian the tiefling was a friend of his. Sebastian has been telling him a lot cuz Ptshr couldn't speak. Mr. Portshire's dad's name is Mister, his name is Glubbory Portshire. He asked if we were with Vali, the beautiful bombshell. 
+	- Sebastian has a file. Portshire has a different voice, this is his common voice.
