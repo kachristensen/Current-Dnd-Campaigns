@@ -60,3 +60,4 @@
 	- I shoved Tavius into the cell, we jumped him, I took the keys over, we unlocked our door. Cass grabbed his great sword. Valindra flinched at firebolt.
 	- Cass said the solitary confinement guy is undead and killed a bunch of people.
 		- Evil chuckle. Male voice, dry, old. "This thing?"
+		- Said he would enact vengeance on those who imprisonsed us. 
