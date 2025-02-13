@@ -50,4 +50,4 @@
 	- Serannis summoned his raven, Jericho. Black bird, six red eyes. We planned by talking to him.
 	- Valindra said there is a Scalewarden here. The elite guards of the Empire. Valindra can sense it. 
 	- The Underdark is called the Deep. I said I didn't want to go back, I'm familiar with the tunnels. Sarannis is also against going down there. I said no killing if possible.
-	- Captain Tavius visited. Spoke with Cass, said he would maybe take his offer.
+	- Captain Tavius visited. Spoke with Cass, said he would maybe take his offer. Tavius will be back in a few hours to outfit him with an arm or something.
