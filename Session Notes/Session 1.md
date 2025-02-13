@@ -19,3 +19,4 @@
 			- I asked why S/C were gone, he said they were tortured, he was trying to escape. Both of them are magicians, S's familiar. I asked why they weren't being made useful.
 				- Cheria grew up on a farm.
 				- S made a comment about Vali's people stealing strength, she said it was her own.
+	- 
