@@ -33,3 +33,4 @@
 	- Mr. Portshire - Sebastian mentioned a heist of a ruby, Portshire said yeah everything is true, sus. There is a clock in the cell block so we can tell time. I told them to shut up and we would talk later at night. 
 - Lunch
 	- Cass purifying the food, Sarannis used a distraction to accuse Laedra of taking more, but failed to convince the warforged guards. They make a move to grab Sarannis but the female drow started yelling at the dueregar. She swung at Laedra. Drow picked up a rock and started bashing Laedra's kneecaps. The other 3 duegar pulled her off, the warforged separated them and picked them up and escorted them away.
+		- I 
