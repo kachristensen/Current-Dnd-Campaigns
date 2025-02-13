@@ -26,4 +26,4 @@
 		- His people believe not to waste moisture. He's a little fish cutie
 	- Couple people nat 20'd mining, will get an extra ration later
 	- Cass said there are more ppl in the evidence room because of Laedra. Laedra very racist to drow. She brought something very important to the evidence room.
-	- I talked with Serannis, his cell mates are also interested in escaping. We know he's in for murder. 
+	- I talked with Serannis, his cell mates are also interested in escaping. We know he's in for murder but thats it. I said we would talk later tonight during the evening shift.
