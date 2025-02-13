@@ -47,4 +47,5 @@
 	- Sarrannis said Eidyn turned away from him, Portshire asked how Cass can lose his arm but still be blessed.
 	- Boy discussion - there's additional guards in the security room. The boys have stuff in there they need. We can hear Sarannis talking - he has a spellbook they need to recover. Cass doesn't want to free the guy in solitary. Sarannis doesn't want to free the dueregar or else they will fight. Portshire encouraged him to set aside their differences just to escape.
 	- We got dinner, the guy in solitary didn't.
-	- Serannis summoned his raven, Jericho. Black bird, six red eyes.
+	- Serannis summoned his raven, Jericho. Black bird, six red eyes. We planned by talking to him.
+	- Valindra said there is a Scalewarden here. The elite guards of the Empire. Valindra can sense it. 
