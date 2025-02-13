@@ -55,4 +55,4 @@
 	- I told the girls where the exit was. Elaine whispered to Cheria, she can put them to sleep with magic if we want.
 - Captain Tavius returned to take Cass, had a keyring with 6 keys. 
 	- META: Cass played card games with the 2 guards. Asked about the Scalewarden. Anders warned him against asking, Gartilden wanted to know who was talking about it. Said he'd keep it down low. There are more visitors in the prison.
-	- Tavius returned with a crude prosthetic, Cass 
+	- Tavius returned with a crude prosthetic, took Cass aside. He's an alcoholic. Says Captain Wayne has been pressuring them with a new legion. 
