@@ -61,4 +61,4 @@
 	- Cass said the solitary confinement guy is undead and killed a bunch of people.
 		- Evil chuckle. Male voice, dry, old. "This thing?"
 		- Said he would enact vengeance on those who imprisoned us. I asked him not to kill, he wouldn't get in our way but would do worse to them. Cass said if I opened the door he would attack him. I listened to Cass and left him. His name is Franklin.
-	- W
+	- We took Tavius with us, unconscious.
