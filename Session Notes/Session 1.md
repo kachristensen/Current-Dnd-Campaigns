@@ -19,4 +19,6 @@
 			- I asked why S/C were gone, he said they were tortured, he was trying to escape. Both of them are magicians, S's familiar. I asked why they weren't being made useful.
 				- Cheria grew up on a farm.
 				- S made a comment about Vali's people stealing strength, she said it was her own. Sarannis did a distraction, got into a tussle with Laedra, Cass healed Peter the halfling child. 
+		- Mining demand has increased lately, as if Imperium is requiring more materials for something
+		- Mr Portshire is smelly, seemed to be staring at the spit on Sarannis's foot.
 	- 
