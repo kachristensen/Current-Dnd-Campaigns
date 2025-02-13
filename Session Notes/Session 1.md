@@ -58,3 +58,4 @@
 	- Tavius returned with a crude prosthetic, took Cass aside. He's an alcoholic. Says Captain Wayne has been pressuring them with a new legion. 
 	- Mr Portshire has a -4 in stealth.
 	- I shoved Tavius into the cell, we jumped him, I took the keys over, we unlocked our door. Cass grabbed his great sword. Valindra flinched at firebolt.
+	- Cass said they're undead.
