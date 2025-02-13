@@ -22,4 +22,5 @@
 		- Mining demand has increased lately, as if Imperium is requiring more materials for something
 		- Mr Portshire is smelly, seemed to be staring at the spit on Sarannis's foot.
 	- I told the girls we should try and get closer to Sarannis. Elaine seemed to be a bit aloof from me, said I was an unknown, I prodded for deeper reasons, she said she knew more about the others, I said that would be useful, she shied away and took Cheria with her.
-	- 
+	- Sarannis told Mr. Portshire he was strong and tried to recruit him for an escape. Portshire nodded and grunted, spat out some food, cleared out his throat. Aussie accent, can finally talk. He got down and slurped the spit off of Sarannis's boot.
+		- His people believe not to waste moisture. He's a little fish cutie
