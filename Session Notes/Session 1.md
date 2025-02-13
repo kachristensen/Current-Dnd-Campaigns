@@ -6,3 +6,4 @@
 - Just before wake up - Sarannis and Cheria are missing, dragged away in the middle of the night
 	- Introductions
 		- Cass - dirty, straggly, long beard. Asked Joe where Sarannis is.
+		- Girl cell wasn't sure where Cheria went.
