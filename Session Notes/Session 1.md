@@ -40,3 +40,6 @@
 	- Valindra took stock of the guards.
 	- Girl chat without Elaine -- Cheria said she left her grandson behind, worrying about his safety. I told her she didn't need to mediate. Cheria said she is a magical healer, divine. I asked why they were nice to me, they said just cuz, I told them I would repay them. Cheria asked if any of the boys had caught my eye, I was confused, said I hadn't really been around men before. She teased me a bit. Valindra said she also hadn't.
 	- META: Mr. Portshire's big for his people. He asked Sarannis if he had a mate, he said drow of House Dhu'unar don't get to pick their mates. Mr. Portshire said he robbed from the Emperor and that's why he's in prison.
+	- I got one level of exhaustion.
+- Back in our cells for dinner
+	- The drow lady Veshta got punished.
