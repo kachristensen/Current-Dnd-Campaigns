@@ -57,3 +57,4 @@
 	- META: Cass played card games with the 2 guards. Asked about the Scalewarden. Anders warned him against asking, Gartilden wanted to know who was talking about it. Said he'd keep it down low. There are more visitors in the prison.
 	- Tavius returned with a crude prosthetic, took Cass aside. He's an alcoholic. Says Captain Wayne has been pressuring them with a new legion. 
 	- Mr Portshire has a -4 in stealth.
+	- I shoved Tavius into the cell, we jumped him, I took the keys over here.
