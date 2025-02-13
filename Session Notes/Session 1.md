@@ -21,4 +21,5 @@
 				- S made a comment about Vali's people stealing strength, she said it was her own. Sarannis did a distraction, got into a tussle with Laedra, Cass healed Peter the halfling child. 
 		- Mining demand has increased lately, as if Imperium is requiring more materials for something
 		- Mr Portshire is smelly, seemed to be staring at the spit on Sarannis's foot.
+	- I told the girls we should try and get closer to Sarannis. Elaine seemed to be a bit aloof from me, said I was an unknown, I prodded for deeper reasons, she said she knew more about the others, I said that would be useful, she shied away and took Cheria with her.
 	- 
