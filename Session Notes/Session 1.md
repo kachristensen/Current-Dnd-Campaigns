@@ -8,4 +8,4 @@
 		- Cass - dirty, straggly, long beard. Asked Joe where Sarannis is.
 		- Girl cell wasn't sure where Cheria went. I told Valindra I would repay her and Cheria for their kindness. She was very optimistic.
 	- Interrogation Chamber META:
-		- Sarannis and Cheria being tortured/beaten. He's been getting the worst of it, tried to keep the attention on himself. Samuel is the guard thats beating them.
+		- Sarannis and Cheria being tortured/beaten. He's been getting the worst of it, tried to keep the attention on himself. Samuel is the guard thats beating them. Sarannis threatened to tell the other guards that Samuel fell asleep on his shift, he's already on probation.
