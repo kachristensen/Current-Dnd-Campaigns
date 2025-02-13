@@ -18,5 +18,5 @@
 			- Other cells full of sad hopeless prisoners. Cheria and Sarranis joined us, battered and bruised. Cheria noticed the halfling boy's hand has started to heal but he's looking ill and feverish and infected/diseased.
 			- I asked why S/C were gone, he said they were tortured, he was trying to escape. Both of them are magicians, S's familiar. I asked why they weren't being made useful.
 				- Cheria grew up on a farm.
-				- S made a comment about Vali's people stealing strength, she said it was her own.
+				- S made a comment about Vali's people stealing strength, she said it was her own. Sarannis did a distraction, got into a tussle with Laedra, Cass healed Peter the halfling child. 
 	- 
