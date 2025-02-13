@@ -25,4 +25,4 @@
 	- Sarannis told Mr. Portshire he was strong and tried to recruit him for an escape. Portshire nodded and grunted, spat out some food, cleared out his throat. Aussie accent, can finally talk. He got down and slurped the spit off of Sarannis's boot.
 		- His people believe not to waste moisture. He's a little fish cutie
 	- Couple people nat 20'd mining, will get an extra ration later
-	- Cass said there are more ppl in the evidence room because of Laedra. Laedra very racist.
+	- Cass said there are more ppl in the evidence room because of Laedra. Laedra very racist to drow. She brought something very important to the evidence room.
