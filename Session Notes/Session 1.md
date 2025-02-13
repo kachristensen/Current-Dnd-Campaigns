@@ -12,4 +12,5 @@
 	- Guard Ulf waking up the cell block 
 		- Solitary confinement cell - deep groan
 		- Prisoners
-			- Heinrich drunkard man, Laedra female duegar, Sebastian tiefling quiet and frantic ushering a whimpering halfling boy, female drow noticed Sarannis's absence, 
+			- Heinrich drunkard man, Laedra female duegar, Sebastian tiefling quiet and frantic ushering a whimpering halfling boy, female drow noticed Sarannis's absence. 
+			- Tension between Big Papa Joe and guard Ulf, who tries to trip him.
