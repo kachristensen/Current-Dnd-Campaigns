@@ -6,4 +6,6 @@
 - Just before wake up - Sarannis and Cheria are missing, dragged away in the middle of the night
 	- Introductions
 		- Cass - dirty, straggly, long beard. Asked Joe where Sarannis is.
-		- Girl cell wasn't sure where Cheria went.
+		- Girl cell wasn't sure where Cheria went. I told Valindra I would repay her and Cheria for their kindness. She was very optimistic.
+	- Interrogation Chamber
+		- Sarannis and Cheria being tortured/beaten. He's been getting the worst of it, tried to keep the attention on himself. 
