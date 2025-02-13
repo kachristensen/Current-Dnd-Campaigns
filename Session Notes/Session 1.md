@@ -51,4 +51,5 @@
 	- Valindra said there is a Scalewarden here. The elite guards of the Empire. Valindra can sense it. 
 	- The Underdark is called the Deep. I said I didn't want to go back, I'm familiar with the tunnels. Sarannis is also against going down there. I said no killing if possible.
 	- Captain Tavius visited. Spoke with Cass, said he would maybe take his offer. Tavius will be back in a few hours to outfit him with an arm or something.
-	- Cass gave us some wine, potato moonshine, delicious. Valindra refused to drink it. I gave Cheria some.
+	- Cass gave us some wine, potato moonshine, delicious. Valindra refused to drink it. I gave Cheria some. We threw it back to the boys. 
+	- I told the girls where the exit was. Elaine whispered to Cheria, she can put them to sleep with magic if we want.
