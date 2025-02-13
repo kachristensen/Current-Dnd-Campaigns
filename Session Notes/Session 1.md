@@ -44,3 +44,5 @@
 - Back in our cells for dinner
 	- The drow lady Veshta got punished.
 	- I poked Elaine in the face. She said she can sense divine energy off Cheria and Cass. She doesn't seem to trust elves. Said they scorn the natural balance. Valindra doesn't agree with what her people are doing. I kept pressing her, said I'm human but different.
+	- Sarrannis said Eidyn turned away from him, Portshire asked how Cass can lose his arm but still be blessed.
+	- Boy discussion - there's additional guards in the security room. 
