@@ -3,5 +3,6 @@
 	- upper exit more heavily guarded
 	- Captain Tavius holds the keys. He is typically seated outside the cellblock at a wooden table, keeping the peace if prisoners act up. You've noticed he's been overly fond of alcohol recently and has been pulling Cass aside on more than one occasion.
 	- META: Cass was able to recover a spellbook page for Sarannis to recast Find Familiar, but he got caught again
-- 
-	- 
+- Just before wake up - Sarannis and Cheria are missing, dragged away in the middle of the night
+	- Introductions
+		- Cass - dirty, straggly, long beard. Asked Joe where Sarannis is.
