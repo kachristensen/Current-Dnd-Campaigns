@@ -36,3 +36,4 @@
 		- Zephyra took their extra rations, ate an extra portion. Sarannis gave some to the kids. Said Veshta, the female drow, would probably give her food to him. She's from a lesser house. 
 		- Portshire also gave the kids some food. 
 	- Heinrich approached Cass for his daily supply. Grizzled older mercenary. Cass gave him some booze. Heinrich is an alcoholic. Threatened to rat Cass out, but Cass was unphased. Gave him 2 oz.
+	- I asked why he gave the kids 
