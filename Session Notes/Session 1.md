@@ -15,3 +15,4 @@
 			- Heinrich drunkard man, Laedra female duegar, Sebastian tiefling quiet and frantic ushering a whimpering halfling boy, female drow noticed Sarannis's absence. 
 			- Tension between Big Papa Joe and guard Ulf, who tries to trip him.
 			- Guard Ulf doesn't even glance at the solitary confinement, that guy is getting left behind. I asked Ulf why, he said if he started to work we'd all be dead.
+			- Other cells full of sad hopeless prisoners. Cheria and Sarranis joined us, battered and bruised. Cheria noticed the halfling boy's hand has started to heal but he's looking ill and feverish.
