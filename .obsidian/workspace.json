@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/D&D Character Sheet.md",
+                "file": "References/Party - Intro Bios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D&D Character Sheet"
+              "title": "Party - Intro Bios"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "References/Party - Intro Bios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 1"
+              "title": "Backlinks for Party - Intro Bios"
             }
           },
           {
@@ -173,10 +173,14 @@
   },
   "active": "f95eec95f02515c2",
   "lastOpenFiles": [
-    "Markdown Cheat Sheet.md",
-    "Templates/D&D Character Sheet.md",
-    "Templates",
     "Session Notes/Session 1 - Imprisoned.md",
+    "References/Party - Intro Bios.md",
+    "References/Markdown Cheat Sheet.md",
+    "References/Templates/D&D Character Sheet.md",
+    "References/Tool Kits/AlchemistsSupplies_v1-1.pdf",
+    "References/Images",
+    "README.md",
+    "References/Templates",
     "Session Notes/Untitled.md",
     "References/Lore/Children of Maira.pdf",
     "References/Lore/What You've Learned So Far...(Zephyra) (1).pdf",
@@ -185,8 +189,6 @@
     "References/Tool Kits/PoisonersKit.pdf",
     "References/Tool Kits/Weaver's+Tools.pdf",
     "References/Lore/The Pantheon.pdf",
-    "References/Tool Kits/Painter's+Supplies.pdf",
-    "References/Lore/Magic Explained.pdf",
     "References/Lore/Session Zero.md",
     "References/Lore/Maps/Revas.jpg",
     "Revas-DnD-Campaign/README.md",
