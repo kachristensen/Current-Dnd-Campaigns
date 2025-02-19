@@ -1,0 +1,14 @@
+
+
+#### Sarannis Dh'uunar 
+###### Drow  Wizard, Evocation, 75
+> "A calculated risk is no risk at all." 
+
+Cynicism, Pragmatism, Ambition. These three things can be considered the driving forces for Sarannis. For most of his life, he enjoyed the comforts of nobility, and was being prepared to be the hand of the future maiden of the house, his elder sister. However, as they do, Dragons rarely show mercy for mistakes, and Sarannis learned this the hard way, as he watched his Mother and Father melt at the feet of the Black Dragon who ruled them. Wishing to not subject himself, or his family to this Tyranny any longer, he left for the surface world seeking power through magic. It did not take long for him to find his opportunity, as it came in the form of Faefolk wandering the mountains. With Orcish and Kobold allies he had made in his short time, they ambushed the elves and their kin, slaughtering them all, and Sarannis took a spell book as his prize. This spell book however, was barley filled and would not be a fast-track solution to his problems. Still, it was a start. However all actions have consequences, and that would quickly become apparent when he was arrested for murdering allies of the Imperium. The faefolk must have been traders, or traitors, or some other affiliate with the Aedusians, who do not abide losing assets. Once finely dressed in black and gold robes, now tattered and beaten, in no small part due to his unwillingness to submit to these.. barbarians above the surface, Sarannis seeks to be free, even if it means walking underneath this rather annoying Sun.
+
+#### Zephyra
+###### Human Wizard, Bladesinger, 20
+
+> _“Please, listen to me. I shouldn’t be here. What kind of bookkeeping does this place even have?!”_
+
+If an abused puppy were personified, it would be Zephyra. It seems this woman has not fared well in her time here–rags cover dirt, scratches, cuts, bruises in various states of healing, and a smattering of soft freckles. Her hair is long, dark, and matted into a rat’s nest. Her eyes cringe at the torch-light. Her voice comes quietly, as if hoarse from a long period of disuse. Waifish, gaunt, and petite, she’s one of the few prisoners who scarfs down upon the scraps served by the prison as though they were the most delectable feast she’s ever tasted, and curls up on her bedroll as if it were a plush mattress of softest down. She’s a perplexing contradiction, this one. At times, her face is curious and eager, bright-eyed and taking in everything around her with wonder, awe, and a disconcertingly shrewd look. At other times, Zephyra shies away, clearly drawn to the strangers around her but too fearful and wary to trust them. Whoever she is, she seems to be a calculating thinker and a very, very shit miner.
