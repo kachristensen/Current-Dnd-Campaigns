@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Party - Intro Bios.md",
+                "file": "Session Notes/Session 1 - Imprisoned.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Party - Intro Bios"
+              "title": "Session 1 - Imprisoned"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Party - Intro Bios.md",
+                "file": "Session Notes/Session 1 - Imprisoned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Party - Intro Bios"
+              "title": "Backlinks for Session 1 - Imprisoned"
             }
           },
           {
@@ -173,6 +173,7 @@
   },
   "active": "f95eec95f02515c2",
   "lastOpenFiles": [
+    "Session Notes/Untitled.md",
     "Session Notes/Session 1 - Imprisoned.md",
     "References/Party - Intro Bios.md",
     "References/Markdown Cheat Sheet.md",
@@ -181,7 +182,6 @@
     "References/Images",
     "README.md",
     "References/Templates",
-    "Session Notes/Untitled.md",
     "References/Lore/Children of Maira.pdf",
     "References/Lore/What You've Learned So Far...(Zephyra) (1).pdf",
     "References/Lore/The Revan Imperium (1).pdf",
