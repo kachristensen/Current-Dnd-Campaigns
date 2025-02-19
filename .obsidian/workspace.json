@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Untitled.md",
+                "file": "Templates/D&D Character Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "D&D Character Sheet"
             }
           }
         ]
@@ -173,8 +173,12 @@
   },
   "active": "f95eec95f02515c2",
   "lastOpenFiles": [
+    "Markdown Cheat Sheet.md",
+    "Templates/D&D Character Sheet.md",
+    "Templates",
     "Session Notes/Session 1 - Imprisoned.md",
     "Session Notes/Untitled.md",
+    "References/Lore/Children of Maira.pdf",
     "References/Lore/What You've Learned So Far...(Zephyra) (1).pdf",
     "References/Lore/The Revan Imperium (1).pdf",
     "References/Lore/The Revan Imperium (1).pdf.crdownload",
@@ -184,11 +188,8 @@
     "References/Tool Kits/Painter's+Supplies.pdf",
     "References/Lore/Magic Explained.pdf",
     "References/Lore/Session Zero.md",
-    "References/Lore/A Crash Course to Revas.pdf",
-    "References/Lore/Eidynites.pdf",
     "References/Lore/Maps/Revas.jpg",
     "Revas-DnD-Campaign/README.md",
-    "Markdown Cheat Sheet.md",
     "Welcome.md"
   ]
 }
