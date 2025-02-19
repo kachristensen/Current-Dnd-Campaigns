@@ -1,7 +1,9 @@
 ###### 2-12-25: Day 1
 
+#### Summary
+After regaining some missing members from a night of torture and interrogation, the party started their day of backbreaking work in the Dretch. They sized up each other and their various cell block neighbors to plan a prison escape. At night, after Cass returned re-armed from a mysterious deal with Captain Tavius, the party ambushed the latter, knocked him unconscious, and used his keys to free everyone in the nearby cells.
 
-
+#### Notes
 - Preemptive - see  [[What You've Learned So Far...(Zephyra) (1).pdf]]
 	- upper exit more heavily guarded
 	- Captain Tavius holds the keys. He is typically seated outside the cellblock at a wooden table, keeping the peace if prisoners act up. You've noticed he's been overly fond of alcohol recently and has been pulling Cass aside on more than one occasion.
