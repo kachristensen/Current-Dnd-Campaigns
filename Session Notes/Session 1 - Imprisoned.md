@@ -1,7 +1,7 @@
-###### 2-12-25: Day 1
+###### Day 1 (2/12/25)
 
 #### Summary
-After regaining some missing members from a night of torture and interrogation, the party started their day of backbreaking work in the Dretch. They sized up each other and their various cell block neighbors to plan a prison escape. At night, after Cass returned re-armed from a mysterious deal with Captain Tavius, the party ambushed the latter, knocked him unconscious, and used his keys to free everyone in the nearby cells.
+After regaining some missing members from a night of torture and interrogation, the party started their day of backbreaking work in the mines of the Dretch. They sized up each other and their various cell block neighbors and compiled each individual's information to plan a prison escape. That night, after Cass returned re-armed from a mysterious deal with Captain Tavius, the party ambushed the latter, knocked him unconscious, and used his keys to free everyone in the nearby cells.
 
 #### Notes
 - Preemptive - see  [[What You've Learned So Far...(Zephyra) (1).pdf]]
