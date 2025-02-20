@@ -14,3 +14,4 @@
 	- Mr. Portshire got the lock stuck/jammed.
 - Door opened, Captain Wayne came out and commanded us to return to our cells. Valindra attacked him with fire infusion from her drake.
 	- Sarannis lock picked the equipment room, there's a red drake with a woman in armor. Red eyes, purple hair. Mischevous sly smile.
+	- Captain Wayne hit Valindra with a huge blow.
