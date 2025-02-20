@@ -37,7 +37,7 @@
 - Blackthistle's head could pass through the lock, I mage hand puppeted her head 
 	- Scroll
 	- Valindra's scale armor
-	- Cass's golden sword
+	- Cass's golden sword. He got it and started sobbing in the corner.
 	- Srns's and my spellbooks. 
 	- Circe's Bracelet
 	- All of our personal effects
