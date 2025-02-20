@@ -18,7 +18,7 @@
 	- Cassander seems to have a distaste for drakes/dragons, "what a cruel jape."
 	- I stepped defensively in front of Valindra, took a hit for her.
 	- Sarannis killed Captain Wayne by grabbing him by the throat and slamming him, shocking grasp.
-	- I ran into the equipment room and broke down the barricade, dodged their attacks, engaged 
+- I ran into the equipment room and broke down the barricade, dodged their attacks, engaged 
 	- Valindra spoke Draconic to try and persuade the warden and her dragon Kato to stand down, she hesitated, some sort of significance to Valindra's hair being in a ponytail?
 	- I spoke in Draconic to the Warden, pulled down my hood, held out a hand to her. Beseeched her to be allies, we weren't in her way. She says we can't interfere with her post. Valindra looked at her, said it wouldn't be the first time she fought one in "our" rank. 
 	- We Mexican stand-offed, she grappled me, Valindra trying to stop her.
@@ -29,5 +29,5 @@
 	- Valindra's drake's name is Wuffi. He broke the lock on the chest.
 	- Mr. Portshire looks to Sarannis for guidance. He tried to open the chest but it doesn't seem to open it.
 	- Sarannis firebolted Warden Blackthistle and killed her. Her drake collapsed and started dying when its master did. Cass stabbed it in the head as it was dying.
-		- He looted her. Some money. Note - orders that the warden is to stay inside the equipment room to oversee the protection of a sextant that was brought 4 weeks ago.
-		- 
+		- He looted her. Some money. Note - orders that the warden is to stay inside the equipment room to oversee the protection of a sextant that was brought 4 weeks ago. Otherwise she'd be executed.
+	- Sarannis said I was far too bold for a wizard
