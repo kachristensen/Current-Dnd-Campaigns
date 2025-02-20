@@ -15,3 +15,4 @@
 - Door opened, Captain Wayne came out and commanded us to return to our cells. Valindra attacked him with fire infusion from her drake.
 	- Sarannis lock picked the equipment room, there's a red drake with a woman in armor. Red eyes, purple hair. Mischevous sly smile. Has a horn next to her.
 	- Captain Wayne hit Valindra with a huge blow.
+	- Cassander seems to have a distaste for drakes/dragons, "what a cruel jape."
