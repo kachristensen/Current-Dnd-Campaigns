@@ -20,3 +20,4 @@
 	- Sarannis killed Captain Wayne by grabbing him by the throat and slamming him, shocking grasp.
 	- I ran into the equipment room and broke down the barricade, dodged their attacks, engaged 
 	- Valindra spoke Draconic to try and persuade the warden and her dragon Kato to stand down, she hesitated, some sort of significance to Valindra's hair being in a ponytail?
+	- I spoke in Draconic to the Warden, 
