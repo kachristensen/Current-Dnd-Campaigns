@@ -41,4 +41,4 @@
 	- Srns's and my spellbooks. 
 	- Circe's Bracelet
 	- All of our personal effects
-	- 
+	- A 
