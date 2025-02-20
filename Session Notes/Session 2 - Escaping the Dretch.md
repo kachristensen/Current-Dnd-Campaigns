@@ -18,3 +18,4 @@
 	- Cassander seems to have a distaste for drakes/dragons, "what a cruel jape."
 	- I stepped defensively in front of Valindra, took a hit for her.
 	- Sarannis killed Captain Wayne by grabbing him by the throat and slamming him, shocking grasp.
+	- I ran into the equipment room and broke down the barricade, dodged their attacks, 
