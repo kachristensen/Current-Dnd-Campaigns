@@ -34,3 +34,7 @@
 	- There was a magical ward protecting the chest. We couldn't break it. Black void inside. Shimmering. We took the chest and carried it with us. All the prisoners and us escaped into The Deep.
 - I checked with Mercury - the surface is swarming with guards.
 - We discovered the chest had an Arcane Ward on It. Chest of Holding protected by the Arcane Ward. If we broke the entire thing, would potentially open a planar portal.
+- Blackthistle's head could pass through the lock, I mage hand puppeted her head 
+	- Scroll
+	- Valindra's scale armor
+	- Cass's golden sword
