@@ -30,4 +30,4 @@
 	- Mr. Portshire looks to Sarannis for guidance. He tried to open the chest but it doesn't seem to open it.
 	- Sarannis firebolted Warden Blackthistle and killed her. Her drake collapsed and started dying when its master did. Cass stabbed it in the head as it was dying.
 		- He looted her. Some money. Note - orders that the warden is to stay inside the equipment room to oversee the protection of a sextant that was brought 4 weeks ago. Otherwise she'd be executed.
-	- Sarannis said I was far too bold for a wizard
+	- Sarannis said I was far too bold for a wizard. Valindra recovered Blackthistle's cloak. I decapitated her head.
