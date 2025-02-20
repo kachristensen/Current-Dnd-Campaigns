@@ -24,4 +24,5 @@
 	- We Mexican stand-offed, she grappled me, Valindra trying to stop her.
 	- Portshire started a fire.
 	- I told her my name and how old I was, said I'd never known a day of freedom in my life, asked if she was ok with letting us out of the room and giving us our things and her name, Warden Blackthistle. She said yes but Cass attacked her.
-		- Valindra tried to free me, Blackthistle stabbed me. Portshire stabilized me, Cheria healed me, and Sarannis nat 20 yanked me out into his arms.  
+		- Valindra tried to free me, Blackthistle stabbed me. Portshire stabilized me, Cheria healed me, and Sarannis nat 20 yanked me out into his arms. 
+		- Mr. Portshire tried to use a key that didn't fit the lock on the equipment chest, it triggered a flame trap.
