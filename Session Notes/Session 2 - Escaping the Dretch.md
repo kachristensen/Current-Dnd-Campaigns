@@ -38,3 +38,7 @@
 	- Scroll
 	- Valindra's scale armor
 	- Cass's golden sword
+	- Srns's and my spellbooks. 
+	- Circe's Bracelet
+	- All of our personal effects
+	- 
