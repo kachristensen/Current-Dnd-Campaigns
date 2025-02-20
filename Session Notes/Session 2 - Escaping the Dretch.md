@@ -28,4 +28,5 @@
 		- Mr. Portshire tried to use a key that didn't fit the lock on the equipment chest, it triggered a flame trap.
 	- Valindra's drake's name is Wuffi. He broke the lock on the chest.
 	- Mr. Portshire looks to Sarannis for guidance. He tried to open the chest but it doesn't seem to open it.
-	- Sarannis firebolted Warden Blackthistle and killed her. Her drake collapsed and died when its master did.
+	- Sarannis firebolted Warden Blackthistle and killed her. Her drake collapsed and started dying when its master did. Cass stabbed it in the head as it was dying.
+		- He looted her. Some money. Note - orders that the warden is to stay inside the equipment room to oversee the protection of a sextant that was brought 4 weeks ago, 
