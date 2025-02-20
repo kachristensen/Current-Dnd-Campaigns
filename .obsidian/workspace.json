@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6e1551ecb61e7680",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f95eec95f02515c2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "af0f419608d3073b",
@@ -185,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb95ffbf2d978591",
+  "active": "46350945d604200c",
   "lastOpenFiles": [
     "Session Notes/Session 1 - Imprisoned.md",
     "Session Notes/Session 2 - Escaping the Dretch.md",

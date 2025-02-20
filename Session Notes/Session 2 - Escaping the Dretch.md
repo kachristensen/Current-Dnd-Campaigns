@@ -4,3 +4,4 @@
 
 
 #### Notes
+- I spoke to Laedra about setting aside her feud with Sarannis. Cass gave the sword to Valindra.
