@@ -11,3 +11,4 @@
 	- Valindra chanted in Draconic, "Come to my aid my dear friend" and her drakewarden appeared. It grabbed the warning horn in the room and fled back to us. Iridescent purple drake.
 	- Sarannis firebolted past Valindra's face, she startled again. Seems startled by fire near her face.
 	- I kept assisting Cass to strike the guards, we accidentally killed one with a crit.
+	- Mr. Portshire got the lock stuck/jammed.
