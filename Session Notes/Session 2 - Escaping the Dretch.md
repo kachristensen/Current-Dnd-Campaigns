@@ -21,3 +21,4 @@
 	- I ran into the equipment room and broke down the barricade, dodged their attacks, engaged 
 	- Valindra spoke Draconic to try and persuade the warden and her dragon Kato to stand down, she hesitated, some sort of significance to Valindra's hair being in a ponytail?
 	- I spoke in Draconic to the Warden, pulled down my hood, held out a hand to her. Beseeched her to be allies, we weren't in her way. She says we can't interfere with her post. Valindra looked at her, said it wouldn't be the first time she fought one in "our" rank. 
+	- We Mexican stand-offed, she grappled me, Valindra
