@@ -31,3 +31,4 @@
 	- Sarannis firebolted Warden Blackthistle and killed her. Her drake collapsed and started dying when its master did. Cass stabbed it in the head as it was dying.
 		- He looted her. Some money. Note - orders that the warden is to stay inside the equipment room to oversee the protection of a sextant that was brought 4 weeks ago. Otherwise she'd be executed.
 	- Sarannis said I was far too bold for a wizard. Valindra recovered Blackthistle's cloak. I decapitated her head.
+	- There was a magical ward protecting the chest. We couldn't break it. Black void inside. Shimmering. We took the chest and carried it with us. All the prisoners and us escaped into The Deep.
