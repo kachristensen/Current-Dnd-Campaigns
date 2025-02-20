@@ -23,4 +23,4 @@
 	- I spoke in Draconic to the Warden, pulled down my hood, held out a hand to her. Beseeched her to be allies, we weren't in her way. She says we can't interfere with her post. Valindra looked at her, said it wouldn't be the first time she fought one in "our" rank. 
 	- We Mexican stand-offed, she grappled me, Valindra trying to stop her.
 	- Portshire started a fire.
-	- 
+	- I told her my name and how old I was, said I'd never known a day of freedom in my life, asked if she was ok with letting us out of the room and giving us our things and for her name. 
