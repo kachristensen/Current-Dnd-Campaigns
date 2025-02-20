@@ -12,3 +12,4 @@
 	- Sarannis firebolted past Valindra's face, she startled again. Seems startled by fire near her face.
 	- I kept assisting Cass to strike the guards, we accidentally killed one with a crit.
 	- Mr. Portshire got the lock stuck/jammed.
+- Door opened, Captain Wayne came out and commanded us to return to our cells. Valindra attacked him with fire infusion from her drake.
