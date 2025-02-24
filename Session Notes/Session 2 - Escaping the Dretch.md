@@ -43,3 +43,5 @@
 	- All of our personal effects
 	- A golden sextant. I hid it from Laedra.
 - We short rested.
+- PBP = **A nook in the mines**
+- 
