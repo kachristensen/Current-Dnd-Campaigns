@@ -25,12 +25,14 @@
             "id": "4b35f2b78f8872a1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Session Notes/Session 2 - Escaping the Dretch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Session 2 - Escaping the Dretch"
             }
           }
         ],
@@ -186,6 +188,7 @@
   "lastOpenFiles": [
     "Session Notes/Session 1 - Imprisoned.md",
     "Session Notes/Session 2 - Escaping the Dretch.md",
+    "References/Tool Kits/Weaver's+Tools.pdf",
     "References/The Party/Party - Intro Bios.md",
     "References/Lore/The Pantheon.pdf",
     "References/Lore/Magic Explained.pdf",
@@ -197,7 +200,6 @@
     "References/Templates",
     "References/Lore/The Revan Imperium (1).pdf",
     "References/Tool Kits/PoisonersKit.pdf",
-    "References/Tool Kits/Weaver's+Tools.pdf",
     "References/Lore/What You've Learned So Far...(Zephyra) (1).pdf",
     "References/Tool Kits/Painter's+Supplies.pdf",
     "References/Lore/Session Zero.md",
