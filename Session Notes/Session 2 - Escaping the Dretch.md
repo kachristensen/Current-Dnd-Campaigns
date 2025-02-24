@@ -44,4 +44,6 @@
 	- A golden sextant. I hid it from Laedra.
 - We short rested.
 - PBP = **A nook in the mines**
-- 
+	- META: Cass cried over his sword and dead people and dead wife girlfriend person. Hates dragon people. Sarannis's parents burned.
+	- Srns patted me on the head.
+	- Valindra was imprisoned because her captain betrayed her. She ran and was caught. Was part of a legion. 
