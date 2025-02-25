@@ -1,7 +1,7 @@
 ###### Day 1 (2/19/25)
 
 #### Summary
-The party lured Guard Samuel into a trap 
+The party stormed the rest of the cell block, (mostly) knocked out several guards, and freed the remaining prisoners. Half the party engaged with Captain Wayne in combat while the others worked to get the door to the equipment room open, only to discover it was being personally guarded by a Scalewarden. 
 
 #### Notes
 - I spoke to Laedra about setting aside her feud with Sarannis. Cass gave the sword to Valindra.
