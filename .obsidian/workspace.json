@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vesh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b35f2b78f8872a1",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Session Notes/Session 2 - Escaping the Dretch.md",
     "Session Notes/Session 1 - Imprisoned.md",
