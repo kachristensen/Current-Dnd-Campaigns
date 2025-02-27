@@ -15,4 +15,6 @@
 		- She asked if we were planning to eat Taevus, she asked why we kept him, soft-hearted group.
 	- META: Cass spoke to Laedra in Undercommon a distance away. He lied to her and said they found a note on the Warden, she was to keep it safe, they don't have it. She passed it off to a guard and took it to the surface. She says she'll have to go back for it. He asked what the sextant does and why it's so important. She says it can reveal powerful illusions.
 		- I tried to overhear with the owl, but got caught.
-	- Mr. Portshire promised to paint Laedra naked in exchange for water. She agreed.
+	- Mr. Portshire promised to paint Laedra naked in exchange for water. She agreed. TODO: ask why it's valuable.
+	- Cass gave a heroic speech to everyone to perservere, he has a moonlight shining sword.
+	- Valindra took the ponytail out of her hair to cover her ears.
