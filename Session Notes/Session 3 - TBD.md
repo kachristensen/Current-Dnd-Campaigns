@@ -30,3 +30,4 @@
 		- 6 party + 3 new prisoners + 4 kids/Sebastian + 4 other npcs = 17 people. x.3 gal x 3 = 15.3 gallons (each skin = half a gallon) 30 water skins.. Will die after 3 days of water. Starvation - a week or longer.
 		- The satyr had her tongue cut out. She's trusting. Freya. Gnomes.
 		- Glubbery seemed to be painting something in the water, handed Sarannis a drawing of him knocking out the guard. Said he's never killed a guy before. Glubbery asked how Srns lives with himself, he said it's a way of survival/ingrained in them in the Deep. It doesn't bother Srns at all.
+		- We filled up a bunch of waterskins and a barrel.
