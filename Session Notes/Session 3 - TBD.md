@@ -9,4 +9,7 @@
 	- I insighted - she seems sincere. I persuaded her to join us to get a chance at the dueregar. She said she would lead us to the tunnel to the surface, then leave. 
 	- Vesh'ta has a pocketwatch.
 - Glubbery looked for water with the kids, didn't find any, but found a mechanical gold spiky worm thing that they use to transport ore.
-- 
+	- Sebastian stole a loaf of bread, embarrassed to tell Glubbery, puffed up and said he was going to get more infamous
+- I asked Veshta if she'd been to the surface, she said yes, has an imperium pocketwatch. Deep don't usually tell time.
+	- Exit is 2-3 days away. We'll need rations and water for the larger group. 
+	- She asked if we were planning to eat Taevus, she asked why we kept him, soft-hearted group.
