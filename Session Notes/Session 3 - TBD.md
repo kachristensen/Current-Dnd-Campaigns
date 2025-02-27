@@ -34,4 +34,5 @@
 		- Cass values life, taking the new prisoners with us. He asked what Glubbery intends to do when they make it to the surface. Does he have a home to return to? Glubbery said sort of but doesn't want to go back yet. Has some growing to do.
 		- Zephy was crying. Glubbery tried to lick her face, she wiped off her own tears and let him lick it. Said 
 		- Construct was beeping faster as we came close by. Proximity monitor, alarm. Probably protecting something.
-		- Valindra Thaumaturgied its hatch open, I telekinetically ripped all the wiring out. We took a bunch of rations from their supplies.
+		- Valindra Thaumaturgied its hatch open, I telekinetically ripped all the wiring out. We took a bunch of rations from the guard supplies, 30-40.
+		- I insighted Vesh'ta's directions as she led us out, she looks vaguely amused and a little annoyed by the distraction, but still seems confident that you should be moving forward.
