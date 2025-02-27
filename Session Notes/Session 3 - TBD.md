@@ -26,5 +26,5 @@
 		- We sent Valindra (scalewarden uniform) and Cass forward (guard uniform), forward. Captain Billings held up a bow to execute the prisoners. Callum, Efraim, Asim.
 		- Cass said he's just arrived with his commander (Valindra), he's Captain Hanke. Told them that there was an alarm and a fire. Got the guards to leave but they ran into us so we jumped them.
 		- Wuffi snapped the neck of one of the guards. Sarranis burnt one of them in the face and killed him. Portshire knocked out one. Cass bonked Captain Billings out.
-		- 6 party + 3 new prisoners + 4 kids/Sebastian + 4 other npcs = 17 people. x.3 gal x 3 = 15.3 gallons, at least 3 water skins. Will die after 3 days of water. Starvation - a week or longer.
-		- The satyr had her tongue cut out. She's trusting.
+		- 6 party + 3 new prisoners + 4 kids/Sebastian + 4 other npcs = 17 people. x.3 gal x 3 = 15.3 gallons (each skin = half a gallon) 30 water skins.. Will die after 3 days of water. Starvation - a week or longer.
+		- The satyr had her tongue cut out. She's trusting. Freya. Gnomes.
