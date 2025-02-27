@@ -45,3 +45,4 @@
 	- Vali did some scouting, massive spider webs on the other side. We camped on the safe sides. The fey prisoners we rescued seem super chill around Wuffi, the satyr happy to pet him.
 		- Wuffi sat in front of me. He wanted to sleep next to me, I said he may stay within 5-10 ft of me. Told him he could tell Vali she didn't deserve my emotional response from before. 
 	- Mr. Portshire told the kids to stay put, he was doing something special with Vesh'ta and Zubby. 
+	- Vali and Srns took the first watch together.
