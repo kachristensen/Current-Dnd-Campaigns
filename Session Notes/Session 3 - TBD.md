@@ -36,3 +36,5 @@
 		- Construct was beeping faster as we came close by. Proximity monitor, alarm. Probably protecting something.
 		- Valindra Thaumaturgied its hatch open, I telekinetically ripped all the wiring out. We took a bunch of rations from the guard supplies, 30-40.
 		- I insighted Vesh'ta's directions as she led us out, she looks vaguely amused and a little annoyed by the distraction, but still seems confident that you should be moving forward.
+- We headed a little bit deeper, musty, humid. Mr. Portshire asked when he'd get to paint Vesh'ta, I asked to join to paint them.
+- We headed under the northern mountain, marched for 2 hours, we can long rest. But there will be spider territory.
