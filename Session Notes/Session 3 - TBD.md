@@ -20,4 +20,8 @@
 	- Valindra took the ponytail out of her hair to cover her ears.
 	- We left Taevus and took the chest with the sextant with us instead. Sarannis asked Glubbery why he wanted to take him with us and persuaded him that he would be better off leaving him here, higher chance of living.
 	- I asked Vesh'ta why she wanted a naked painting, she said to admire herself and show off. I asked if it was common, she said yes, Cass added that it was usually clothed.
-	- Sarannis identified the spell scroll of Raise Dead. 
+	- Sarannis identified the spell scroll of Raise Dead. I kept it.
+- Tunnels
+	- To our left, water, three prisoners (2 gnomes, 1 satyr) standing on a rickety bridge with a guard, looking like they are about to get executed.
+		- We sent Valindra (scalewarden uniform) and Cass forward (guard uniform), forward. Captain Billings held up a bow. 
+		- Cass said he's just arrived with his commander (Valindra), he's Captain Hanke.
