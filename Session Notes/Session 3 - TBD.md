@@ -23,5 +23,5 @@
 	- Sarannis identified the spell scroll of Raise Dead. I kept it.
 - Tunnels
 	- To our left, water, three prisoners (2 gnomes, 1 satyr) standing on a rickety bridge with a guard, looking like they are about to get executed.
-		- We sent Valindra (scalewarden uniform) and Cass forward (guard uniform), forward. Captain Billings held up a bow. 
+		- We sent Valindra (scalewarden uniform) and Cass forward (guard uniform), forward. Captain Billings held up a bow to execute the prisoners. Callum, Efraim, Asim.
 		- Cass said he's just arrived with his commander (Valindra), he's Captain Hanke. Told them that there was an alarm and a fire. Got the guards to leave but they ran into us so we jumped them.
