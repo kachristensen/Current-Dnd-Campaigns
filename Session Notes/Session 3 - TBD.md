@@ -39,4 +39,5 @@
 - We headed a little bit deeper, musty, humid. Mr. Portshire asked when he'd get to paint Vesh'ta, I asked to join to paint them.
 	- We headed under the northern mountain, marched for 2 hours, we can long rest. But there will be spider territory.
 	- Glubbery asked about Cass's sword, he said it was named Cynthia. 
-	- We made camp, Sarannis lit a fire. Stream nearby that some members bathed in. Sarannis enjoys the cold river, got nakey. Cass got a shave and haircut.
+	- We made camp, Sarannis lit a fire. Stream nearby that some members bathed in. Sarannis enjoys the cold river, got nakey. Cass got a shave and haircut, then joined him in the river.
+		- META: They have a conversation in the river. Cass told him about what he told the Dueregar. Srns asked if he frightened him, about drow reputation, why ppl look at him with disgust. Cass said yeah there are stories of his ppl. Cass said his dwarf mentor was working to rebuild relations  with the dueregar. 
