@@ -19,4 +19,5 @@
 	- Cass gave a heroic speech to everyone to perservere, he has a moonlight shining sword.
 	- Valindra took the ponytail out of her hair to cover her ears.
 	- We left Taevus and took the chest with the sextant with us instead. Sarannis asked Glubbery why he wanted to take him with us and persuaded him that he would be better off leaving him here, higher chance of living.
-	- I asked Vesh'ta why she wanted a naked painting, she said to admire herself and show off. I asked if 
+	- I asked Vesh'ta why she wanted a naked painting, she said to admire herself and show off. I asked if it was common, she said yes, Cass added that it was usually clothed.
+	- Sarannis identified the spell scroll and sextant
