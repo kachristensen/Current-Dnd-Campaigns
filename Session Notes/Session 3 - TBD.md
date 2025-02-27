@@ -39,3 +39,4 @@
 - We headed a little bit deeper, musty, humid. Mr. Portshire asked when he'd get to paint Vesh'ta, I asked to join to paint them.
 	- We headed under the northern mountain, marched for 2 hours, we can long rest. But there will be spider territory.
 	- Glubbery asked about Cass's sword, he said it was named Cynthia. 
+	- We made camp, Sarannis lit a fire.
