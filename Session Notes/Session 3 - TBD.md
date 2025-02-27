@@ -47,4 +47,4 @@
 	- Mr. Portshire told the kids to stay put, he was doing something special with Vesh'ta and Zubby. 
 	- Vali and Srns took the first watch together.
 	- Glubbery said he can use painting to do social engineering, ingratiating himself with people. His first time drawing a naked person. He tried to teach me but doesn't know the terms. Vesh'ta disrobed. Nice figure. Lean. Long hair. I asked if she was considered beautiful by Deep and surfacer dwellers. Said her eyes aren't as red as they could be by her people's standards, orange yellow. Face scarred. I asked about Srns, said male are inherently flawed, but he is attractive. She has long white hair.
-	- I talked with her more, she asked me how I'd been in the Deep, if I was forced, I said yes. Struggled to survive. 
+	- I talked with her more, she asked me how I'd been in the Deep, if I was forced, I said yes. Struggled to survive. She asked why I was so standoffish--I explained 
