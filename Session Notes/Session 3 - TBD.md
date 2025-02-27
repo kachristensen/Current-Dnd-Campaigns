@@ -18,3 +18,4 @@
 	- Mr. Portshire promised to paint Laedra naked in exchange for water. She agreed. TODO: ask why it's valuable.
 	- Cass gave a heroic speech to everyone to perservere, he has a moonlight shining sword.
 	- Valindra took the ponytail out of her hair to cover her ears.
+	- We left Taevus and took the chest with the sextant with us instead. Sarannis asked Glubbery why he wanted to take him with us and persuaded him that he would be better off leaving him here, higher chance of living.
