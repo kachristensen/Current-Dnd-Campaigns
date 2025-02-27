@@ -13,4 +13,6 @@
 	- I asked Veshta if she'd been to the surface, she said yes, has an imperium pocketwatch. Deep don't usually tell time.
 		- Exit is 2-3 days away. We'll need rations and water for the larger group. 
 		- She asked if we were planning to eat Taevus, she asked why we kept him, soft-hearted group.
-	- Cass spoke to Laedra in Undercommon a distance away. He lied to her and said they found a note on the Warden, she was to keep it safe, they don't have it. She passed it off to a guard and took it to the surface. She says she'll have to go back for it. He asked what the sextant does and why it's so important. She says it can reveal powerful illusions.
+	- META: Cass spoke to Laedra in Undercommon a distance away. He lied to her and said they found a note on the Warden, she was to keep it safe, they don't have it. She passed it off to a guard and took it to the surface. She says she'll have to go back for it. He asked what the sextant does and why it's so important. She says it can reveal powerful illusions.
+		- I tried to overhear with the owl, but got caught.
+	- Mr. Portshire promised to paint Laedra naked in exchange for water. She agreed.
