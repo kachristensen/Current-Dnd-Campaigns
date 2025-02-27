@@ -31,4 +31,4 @@
 		- The satyr had her tongue cut out. She's trusting. Freya. Gnomes.
 		- Glubbery seemed to be painting something in the water, handed Sarannis a drawing of him knocking out the guard. Said he's never killed a guy before. Glubbery asked how Srns lives with himself, he said it's a way of survival/ingrained in them in the Deep. It doesn't bother Srns at all.
 		- We filled up a bunch of waterskins and a 40 gallon barrel.
-		- Cass values life, taking the new prisoners with us.
+		- Cass values life, taking the new prisoners with us. He asked what Glubbery intends to do when they make it to the surface. Does he have a home to return to? Glubbery said sort of but doesn't want to go back yet. Has some growing to do.
