@@ -21,6 +21,7 @@
 	- We left Taevus and took the chest with the sextant with us instead. Sarannis asked Glubbery why he wanted to take him with us and persuaded him that he would be better off leaving him here, higher chance of living.
 	- I asked Vesh'ta why she wanted a naked painting, she said to admire herself and show off. I asked if it was common, she said yes, Cass added that it was usually clothed.
 	- Sarannis identified the spell scroll of Raise Dead. I kept it.
+	- I'm wearing Captain Blackthistle's decapitated head on my waist.
 - Tunnels
 	- To our left, water, three prisoners (2 gnomes, 1 satyr) standing on a rickety bridge with a guard, looking like they are about to get executed.
 		- We sent Valindra (scalewarden uniform) and Cass forward (guard uniform), forward. Captain Billings held up a bow to execute the prisoners. Callum, Efraim, Asim.
@@ -28,3 +29,4 @@
 		- Wuffi snapped the neck of one of the guards. Sarranis burnt one of them in the face and killed him. Portshire knocked out one. Cass bonked Captain Billings out.
 		- 6 party + 3 new prisoners + 4 kids/Sebastian + 4 other npcs = 17 people. x.3 gal x 3 = 15.3 gallons (each skin = half a gallon) 30 water skins.. Will die after 3 days of water. Starvation - a week or longer.
 		- The satyr had her tongue cut out. She's trusting. Freya. Gnomes.
+		- Glubbery seemed to be painting something in the water, handed Sarannis a drawing of him knocking out the guard. Said he's never killed a guy before. Glubbery asked how Srns lives with himself, he said it's a way of survival/ingrained in them in the Deep. It doesn't bother Srns at all.
