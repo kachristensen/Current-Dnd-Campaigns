@@ -33,4 +33,4 @@
 		- We filled up a bunch of waterskins and a 40 gallon barrel.
 		- Cass values life, taking the new prisoners with us. He asked what Glubbery intends to do when they make it to the surface. Does he have a home to return to? Glubbery said sort of but doesn't want to go back yet. Has some growing to do.
 		- Zephy was crying. Glubbery tried to lick her face, she wiped off her own tears and let him lick it.
-		- Construct was beeping faster as we came close by. Proximity monitor.
+		- Construct was beeping faster as we came close by. Proximity monitor, alarm. Probably protecting something.
