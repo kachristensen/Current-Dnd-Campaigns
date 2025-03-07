@@ -6,7 +6,7 @@ After regaining some missing members from a night of torture and interrogation, 
 #### Notes
 - Preemptive - see  [[What You've Learned So Far...(Zephyra) (1).pdf]]
 	- upper exit more heavily guarded
-	- Captain Tavius holds the keys. He is typically seated outside the cellblock at a wooden table, keeping the peace if prisoners act up. You've noticed he's been overly fond of alcohol recently and has been pulling Cass aside on more than one occasion.
+	- **Captain Tavius** holds the keys. He is typically seated outside the cellblock at a wooden table, keeping the peace if prisoners act up. You've noticed he's been overly fond of alcohol recently and has been pulling Cass aside on more than one occasion.
 	- META: Cass was able to recover a spellbook page for Sarannis to recast Find Familiar, but he got caught again
 - Just before wake up - Sarannis and Cheria are missing, dragged away in the middle of the night
 	- Introductions
@@ -17,8 +17,8 @@ After regaining some missing members from a night of torture and interrogation, 
 	- Guard Ulf waking up the cell block 
 		- Solitary confinement cell - deep groan
 		- Prisoners
-			- Heinrich drunkard man, Laedra female duegar, Sebastian tiefling quiet and frantic ushering a whimpering halfling boy, female drow noticed Sarannis's absence. 
-			- Tension between Big Papa Joe and guard Ulf, who tries to trip him.
+			- **Heinrich** drunkard man, **Laedra** female duegar, **Sebastian** tiefling quiet and frantic ushering a whimpering halfling boy, female drow noticed Sarannis's absence. 
+			- Tension between **Big Papa Joe** and guard Ulf, who tries to trip him.
 			- Guard Ulf doesn't even glance at the solitary confinement, that guy is getting left behind. I asked Ulf why, he said if he started to work we'd all be dead.
 			- Other cells full of sad hopeless prisoners. Cheria and Sarranis joined us, battered and bruised. Cheria noticed the halfling boy's hand has started to heal but he's looking ill and feverish and infected/diseased.
 			- I asked why S/C were gone, he said they were tortured, he was trying to escape. Both of them are magicians, S's familiar. I asked why they weren't being made useful.
@@ -43,7 +43,7 @@ After regaining some missing members from a night of torture and interrogation, 
 	- Heinrich approached Cass for his daily supply. Grizzled older mercenary. Cass gave him some booze. Heinrich is an alcoholic. Threatened to rat Cass out, but Cass was unphased. Gave him 2 oz.
 	- I asked why Sarannis gave the kids an extra portion, he said he was recently orphaned and felt bad for them. I said they were the least capable and that he ought to put the resources towards helping them escape.
 	- Valindra took stock of the guards.
-	- Girl chat without Elaine -- Cheria said she left her grandson behind, worrying about his safety. I told her she didn't need to mediate. Cheria said she is a magical healer, divine. I asked why they were nice to me, they said just cuz, I told them I would repay them. Cheria asked if any of the boys had caught my eye, I was confused, said I hadn't really been around men before. She teased me a bit. Valindra said she also hadn't.
+	- Girl chat without **Elaine** -- Cheria said she left her grandson behind, worrying about his safety. I told her she didn't need to mediate. Cheria said she is a magical healer, divine. I asked why they were nice to me, they said just cuz, I told them I would repay them. Cheria asked if any of the boys had caught my eye, I was confused, said I hadn't really been around men before. She teased me a bit. Valindra said she also hadn't.
 	- META: Mr. Portshire's big for his people. He asked Sarannis if he had a mate, he said drow of House Dhu'unar don't get to pick their mates. Mr. Portshire said he robbed from the Emperor and that's why he's in prison.
 	- I got one level of exhaustion.
 - Back in our cells for dinner
@@ -65,5 +65,5 @@ After regaining some missing members from a night of torture and interrogation, 
 	- I shoved Tavius into the cell, we jumped him, I took the keys over, we unlocked our door. Cass grabbed his great sword. Valindra flinched at firebolt.
 	- Cass said the solitary confinement guy is undead and killed a bunch of people.
 		- Evil chuckle. Male voice, dry, old. "This thing?"
-		- Said he would enact vengeance on those who imprisoned us. I asked him not to kill, he wouldn't get in our way but would do worse to them. Cass said if I opened the door he would attack him. I listened to Cass and left him. His name is Franklin.
+		- Said he would enact vengeance on those who imprisoned us. I asked him not to kill, he wouldn't get in our way but would do worse to them. Cass said if I opened the door he would attack him. I listened to Cass and left him. His name is **Franklin**.
 	- We took Tavius with us, unconscious.
