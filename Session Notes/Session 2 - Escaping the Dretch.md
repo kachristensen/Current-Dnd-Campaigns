@@ -17,7 +17,7 @@ Valindra donned the Warden's cloak and explained some of the circumstances of he
 	- Sarannis firebolted past Valindra's face, she startled again. Seems startled by fire near her face.
 	- I kept assisting Cass to strike the guards, we accidentally killed one with a crit.
 	- Mr. Portshire got the lock stuck/jammed.
-- Door opened, Captain Wayne came out and commanded us to return to our cells. Valindra attacked him with fire infusion from her drake.
+- Door opened, **Captain Wayne** came out and commanded us to return to our cells. Valindra attacked him with fire infusion from her drake.
 	- Sarannis lock picked the equipment room, there's a red drake with a woman in armor. Red eyes, purple hair. Mischevous sly smile. Has a horn next to her.
 	- Captain Wayne hit Valindra with a huge blow.
 	- Cassander seems to have a distaste for drakes/dragons, "what a cruel jape."
@@ -28,7 +28,7 @@ Valindra donned the Warden's cloak and explained some of the circumstances of he
 	- I spoke in Draconic to the Warden, pulled down my hood, held out a hand to her. Beseeched her to be allies, we weren't in her way. She says we can't interfere with her post. Valindra looked at her, said it wouldn't be the first time she fought one in "our" rank. 
 	- We Mexican stand-offed, she grappled me, Valindra trying to stop her.
 	- Portshire started a fire.
-	- I told her my name and how old I was, said I'd never known a day of freedom in my life, asked if she was ok with letting us out of the room and giving us our things and her name, Warden Blackthistle. She said yes but Cass attacked her.
+	- I told her my name and how old I was, said I'd never known a day of freedom in my life, asked if she was ok with letting us out of the room and giving us our things and her name, **Warden Blackthistle**. She said yes but Cass attacked her.
 		- Valindra tried to free me, Blackthistle stabbed me. Portshire stabilized me, Cheria healed me, and Sarannis nat 20 yanked me out into his arms. 
 		- Mr. Portshire tried to use a key that didn't fit the lock on the equipment chest, it triggered a flame trap.
 	- Valindra's drake's name is Wuffi. He broke the lock on the chest.
