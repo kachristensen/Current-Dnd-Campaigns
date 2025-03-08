@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Session 3 - Getting Naked"
             }
+          },
+          {
+            "id": "f6606fd04eec7bbe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "References/Lore/The Pantheon.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The Pantheon"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46350945d604200c",
+  "active": "f6606fd04eec7bbe",
   "lastOpenFiles": [
     "Session Notes/Session 2 - Escaping the Dretch.md",
     "Session Notes/Session 1 - Imprisoned.md",
