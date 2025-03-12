@@ -1,7 +1,7 @@
 ###### Day 1 (2/26/25)
 
 #### Summary
-
+With Cass lying to the dueregar, causing them to return to the prison to search for the sextant, and Zephyra persuading Vesh'ta to join them, the party continued forward. Cass and Valindra faked imperial personas to help ambush more guards deeper in and rescue the fey prisoners they were about to execute. The party disarmed a construct, stocked up on water and supplies, and headed deeper into the tunnels. Following Vesh'ta's lead, they took refuge in a cave of spiders. Sarannis and Cass shared words a frigid bath. Glubbery painted Vesh'ta in the nude as payment for an earlier drink of water while Zephyra observed. Valindra conversed with the fey gnomes, blushed at the satyr, and took first watch with Sarannis while the others grabbed some much needed rest.
 
 #### Notes
 - Short rest
