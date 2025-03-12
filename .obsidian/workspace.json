@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 216.5
   },
   "right": {
     "id": "af0f419608d3073b",
@@ -171,6 +171,9 @@
   },
   "active": "46350945d604200c",
   "lastOpenFiles": [
+    "Session Notes/Session 1 - Imprisoned.md",
+    "Session Notes/Session 2 - Escaping the Dretch.md",
+    "Session Notes/Session 3 - Getting Naked.md",
     "References/Lore/Maps/Revas.jpg",
     "References/Lore/A Crash Course to Revas.pdf",
     "References/Lore/Children of Maira.pdf",
@@ -180,9 +183,6 @@
     "References/Lore/The Revan Imperium (1).pdf",
     "References/Lore/Dragonkind.pdf",
     "References/Lore/The Pantheon.pdf",
-    "Session Notes/Session 2 - Escaping the Dretch.md",
-    "Session Notes/Session 1 - Imprisoned.md",
-    "Session Notes/Session 3 - Getting Naked.md",
     "References/Tool Kits/Weaver's+Tools.pdf",
     "References/The Party/Party - Intro Bios.md",
     "References/Markdown Cheat Sheet.md",
