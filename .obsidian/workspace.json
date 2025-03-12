@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Session 3 - Getting Naked"
             }
-          },
-          {
-            "id": "f6606fd04eec7bbe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "References/Lore/The Pantheon.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "The Pantheon"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,27 +169,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6606fd04eec7bbe",
+  "active": "46350945d604200c",
   "lastOpenFiles": [
+    "References/Lore/Maps/Revas.jpg",
+    "References/Lore/A Crash Course to Revas.pdf",
+    "References/Lore/Children of Maira.pdf",
+    "References/Lore/Magic Explained.pdf",
+    "References/Lore/Eidynites.pdf",
+    "References/Lore/What You've Learned So Far...(Zephyra) (1).pdf",
+    "References/Lore/The Revan Imperium (1).pdf",
+    "References/Lore/Dragonkind.pdf",
+    "References/Lore/The Pantheon.pdf",
     "Session Notes/Session 2 - Escaping the Dretch.md",
     "Session Notes/Session 1 - Imprisoned.md",
     "Session Notes/Session 3 - Getting Naked.md",
-    "References/Lore/Eidynites.pdf",
     "References/Tool Kits/Weaver's+Tools.pdf",
     "References/The Party/Party - Intro Bios.md",
-    "References/Lore/The Pantheon.pdf",
-    "References/Lore/Magic Explained.pdf",
-    "References/Lore/Children of Maira.pdf",
     "References/Markdown Cheat Sheet.md",
     "Session Notes/Session 1.md",
     "References/Templates/D&D Character Sheet.md",
     "References/Templates",
-    "References/Lore/The Revan Imperium (1).pdf",
-    "References/Tool Kits/PoisonersKit.pdf",
-    "References/Lore/What You've Learned So Far...(Zephyra) (1).pdf",
-    "References/Tool Kits/Painter's+Supplies.pdf",
     "References/Lore/Session Zero.md",
-    "References/Lore/Maps/Revas.jpg",
     "Revas-DnD-Campaign/README.md",
     "Markdown Cheat Sheet.md",
     "Welcome.md"
