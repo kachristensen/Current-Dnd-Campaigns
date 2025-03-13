@@ -36,3 +36,5 @@
 	- Cass asked me not to spy on him, ask, to build trust.
 	- I asked him what he would do if Eidyn betrayed him. If he was the cause of all his sorrows. Cass said he's considered this and decided to maintain faith. 
 		- Ryu said if betrayed, he would find another god.
+		- Vesh'ta said she would never consider finding a different god.
+		- Valindra said she relies on the people around her.
