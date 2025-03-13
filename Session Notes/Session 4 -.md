@@ -31,4 +31,5 @@
 - Drake Wardens don't usually change colors, Vali seems unique.
 - Freya got excited when I mentioned I was an initiate of Maiara.
 - Ryu spoke in Draconic, said he wouldn't speak of his deity here. He pet Wuffi's head.
-- Vesh'ta is an acolyte of a deity.
+- Vesh'ta is an acolyte of a deity, she whispered to me (but really loudly cuz failed) Zavran, the god of vengeance. She seeks vengeance on behalf of House Baneth, always.
+- I asked Cass about his relationship with Eidyn, he swore his oath until death. "Balance before all. We preserve life and death. Must guide the dying. Protect the lost and abandoned."
