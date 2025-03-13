@@ -29,3 +29,6 @@
 	- Larimar did a Tales from Beyond ability.
 - Valindra shot a fire arrow into the webs, lots burned away, she resummoned Wuffi as a poison drake and her eyes turned green. Ryu cast Aid on him, Larimar, and me. Vesh'ta cast Bless on Zephy, Cass, Shasha. Freya shapeshifted into a wolf spider.
 - Drake Wardens don't usually change colors, Vali seems unique.
+- Freya got excited when I mentioned I was an initiate of Maiara.
+- Ryu spoke in Draconic, said he wouldn't speak of his deity here. He pet Wuffi's head.
+- Vesh'ta is an acolyte of a deity.
