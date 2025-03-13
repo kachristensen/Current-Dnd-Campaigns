@@ -4,4 +4,4 @@
 
 
 #### Notes
-- Shasha - alarm raised in the prison, fire.
+- Shasha - alarm raised in the prison, fire. He went into the smoke, met Laedra looking for the sextant.
