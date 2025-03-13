@@ -27,4 +27,4 @@
 	- Fey - Freya the satyr, Boots the gnome, Jangle his dad. Freya is a moon druid.
 - Cass's greatsword glows with moonlight, his name is Cynthia. Ryu seemed entranced with it, asked after its value. Cass said he would have to die to part with his sword. Ryu asked to see it. Blessing of the Forge didn't work because its magical, so he used it on Cass's armor. Glowed softly, looks brand new.
 	- Larimar did a Tales from Beyond ability.
-- Valindra shot a fire arrow into the webs, lots burned away, she resummoned Wuffi as a poison drake and her eyes turned green.
+- Valindra shot a fire arrow into the webs, lots burned away, she resummoned Wuffi as a poison drake and her eyes turned green. Vesh'ta cast Bless on Zephy, Cass, Shasha.
