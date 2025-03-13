@@ -22,3 +22,5 @@
 	- We equipped them with stuff from the chest, Ryu asked for an amulet with a clock, and one with a hammer and anvil. He has a brand of the same symbol on his chest. Symbol of Thedun, god of the forge and craftsman.
 	- Shasha looked at Wuddi in shock when he spoke Draconic. He denied speaking it but seemed sus.
 	- Laedra and Larimar went off to speak Dwarvish, 
+- I apologized to Valindra for conducting poor science, embraces were of low sample size, asked for her assistance to hold hands.
+	- We did introductions. Larimar introduced herself as **Netti**.
