@@ -12,3 +12,4 @@
 - Main Group
 	- Mr. Portshire snuck off very obviously, dropped all his stuff, picked them up, left two notes. One a letter, one a painting. Srns moved off, Vali woke up Cass.
 		- His letter - he doesn't want to kill a bunch of people, going to go back and save Tavius. 
+	- Cass took watch with Cheria, she said she was going to take the kids and Elaine home. Small sleepy farm outside of Hillshire.
