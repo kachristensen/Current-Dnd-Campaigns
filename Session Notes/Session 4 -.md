@@ -15,3 +15,4 @@
 	- Cass took watch with Cheria, she said she was going to take the kids and Elaine home. Small sleepy farm outside of Hillshire. 
 		- Purified the rations and gave her some
 	- Cass woke up Elaine for last watch. Sarannis disappeared.
+	- Zephy woke up, asked Elaine where Glubbery and Sarannis had gone. 
