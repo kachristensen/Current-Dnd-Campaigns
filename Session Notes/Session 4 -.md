@@ -20,4 +20,4 @@
 - Vesh'ta met Ryu. Escorted his group over to ours.
 	- Laedra said he she met Ryu in the prison, and Larimar happened to be in the area and wanted to help.
 	- We equipped them with stuff from the chest, Ryu asked for an amulet with a clock, and one with a hammer and anvil. He has a brand of the same symbol on his chest. Symbol of Thedun, god of the forge and craftsman.
-	- Shasha looked at Wuddi in shock when he spoke Draconic. 
+	- Shasha looked at Wuddi in shock when he spoke Draconic. He denied speaking it but seemed sus.
