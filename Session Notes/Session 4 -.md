@@ -23,4 +23,5 @@
 	- Shasha looked at Wuddi in shock when he spoke Draconic. He denied speaking it but seemed sus.
 	- Laedra and Larimar went off to speak Dwarvish, 
 - I apologized to Valindra for conducting poor science, embraces were of low sample size, asked for her assistance to hold hands.
-	- We did introductions. Larimar introduced herself as **Netti**.
+	- We did introductions. Larimar introduced herself as **Netti**. Cloaked, shrouded figure.
+	- Fey - Freya the satyr, Boots the gnome, +1 more. Freya is a druid.
