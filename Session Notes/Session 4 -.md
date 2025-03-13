@@ -28,4 +28,4 @@
 - Cass's greatsword glows with moonlight, his name is Cynthia. Ryu seemed entranced with it, asked after its value. Cass said he would have to die to part with his sword. Ryu asked to see it. Blessing of the Forge didn't work because its magical, so he used it on Cass's armor. Glowed softly, looks brand new.
 	- Larimar did a Tales from Beyond ability.
 - Valindra shot a fire arrow into the webs, lots burned away, she resummoned Wuffi as a poison drake and her eyes turned green. Ryu cast Aid on him, Larimar, and me. Vesh'ta cast Bless on Zephy, Cass, Shasha. Freya shapeshifted into a wolf spider.
-- 
+- Drake Wardens don't usually change colors, Vali seems unique.
