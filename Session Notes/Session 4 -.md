@@ -19,3 +19,4 @@
 		- Cass is the only other person who has seen that we have the sextant.
 - Vesh'ta met Ryu. Escorted his group over to ours.
 	- Laedra said he she met Ryu in the prison, and Larimar happened to be in the area and wanted to help.
+	- We equipped them with stuff from the chest, Ryu asked for an amulet with a clock, and one with a hammer and anvil.
