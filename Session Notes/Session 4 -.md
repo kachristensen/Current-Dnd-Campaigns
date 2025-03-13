@@ -33,3 +33,6 @@
 - Ryu spoke in Draconic, said he wouldn't speak of his deity here. He pet Wuffi's head.
 - Vesh'ta is an acolyte of a deity, she whispered to me (but really loudly cuz failed) Zavran, the god of vengeance. She seeks vengeance on behalf of House Baneth, always.
 - I asked Cass about his relationship with Eidyn, he swore his oath until death. "Balance before all. We preserve life and death. Must guide the dying. Protect the lost and abandoned." Said the undead and elves immortality mock Eidyn's tenants.
+	- Cass asked me not to spy on him, ask, to build trust.
+	- I asked him what he would do if Eidyn betrayed him. If he was the cause of all his sorrows. Cass said he's considered this and decided to maintain faith. 
+		- Ryu said if betrayed, he would find another god.
