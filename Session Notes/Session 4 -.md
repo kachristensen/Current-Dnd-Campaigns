@@ -17,4 +17,4 @@
 	- Cass woke up Elaine for last watch. Sarannis disappeared.
 	- Zephy woke up, asked Elaine where Glubbery and Sarannis had gone. Vesh'ta looked for Sarannis. 
 		- Cass is the only other person who has seen that we have the sextant.
-- Vesh'ta met the new group.
+- Vesh'ta met Ryu. 
