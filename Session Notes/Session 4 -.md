@@ -5,4 +5,5 @@
 
 #### Notes
 - **Shasharyu Shasha** (**SHA-MEE-RA-MU** SHASHA)- alarm raised in the prison, fire. He went into the smoke, met Laedra looking for the sextant. He said he's motivated by whoever pays the most. Laedra asked him for help to bring the other 3 dueregar women who passed out from the smoke.
-	- 
+	- They walked back into the mine shaft past a groaning Captain Tavius. 
+- Larimar has been exploring the tunnels around the Dretch for 10 days, 
