@@ -15,4 +15,6 @@
 	- Cass took watch with Cheria, she said she was going to take the kids and Elaine home. Small sleepy farm outside of Hillshire. 
 		- Purified the rations and gave her some
 	- Cass woke up Elaine for last watch. Sarannis disappeared.
-	- Zephy woke up, asked Elaine where Glubbery and Sarannis had gone. 
+	- Zephy woke up, asked Elaine where Glubbery and Sarannis had gone. Vesh'ta looked for Sarannis. 
+		- Cass is the only other person who has seen that we have the sextant.
+	- 
