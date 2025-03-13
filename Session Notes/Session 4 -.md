@@ -11,3 +11,4 @@
 		- They retraced our steps. Larimar gave a fake name to them.
 - Main Group
 	- Mr. Portshire snuck off very obviously, dropped all his stuff, picked them up, left two notes. One a letter, one a painting. Srns moved off, Vali woke up Cass.
+		- His letter - he doesn't want to kill a bunch of people, going to go back and save Tavius. 
