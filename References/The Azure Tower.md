@@ -4,6 +4,6 @@ The star that shines brightest in the sky, that all travelers look to. Named aft
 ###### Exterior
 Countless unseen servants maintain both the interior and exterior of the Azure Tower. The tower is surrounded by lush, manicured gardens and vineyards for no other reason than to serve as a set piece for Circe's viewing pleasure. The townspeople of Polaris often receive baskets of fresh fruit and produce throughout the year, as there are few living things in the tower that actually require sustenance.
 
-Scattered all throughout are marble statues of the dismembered and maimed, captured at the precise moment of death. Circe has fondly referred to them as "heads on pikes"--a macabre warning to all w
+Scattered all throughout are marble statues of the dismembered and maimed, captured at the precise moment of death. Circe has fondly referred to them as "heads on pikes"--a macabre warning to all who would seek to siege the tower or otherwise offend her.
 
 ###### The Tower Proper
