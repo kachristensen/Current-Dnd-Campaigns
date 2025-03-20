@@ -1,7 +1,7 @@
 ###### Day 2 (3/12/25)
 
 #### Summary
-
+After a few members of the party departed or snuck away, Valindra, Zephyra, Cassander, and the remaining escapees were rejoined by the dueregar, along with two new mmbers, Shasharyu and 
 
 #### Notes
 - Meta
