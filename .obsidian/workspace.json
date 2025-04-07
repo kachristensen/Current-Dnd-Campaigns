@@ -11,12 +11,14 @@
             "id": "0360ed0b677dfac0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "References/Lore/The Pantheon.pdf"
+                "file": "Session Notes/Session 4 -.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "The Pantheon"
+              "icon": "lucide-file",
+              "title": "Session 4 -"
             }
           },
           {
@@ -183,8 +185,8 @@
   },
   "active": "0360ed0b677dfac0",
   "lastOpenFiles": [
-    "Session Notes/Session 4 -.md",
     "References/Lore/The Pantheon.pdf",
+    "Session Notes/Session 4 -.md",
     "Session Notes/Session 3 - Getting Naked.md",
     "Session Notes/Session 1 - Imprisoned.md",
     "Session Notes/Session 2 - Escaping the Dretch.md",
