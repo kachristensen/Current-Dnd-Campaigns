@@ -11,14 +11,10 @@
             "id": "f86c839162f0cdaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -163,11 +159,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f86c839162f0cdaa",
+  "active": "cb95ffbf2d978591",
   "lastOpenFiles": [
+    "Markdown Cheat Sheet.md",
     "conflict-files-obsidian-git.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 4 - Rotating Members.md",
@@ -193,7 +193,6 @@
     "References/Templates",
     "References/Lore/Session Zero.md",
     "Revas-DnD-Campaign/README.md",
-    "Markdown Cheat Sheet.md",
     "Welcome.md"
   ]
 }
