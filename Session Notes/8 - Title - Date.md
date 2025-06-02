@@ -39,5 +39,7 @@
 				- Religion checks - we know about a cult called The Hive Eternal worshipping the Apex Queen. Her real name isn't really mentioned since some kind of connection gets established if so.
 					- META: Rem and Lewis know, Xi'Talla, mother of plagues. When a person plunges further into her madness, they become chitinous.
 				- Goal of the cult is to awaken her, the Broodmother, she will extinguish all life and rebuild from the ground off.
+			- Rem talked back to him, said it's not free will if we have to do what they say.
+	- He said the Rexum is the "god's" pawn in their scheme, asked why we serve him. 
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
