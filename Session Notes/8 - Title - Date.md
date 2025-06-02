@@ -46,5 +46,6 @@
 	- He took off one of his hands and offered it to us, holding an amulet. The hand is the other extra gift. Said all will be revealed with the truth, we may change our minds. 
 		- An oath sworn upon the hand of the Living God 
 			- Curse: An oath swarn upon this item by a creature attuning to it will bind the artifact to them. This item cannot be removed forcibly, and will kill the wearer instantly if they intentioanlly take it off. The soul of the creature is immediately imprisioned inside the artifact from which only its creator can release.
+	- GD is chained but LG doesn't have forever to stay here. The essence of these artifacts are required to kill gods, anything that has the essence of an outer plane.
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
