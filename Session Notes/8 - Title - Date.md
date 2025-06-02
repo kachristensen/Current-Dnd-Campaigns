@@ -62,4 +62,9 @@
 	- ![[Pasted image 20250601215646.png]]
 - ![[Pasted image 20250601220852.png]]
 	- Pearl went to Ria, I gave the hand to Lewis, Valindra got the Javelin, Rem got the half plate and the heart.
+- Rem went to talk with Sally outside, tender moment. Said he truly doesn't think there's a good option. Spoke of his family and village, and the treatment. Said there wasn't any good options. Spoke of killing her.
+	- Sally asked what if his mother was right. Asked what he would do. Rem said he would choose to die. 
+
+
+
 - We talked about what to do next. 
