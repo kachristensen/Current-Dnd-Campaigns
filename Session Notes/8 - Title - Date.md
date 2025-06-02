@@ -11,4 +11,5 @@
 - After the fight
 	- Rem let the Secomortis plague victims out, despite them saying they were sick and not to approach.
 		- They think it's their only chance at survival. He told them it wasn't, to die with a purpose and take up a blade. Rita left to find Sally. The other two didn't. 
-	- I asked about Alfira, one of them spoke up, she was imprisoned with her 
+	- I asked about Althea, one of them spoke up, she was imprisoned with her but was moved to the temple a few days ago.
+	- We went back to the 
