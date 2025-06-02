@@ -55,6 +55,10 @@
 - We returned to the house.
 	- LG's hand turned into a piece of golden jewelry. Requires attunement over a short rest. I didn't attune to it but learned about it. 
 	- Loot - 
+		- Half Plate of the Dead
+			- While wearing this armor, you can use it to cast either Speak with Dead or Animate Dead. Once the armor has cast a spell in this way, it can't cast either spell until the next dawn. Your soul keeps this armor together. If you die while you are attuned to the armor, the armor is destroyed.  The wearer has Disadvantage on Dexterity (Stealth) checks.
+	- Javelin of Lightning
+	- Pearl of Power
 	- ![[Pasted image 20250601215646.png]]
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
