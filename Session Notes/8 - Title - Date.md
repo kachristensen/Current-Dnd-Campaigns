@@ -51,6 +51,6 @@
 		- Rem said he wouldn't swear anything, if LG was truly a representative of peace 
 	- I asked about my son and husband. They are both dead. Xchimaltia, goddess of death has their souls. I expressed my gratitude for him, said I would work with him. Asked if I serve him well, to reunite my souls with the others. He agreed.
 - Rita and Sally had returned. 
-	- Rem and Lewis talked to them. Sally doesn't want to become one of them. 
+	- Rem and Lewis talked to them. Sally doesn't want to become one of them. She came with us. 
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
