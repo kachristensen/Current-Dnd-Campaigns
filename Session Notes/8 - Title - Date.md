@@ -64,8 +64,7 @@
 	- Pearl went to Ria, I gave the hand to Lewis, Valindra got the Javelin, Rem got the half plate and the heart.
 - Rem went to talk with Sally outside, tender moment. Said he truly doesn't think there's a good option. Spoke of his family and village, and the treatment. Said there wasn't any good options. Spoke of killing her.
 	- Sally asked what if his mother was right. Asked what he would do. Rem said he would choose to die. She said freedom to be herself. Not feel trapped anymore. But she's not ready yet. He said that she risked being trapped in her own body. 
-	- I stepped out 
-
-
-
-- We talked about what to do next. 
+	- I stepped out and told him I can do it painlessly. Rem hugged her and let it happen. I summoned an illusion of Rita who came back cured, told her it was going to be alright and the beastmen had told the truth, wrapped 
+- Lewis's msg to Theron
+	- Theron we have been meeting stiff resistance at Barca there is no easy way into the city. is there any word on other lost items?
+- Level up to lvl 5
