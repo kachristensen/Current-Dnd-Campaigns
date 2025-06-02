@@ -45,9 +45,9 @@
 		- Rem was against it. Valindra asked what if we lied. He said that he's peaceful but his beastmen aren't and will come after us. Rem asked what if we want no gods, for the people to rule. LG says we're incapable. People are prone to warfare and violence. 
 	- He took off one of his hands and offered it to us, holding an amulet. The hand is the other extra gift. Said all will be revealed with the truth, we may change our minds. 
 		- An oath sworn upon the hand of the Living God 
-			- Curse: An oath swarn upon this item by a creature attuning to it will bind the artifact to them. This item cannot be removed forcibly, and will kill the wearer instantly if they intentioanlly take it off. The soul of the creature is immediately imprisioned inside the artifact from which only its creator can release.
+			- Curse: An oath sworn upon this item by a creature attuning to it will bind the artifact to them. This item cannot be removed forcibly, and will kill the wearer instantly if they intentioanlly take it off. The soul of the creature is immediately imprisioned inside the artifact from which only its creator can release.
 	- GD is chained but LG doesn't have forever to stay here. The essence of these artifacts are required to kill gods, anything that has the essence of an outer plane.
 			- Rem and I would need a boost to be eligible via an item
-		- Rem said he wouldn't swear anything, if LG was truly a member of peace
+		- Rem said he wouldn't swear anything, if LG was truly a representative of peace 
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
