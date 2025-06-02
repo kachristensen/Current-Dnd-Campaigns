@@ -40,6 +40,6 @@
 					- META: Rem and Lewis know, Xi'Talla, mother of plagues. When a person plunges further into her madness, they become chitinous.
 				- Goal of the cult is to awaken her, the Broodmother, she will extinguish all life and rebuild from the ground off.
 			- Rem talked back to him, said it's not free will if we have to do what they say.
-	- He said the Rexum is the "god's" pawn in their scheme, asked why we serve him. 
+	- He said the Rexum is the "god's" pawn in their scheme, asked why we serve him. GD wants to hold on to what it has, never letting it go. 
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
