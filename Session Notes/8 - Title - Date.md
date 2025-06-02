@@ -33,5 +33,7 @@
 					- 1 sapphire, pearl necklace of 50g
 				- Fist-sized pearl
 					- 20 gold, 1 sapphire
-			- Living God is here to overthrow the Grand Divine. The gods are not true gods. The Grand Divine is an alien/not inherent to the world. The Living God used to be one of the gods before it. Great war between their siblings, only 2 survived, the Living God and someone else? The Grand Divine came from somewhere else and attached itself to this world.
+			- Living God is here to overthrow the Grand Divine. The gods are not true gods. The Grand Divine is an alien/not inherent to the world. The Living God used to be one of the gods before it. Great war between their siblings, only 2 survived, the Living God and someone else? The Grand Divine came from somewhere else and attached itself to this world. The Living God wishes to reconnect all the planes back together, to bring back the natural order as it should be back (including fiends!!).
+			- Metaphor - cosmos is a book, the Grand Divine tore out a page. It's unnatural. 10 years ago, when Karz died, the GD's power weakened, allowing the LG to come back.
+
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
