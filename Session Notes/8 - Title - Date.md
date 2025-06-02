@@ -20,5 +20,6 @@
 - Temple
 	- No one in the main room.Statues of the 10 gods all smashed, older set of the gods, not the newer ones. 
 	- Upper floor - it's been ransacked and looted, Ria and I looked through the papers. Found a journal, civil war for the last 10 years, Barca stayed neutral with the Rexum/the rebels in the south, which meant no one came to their aid vs the beastmen. 
+		- Lewis and Rem found 2 vials of holy water, Rem mentioned to Lewis I was fiendish, Lewis said he'd save my soul if he needed it
 	- Chanting coming down from the basement. 
-	- 
+		- 
