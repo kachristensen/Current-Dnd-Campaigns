@@ -31,7 +31,7 @@
     - He gave us one of a sending stone, Lewis took it.  
     - Showed us a flask of sap from the tree of Raz, has healing properties. Refills once per day. Vitality Flask.  
     - 3 day trip with cart to Iverheim, then 2 days on foot through forest, then 2 to Barca.   
-    - Obscura contact \- **Alfira**, green eyes, missing left ear. Presumed dead, last heard in Barca.   
+    - Obscura contact \- **Althea**, green eyes, missing left ear. Presumed dead, last heard in Barca.   
     - Heart of Etifa in the central administration building. Glass pendant, under the size of a fist, maelstrom of energy inside, magenta pink in hue. Warding against illusions and charms.  
     - Invaders led by The Living God. Ppl arriving/leaving continent is unprecedented.   
     - Valindra is familiar with the Aosmhor Forest, she’s from the area, doesn’t have family near where we’re going.   

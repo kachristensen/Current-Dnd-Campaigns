@@ -21,7 +21,7 @@
     - 1We talked about the prisoners, infected, freeing them? We talked about plans, going to keep watch the rest of the night, then rest during the day. The boys are staying to work on Lewis’s improvements. Wuffi is staying with them \+ Ria.   
   - Valindra and I headed over back to the prisoners to keep watch  
     - One cage of plague victims, possibly Sally’s mom there  
-    - Alfira, my obscura contact, is not there  
+    - Althea, my obscura contact, is not there  
     - Prisoners sleeping, beastmen chilling, speaking in Draconic. More active watch closer to daytime  
     - One armored beastman dude near the entrance to the temple. Only one of his kind.  
       - Perimeter check around the temple closer to dawn. There are packs & groups all around the temple, HQ. Well guarded all around.   
