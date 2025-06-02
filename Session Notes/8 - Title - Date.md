@@ -33,5 +33,5 @@
 					- 1 sapphire, pearl necklace of 50g
 				- Fist-sized pearl
 					- 20 gold, 1 sapphire
-			- Living God is here to overthrow the Grand Divine.
-- TOD
+			- Living God is here to overthrow the Grand Divine. The gods are not true gods. The Grand Divine is an alien/not inherent to the world. The Living God used to be one of the gods before it. Great war between their siblings, only 2 survived, the Living God and someone else? The Grand Divine came from somewhere else and attached itself to this world.
+- TODO: Ask Chris about the bodies on the sarcophagus, anyone 
