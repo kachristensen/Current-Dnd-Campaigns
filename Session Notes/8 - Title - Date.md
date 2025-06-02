@@ -13,4 +13,7 @@
 		- They think it's their only chance at survival. He told them it wasn't, to die with a purpose and take up a blade. Rita left to find Sally. The other two didn't. 
 	- I asked about Althea, one of them spoke up, she was imprisoned with her but was moved to the temple a few days ago.
 	- We went back to the temple grounds, one of the secomortis plague victims still there called out and alerted them, I shot him through the throat. 
-	- The beastmen called out, offered a parley to meet with their leader. His follower swore on his god that they will be nonviolent.
+	- The beastmen called out, offered a parley to meet with their leader. His follower swore on his god that they will be nonviolent. He said enter and go to the basement. 
+		- Gregor. The other beastment don't have names.
+		- We lied and sent them north to look for more recruits.
+		- Bulky guard at the door is a beastman, trying to wear armor, a statue.
