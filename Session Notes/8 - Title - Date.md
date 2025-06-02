@@ -43,6 +43,8 @@
 	- He said the Rexum is the "god's" pawn in their scheme, asked why we serve him. GD wants to hold on to what it has, never letting it go. 
 	- I asked timeline, GD arrived 5,000 years ago. I spoke of the Abyss, it's a spilling of ink that has affected all pages. He said we would keep our free will if we want it, agrees we would be more helpful. As long as we're out of the way and wont hinder him, he'll give us the locket. If we agree to help, he'll give us something else.
 		- Rem was against it. Valindra asked what if we lied. He said that he's peaceful but his beastmen aren't and will come after us. Rem asked what if we want no gods, for the people to rule. LG says we're incapable. People are prone to warfare and violence. 
-	- He took off one of his hands and offered it to us, holding an amulet. 
+	- He took off one of his hands and offered it to us, holding an amulet. The hand is the other extra gift. Said all will be revealed with the truth, we may change our minds. 
+		- An oath sworn upon the hand of the Living God 
+			- Curse: An oath swarn upon this item by a creature attuning to it will bind the artifact to them. This item cannot be removed forcibly, and will kill the wearer instantly if they intentioanlly take it off. The soul of the creature is immediately imprisioned inside the artifact from which only its creator can release.
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
