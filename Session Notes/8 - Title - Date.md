@@ -60,5 +60,5 @@
 	- Javelin of Lightning
 	- Pearl of Power
 	- ![[Pasted image 20250601215646.png]]
-
+- ![[Pasted image 20250601220852.png]]
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
