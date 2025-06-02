@@ -21,3 +21,10 @@ Yo, ho, all together
 The end of an age is nigh,
 Demons and kin, dragons and men,
 One day you too will die
+
+
+
+Rembrandt, remember  
+His golden sun splendor  
+A smile to die for  
+A man worth an eye for
