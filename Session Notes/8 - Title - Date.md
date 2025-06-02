@@ -53,6 +53,8 @@
 - Rita and Sally had returned. 
 	- Rem and Lewis talked to them. Sally doesn't want to become one of them. She came with us. Rita is convulsing in silence.
 - We returned to the house.
-	- LG's hand turned into a piece of golden jewelry. Requires attunement over a short rest. I didn't attune to it but learned about it. ![[Pasted image 20250601215646.png]]
+	- LG's hand turned into a piece of golden jewelry. Requires attunement over a short rest. I didn't attune to it but learned about it. 
+	- Loot - 
+	- ![[Pasted image 20250601215646.png]]
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
