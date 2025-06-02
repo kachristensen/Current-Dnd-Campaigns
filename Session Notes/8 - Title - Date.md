@@ -33,7 +33,11 @@
 					- 1 sapphire, pearl necklace of 50g
 				- Fist-sized pearl
 					- 20 gold, 1 sapphire
-			- Living God is here to overthrow the Grand Divine. The gods are not true gods. The Grand Divine is an alien/not inherent to the world. The Living God used to be one of the gods before it. Great war between their siblings, only 2 survived, the Living God and someone else? The Grand Divine came from somewhere else and attached itself to this world. The Living God wishes to reconnect all the planes back together, to bring back the natural order as it should be back (including fiends!!).
+	- Living God is here to overthrow the Grand Divine. The gods are not true gods. The Grand Divine is an alien/not inherent to the world. The Living God used to be one of the gods before it. Great war between their siblings, only 2 survived, the Living God and someone else? The Grand Divine came from somewhere else and attached itself to this world. The Living God wishes to reconnect all the planes back together, to bring back the natural order as it should be back (including fiends!!).
 			- Metaphor - cosmos is a book, the Grand Divine tore out a page. It's unnatural. 10 years ago, when Karz died, the GD's power weakened, allowing the LG to come back.
+			- I asked about his other sibling, he dares not to speak his name, it's within the world slumbering under the surface. It's not the Devourer. The GD's presence does keep other entities at bay.
+				- Religion checks - we know about a cult called The Hive Eternal worshipping the Apex Queen. Her real name isn't really mentioned since some kind of connection gets established if so.
+					- META: Rem and Lewis know, Xi'Talla, mother of plagues. When a person plunges further into her madness, they become chitinous.
+				- Goal of the cult is to awaken her, the Broodmother, she will extinguish all life and rebuild from the ground off.
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
