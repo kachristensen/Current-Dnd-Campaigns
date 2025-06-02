@@ -41,7 +41,7 @@
 				- Goal of the cult is to awaken her, the Broodmother, she will extinguish all life and rebuild from the ground off.
 			- Rem talked back to him, said it's not free will if we have to do what they say.
 	- He said the Rexum is the "god's" pawn in their scheme, asked why we serve him. GD wants to hold on to what it has, never letting it go. 
-	- I asked timeline, GD arrived 5,000 years ago. I spoke of the Abyss, it's a spilling of ink that has affected all pages.
-	- 
+	- I asked timeline, GD arrived 5,000 years ago. I spoke of the Abyss, it's a spilling of ink that has affected all pages. He said we would keep our free will if we want it, agrees we would be more helpful. As long as we're out of the way and wont hinder him, he'll give us the locket. If we agree to help, he'll give us something else.
+		- Rem was against it. Valindra asked what if we lied. He said that he's peaceful but his beastmen aren't and will come after us.
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
