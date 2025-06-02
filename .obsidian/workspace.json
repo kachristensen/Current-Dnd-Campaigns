@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/1 - Title - Date.md",
+                "file": "Persephone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Title - Date"
+              "title": "Persephone"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Persephone.md",
+                "file": "Session Notes/7 - Title - Date - Copy (6).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Persephone"
+              "title": "7 - Title - Date - Copy (6)"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/1 - Title - Date.md",
+                "file": "Persephone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1 - Title - Date"
+              "title": "Backlinks for Persephone"
             }
           },
           {
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/1 - Title - Date.md",
+                "file": "Persephone.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 - Title - Date"
+              "title": "Outline of Persephone"
             }
           }
         ],
@@ -193,12 +193,17 @@
   },
   "active": "1d7fbcbcceb1db9c",
   "lastOpenFiles": [
+    "Session Notes/7 - Title - Date - Copy (6).md",
+    "Persephone.md",
+    "Session Notes/S1 - Title - Date - Copy (9).md",
+    "Session Notes/6 - Title - Date.md",
+    "Session Notes/5 - Title - Date.md",
+    "Session Notes/S1 - Title - Date - Copy (7).md",
+    "Session Notes/S1 - Title - Date - Copy (8).md",
+    "Session Notes/1 - Title - Date.md",
     "Session Notes/2 - Title - Date.md",
     "Session Notes/3 - Title - Date.md",
     "Session Notes/4 - Title - Date.md",
-    "Session Notes/S1 - Title - Date - Copy (4).md",
-    "Persephone.md",
-    "Session Notes/1 - Title - Date.md",
     "References/The Demonic Age & Session 0.md",
     "References/At the Rexum's Behest.pdf",
     "Persephone/Build.md",
@@ -213,11 +218,6 @@
     "References/~$ the Rexum's Behest.docx",
     "References/At the Rexum's Behest.docx",
     "References/Unconfirmed 812899.crdownload",
-    "Session Notes/S1 - Title - Date - Copy (9).md",
-    "Session Notes/S1 - Title - Date - Copy (8).md",
-    "Session Notes/S1 - Title - Date - Copy (7).md",
-    "Session Notes/S1 - Title - Date - Copy (6).md",
-    "Session Notes/S1 - Title - Date - Copy (5).md",
     "README.md",
     "Markdown Cheat Sheet.md",
     "conflict-files-obsidian-git.md",

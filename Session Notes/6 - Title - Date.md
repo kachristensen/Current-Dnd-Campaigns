@@ -1,0 +1,32 @@
+
+###### Day 1
+
+![[1 Desert Temple.png|center]]
+
+## IC Synopsis
+
+> TODO
+
+## Notes
+- Rem cured his hangover with lay on hands. I teased Valindra jokingly about her banging him last night while they were off alone.  
+  - We traveled 8 hours to Barca, sandstone w/ broken Arabian architecture.   
+- We waited for nightfall. I spoke to Rem during this, asked him why he killed the beastman.   
+  - To put it out of his misery. He doesn’t want mutilation. Would be fine with capturing it without the torture. Was upset he didn’t stop it sooner and that he had to be drunk. Lewis can make chains and a muzzle.   
+    - I told him to feel his rage and despair instead of drinking it away. I find it amusing and pleasurable.  
+  - Rem talked to Lewis about the greatsword and his visions, Lewis has never had one. Rem had a dream last night. The entity seemed confused about his mercy but called him his son, told him to seek him out. Maybe Karz? Lewis mentioned maybe the god was attracted to his deeds.  
+    - Lewis also repaired the dragon tooth glaive.   
+- 1 hr later \- group of beastman and 1 human walked by. They sniffed the air. We managed to stealth. They passed by. Human guy was bald, shaven, extremely pale skin, red markings, looks like Kratos, shirtless, in sandals.  
+- We snuck over to the city. Something small and scurrying in an abandoned house, went under the bed. Young small child, teens, trembling, afraid.  
+  - Rem approached with a lantern, kid told him to go away. We persuaded her it was safe, young girl. She has secormortis. Sally. Her family was captured. She’s been sneaking out at night and finding food. Rem asked how long she’d been ill, told her she was sick. She didn’t know. She has about 4 months left, seems to have been seek for 2-3 months.   
+    - Karz sap is a treatment, not a cure.  
+    - I asked if there were others who were also sick, she mentioned a few older ones. Happened shortly after the dog people came.   
+  - I asked her for some sneaking tips on the routes she’s discovered. She said the ppl have been taken to the center, where we’re going. Her mother Rita, looks like her, also has the plague, was taken a week ago.  
+    - We group-huddled to discuss the plague. Shadeleaf was quarantined but occasionally the plague has struck elsewhere. It’s typically been centralized, usually not this far south.  
+    - I asked what Rem wanted to do, he wanted to give her his flask.  
+      - Said we should kill the other infected and quarantine them. He mentioned bringing Sally back to the capital, maybe they would treat her.   
+    - Rem gave her all his rations. He told her about the plague. She was in denial. Asked if he would help. There is no cure but a treatment.  
+      - The dog-men claim they have a cure for any illness. Rita said she wanted to investigate, so she left to look for it.   
+      - He gave her his flask.   
+  - We continued forward with Sally. She said the patrols go every hour, it’s been 30 minutes so far.  
+    - We got caught by 2 patrols, fought them. Wuffi died. Very hairy fight.  
+    - She kicked in the doors to find us a hiding spot, we started to prayer of healing/move the bodies/prestidigitate. 

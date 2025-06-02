@@ -8,9 +8,7 @@
 > TODO
 
 ## Notes
--
-
-Summoned to the capital of The Dominion, **Verdigheim**. Greeted by a short man in robes, mid 40s, **Theron Lodroth**, grand vizier who summoned us. We all had letters of recommendation. He cautioned us when approaching the Rexum, can be intense, be respectful and don’t challenge his ego.  
+- Summoned to the capital of The Dominion, **Verdigheim**. Greeted by a short man in robes, mid 40s, **Theron Lodroth**, grand vizier who summoned us. We all had letters of recommendation. He cautioned us when approaching the Rexum, can be intense, be respectful and don’t challenge his ego.  
   - Large throne, large Rexum, 50s, weathered look.   
   - Recommendations  
   - **Ophani** Cassio Beckett Monsignor Ludvig Kiyavir, Exarch Sigrid Fremdell  
