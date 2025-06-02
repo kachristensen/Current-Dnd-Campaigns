@@ -1,0 +1,27 @@
+
+###### Day 1
+
+![[1 Desert Temple.png|center]]
+
+## IC Synopsis
+
+> TODO
+
+## Notes
+- We long-rested then continued to Barca. Came across a hamlet.  
+  - Guy told us to drop all our weapons, was very wary, we were evasive but evaluating the area on orders, Hansel. He said he had a problem with raiders. They abducted some of his children. Not beastfolk, they’ve been stealing crops and livestock, rooms were broken into. He thinks they’re from west of here. Only his son Luke left, young man, and his business partner Richard. Kids Ben and Sara taken. Persephone insisted Luke join them, Ria was resistant, but he came. Would show us the way and hide.  
+    - Lewis grabbed Luke’s spear, was disappointed at its condition.  
+  - Valindra seemed very distracted and wouldn’t pay attention to Persephone.   
+- Valindra tracked the kids to a cave, Luke wouldn’t look at her, I threatened to bewitch him if he didn’t look at her, he looked in her direction but wouldn’t make eye contact. I linked elbows with Valindra in support.  
+  - Campfire, hadn’t been used in longer than a week. Girls stealthed forwards, unstealthy boys in the back. We found an iron door. Runes on it, Arcana, some sort of meaning, reminds me back in my day. Cultish, demonic? Praise. I failed to pick the lock.  
+  - Something moving in the room with light behind us. Yelling, laughing, carousing. Around a table, feasting. Talking about how great their food is. Referring to the “cattle” that they own, excited to try them. Cannibals?  
+  - Symbol of a mouth, cult of the Hungering Path, worship a being known as the Devourer. Entity who will consume the world and purify it after digesting it. The cult purifies by eating anything and everything. Cannibals.  
+    - We kept one alive, I persuaded him to tell us what he knows before he dies by telling him I’d eat him afterwards, he said to prove it, I bit off a finger and killed him after, slit his throat, flicked the finger away after. He mentioned their leader is past the locked door, should be a lever down in the prison to unlock it.  
+  - We went down to the prison and found the kids. Ben and Sara. Ben had one leg severed. Rem healed him.   
+    - We found a beastfolk person in another cell, chimp-human-beast thing. Nonresponsive, just panicked. More dead ones nearby.  
+      - Seemed charmed. Has a goal to complete.  
+    - We took the kids out to Luke, he said he’d take him back to the farm and be waiting for us. Ben \= 16, Sara \= 19\. Rem gave them each a javelin.  
+    - We proceeded in, room full of dirty water, rank smell, crabs, Valindra puked. Faint light, chute of stuff falling down from it. Something in the water. Ria and I mage hand timed pulled two levers in sync, a giant grab appeared but didn’t see us.  
+  - Big door unlocked  
+    - We peeked in, slurpy eating noises, giant Bean thing. Massive grotesque obese person, gigantic, eating and tossing stuff down the hole. Mouth of the Devourer.  
+    - Rem did celestial revelation, microwave mode. We defeated it.

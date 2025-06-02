@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/S1 - Title - Date - Copy (3).md",
+                "file": "Session Notes/S4 - Title - Date - Copy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S1 - Title - Date - Copy (3)"
+              "title": "S4 - Title - Date - Copy"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Persephone.md",
+                "file": "Session Notes/S4 - Title - Date - Copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Persephone"
+              "title": "Backlinks for S4 - Title - Date - Copy"
             }
           },
           {
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Persephone.md",
+                "file": "Session Notes/S4 - Title - Date - Copy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Persephone"
+              "title": "Outline of S4 - Title - Date - Copy"
             }
           }
         ],
@@ -191,11 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68f1d30e5a053c05",
+  "active": "1d7fbcbcceb1db9c",
   "lastOpenFiles": [
-    "Session Notes/S3 - Title - Date.md",
-    "Session Notes/S1 - Title - Date - Copy (3).md",
     "Persephone.md",
+    "Session Notes/S3 - Title - Date.md",
+    "Session Notes/S4 - Title - Date - Copy.md",
     "Session Notes/S2 - Title - Date.md",
     "Session Notes/S1 - Title - Date.md",
     "References/The Demonic Age & Session 0.md",
