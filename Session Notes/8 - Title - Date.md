@@ -25,4 +25,4 @@
 		- Living God. Massive, gigantic figure, very long neck, multiple masked face (3-4). Beastmen/fanatics sitting there. A weeping woman with the early stages of the plague, starting to transform into a beastman. Echoing voice, called us his guests. In our mind. 
 			- Said he's seen Rem in his dreams, he's been the voice that's communicating to him. Rem embodies his tenants, mercy and peace, so the Living God wished to speak with him. We have group telepathy.
 				- META: Rem is replying  in Celestial.
-			- He seeks to bring peace but needs those to help him. Eternal bliss to end misery and pain. Rem said better to die free than live a slave. Living god said free will/willpower is it's own form of slavery.
+			- He seeks to bring peace but needs those to help him. Eternal bliss to end misery and pain. Rem said better to die free than live a slave. Living god said free will/willpower is it's own form of slavery. He said it was of their free will, Rem asked about those in cages. Living god says warfare is required and lesser/mortal tactics to accomplish his goals. 
