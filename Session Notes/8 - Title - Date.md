@@ -61,4 +61,5 @@
 	- Pearl of Power
 	- ![[Pasted image 20250601215646.png]]
 - ![[Pasted image 20250601220852.png]]
-- TODO: Ask Chris about the bodies on the sarcophagus, anyone 
+	- Pearl went to Ria, I gave the hand to Lewis, Valindra got the Javelin, Rem got the half plate and the heart.
+- We talked about what to do next. 
