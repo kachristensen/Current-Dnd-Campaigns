@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Persephone.md",
+                "file": "Persephone.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,16 +184,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb95ffbf2d978591",
+  "active": "db9bf36b1270e55f",
   "lastOpenFiles": [
+    "References/The Demonic Age & Session 0.md",
+    "Persephone.md",
+    "References/At the Rexum's Behest.pdf",
+    "Persephone/Build.md",
+    "Persephone/Backstory.md",
+    "References/Unconfirmed 167611.crdownload",
+    "Persephone/Songs and Poems.md",
+    "Persephone/Songs and Poems",
+    "Persephone",
+    "References/At the Rexum's Behest.pdf.crdownload",
     "References/~WRL0002.tmp",
     "References/~WRD0001.tmp",
     "References/~$ the Rexum's Behest.docx",
     "References/At the Rexum's Behest.docx",
     "References/Unconfirmed 812899.crdownload",
     "Session Notes/S1 - Title - Date.md",
-    "References/Persephone.md",
-    "Untitled",
     "Session Notes/S1 - Title - Date - Copy (9).md",
     "Session Notes/S1 - Title - Date - Copy (8).md",
     "Session Notes/S1 - Title - Date - Copy (7).md",
@@ -209,19 +217,10 @@
     "Session Notes/Session 5.md",
     "Session Notes/Session 4 - Rotating Members.md",
     "References/The Azure Tower.md",
-    "References/Lore/The Pantheon.pdf",
     "Session Notes/Session 4 -.md",
     "Session Notes/Session 3 - Getting Naked.md",
     "Session Notes/Session 1 - Imprisoned.md",
     "Session Notes/Session 2 - Escaping the Dretch.md",
-    "References/Lore/Maps/Revas.jpg",
-    "References/Lore/A Crash Course to Revas.pdf",
-    "References/Lore/Children of Maira.pdf",
-    "References/Lore/Magic Explained.pdf",
-    "References/Lore/Eidynites.pdf",
-    "References/The Party/Party - Intro Bios.md",
-    "References/Markdown Cheat Sheet.md",
-    "Session Notes/Session 1.md",
-    "References/Templates/D&D Character Sheet.md"
+    "References/Lore/Maps/Revas.jpg"
   ]
 }
