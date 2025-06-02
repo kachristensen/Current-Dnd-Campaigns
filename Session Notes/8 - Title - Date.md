@@ -49,5 +49,6 @@
 	- GD is chained but LG doesn't have forever to stay here. The essence of these artifacts are required to kill gods, anything that has the essence of an outer plane.
 			- Rem and I would need a boost to be eligible via an item
 		- Rem said he wouldn't swear anything, if LG was truly a representative of peace 
+	- I asked about my son and husband. They are both dead. Xchimaltia, goddess of death has their souls.  
 
 - TODO: Ask Chris about the bodies on the sarcophagus, anyone 
