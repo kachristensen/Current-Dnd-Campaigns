@@ -1,8 +1,8 @@
-Birds are silent for the night
-Cows turned in as daylight dies
+Beasts are silent for the night
+All turned in as daylight dies
 But one soul lies anxious wide awake
 Fearing no manner of ghouls, hags and wraiths
-My dear dolly Sally shut your eyes
+My dear girl Sally shut your eyes
 Lie still, lie silent, utter no cries
 
 As the Rexum, brave and bold
