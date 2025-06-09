@@ -39,6 +39,8 @@
 - Morning
 	- Armor adjusted to Rem's body as he attuned to it
 	- Rem cast Find Steed. Annica, unicorn, kitsugi/veins of molten gold, white. 
+		- I said she was beautiful, Rem ignored me and gave me the cold shoulder.
+	- We're still being followed by Zidara.
 
 
 
