@@ -1,4 +1,4 @@
-Beasts are silent for the night
+Men are silent for the night
 All turned in as daylight dies
 But one soul lies anxious wide awake
 Fearing all manner of beasts, gods and plagues
