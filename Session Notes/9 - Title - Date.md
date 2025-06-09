@@ -13,4 +13,5 @@
 	- Rebels are to the north coast, we could sail partially the way there. 
 	- Lewis is a farm boy. Rem seemed dismissive, said we could just travel back around the coast, none of us know how to sail, we don't have a ship. Rem is being snippy and went off to bed.
 	- Dagmar is birthplace of the Rexum. 
-	- 
+		- Rebels - bracer of Cirrepeti (they/them).
+		- Valdrheim - Shield of Foshorey, goddess of protection and victory 
