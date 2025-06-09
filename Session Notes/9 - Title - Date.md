@@ -36,3 +36,5 @@
 		- Vali mentioned how cross everyone is, she wants to help. Rem said it's not her part to make up for Perse's mistakes. Says I can talk to him if I grow up, not Valindra's responsibility. Called me immature. 
 		- His brothers were 7/8 years old. He drinks to handle it, asks himself what his mother would do. Tries to do what he thinks is right. Softer conversation, bonding, he said she was selfless and good, should forgive herself, and thanked her for calming him down.
 		- Valindra attuned to the Heart of Etifa. Heart beat faster, almost like caffiene/anxiety. Persistent. Stronger emotions.
+- Morning
+	- Armor adjusted to Rem's body as he attuned to it
