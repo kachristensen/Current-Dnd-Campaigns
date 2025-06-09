@@ -8,4 +8,5 @@
 > TODO
 
 ## Notes
-- Theron responded to Lewis - ""
+- Lewis asked about the group, what we went through. Was experiencing second thoughts about how much killing we did.
+	- Theron responded to Lewis - ""
