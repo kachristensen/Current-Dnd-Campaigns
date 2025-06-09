@@ -15,4 +15,4 @@
 	- Dagmar is birthplace of the Rexum. 
 		- Rebels - bracer of Cirrepeti (they/them).
 		- Valdrheim - Shield of Foshorey, goddess of protection and victory 
-	- Lewis has chosen the Dominion, to search for peace/diplomacy. He kills in self-defense. 
+	- Lewis has chosen the Dominion, to search for peace/diplomacy. He kills in self-defense and prays for forgiveness. 
