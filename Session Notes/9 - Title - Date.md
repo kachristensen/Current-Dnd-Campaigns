@@ -41,4 +41,4 @@
 
 
 
-Rem is surly, snippy, lash out at everyone, can't take a joke
+Rem is surly, snippy, lash out at everyone, can't take a joke, get over yourself.
