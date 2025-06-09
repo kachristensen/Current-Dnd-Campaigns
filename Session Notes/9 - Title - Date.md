@@ -16,3 +16,4 @@
 		- Rebels - bracer of Cirrepeti (they/them).
 		- Valdrheim - Shield of Foshorey, goddess of protection and victory 
 	- Lewis has chosen the Dominion, to search for peace/diplomacy. He kills in self-defense and prays for forgiveness. 
+	- I asked Valindra about Sajjaka, if she wanted to talk to him, after she asked about Lewis's relationship with his god. Sajjaka sent Wuffi to Valindra. I asked if he was a spy, he said nah, first memory was 
