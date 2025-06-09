@@ -20,4 +20,6 @@
 		- I urged her to talk to Rem, since he hates Lewis and me, Ria isn't empathetic, and Valindra is cute and fluffy.
 - Lewis went to go talk to Rem. Lewis apologized for making his day worse by being snippy. Rem apologized for being short with him.
 - I asked Ria what her thoughts were about all this. She doesn't think the LG is great. I asked about what she wanted. She thinks I'm a spy for the Obscura. I told her i'm here for info, the group is more valuable to me now. Girl talk. She asked what I am. I asked her what she hides under her outfit. We agreed to a pact of secrecy. I said I was a half demon. META: she was fascinated. Ria's deformed and doesn't want anyone to see it.
-	- I went to find some of Rem's alcohol, fished out his flask. 
+	- I went to find some of Rem's alcohol, fished out his flask. I put it back. Rem woke up and grabbed my wrist. Was super pissed off.
+	- Ria and I kept watch. Someone was watching us, Ria didn't want to go investigate them, I checked them. Ashy pale skin, female priestess. 
+		- She's here to keep an eye on us. I asked why she speaks so well, many don't choose to take the offer of enlightenment, they choose to serve still. They were freed from the servitude of tyrants. I asked where she was from. From lands beyond the ocean. Zidara. 
