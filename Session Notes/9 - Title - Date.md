@@ -33,4 +33,5 @@
 		- I invited her to join us, she declined. Just supposed to keep watch and make sure we left their territory safely. 
 		- Perse and I kept watch together. I'm 423 years old. I talked to her about elvenkind, she didn't know they lived that long. I talked to her about completing her goals, her thoughts on the dragons, etc.
 	- META: Rem and Valindra talked, Rem was salty about me. Said I was a creature of impulse and immaturity, despite my age. Recommended that Valindra keep the heart.
-		- Vali mentioned how cross everyone is, she wants to help. Rem said it's not her part to make up for Perse's mistakes. 
+		- Vali mentioned how cross everyone is, she wants to help. Rem said it's not her part to make up for Perse's mistakes. Says I can talk to him if I grow up, not Valindra's responsibility. Called me immature. 
+		- His brothers were 7/8 years old. He drinks to handle it, asks himself what his mother would do. Tries to do what he thinks is right. 
