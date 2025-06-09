@@ -23,4 +23,4 @@
 	- I went to find some of Rem's alcohol, fished out his flask. I put it back. Rem woke up and grabbed my wrist. Was super pissed off.
 	- Ria and I kept watch. Someone was watching us, Ria didn't want to go investigate them, I checked them. Ashy pale skin, female priestess. 
 		- She's here to keep an eye on us. I asked why she speaks so well, many don't choose to take the offer of enlightenment, they choose to serve still. They were freed from the servitude of tyrants. I asked where she was from. From lands beyond the unsailable sea. Zidara. I waved Ria over to talk.
-			- She asked how Zidara got here. The Prophet/LG calmed the oceans to get them across. For a grander purpose. They believe in his purpose. She comes from the lands of the dragons, 
+			- She asked how Zidara got here. The Prophet/LG calmed the oceans to get them across. For a grander purpose. They believe in his purpose. She comes from the lands of the dragons. s
