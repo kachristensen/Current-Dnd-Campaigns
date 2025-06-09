@@ -31,4 +31,5 @@
 		- Zidara asked what we were. I said we were all some variation of human except Valindra, who's an elf. Zidara didn't know what that was.
 		- I asked why LG turns them into beast folk. Bc it's true enlightenment, to be present in only the moment, no thinking beyond that. I said we could experience more joy as we are, she doesn't know what we're talking about. 
 		- I invited her to join us, she declined. Just supposed to keep watch and make sure we left their territory safely. 
-		- Perse and I kept watch together. I'm 423 years old. I talked to her about elvenkind, she didn't know they lived that long. 
+		- Perse and I kept watch together. I'm 423 years old. I talked to her about elvenkind, she didn't know they lived that long. I talked to her about completing her goals, her thoughts on the dragons, etc.
+	- META: Rem and Valindra talked, Rem was salty about me. Said I was a creature of impulse and immaturity, despite my age. 
