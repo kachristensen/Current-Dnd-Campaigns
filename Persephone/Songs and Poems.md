@@ -2,7 +2,7 @@ Men are silent for the night
 All turned in as daylight dies
 But one soul lies anxious wide awake
 Fearing all manner of beasts, gods and plagues
-My dear darling Sally shut your eyes
+My-dear darling Sally shut your eyes
 Lie still, lie silent, utter no cries
 
 As the Rexum, brave and bold
