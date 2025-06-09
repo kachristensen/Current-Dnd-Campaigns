@@ -38,6 +38,7 @@
 		- Valindra attuned to the Heart of Etifa. Heart beat faster, almost like caffiene/anxiety. Persistent. Stronger emotions.
 - Morning
 	- Armor adjusted to Rem's body as he attuned to it
+	- Rem cast Find Steed. Annica, unicorn, kitsugi/veins of molten gold, white. 
 
 
 
