@@ -29,4 +29,5 @@
 			- Valindra asked why. They were enslaved, dragons were the oppressors. There are shadowfolk, the dragons keep them away by simply being. They come from the desert, malformed humans, long teeth/arms, 
 		- Lewis asked why she was here. The prophet wishes to free people of this land as well from their oppressors too. 
 		- Zidara asked what we were. I said we were all some variation of human except Valindra, who's an elf. Zidara didn't know what that was.
-		- I asked why LG turns them into beast folk. Bc it's true enlightenment, to be present in only the moment, no thinking beyond that. I said we could experience more joy as we are, 
+		- I asked why LG turns them into beast folk. Bc it's true enlightenment, to be present in only the moment, no thinking beyond that. I said we could experience more joy as we are, she doesn't know what we're talking about.
+		- 
