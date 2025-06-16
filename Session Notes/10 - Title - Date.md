@@ -28,3 +28,4 @@
 	- We FINALLY got to a battlefield, lots of carrion/dead
 	- Something lurking in the fields, a tall walker. The Dominion uses these creatures via necromancy to finish off the wounded, controlled by a runestone on the forehead. They're programmed to kill. Usually someone nearby that is it's master to control it. Its limbs are blades covered in fresh-ish blood. They're Undead.
 		- We heard a survivor yelling out to us, crushed under a horse. We initiated combat. Ghouls swarmed Rem.
+	- We killed them and then rescued Connor, rebel uniform.
