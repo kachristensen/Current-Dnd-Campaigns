@@ -26,4 +26,4 @@
 		- All he got in response was a vision of the LG's hand in the sky
 - Next day
 	- We FINALLY got to a battlefield, lots of carrion/dead
-	- 
+	- Something lurking in the fields, a tall walker. The Dominion uses these creatures via necromancy to finish off the wounded, controlled by a runestone on the forehead. They're programmed to kill. Usually someone nearby that is it's master to control it. 
