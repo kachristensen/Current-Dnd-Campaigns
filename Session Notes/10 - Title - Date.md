@@ -8,4 +8,4 @@
 > TODO
 
 ## Notes
-- 
+- Valindra started a conversation about the tension between Rem and I, 
