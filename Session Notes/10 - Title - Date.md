@@ -23,6 +23,7 @@
 	- Meta: Ria initiated conversation with Rem, apologized for not stopping Perse.
 	- Lewis sent a msg to St. Imelda
 		- Sending: StImalda I've been give a gift from the Living God. I am devout to you in everyway but I am curious to explore all paths to peace. this artifact will eventually take my soul however it grants power of incredible power Please should i cast this item aside or embrace it
+		- All he got in response was a vision of the LG's hand in the sky
 - Next day
 	- We FINALLY got to a battlefield, lots of carrion/dead
 	- 
