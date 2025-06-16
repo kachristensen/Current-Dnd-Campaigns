@@ -18,3 +18,4 @@
 	- She notified me of the pixies, said to watch out for rocks. Ria noticed Rem's arms moving about, like he was being dragged. Ria sent Wuffi to go watch him, the pixies ran off.
 - Next night
 	- Cheshire Cat is back, same voice, "You're all incredibly boring this time."
+		- He said the ones who sent the hounds after us don't like our kind. Not Yaluska. 
