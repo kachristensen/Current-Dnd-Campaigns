@@ -21,7 +21,8 @@
 		- He said the ones who sent the hounds after us don't like our kind. Not Yaluska. 
 		- I offered the Charlatan's Die in exchange for their name, he refused. Not interested in outside forces manipulating fate.
 	- Meta: Ria initiated conversation with Rem, apologized for not stopping Perse.
-	- Lewis sent a msg to St. Ismelda
+	- Lewis sent a msg to St. Imelda
+		- Sending: StImalda I've been give a gift from the Living God. I am devout to you in everyway but I am curious to explore all paths to peace. this artifact will eventually take my soul however it grants power of incredible power Please should i cast this item aside or embrace it
 - Next day
 	- We FINALLY got to a battlefield, lots of carrion/dead
 	- 
