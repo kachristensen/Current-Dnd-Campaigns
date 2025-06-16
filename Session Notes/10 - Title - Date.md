@@ -8,4 +8,4 @@
 > TODO
 
 ## Notes
-- Valindra started a conversation about the tension between Rem and I, 
+- Valindra started a conversation about the tension between Rem and I. I apologized to Ria but wasn't interested in apologizing to Rem. 
