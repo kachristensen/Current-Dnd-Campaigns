@@ -21,4 +21,7 @@
 		- He said the ones who sent the hounds after us don't like our kind. Not Yaluska. 
 		- I offered the Charlatan's Die in exchange for their name, he refused. Not interested in outside forces manipulating fate.
 	- Meta: Ria initiated conversation with Rem, apologized for not stopping Perse.
+	- Lewis sent a msg to St. Ismelda
+- Next day
+	- We FINALLY got to a battlefield, lots of carrion/dead
 	- 
