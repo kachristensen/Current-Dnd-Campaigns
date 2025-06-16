@@ -15,4 +15,6 @@
 	- They wanted Valindra next. Rem taught them how to throw rocks so now they're throwing rocks at the others.
 	- Ria asked about Solana. Was another elf who was kidnapped by the Viridian Scales, their new mistress/leader beat the shit out of her and she died. Solana was a cook, Valindra was used for manual labor. Serafina Blackwood = leader, racist towards elves. Human cult mostly. Ria skirted around suggesting vengeance.
 - Perse's & Ria's watch
-	- She notified me of the pixies, said to watch out for rocks. Ria noticed Rem's arms moving about, like he was being dragged. Ria sent Wuffi to go watch him, the pixies ran off. z
+	- She notified me of the pixies, said to watch out for rocks. Ria noticed Rem's arms moving about, like he was being dragged. Ria sent Wuffi to go watch him, the pixies ran off.
+- Next night
+	- Cheshire Cat is back, same voice, "You're all incredibly boring this time."
