@@ -62,4 +62,5 @@
 
 L6 Bard
 - Mantle of Majesty
+- Leomund's Tiny Hut
 - 
