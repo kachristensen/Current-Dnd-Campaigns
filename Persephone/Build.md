@@ -57,12 +57,12 @@
 
 *L5 Bard*
 
-- *Font of Inspiration*  
-- *Hypnotic Pattern, Tasha’s Hideous Laughter \-\> Slow*
+- *Font of Inspiration*
+- *Hypnotic Pattern, Leomund's Tiny Hut, Tasha’s Hideous Laughter \-\> Slow*
 
 L6 Bard
 - Mantle of Majesty
-- Leomund's Tiny Hut
+- Dispel Magic
 
 L7 Bard
 - Countercharm
