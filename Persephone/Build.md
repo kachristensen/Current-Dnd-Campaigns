@@ -65,4 +65,8 @@ L6 Bard
 - Leomund's Tiny Hut
 
 L7 Bard
+- Countercharm
 - Polymorph
+
+L8 Bard
+- Dimension Door
