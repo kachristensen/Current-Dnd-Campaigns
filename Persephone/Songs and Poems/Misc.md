@@ -22,18 +22,17 @@ One day you too will die
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 Rembrandt, remember  
 His golden sun splendor  
 A smile to die for  
 A man worth an eye for
+
+
+
+
+
+
+
+
+
+
