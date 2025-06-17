@@ -61,3 +61,5 @@
 - *Hypnotic Pattern, Tasha’s Hideous Laughter \-\> Slow*
 
 L6 Bard
+- Mantle of Majesty
+- 
