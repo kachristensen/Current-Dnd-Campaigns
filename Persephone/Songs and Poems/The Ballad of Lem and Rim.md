@@ -75,6 +75,8 @@ Bow, down
 And toss some gold
 Thanks, and pretty please
 
+KEY CHANGE UP
+
 Hey, now
 Raise a drink to them
 They’re quite the sight to see
