@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/10 - Title - Date.md",
+                "file": "Session Notes/Rebel Lies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Title - Date"
+              "title": "Rebel Lies"
             }
           }
         ],
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "292895759e1a043f",
+  "active": "1e7abf6840e545f5",
   "lastOpenFiles": [
-    "Session Notes/9 - Title - Date.md",
     "Session Notes/10 - Title - Date.md",
+    "Session Notes/Rebel Lies.md",
+    "Session Notes/9 - Title - Date.md",
     "Session Notes/1 - Title - Date.md",
     "Session Notes/3 - Title - Date.md",
     "Session Notes/2 - Title - Date.md",
@@ -227,7 +227,6 @@
     "Session Notes/Session 5.md",
     "Session Notes/Session 4 - Rotating Members.md",
     "References/The Azure Tower.md",
-    "Session Notes/Session 4 -.md",
     "References/Lore/Maps/Revas.jpg"
   ]
 }
