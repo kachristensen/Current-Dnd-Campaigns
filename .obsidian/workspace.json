@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ria's fami",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e7abf6840e545f5",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Session Notes/9 - Title - Date.md",
     "Session Notes/10 - Title - Date.md",
