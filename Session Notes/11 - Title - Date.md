@@ -45,4 +45,4 @@
 		- Rem, Ria, and Lewis entered his tent. Rem told him he was trying to avoid cutting a bloody swathe across the area, trying to negotiate a release for the ransom. 
 		- A couple of the prisoners are already dead, but 2 of them are still alive.
 			- One of them is Doctor Jonas Heisner who has developed a cure for secomortis plague. Aaron can't let him go without more info. Not sure if he's telling the truth.
-			- Rem offered to interrogate him with Zone of Truth.
+			- Rem offered to interrogate him with Zone of Truth. They went to the prisoner's tent.
