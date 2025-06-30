@@ -40,3 +40,4 @@
 			- He gave us a map of the area.
 - Dominium Encampment
 	- Rem, Ria, and Lewis approached. Valindra and I hid in the bushes.
+	- Guy in heavy metal armor, Lord Aaron Von Krieger, member of the cathars. Has like a bubble head with liquid in it to keep him moist, also inflicted with secomortis plague. Rem knows him.
