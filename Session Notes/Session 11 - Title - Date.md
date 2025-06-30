@@ -8,4 +8,5 @@
 > TODO
 
 ## Notes
-- 
+- Connor 
+	- Battle was 2 days ago, 
