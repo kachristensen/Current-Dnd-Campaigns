@@ -48,3 +48,4 @@
 			- Rem offered to interrogate him with Zone of Truth. They went to the prisoner's tent.
 			- Jonas is a handsome man with brown hair, completely blackened arm, some marks on his chest.
 				- He's infected himself with something else to offset the secomortis plague. He's been symptom free for 18 months.
+					- Blackening of limbs, swollen joints, also something else.
