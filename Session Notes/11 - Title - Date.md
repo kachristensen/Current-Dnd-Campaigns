@@ -23,3 +23,5 @@
 		- The dude is part of the Bruder family, Captain Schwartz Bruder, one of the defected rebels
 		- I asked how he recognized her as a Drakesbanes, noticeable features.
 		- I asked Ria about her family, they are higher nobles, chose the winning side, known for winning prowess. 
+- We had dinner round their campfire
+	- 
