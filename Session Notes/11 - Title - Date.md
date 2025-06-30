@@ -50,4 +50,4 @@
 				- He's infected himself with something else to offset the secomortis plague. He's been symptom free for 18 months.
 					- Blackening of limbs, swollen joints, also something else.
 					- He would like to help people but doesn't want the Dominion to monopolize it
-- Aaron talked to Lewis, both had heard of each other. He asked what Lewis's mission from the Rexum is.
+- Aaron talked to Lewis, both had heard of each other. He asked what Lewis's mission from the Rexum is. Lewis was upfront about it, we're looking for artifacts.
