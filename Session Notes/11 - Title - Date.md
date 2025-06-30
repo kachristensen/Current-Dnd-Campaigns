@@ -25,4 +25,6 @@
 		- I asked Ria about her family, they are higher nobles, chose the winning side, known for winning prowess. 
 - We had dinner round their campfire
 	- I convinced them to let us keep our weapons
-	- They asked if they could hire us to rescue their comrades at a Dominion encampment, 
+	- They asked if they could hire us to rescue their comrades at a Dominion encampment, we conversed
+		- Rem said aligning ourselves with rebels will cause issues. Recommended we could ransom the prisoners. 
+		- Ria said we could disguise ourselves as rebels.
