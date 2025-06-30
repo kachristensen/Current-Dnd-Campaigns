@@ -47,3 +47,4 @@
 			- One of them is Doctor Jonas Heisner who has developed a cure for secomortis plague. Aaron can't let him go without more info. Not sure if he's telling the truth.
 			- Rem offered to interrogate him with Zone of Truth. They went to the prisoner's tent.
 			- Jonas is a handsome man with brown hair, completely blackened arm, some marks on his chest.
+				- He's infected himself with something else to offset the secomortis plague. He's been symptom free for 18 months.
