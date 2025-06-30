@@ -16,3 +16,4 @@
 - We headed southeast
 	- A bird with antlers was watching us. Rhinos nearby. A giant featherless horse bird thingy. Talon Beast and Peryton. I directed Valindra how to butcher it and we carved up the carcass of the Talon Beast, carrying it over Annica.
 	- Connor was hitting on Ria, asked if she was alright, asked if she could teach him magic. 
+	- We wandered past the rhinos, came across cockatrices, can petrify.
