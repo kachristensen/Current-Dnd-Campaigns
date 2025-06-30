@@ -24,4 +24,5 @@
 		- I asked how he recognized her as a Drakesbanes, noticeable features.
 		- I asked Ria about her family, they are higher nobles, chose the winning side, known for winning prowess. 
 - We had dinner round their campfire
+	- I convinced them to let us keep our weapons
 	- 
