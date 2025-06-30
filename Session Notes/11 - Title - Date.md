@@ -35,3 +35,4 @@
 		- Rem asked for the 100g upfront.
 		- If we bring back the survivors, he'll give us a writ notifying that we're a friend of the empire.
 		- Rem said we were doing our best to stay neutral, we will try to free the captives. 
+		- Connor is the nephew of Schwartz. I joked about having him marry Ria. 
