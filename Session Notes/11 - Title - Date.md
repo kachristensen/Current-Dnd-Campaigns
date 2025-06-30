@@ -46,3 +46,4 @@
 		- A couple of the prisoners are already dead, but 2 of them are still alive.
 			- One of them is Doctor Jonas Heisner who has developed a cure for secomortis plague. Aaron can't let him go without more info. Not sure if he's telling the truth.
 			- Rem offered to interrogate him with Zone of Truth. They went to the prisoner's tent.
+			- Jonas is a handsome man with brown hair, completely blackened arm, some marks on his chest.
