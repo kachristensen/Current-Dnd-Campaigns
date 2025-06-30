@@ -40,4 +40,9 @@
 			- He gave us a map of the area.
 - Dominium Encampment
 	- Rem, Ria, and Lewis approached. Valindra and I hid in the bushes.
+- META:
 	- Guy in heavy metal armor, Lord Aaron Von Krieger, member of the cathars. Has like a bubble head with liquid in it to keep him moist, also inflicted with secomortis plague. Rem knows him.
+		- Rem, Ria, and Lewis entered his tent. Rem told him he was trying to avoid cutting a bloody swathe across the area, trying to negotiate a release for the ransom. 
+		- A couple of the prisoners are already dead, but 2 of them are still alive.
+			- One of them is Doctor Jonas Heisner who has developed a cure for secomortis plague. Aaron can't let him go without more info. Not sure if he's telling the truth.
+			- Rem offered to interrogate him with Zone of Truth.
