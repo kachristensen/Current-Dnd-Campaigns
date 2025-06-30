@@ -28,3 +28,5 @@
 	- They asked if they could hire us to rescue their comrades at a Dominion encampment, we conversed
 		- Rem said aligning ourselves with rebels will cause issues. Recommended we could ransom the prisoners. 
 		- Ria said we could disguise ourselves as rebels.
+			- She's the only Drakesbane currently in the military.
+			- 
