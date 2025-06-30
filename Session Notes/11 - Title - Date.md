@@ -29,4 +29,4 @@
 		- Rem said aligning ourselves with rebels will cause issues. Recommended we could ransom the prisoners. 
 		- Ria said we could disguise ourselves as rebels.
 			- She's the only Drakesbane currently in the military.
-			- 
+		- I sent Theron a message saying we might have to infiltrate the rebels and attack a Dominion encampment. 
