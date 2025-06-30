@@ -36,4 +36,6 @@
 		- If we bring back the survivors, he'll give us a writ notifying that we're a friend of the empire.
 		- Rem said we were doing our best to stay neutral, we will try to free the captives. 
 		- Connor is the nephew of Schwartz. I joked about having him marry Ria. Captain said he was useless, didn't care about him much.
-		- Ria shook his hand. We'll take the 100g, go on our own, if we deliver the prisoners back we'll get a lute 
+		- Ria shook his hand. We'll take the 100g, go on our own, if we deliver the prisoners back we'll get a lute and the writ.
+			- He gave us a map of the area.
+- 
