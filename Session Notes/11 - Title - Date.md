@@ -38,4 +38,5 @@
 		- Connor is the nephew of Schwartz. I joked about having him marry Ria. Captain said he was useless, didn't care about him much.
 		- Ria shook his hand. We'll take the 100g, go on our own, if we deliver the prisoners back we'll get a lute and the writ.
 			- He gave us a map of the area.
-- 
+- Dominium Encampment
+	- Rem, Ria, and Lewis approached. Valindra and I hid in the bushes.
