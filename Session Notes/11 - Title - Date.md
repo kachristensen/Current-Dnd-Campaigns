@@ -13,4 +13,4 @@
 	- He's part of the Liberation League fighting against the tyranny of the empire, small shock troop group.
 	- He tried to get Valindra to carry his bag, Rem grabbed it and gave it back to him, we told him she was our equal.
 - We headed southeast
-	- A bird with antlers was watching us. Rhinos nearby. A giant featherless horse bird thingy.
+	- A bird with antlers was watching us. Rhinos nearby. A giant featherless horse bird thingy. Talon Beast and Peryton. 
