@@ -19,3 +19,4 @@
 	- We wandered past the rhinos, came across cockatrices, can petrify.
 - We found The Freedom Force Five
 	- 8 + 1 connor = 9, they're the fifth group though.
+	- One of them recognized Ria as a Drakesbane. Ria took off her glasses. The dude was mad she was a noble family tied to the Dominion. Ria said she was interested in some of the other famil
