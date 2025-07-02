@@ -1,0 +1,102 @@
+
+###### Day 1
+
+![[1 Desert Temple.png|center]]
+
+## Summary
+
+## IC Synopsis - Rem's Recollection
+
+>My trip to Verdighiem had been full of pomp and this day was to be no different.  I found it odd that neither Ulrich nor Monsignor Ludvig had accompanied me, but I reminded myself that I was no longer an apprentice.  While I’d dearly miss the old man, at least my new companions were easy on the eyes, most of them anyway.  Five of us were gathered before Grand Vizier Tharon Lodroth, who introduced himself and gave us a primer on how to conduct ourselves before the Rexum.  He then led us into the throne room itself, where the hulking monarch sat on his throne.
+  The Rexum looked to be in his fifties or sixties; his gray hair and beard giving him a weathered look.  Though he had been stripped of four divine artifacts, the Sword of Karz was held firm in his hand.  As we assembled before him, the two red-haired women lingered behind the rest of us.  The Rexum took note of this and urged them forward, eliciting a response from the one wearing a moth on her face.  She joked that his birth must have been painful given his great size, amusing the monarch.
+  Tharon stepped forward then, informing the Rexum that each of us had been nominated by one of the various branches of the Dominion.  He began reading the letters of recommendation, starting with the lithe, red-haired, moth-lady known as Persephone.  She was referred by Ophani Cassio Beckett of the Obscura, citing her adaptability, prudence, and talent with illusion, divination, and enchantment. 
+  My turn was next, and as I stepped forward I tapped into my divine magic to survey the Rexum, his sword, and the assembled people.  The sword was still consecrated despite what had transpired, and I caught a faint whiff of fiendish energies emanating from Persephone.  Not unlike the celestial aura I myself radiate, though opposite in nature.  Monsignor Ludvig Kiyavir had penned a glowing testimonial on my behalf, though it lingered on the plague more than I’d have preferred.  Regardless, I later requested a copy.  Ulrich would never believe me otherwise.
+  The next person called forward was Brother Lewis Sparks, a bald man with a red beard wearing a simple apron.  Exarch Sigrid Fremdell of the Templars provided his credentials, citing Lewis’s ability to mend body, mind, and metal.  He too had seen some battle, apparently during the Third Crusade on Vindvaeg, though like Persephone his letter mentioned an aversion to glory.  More for me I suppose.
+  Ria Drakesbane followed Lewis.  Besides myself, she was the only member of our troupe without red hair, which she wore in a short, white pixie cut.  I think that’s what it’s called anyway.  She also wore dark glasses, concealing her eyes.  Grand Magus Rollo Jesari of the Surges vouched for Ria, citing her adeptness with the arcane arts, especially evocation.  Her noble heritage was also mentioned, but it was clear the reference was made on merit. 
+  Last was Valindra tel’Rena, a red-haired wood elf accompanied by a small, blue drake.  General Rima Valci of the Center Guard supplied her endorsement, though it could hardly be called that.  The disdain for her elven heritage was made evident in every other sentence, but so too were her capabilities.  Speed and poise under pressure are admirable qualities indeed, and it sounded like she was accustomed to subtlety and subterfuge as well.  Not my speciality, but useful skills to be sure. 
+  With our introductions completed, Tharon stated our mission: to retrieve the missing divine artifacts for the Rexum.  He had a lead on one of them, and would provide additional information after our audience with the Rexum concluded.  The monarch himself addressed us next, making it clear that he would not tolerate failure.  Should we fail on our mission, our lives were forfeit.  Best not to return empty-handed then, or at all.  A bit harsh, I thought, but he isn’t known as the lenient king either.
+  Tharon ushered us out of the throne room and into his office.  We were to retrieve the Heart of Etifa from the city of Barca, a crystal amulet that protects its wearer from charms and illusions.  Barca had been occupied by the forces of the “Living God” and information was scarce, but the Heart was believed to reside in the central administrative building of the city.  We were told to expect hostility, as the humans under this “god” were fanatical zealots who only spoke of “saving” us natives, while the beast-folk were mindless creatures controlled by their superiors.  Besides the dragons of old, no creature had immigrated to the continent in the history of Skediwen, which only added to the mystery of this “god” and his followers.  Tharon also mentioned his contact in Barca had gone dark, but she might prove useful if she could be found.  Her name was Althea, and she was described as a short woman with dark hair, green eyes, a missing left ear, a fan of dark clothing, and belonging to the Obscura.
+  The sixth Grand Vizier to serve the Rexum then moved to a cabinet and presented us with a set of stones used for magical communication.  He kept one stone, while Lewis offered to hold onto the other.  Tharon also produced four dark vials containing a familiar, golden liquid.  He described them as a self-replenishing source of healing magic from the Tree of Karz as he distributed them to my new colleagues.  I already possessed one, and was well acquainted with its contents.  Tharon mentioned that transportation would be provided to us in the form of a highly efficient cart, meant to transport us from the capital to the forest north of Barca in roughly five days.  We’d need to travel through the forest on foot from there, a journey expected to take two additional days.  The cart would travel nonstop, and was available to leave immediately.  Persephone proposed that we depart that evening, to which we all agreed.
+  I asked after the rations aboard the cart as we departed, confirming my suspicions that ale would be absent.  Tharon was kind enough to donate fifteen gold to remedy this error, and my compatriots followed me to the Golden Knot.  Otis and the patrons were friendly enough, going so far as to commemorate my crusade with a round of drinks.  He even slipped me a vial of his special spice as I secured the barrel of his signature Golden Ale.  Valindra had remained outside, unwelcome on account of her elven heritage, and Lewis stayed with her.  The two discussed arms and armor further, and Lewis introduced himself to Wuffi.  Persephone was proposing a trade of eyewear with Ria as I rejoined them with ale in arm, but the bane of drakes declined the offer.
+  Valindra offered to carry the barrel for me as the five of us regrouped, but I humbly declined.  Persephone asked to be carried instead, but ultimately decided against it when Valindra agreed to do so.  It’s clear to me that she has grown accustomed to a life of servitude, but at least our compatriots have treated her with equality.  We made the twenty minute walk to our cart, during which Valindra approached Ria and asked if she remembered her.  Ria assured Valindra that she did, and the two shared a cordial conversation during which Valindra was very complimentary of Ria’s skills.  Afterwards, we met the drivers Valentine and Frank.  They were elderly and Frank didn’t say much, but both accepted some ale when offered.
+  We piled into the spacious and comfortable cart at seven that evening to begin our journey.  Nothing against Lewis, but I positioned myself between Ria and Persephone before distributing drinks.  Persephone started braiding Lewis’s beard as we settled in, before asking me about my current appearance and childhood illness.  I spared her the gruesome details of the Secomortis plague, but confirmed that the sap had changed my hair and eyes along with saving my life.  In turn she revealed that the corpse moth on her face is named Melusinae and helps with her vision, on account of her advanced age.  The wrinkles must hide beneath the moth, because I’ve yet to spot one elsewhere.  And not for a lack of effort.
+  Persephone proposed we get to know each other better, and I suggested we turn it into a drinking game.  Lewis went first, describing himself as not a warrior, but able to help us with healing and enhancement of our arms.  Ria removed her glasses, showing us her draconic eyes.  How they came to be like that we did not learn, but she admitted the glasses help prevent unwanted attention.  Valindra’s drake Wuffi was up next, and excitedly learned that not only Persephone spoke draconic, but so did Ria and I.  I offered Wuffi some ale, which he eagerly accepted after conferring with Valindra.  She herself did not partake in the drinking, wanting one of us to remain sober.  She also revealed she’d never had an ale, a situation we’ll have to remedy sooner than later.
+  The days of travel passed in similar fashion as we approached the forest.  I surreptitiously sipped my sap between ales, and my companions either didn’t notice or didn’t care to comment.  Ulrich says it’s nothing to be ashamed of, but I still struggle and prefer to keep it to myself.  Valentine mentioned we had another eight hours of travel before arriving at the forest, and I opted to relax until then.  The cart had been extremely smooth and steady during our travels, and I was enjoying the comfort when it suddenly lurched and tipped onto its side.  As we climbed free of the cart, we saw a giant bear assaulting the horses. 
+  Our retaliation was disorderly and ineffective initially, allowing further time for the bear to maul the horses.  Lewis then bolstered both Valindra’s polearm and my sword with his divine magic as Persephone ensorceled the bear with her own illusory spell.  Ria threw lightning at the beast as we slashed and cut, and Wuffi too contributed with bites and an ability to empower our strikes with electricity.  The bear slashed me across the chest and cut through my clothing, as I cursed myself for not donning my armor that day.  Lewis healed my wounds a moment later, and I used the opportunity to duck under the bear and drive my sword up through its head.  My own magic mingled with Lewis’s enchantment as it surged through the blade in a flash of radiant light, and the bear fell dead.  Like I said earlier, I have no aversion to glory. 
+  We took stock of our losses in the aftermath of the battle.  Both the horses were dead and Frank had wandered off, but besides my wounds the rest of us had been unscathed.  I took some time to don my armor as we rested and determined our path forward.
+
+## Notes
+- Summoned to the capital of The Dominion, **Verdigheim**. Greeted by a short man in robes, mid 40s, **Theron Lodroth**, grand vizier who summoned us. We all had letters of recommendation. He cautioned us when approaching the Rexum, can be intense, be respectful and don’t challenge his ego.  
+  - Large throne, large Rexum, 50s, weathered look.   
+  - Recommendations  
+  - **Ophani** Cassio Beckett Monsignor Ludvig Kiyavir, Exarch Sigrid Fremdell  
+    - Mine \- Witched expert of eldritch arts, the Obscura endorse her to fit and adapt, illusions, enchantment, loyalty is to the work, understands the value of a secret kept,   
+    - Rembrandt Eifert, of the Cathars, apprentice of a dude who fell to a plague,   
+      - 6’3”, strapping young lad, wavy curling gold hair, molten gold eyes  
+      - He divine sensed, Rem has a faintly celestial aura, Perse faintly fiendish. I commented on his eyes.  
+    - Brother Lewis, cleric, healer  
+    - Grand Magus Rollo Jesari, Lady Ria Drakesbane, mage corp, scholar, disciplined, arcane master lithe build, short pale blonde hair, early mid 20s, dark clothing covered. Dark lenses obscure her eyes.  
+    - Valindra Tel Rena, lieutenant of reconnaissance, one of the Disavowed, treasonous associations, speed, useful but degenerate elf, 5’8”, auburn ponytail, deep red eyes. Wuffi is blue, her companion, seemed happy.  
+  - Divine items were dispersed. Go behind enemy lines, be covert, return them. We’ll receive supplies and more info.  
+  - The Rexum spoke to us, said we were all representing the Dominion, and thus him, doesn’t tolerate failure, return with them or don’t return at all, will cost us our lives.  
+- Vizier’s office  
+  - Jars of oddities on the walls. Wizard?  
+  - Intel \- one of the items south. Rebellions, invaders, marauding beast folk,  
+    - Etifa \- locket (godess of love). In Barca, south peninsula.  
+    - Another item \- city of Valdrheim, ruins from the Rexum destroying it, ghost town, undeath, attack the living on sight, numbers growing. For now we’ll pursue the locket.    
+    - 6th vizier \- he has learned from the mistakes of his predecessors.   
+    - We can return with them all at once if we want, or one by one.  
+    - He gave us one of a sending stone, Lewis took it.  
+    - Showed us a flask of sap from the tree of Raz, has healing properties. Refills once per day. Vitality Flask.  
+    - 3 day trip with cart to Iverheim, then 2 days on foot through forest, then 2 to Barca.   
+    - Obscura contact \- **Althea**, green eyes, missing left ear. Presumed dead, last heard in Barca.   
+    - Heart of Etifa in the central administration building. Glass pendant, under the size of a fist, maelstrom of energy inside, magenta pink in hue. Warding against illusions and charms.  
+    - Invaders led by The Living God. Ppl arriving/leaving continent is unprecedented.   
+    - Valindra is familiar with the Aosmhor Forest, she’s from the area, doesn’t have family near where we’re going.   
+    - Rembrandt got 15 gold for a barrel of ale,   
+  - Verdigheim is a gothic city, Rexum hates nobles  
+    - We went with Rembrandt to buy a barrel of ale to a tavern called the Golden Knot.   
+    - Valindra isn’t allowed inside, so Lewis stayed outside with her. I asked her, she said she wasn’t allowed to due to her ears.  
+    - Otis the innkeeper seems friendly with Rembrandt, I failed to persuade him for a deal. Otis checked in on Rembrandt to make sure he’s ok  
+      - Rembrandt mentioned he’s been anointed, seems different since he drank from the tree sap?   
+      - Otis gave him “Otis’ Spice”, special drink  
+      - Three cheers for Rembrandt’s first crusade.  
+    - I commented on Ria’s spectacles, she was mysterious about them.   
+    - Lewis nerdgasmed about metal to Valindra. She instinctively acted like a servant.  
+    - META: Valindra and Ria have some sort of preexisting acquaintanceship, caught up, seem to trust each other  
+  - Wagon  
+    - I braided Lewis’s beard, he let me  
+    - Drivers \= Valentine, Frank  
+    - Rembrandt’s been knighted, I asked – he used to be a sickly boy, they gave him the sap of the tree  
+    - They asked about Melusinae, I explained corpse moths, she’s one of the last of her species, symbiotic relationship with her, she allows me to see, I mentioned it was difficult to see with age  
+    - Lewis said he’s not much of a fighter, he’s a smith, loves metal, worships a god. Mended Valindra’s armor, she didn’t want him to waste magic on her. He swore he would protect us.  
+    - Ria has slitted cat eyes, yellow. She has fangs. Dhampir? She wears the spectacles to hide them.  
+    - I spoke Draconic to Wuffi, commented he was a lot smaller than she was used to. We all speak Draconic except Lewis.  
+    - META:	 Rem was drinking from the flask each day  
+  - 3 days later  
+    - We heard a driver scream, wagon fell to its side. Giant bear attacking the horses.
+
+- Lewis send Theron a message about the bear attack, we carried on. Frank’s tracks led in the wrong direction so we continued onwards without him. We made it to Ivarham and got a tavern. Valindra hesitated and I covered her ears and ushered her in. The Lucky Rabbit. Tavern keeper, old lady. Greta. Rem was charming to her, gave her an extra gold.  
+- Valindra has never been propositioned for sex, she seemed unfamiliar when I invited them to spend the night in my room. I asked her about her age, mid 60s? She’s considered an adult. Whole party shared a room together. She recommended we head south through the forest so we did.  
+- Forest is known to have some fey creatures in it. First day uneventful.  
+- Watch order at night  
+  - 2 hrs \- lewis vali  
+  - 2 hrs \- vali ria  
+    - META: they conversed, Valindra asked why Ria’s showing her eyes now, she responded that now we’re all on a long-term mission together, so it would’ve happened. Vali spotted scales on Ria’s neck last time. Vali asked why she covered it. Ria said the Dominion doesn’t swallow differences. Avoids unwanted attention. Valindra asked about pride in those differences, Ria said she didn’t have any. Pride is to be earned. Vali heard something circling around them, hasn’t shown itself yet. Echo-y voice, just watching. Mouth, feline eyes, cheshire-cat ish. Said it was enjoying our conversation. Vanished, creepy. Sylvan  
+  - 2 hrs \- perse ria  
+    - Ria prefers bronze, I pondered what jewelry would look nice on Valindra. The face appeared back, said we were boring.  
+  - 2 hrs \- perse rem  
+    - Rem drank from the flask, I asked him about it, it prevents the symptoms of the plague, which turns people into dried out husks.  
+      - We talked about it, he’s from Shadeleaf, got it at 11, tree sap prevents the symptoms, he went a year without it, started drying up, shrivelling. I told him maybe we could find some magic to help. Said I was something in between mortal and immortal.  
+      - Giant cat offered info on a cure for the flask, I gave him a mug with a sip of it, he asked if we’d heard of **Yaluska of the Mire**.  
+        - Witch, known to exist even back in my day, in this forest, immortal. Older than the Nine current gods. Rumored to be powerful. Said she’s nearby where the ground turns wet and squishy.  
+        - I told him we tired of him afterwards, shooed him away.  
+      - We were ambushed by Yeth Hounds  
+- Text RP  
+  - Perse and Rem flirted, Rem said he hadn’t known a womans warmth, Perse questioned him about it, gently turned down his interest in her, further teasing/playful banter  
+  - Perse reacted with shock at Valindra’s statement her true lord was Sajja’ka, the Bronze Terror. Lewis and her had a hissy fight over her reaction.  
+    - Valindra grew up as part of the Order of the Veridian Scales, was regularly beaten and treated as an inferior. Leader Blackwood gathered everyone for an important meeting, but Valindra felt guidance from Lord Sajj’aka to leave and walk a different path. Wuffi appeared a week later. Was the first time she’d ever been alone.  
+  - Rem has an uncle named Mirko who taught the drums, and is in Shadeleaf  
+  - Frey’s parents made her learn the violin, strict?
+
+#session
