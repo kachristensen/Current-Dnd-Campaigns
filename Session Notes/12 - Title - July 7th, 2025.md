@@ -29,7 +29,7 @@
 - Rem, Ria, Lewis, and Annica walked out of the camp with the prisoners in restraints.
 	- I told Valindra we should stay far back in case they're being followed. But we didn't notice anything.
 	- Ria said they were able to negotiate for their release. 
-- Valindra and I spoke, I urged her to use judgement and maintain secrecy. She asked about me insulting the whore of a mother. I asked about her family. She remembers flashes of her mother. She asked if I was a mother, I said once, a long time ago. 
+- Valindra and I spoke, I urged her to use judgement and maintain secrecy. She asked about me insulting the whore of a mother. I asked about her family. She remembers flashes of her mother. She asked if I was a mother, I said once, a long time ago. My kind don't often have kids so it was a shock. I talked to her about raising corpse moths in an apiary, said maybe I would raise the party as my kids. 
 
 
 - Vethitov = my love (Draconic)
