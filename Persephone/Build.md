@@ -62,7 +62,7 @@
 
 L6 Bard
 - Mantle of Majesty
-- Command -> 
+- Command -> Sending
 - Dispel Magic
 
 L7 Bard
