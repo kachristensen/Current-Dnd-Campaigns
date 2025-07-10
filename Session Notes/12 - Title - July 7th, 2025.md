@@ -40,7 +40,8 @@
 	- We came across some dead dominion soldier at a broken tower. Insane amount of stab wounds through the soldiers.
 	- "Hello there." Feminine voice. Mechanical woman, large, spidery limbs, metal, 4 arms, different type of weapon on each + shield. Face is like a statue/mask.
 		- The rebels have been creating new weapons/mechanical constructs, mass-produced. 
-		- Schwarz told the thing to cease, but it was still looking at Rem. 
+		- Schwarz told the thing to cease, but it was still looking at Rem. It let us pass. 
+		- They're called Blade Dolls. 
 
 
 - Vethitov = my love (Draconic)
