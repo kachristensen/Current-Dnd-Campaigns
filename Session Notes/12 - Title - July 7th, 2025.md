@@ -33,7 +33,7 @@
 - Back in the rebel camp
 	- Schwarz said the rebels are going to Lena village and take Jonas with them to work on the cure there. Rem lightly told them about the situation with the Dominion being interested in the cure.
 	- The rebel camp packed up to move, offered us use of the cart. We said we'd accompany them. 
-- I apologized to Rem. He accepted it, 
+- I apologized to Rem. He accepted it, asked for my sincerity, I said I would try to be more sincere. I walked with him, asked him for details. He told us everything. 
 
 
 - Vethitov = my love (Draconic)
