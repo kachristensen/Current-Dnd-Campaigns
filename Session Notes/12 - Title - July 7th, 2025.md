@@ -17,4 +17,8 @@
 - Lewis's sending to Perse
 	- I fear the captain is interested in the Rexums artifacts. Keep Valindra and move away from the camp. thought our station was more recognized.
 		- Perse response:  "He's interested because you TOLD him EVERYTHING. And now you bid me obey your ~unparalleled~ wisdom? Horse-muck, street dung, absolute imbecile. Shove your cock--"
-- 
+- META: Rem, Ria, Lewis returned to confer with Aaron
+	- Rem asked about what Jonas had told Aaron, not much. They conferred about Jonas's "unholy" infection. Rem thinks maybe he's consorting with an outside force not in their pantheon. 
+
+
+- Veth-itov = my love (Draconic)
