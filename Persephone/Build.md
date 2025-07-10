@@ -62,6 +62,7 @@
 
 L6 Bard
 - Mantle of Majesty
+- Command -> 
 - Dispel Magic
 
 L7 Bard
