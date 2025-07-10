@@ -38,6 +38,7 @@
 - Cart - Jonas deliberately sat next to Valindra, Connor tried to sit next to Ria.
 - 4 hrs later
 	- We came across some dead dominion soldier at a broken tower. Insane amount of stab wounds through the soldiers.
+	- "Hello there." Feminine voice. Mechanical woman, large, spidery limbs, metal, 4 arms, different type of weapon on each + shield. Face is like a statue/mask.
 
 
 - Vethitov = my love (Draconic)
