@@ -19,6 +19,8 @@
 		- Perse response:  "He's interested because you TOLD him EVERYTHING. And now you bid me obey your ~unparalleled~ wisdom? Horse-muck, street dung, absolute imbecile. Shove your cock--"
 - META: Rem, Ria, Lewis returned to confer with Aaron
 	- Rem asked about what Jonas had told Aaron, not much. They conferred about Jonas's "unholy" infection. Rem thinks maybe he's consorting with an outside force not in their pantheon. Rem encouraged him to let Jonas go so that Jonas can continue to progress his work, Ria encouraged it so that Jonas would let his guard down. 
+		- Aaron was troubled by the nature of the cure, considering execution.
+	- Aaron spoke of what Lewis told him about our mission, Lewis was silent.
 
 
 - Veth-itov = my love (Draconic)
