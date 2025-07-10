@@ -20,7 +20,8 @@
 - META: Rem, Ria, Lewis returned to confer with Aaron
 	- Rem asked about what Jonas had told Aaron, not much. They conferred about Jonas's "unholy" infection. Rem thinks maybe he's consorting with an outside force not in their pantheon. Rem encouraged him to let Jonas go so that Jonas can continue to progress his work, Ria encouraged it so that Jonas would let his guard down. 
 		- Aaron was troubled by the nature of the cure, considering execution.
-	- Aaron spoke of what Lewis told him about our mission, Lewis was silent.
+	- Aaron spoke of what Lewis told him about our mission, Lewis was silent. Said his goal was to try and help find the cure, that's why he came out of retirement. Said the Karz sap almost killed him.
+		- Rem offered to put in a word with the Rexum to retry the Karz sap cure. Aaron requested Jonas's cure isn't unholy, he wants Rem to promise to help deliver it to him, or kill Jonas if it is unholy.
 
 
-- Veth-itov = my love (Draconic)
+- Vethitov = my love (Draconic)
