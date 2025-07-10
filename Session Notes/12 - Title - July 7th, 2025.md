@@ -27,6 +27,8 @@
 	- Ria asked for Aaron's discretion in what Lewis revealed. Aaron suggested we leave the artifact here and he can deliver it to the Rexum. Ria declined due to our orders. 
 	- Rem shook Aaron's hand and told him he agreed to either try and deliver the cure to Aaron in time, or kill Jonas if he's evil.
 - Rem, Ria, Lewis, and Annica walked out of the camp with the prisoners in restraints.
+	- I told Valindra we should stay far back in case they're being followed. But we didn't notice anything.
+	- Ria said they were able to negotiate for their release. 
 
 
 - Vethitov = my love (Draconic)
