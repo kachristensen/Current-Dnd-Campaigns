@@ -29,6 +29,7 @@
 - Rem, Ria, Lewis, and Annica walked out of the camp with the prisoners in restraints.
 	- I told Valindra we should stay far back in case they're being followed. But we didn't notice anything.
 	- Ria said they were able to negotiate for their release. 
+- Valindra and 
 
 
 - Vethitov = my love (Draconic)
