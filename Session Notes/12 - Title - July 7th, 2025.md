@@ -21,7 +21,12 @@
 	- Rem asked about what Jonas had told Aaron, not much. They conferred about Jonas's "unholy" infection. Rem thinks maybe he's consorting with an outside force not in their pantheon. Rem encouraged him to let Jonas go so that Jonas can continue to progress his work, Ria encouraged it so that Jonas would let his guard down. 
 		- Aaron was troubled by the nature of the cure, considering execution.
 	- Aaron spoke of what Lewis told him about our mission, Lewis was silent. Said his goal was to try and help find the cure, that's why he came out of retirement. Said the Karz sap almost killed him.
-		- Rem offered to put in a word with the Rexum to retry the Karz sap cure. Aaron requested Jonas's cure isn't unholy, he wants Rem to promise to help deliver it to him, or kill Jonas if it is unholy.
+		- Rem offered to put in a word with the Rexum to retry the Karz sap cure. Aaron requested Jonas's cure isn't unholy, he wants Rem to promise to help deliver it to him, or kill Jonas if it is unholy. Aaron has about a year to live.
+	- Aaron said he won't have his men raid their camp, but wants more info on the rebels, and then would allow the prisoner to "escape" in order to save face. Rem suggested that instead he release him under his custody according to the Rexum's orders. But Aaron wants a reason to continue to operate as he does.
+	- Aaron said he's going to bed, in the morning he's going to do a review of the security/perimeter.
+	- Ria asked for Aaron's discretion in what Lewis revealed. Aaron suggested we leave the artifact here and he can deliver it to the Rexum. Ria declined due to our orders. 
+	- Rem shook Aaron's hand and told him he agreed to either try and deliver the cure to Aaron in time, or kill Jonas if he's evil.
+	- 
 
 
 - Vethitov = my love (Draconic)
