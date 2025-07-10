@@ -33,9 +33,11 @@
 - Back in the rebel camp
 	- Schwarz said the rebels are going to Lena village and take Jonas with them to work on the cure there. Rem lightly told them about the situation with the Dominion being interested in the cure.
 	- The rebel camp packed up to move, offered us use of the cart. We said we'd accompany them. 
-- I apologized to Rem. He accepted it, asked for my sincerity, I said I would try to be more sincere. I walked with him, asked him for details. He told me the gist of everything. I told him about overhearing Lewis. Said we should talk to him.
+- I apologized to Rem. He accepted it, asked for my sincerity, I said I would try to be more sincere and a better companion. I walked with him, asked him for details. He told me the gist of everything. I told him about overhearing Lewis. Said we should talk to him.
 - Lewis asked for cloaks to hide us, like rebel uniforms. We got those, a writ with the Bruder seal, and a lute. I was too happy to yell at Lewis.
-- 
+- Cart - Jonas deliberately sat next to Valindra, Connor tried to sit next to Ria.
+- 4 hrs later
+	- We came across some dead dominion soldier at a broken tower. Insane amount of stab wounds through the soldiers.
 
 
 - Vethitov = my love (Draconic)
