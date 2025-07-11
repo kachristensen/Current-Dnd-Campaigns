@@ -3,9 +3,13 @@
 
 ![[1 Desert Temple.png|center]]
 
-## IC Synopsis
+## IC Synopsis - Persephone
 
-> TODO
+>*Tales from Persephone*
+**The Lucky Rabbit and the Fey Cat’s Bargain**
+
+
+
 
 ## Notes
 - Lewis's convo with Aaron

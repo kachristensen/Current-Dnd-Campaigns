@@ -3,9 +3,59 @@
 
 ![[1 Desert Temple.png|center]]
 
-## IC Synopsis
+## IC Synopsis - Tales from Persephone
 
-> TODO
+>**The Lucky Rabbit and the Fey Cat’s Bargain**
+
+	After triumphant victory over the monstrous bear
+	My newfound comrades and I spent a short wait
+	Where Lewis’s sending made Theron aware
+	Before we left Frank to his ill-thought out fate
+	
+	We continued to Ivarham under the approaching night
+	And found ourselves staying at The Lucky Rabbit inn
+	Valindra was uncertain if entering was alright
+	Until poked and prodded to join us within
+	
+	Rembrandt, with charm and smile so bold
+	Made the innmaid Greta’s face blush red
+	Valentino’s gratitude and an extra gold
+	Bought us a meal accompanied by bread
+	
+	We drank and dined before taking our leave
+	Sharing a room upstairs to sleep and rest
+	Our darling Valindra, mid-sixties but naive
+	(Apparently has never been propositioned for sex??)
+	
+	In the morning she offered a path preferred
+	To cross the rivers and travel the trees
+	We proceeded south and trusted her word
+	And navigated the forests with ease
+	
+	At night we set up a watch of four shifts
+	While a smile and eyes watched us for fun
+	Its echoing voice quivered and slipped
+	Seeking entertainment before the rise of the sun
+	
+	As Rem and I conversed and speculated on age
+	The voice revealed itself a large fey cat
+	Dangling a cure for the Secomortis plague
+	If offered a trade of this thing and that
+	
+	With Karz’s blood, I gave him a sip of my flask
+	And was rewarded a name I’d heard long ago prior
+	So thoughtful, so curious, so much to ask!
+	Of the elder witch nearby, Yaluska the Mire
+	
+	No sooner than did the cat fade unseen
+	Were we ambushed by a trio of Yeth hounds
+	Bite, claw, cleave, and a terrible scream
+	Left mine trembling and frightened at the sound
+	
+	With swords and spells, and swift farewells
+	And Valindra’s near brush with death
+	The beasts we felled, returned to the hells
+	And so did the dawn draw its first breath 
 
 ## Notes
 - Lewis sent Theron a message about the bear attack, we carried on. Frank’s tracks led in the wrong direction so we continued onwards without him. We made it to Ivarham and got a tavern. Valindra hesitated and I covered her ears and ushered her in. The Lucky Rabbit. Tavern keeper, old lady. Greta. Rem was charming to her, gave her an extra gold.  
