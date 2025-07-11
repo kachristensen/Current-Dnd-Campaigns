@@ -15,7 +15,11 @@
 	
 	Having told Aaron almost everything he knew
 	Lewis sent me a message halfway through
-	To take Valindra and 
+	To 'ware his interest and make ourselves sparse
+	I encouraged him to shove a cock up his arse
+	
+	Those competent emerged with prisoners in tow
+	
 	
 
 
