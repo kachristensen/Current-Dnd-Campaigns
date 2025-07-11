@@ -11,12 +11,14 @@
             "id": "78fdf2c31044a314",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250601215646.png"
+                "file": "Session Notes/12 - Title - July 7th, 2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250601215646"
+              "icon": "lucide-file",
+              "title": "12 - Title - July 7th, 2025"
             }
           },
           {
@@ -185,8 +187,9 @@
   },
   "active": "78fdf2c31044a314",
   "lastOpenFiles": [
-    "Pasted image 20250601220852.png",
+    "References/At the Rexum's Behest.pdf",
     "Pasted image 20250601215646.png",
+    "Pasted image 20250601220852.png",
     "Session Notes/12 - Title - July 7th, 2025.md",
     "Session Notes/11 - Title - Date.md",
     "Session Notes/9 - Title - Date.md",
@@ -201,7 +204,6 @@
     "2025-06-29.md",
     "Persephone/Build.md",
     "References/The Demonic Age & Session 0.md",
-    "References/At the Rexum's Behest.pdf",
     "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
     "Persephone/Songs and Poems/The Age of All Knowledge.md",
     "Persephone/Songs and Poems/Misc.md",
