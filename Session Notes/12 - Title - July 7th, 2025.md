@@ -55,7 +55,8 @@
 	
 	Schwarz was successful in commanding them to stand down
 	And thus did we continue onwards to town
-	Jonas and Connor admired Valindra and Ria
+	Jonas and Connor seemed to admire the girls
+	Valindra was 
 	
 	
 	
