@@ -33,7 +33,9 @@
 	With gold, cloaks, a writ, and a lute as our pay
 	I apologized to Rem before we pulled away
 	
-	He informed me of 
+	He informed me of how the negotiations transpired
+	In exchange for the prisoners, what Aaron required
+	Was to 
 
 
 
