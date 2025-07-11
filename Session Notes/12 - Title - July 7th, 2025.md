@@ -11,16 +11,26 @@
 	With straining ears and aching thighs
 	Valindra and I continued to spy
 	On the conversations that came and went
-	As our party drifted from tent to tent
+	As our party wandered from tent to tent
 	
 	Having told Aaron almost everything he knew
 	Lewis sent me a message halfway through
 	To 'ware his interest and make ourselves sparse
-	I encouraged him to shove a cock up his arse
+	Whence I encouraged him to shove a cock up his arse
 	
-	Those competent emerged with prisoners in tow
+	Finally, they emerged with those we were to get
+	And escorted them away without breaking a sweat
+	Trailing far behind to ensure we were alone
+	Valindra and I eventually made ourselves known
 	
+	We joined the others and conversed as we walked
+	I warned her to be careful and wise as we talked
+	Encouraging her to be prudent about doing the bidding of others
+	While otherwise musing about whores and mothers
 	
+	A few hours later we found the rebels again
+	And returned to them their captured men
+	Among them
 
 
 
