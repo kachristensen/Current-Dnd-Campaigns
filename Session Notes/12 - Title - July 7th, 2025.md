@@ -54,9 +54,9 @@
 	Of numerous blade-dolls and the results of their fight
 	
 	Schwarz was successful in commanding them to stand down
-	And thus did we continue onwards to town
+	And thus did we continue on our way towards town
 	Jonas and Connor seemed to find our women cute
-	I listened to them flirt while tuning the lute...
+	So I listened to them flirt while tuning the lute...
 	
 
 
