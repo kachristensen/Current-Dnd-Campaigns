@@ -28,12 +28,12 @@
 	Encouraging her to be prudent about doing the bidding of others
 	While otherwise musing about whores and mothers
 	
-	A few hours later we found the rebels again
+	A few hours later we came across the rebels again
 	And returned to them their captured men
 	With gold, cloaks, a writ, and a lute as our pay
 	I apologized to Rem before we pulled away
 	
-	He informed me of  
+	He informed me of 
 
 
 
