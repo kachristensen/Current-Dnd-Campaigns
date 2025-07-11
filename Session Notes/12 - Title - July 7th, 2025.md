@@ -25,7 +25,7 @@
 	
 	We joined the others and conversed as we walked
 	I warned her to be careful and wise as we talked
-	Encouraging her to be prudent about doing the bidding of others
+	Encouraging her to be wary of doing the bidding of others
 	While otherwise musing about whores and mothers
 	
 	A few hours later we came across the rebels again
