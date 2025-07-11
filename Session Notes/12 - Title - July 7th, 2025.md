@@ -6,8 +6,17 @@
 ## IC Synopsis - Persephone
 
 >*Tales from Persephone*
-**The Lucky Rabbit and the Fey Cat’s Bargain**
+**Title**
 
+	With straining ears and aching thighs
+	Valindra and I continued to spy
+	On the conversations that came and went
+	As our party drifted from tent to tent
+	
+	Having told Aaron almost everything he knew
+	Lewis sent me a message halfway through
+	To take Valindra and 
+	
 
 
 
