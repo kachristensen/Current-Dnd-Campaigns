@@ -35,7 +35,10 @@
 	
 	He informed me of how the negotiations transpired
 	In exchange for the prisoners, what Aaron required
-	Was to 
+	Was to observe the progress of the prisoner named Jonas
+	As finding a cure to the plague was his personal onus
+	
+	
 
 
 
