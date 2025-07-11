@@ -39,14 +39,14 @@
 	As finding a cure to the plague was his personal onus
 	
 	Jonas claimed to be able to negate the affliction
-	Marred as he was by unknown malediction
+	Marred as he was by an unknown malediction
 	He promised to share with the world his cure
 	Once its efficacy could be tested and ensured
 	
 	If in nature unholy, he was to be killed
 	And Rem's bargain with Aaron would be fulfilled
 	But if otherwise the cure could stave off certain death
-	Then we'd bring it to Aaron before he drew his last breath
+	Then we'd bring it to Aaron 'fore he drew his last breath
 	
 	With Rem astride Anicca and the rest in the cart
 	We accompanied the rebels as they rushed to depart
@@ -55,7 +55,7 @@
 	
 	Schwarz was successful in commanding them to stand down
 	And thus did we continue on our way towards town
-	Jonas and Connor found our women excessively cute
+	Jonas and Connor seemingly found our women quite cute
 	So I listened to them flirt while tuning the lute...
 	
 
