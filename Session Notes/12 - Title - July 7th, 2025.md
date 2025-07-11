@@ -55,10 +55,8 @@
 	
 	Schwarz was successful in commanding them to stand down
 	And thus did we continue onwards to town
-	While Jonas and Connor flirted with the girls
-	Valindra was 
-	
-	
+	Jonas and Connor seemed to find our women cute
+	I listened to them flirt while tuning the lute...
 	
 
 
