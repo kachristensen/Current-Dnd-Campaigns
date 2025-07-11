@@ -17,10 +17,10 @@
 	- A bird with antlers was watching us. Rhinos nearby. A giant featherless horse bird thingy. Talon Beast and Peryton. I directed Valindra how to butcher it and we carved up the carcass of the Talon Beast, carrying it over Annica.
 	- Connor was hitting on Ria, asked if she was alright, asked if she could teach him magic. 
 	- We wandered past the rhinos, came across cockatrices, can petrify.
-- We found The Freedom Force Five
+- We found **The Freedom Force Five**
 	- 8 + 1 connor = 9, they're the fifth group though.
 	- One of them recognized Ria as a Drakesbane. Ria took off her glasses. The dude was mad she was a noble family tied to the Dominion. Ria said she was interested in some of the other nobles who had defected but she wasn't here on their behalf. 
-		- The dude is part of the Bruder family, Captain Schwartz Bruder, one of the defected rebels
+		- The dude is part of the Bruder family, **Captain Schwarz Bruder**, one of the defected rebels
 		- I asked how he recognized her as a Drakesbanes, noticeable features.
 		- I asked Ria about her family, they are higher nobles, chose the winning side, known for winning prowess. 
 - We had dinner round their campfire

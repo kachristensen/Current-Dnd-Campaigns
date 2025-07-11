@@ -35,17 +35,30 @@
 	
 	He informed me of how the negotiations transpired
 	In exchange for the prisoners, what Aaron required
-	Was to observe the progress of the prisoner named Jonas
+	Was to observe the progress of the doctor named Jonas
 	As finding a cure to the plague was his personal onus
 	
 	Jonas claimed to be able to negate the affliction
-	Marred as he was by black malediction
+	Marred as he was by unknown malediction
 	He promised to share with the world his cure
 	Once its efficacy could be tested and ensured
 	
 	If in nature unholy, he was to be killed
 	And Rem's bargain with Aaron would be fulfilled
-	But if it were true, and the 
+	But if otherwise the cure could stave off certain death
+	Then we'd bring it to Aaron before he drew his last breath
+	
+	With Rem astride Anicca and the rest in the cart
+	We accompanied the rebels as they rushed to depart
+	On the way to Lena village, we came across the sight
+	Of numerous blade-dolls and the results of their fight
+	
+	Schwarz was successful in commanding them to stand down
+	And thus did we continue onwards to town
+	Jonas and Connor admired Valindra and Ria
+	
+	
+	
 
 
 ## Notes
