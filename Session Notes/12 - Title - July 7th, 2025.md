@@ -6,7 +6,7 @@
 ## IC Synopsis - Persephone
 
 >*Tales from Persephone*
-**Title**
+ **Of Bargains and Blade Dolls**
 
 	With straining ears and aching thighs
 	Valindra and I continued to spy
@@ -51,11 +51,11 @@
 	With Rem astride Anicca and the rest in the cart
 	We accompanied the rebels as they rushed to depart
 	On the way to Lena village, we came across the sight
-	Of numerous blade-dolls and the results of their fight
+	Of numerous blade dolls and the results of their fight
 	
 	Schwarz was successful in commanding them to stand down
 	And thus did we continue on our way towards town
-	Jonas and Connor seemed to find our women cute
+	Jonas and Connor found our women excessively cute
 	So I listened to them flirt while tuning the lute...
 	
 
