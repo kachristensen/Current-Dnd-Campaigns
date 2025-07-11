@@ -45,7 +45,7 @@
 	
 	If in nature unholy, he was to be killed
 	And Rem's bargain with Aaron would be fulfilled
-	But if 
+	But if it were true, and the 
 
 
 ## Notes
