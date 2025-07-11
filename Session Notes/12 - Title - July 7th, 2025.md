@@ -38,6 +38,10 @@
 	Was to observe the progress of the prisoner named Jonas
 	As finding a cure to the plague was his personal onus
 	
+	Jonas claimed to know how to negate the affliction
+	Marred as he was by black malediction
+	He promised to share with the world his cure
+	Once its efficacy could be tested and ensured
 	
 
 
