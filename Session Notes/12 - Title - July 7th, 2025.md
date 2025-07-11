@@ -44,7 +44,8 @@
 	Once its efficacy could be tested and ensured
 	
 	If in nature unholy, he was to be killed
-	And a bargain with Aaron would be fulfilled
+	And Rem's bargain with Aaron would be fulfilled
+	But if 
 
 
 ## Notes
