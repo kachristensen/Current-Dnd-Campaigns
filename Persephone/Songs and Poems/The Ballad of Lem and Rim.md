@@ -55,9 +55,9 @@ When he leaves, the ladies rue
 
 With hammer in hand, and rod at stand
 He strikes his mighty forge again
-All across the land
-No better man
-Nor any quite as large
+His head is empty
+But his cock is tempting
+And rises at command
 
 REFRAIN
 
