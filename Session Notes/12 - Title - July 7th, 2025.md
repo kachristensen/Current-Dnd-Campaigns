@@ -55,7 +55,7 @@
 	
 	Schwarz was successful in commanding them to stand down
 	And thus did we continue on our way towards town
-	Jonas and Connor seemingly found our women quite cute
+	Jonas and Connor seemed to find our women quite cute
 	So I listened to them flirt while tuning the lute...
 	
 
