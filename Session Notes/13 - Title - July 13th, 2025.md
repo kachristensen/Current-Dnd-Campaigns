@@ -32,4 +32,9 @@
 	- Porto said there were at least 3 more werewolves. I told Jonas to focus on dealing with them first. Porto followed close behind me. 
 - Jonas said he shouldn't come with us, due to stress of transformation. Lycanthropy, very hard to cure. His patients knew. They were triggered by hunger. Jonas is asking us to render them unconscious. They have killed already. 
 - We found the 3 werewolves and I + Ria cc'd them all, we knocked them all out unconscious. They reverted back to human state, they're marked/scarred with the plague.
-- 
+- Rem Zone of Truth
+	- Jonas's experiments -- only these 3 survivors. All were initially willing. 
+	- Jonas infected himself with demon blood, I haven't heard of this before. 
+		- The lycanthropy is different.
+	- He made a deal for knowledge and Porto was sent to him. He asked for a cure, once a cure was found he was to seek out the one he made a deal with--he only knows they're in the great chasm north of here, Verlatenland, contact them through his old tomes.
+- Porto was sent to recruit more. 
