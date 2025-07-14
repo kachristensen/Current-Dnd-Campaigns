@@ -9,4 +9,6 @@
 		- Rem paid for us, 3g for rooms
 		- Schwarz gave us 200g, said they were doing PR for Jonas
 	- West side of town was under siege a few years ago, hasn't recovered since
-	- 
+	- Girls went out while the boys rested, we explored town, we're in a rundown area, but there's a more classy area to the south, east residential, market in the center
+		- Outside of town there's a camp area for those with the plague
+		- West part abandoned/ruined
