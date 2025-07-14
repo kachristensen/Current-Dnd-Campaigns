@@ -95,6 +95,7 @@
 		- The rebels have been creating new weapons/mechanical constructs, mass-produced. 
 		- Schwarz told the thing to cease, but it was still looking at Rem. It let us pass. 
 		- They're called Blade Dolls. 
+		- 
 
 
 - Vethitov = my love (Draconic)
