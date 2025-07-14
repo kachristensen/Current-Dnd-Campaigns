@@ -28,4 +28,4 @@
 			- Porto has a grudge against Jonas for summoning him and holding him here.
 		- Lewis said he'd let him come if I took responsibility for him. If Porto did anything, Lewis would annihilate him.
 		- Porto said he won't bind himself to me, he's betrothed to another. But agreed to accompany us to see Jonas through. I plucked a feather from Porto and kissed it. I dispelled the circle and 
-- Annica was being attacked by a werewolf outside. Hairless, secomortis plague. Jonas was running towards us, waving an arm and yelling at us to stop.
+- Annica was being attacked by a werewolf outside. Hairless, secomortis plague. Jonas was running towards us, waving an arm and yelling at us to stop. 
