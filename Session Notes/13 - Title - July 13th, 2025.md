@@ -22,4 +22,5 @@
 		- Experimentation room, Rem also sensed a fiendish vibe from black liquid - Test Serum F. Last person to take it was Jonas himself.
 		- Something from a cage burst out and ate some food, destroyed stuff. 2 dead bodies, old and rotted. One near an incinerator.
 	- Crow - named Porto. He was summoned here to provide information. I suggested we join forces, wanted to be friends. He's a demon.
-		- 
+		- Rem wants to smite him.
+		- Porto is here to find strong individuals 
