@@ -21,4 +21,5 @@
 		- fiendish crow--doesn't look familiar with me but the rune are abyssal, meant to contain. Spoke to us somehow telepathically? Asked for its freedom from the cage and spell trapping it
 		- Experimentation room, Rem also sensed a fiendish vibe from black liquid - Test Serum F. Last person to take it was Jonas himself.
 		- Something from a cage burst out and ate some food, destroyed stuff. 2 dead bodies, old and rotted. One near an incinerator.
-	- Crow - named Porto. He was summoned here to provide information. 
+	- Crow - named Porto. He was summoned here to provide information. I suggested we join forces, wanted to be friends. He's a demon.
+		- 
