@@ -37,4 +37,5 @@
 	- Jonas infected himself with demon blood, I haven't heard of this before. 
 		- The lycanthropy is different.
 	- He made a deal for knowledge and Porto was sent to him. He asked for a cure, once a cure was found he was to seek out the one he made a deal with--he only knows they're in the great chasm north of here, Verlatenland, contact them through his old tomes.
-- Porto was sent to recruit more. 
+	- Porto was sent to recruit more. 
+	- Rem shoved Jonas and baited him into transformed into a massive demonic form, something new I haven't seen before.
