@@ -23,4 +23,5 @@
 		- Something from a cage burst out and ate some food, destroyed stuff. 2 dead bodies, old and rotted. One near an incinerator.
 	- Crow - named Porto. He was summoned here to provide information. I suggested we join forces, wanted to be friends. He's a demon.
 		- Rem wants to smite him.
-		- Porto is here to find strong individuals 
+		- Porto is here to find strong individuals. He was summoned to consultation to celestial plague, his blood is used to counteract. Experiments went bad, upstairs destroyed, prisoner escaped.
+		- Jonas was his captor, another prisoner. The one in the cage fled a few days ago, but they've been down here for months, starving. Jonas came briefly. Porto said he could leave it to us. I asked if it was any demon blood that could help, or just his.
