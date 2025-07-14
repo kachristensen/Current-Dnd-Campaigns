@@ -17,3 +17,5 @@
 	- We bought Lewis plate and 1 revivify
 	- Jonas's house
 		- footprints, fresh blood, broken up and destroyed, once set on fire
+		- busted trapdoor like something emerged from within
+		- 
