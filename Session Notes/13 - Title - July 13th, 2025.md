@@ -27,4 +27,5 @@
 		- Jonas was his captor, another prisoner. The one in the cage fled a few days ago, but they've been down here for months, starving. Jonas came briefly. Porto said he could leave it to us. I asked if it was any demon blood that could help, or just his.
 			- Porto has a grudge against Jonas for summoning him and holding him here.
 		- Lewis said he'd let him come if I took responsibility for him. If Porto did anything, Lewis would annihilate him.
-		- Porto said he won't bind himself to me, he's betrothed to another.
+		- Porto said he won't bind himself to me, he's betrothed to another. But agreed to accompany us to see Jonas through. I plucked a feather from Porto and kissed it. I dispelled the circle and 
+- 
