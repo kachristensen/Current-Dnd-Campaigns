@@ -7,6 +7,6 @@
 - Lena village
 	- Schwarz led us to The Rusty Nail inn, keeper is Willy
 		- Rem paid for us, 3g for rooms
-		- Schwarz 
+		- Schwarz gave us 200g, said they were doing PR for Jonas
 	- West side of town was under siege a few years ago, hasn't recovered since
 	- 
