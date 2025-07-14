@@ -15,4 +15,5 @@
 		- Temple with pantheon + St. Imelda - Karz
 - Next day
 	- We bought Lewis plate and 1 revivify
-	- 
+	- Jonas's house
+		- footprints, fresh blood
