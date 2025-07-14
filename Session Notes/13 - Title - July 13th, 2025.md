@@ -7,3 +7,6 @@
 - Lena village
 	- Schwarz led us to The Rusty Nail inn, keeper is Willy
 		- Rem paid for us, 3g for rooms
+		- Schwarz 
+	- West side of town was under siege a few years ago, hasn't recovered since
+	- 
