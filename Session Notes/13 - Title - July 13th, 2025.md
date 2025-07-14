@@ -14,4 +14,5 @@
 		- West part abandoned/ruined
 		- Temple with pantheon + St. Imelda - Karz
 - Next day
+	- We bought Lewis plate and 1 revivify
 	- 
