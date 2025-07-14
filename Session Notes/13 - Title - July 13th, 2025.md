@@ -13,4 +13,5 @@
 		- Outside of town there's a camp area for those with the plague
 		- West part abandoned/ruined
 		- Temple with pantheon + St. Imelda - Karz
-		- 
+- Next day
+	- 
