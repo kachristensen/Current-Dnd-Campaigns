@@ -12,3 +12,5 @@
 	- Girls went out while the boys rested, we explored town, we're in a rundown area, but there's a more classy area to the south, east residential, market in the center
 		- Outside of town there's a camp area for those with the plague
 		- West part abandoned/ruined
+		- Temple with pantheon + St. Imelda - Karz
+		- 
