@@ -18,4 +18,4 @@
 	- Jonas's house
 		- footprints, fresh blood, broken up and destroyed, once set on fire
 		- busted trapdoor like something emerged from within
-		- 
+		- fiendish crow--doesn't look familiar with me 
