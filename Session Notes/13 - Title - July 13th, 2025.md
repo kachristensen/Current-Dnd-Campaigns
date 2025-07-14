@@ -16,4 +16,4 @@
 - Next day
 	- We bought Lewis plate and 1 revivify
 	- Jonas's house
-		- footprints, fresh blood
+		- footprints, fresh blood, broken up and destroyed, once set on fire
