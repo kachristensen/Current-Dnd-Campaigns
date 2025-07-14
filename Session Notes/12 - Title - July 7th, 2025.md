@@ -95,7 +95,7 @@
 		- The rebels have been creating new weapons/mechanical constructs, mass-produced. 
 		- Schwarz told the thing to cease, but it was still looking at Rem. It let us pass. 
 		- They're called Blade Dolls. 
-		- 
+- Text RP: Jonas's hand can crush metal like paper. Was interested in Valindra and not racist
 
 
 - Vethitov = my love (Draconic)
