@@ -1,6 +1,6 @@
 ###### Day 7
 
-![[1 Desert Temple.png|center]]
+![[6 Barca.jpg|center]]
 
 ## Summary
 The party arrived at Barca. They met a girl named Sally inflicted with the secomortis plague, and fought off a large patrol of beastmen as they ventured in deeper. 
