@@ -1,9 +1,9 @@
 ###### Days 3-4
 
-![[1 Desert Temple.png|center]]
+![[2 Forest Campfire.jpg|center]]
 
 ## Summary
-The party proceeded to Ivarham, rested, conversed, and travelled forth. The next night, they defeated an ambush of yeth hounds.
+The party proceeded to Ivarham, rested, conversed, and travelled forth. The next night, they conversed with a cheshire cat, learned of the witch Yaluska the Mire, and defeated an ambush of yeth hounds sent by an unknown master.
 
 ## IC Synopsis - Tales from Persephone
 

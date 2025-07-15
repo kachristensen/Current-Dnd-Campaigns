@@ -1,4 +1,5 @@
 ###### Days 1-3
+
 ![[1 Rexum's Throne Room.png|center]]
 
 ## Summary
