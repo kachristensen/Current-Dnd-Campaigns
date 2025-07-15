@@ -1,4 +1,3 @@
-
 ###### Day 6
 
 ![[5 Hamlet.png|center]]
