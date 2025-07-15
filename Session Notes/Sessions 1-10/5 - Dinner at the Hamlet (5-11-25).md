@@ -5,7 +5,7 @@
 ## Summary
 The party returned the children home. Persephone prepared a captured beastman for return to the Obscura, but Rem mercy-killed it. The party dined with the grateful family and rested for the night.
 
-## IC Synopsis
+## IC Synopsis - Ria
 
 >A brief rest was taken to recover following the defeat of the cult idol. 
   Items recovered: Alchemist’s Fire, 2 flasks. Charlatan’s Die. Rusty Dragontooth Glaive (weak magic enchantment, possible advancement after further study/use). +1 Greatsword. 230 gp, divided evenly among party members.

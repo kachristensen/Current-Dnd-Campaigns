@@ -1,11 +1,49 @@
 
-###### Day 1
+###### Days 7-8
 
-![[1 Desert Temple.png|center]]
+![[6 Barca.jpg|center]]
 
-## IC Synopsis
+## Summary
+Continuing forth, the party came across captured prisoners being guarded by more beastmen. After resting, they returned to engage them in combat.
 
-> TODO
+## IC Synopsis - Tales from Persephone
+
+> **Pleasure, Peril, and Driving Beasts Feral**
+	Sheltering nearby with Sally afright
+	We soothed and persuaded her to take flight
+	Lewis’s prayer of healing
+	Left our loins erotically feeling
+	Before we set the house alight
+	\
+	Rem spoke to Valindra most considerately and tactfully
+	And urged her to heed and contribute to strategy 
+	She revived Wuffi before we slipped away
+	To find a safe haven to wait out the day
+	And slunk northwest most deftly and agilely
+	\
+	Along the way we came across survivors encaged
+	With guards and sentries and a colossus enraged
+	Valindra and I
+	Took position to spy
+	Then snuck away and disengaged
+	\
+	On our way returning, we were waylaid
+	By a group of beastmen who howled and bayed
+	Before I could tease
+	Valindra dropped to her knees
+	And pleasured them until they sprayed
+	\
+	We continued unburdened back to our group
+	To strategize and plot and rest and recoup
+	Lewis upgraded his armor
+	Fondling Rem the charmer
+	Until his greatsword quivered and drooped
+	\
+	We returned to the prisoners on the next night 
+	Pitting spell and blade against claw and bite
+	With their numbers numerous
+	And their members voluminous
+	The beastmen came at the sight 
 
 ## Notes
 - Prayer of Healing  

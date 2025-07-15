@@ -1,5 +1,5 @@
 
-###### Day 1
+###### Day 8
 
 ![[1 Desert Temple.png|center]]
 
