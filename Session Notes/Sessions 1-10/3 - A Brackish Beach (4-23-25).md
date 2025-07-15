@@ -1,9 +1,9 @@
 ###### Day 5
 
-![[1 Desert Temple.png|center]]
+![[3 Beach.png | center]]
 
 ## Summary
-Continuing through the forest, the party navigated a river crossing full of crocodiles, spoke to the cheshire cat again, and enjoyed a respite at a brackish beach.
+Continuing through the forest, the party navigated a river crossing full of crocodiles, spoke to the cheshire cat again, and enjoyed a respite at a beach upon exiting.
 
 ## IC Synopsis - Valindra
 
