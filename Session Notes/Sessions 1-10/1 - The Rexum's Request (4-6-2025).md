@@ -1,9 +1,8 @@
-
 ###### Days 1-3
 ![[1 Rexum's Throne Room.png|center]]
 
 ## Summary
-The party assembles to answer the Rexum's quest--to find and deliver all 5 artifacts of the gods. With Grand Vizier Tharon instructing them, they took a cart south and lost one driver to a massive bear.
+The party assembles to answer the Rexum's quest--to find and deliver all 5 artifacts of the gods. With Grand Vizier Tharon instructing them, they took a cart south and defeated a massive, enraged bear who killed one of their drivers.
 
 ## IC Synopsis - Rem's Recollection
 

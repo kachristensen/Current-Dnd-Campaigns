@@ -1,7 +1,9 @@
-
 ###### Days 3-4
 
 ![[1 Desert Temple.png|center]]
+
+## Summary
+The party proceeded to Ivarham, rested, conversed, and travelled forth. The next night, they defeated an ambush of yeth hounds.
 
 ## IC Synopsis - Tales from Persephone
 
