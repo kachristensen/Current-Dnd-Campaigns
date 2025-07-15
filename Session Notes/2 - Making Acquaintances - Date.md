@@ -1,5 +1,5 @@
 
-###### Day 1
+###### Days 3-4
 
 ![[1 Desert Temple.png|center]]
 
