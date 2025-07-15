@@ -1,9 +1,9 @@
 
-###### Day 1
-
-![[1 Desert Temple.png|center]]
+###### Days 1-3
+![[1 Rexum's Throne Room.png|center]]
 
 ## Summary
+
 
 ## IC Synopsis - Rem's Recollection
 
