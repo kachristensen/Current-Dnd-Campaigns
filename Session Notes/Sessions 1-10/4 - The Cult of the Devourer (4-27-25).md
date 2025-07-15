@@ -1,7 +1,7 @@
 
 ###### Day 6
 
-![[1 Desert Temple.png|center]]
+![[4 Cult of the Devourer.jpg|center]]
 
 ## Summary
 The party came across a family whose children had been kidnapped by a cult of cannibals. They tracked them down, rescued the children, and slew the Mouth of the Devourer.
