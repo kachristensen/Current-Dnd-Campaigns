@@ -1,7 +1,9 @@
-
 ###### Day 8
 
-![[1 Desert Temple.png|center]]
+![[6 Barca.jpg|center]]
+
+## Summary
+Continuing forth, the party came across captured prisoners being guarded by more beastmen. After resting, they returned to engage them in combat.
 
 ## IC Synopsis
 

@@ -1,4 +1,3 @@
-
 ###### Days 7-8
 
 ![[6 Barca.jpg|center]]
