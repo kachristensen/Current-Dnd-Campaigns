@@ -67,6 +67,7 @@ L6 Bard
 
 L7 Bard
 - Countercharm
+- Sending -> Dimension Door
 - Polymorph
 
 L8 Bard
