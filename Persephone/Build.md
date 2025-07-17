@@ -71,5 +71,4 @@ L7 Bard
 - Polymorph
 
 L8 Bard
-- Dimension Door
 - Feat: 
