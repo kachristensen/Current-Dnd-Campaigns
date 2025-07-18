@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Persephone/Build.md",
+                "file": "Session Notes/11 - Title (6-29-25).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Build"
+              "title": "11 - Title (6-29-25)"
             }
           }
         ]
@@ -165,13 +165,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "78fdf2c31044a314",
   "lastOpenFiles": [
     "Session Notes/10 - Title (6-15-25).md",
     "Session Notes/Sessions 1-10/9 - The Beastmen of Barca IV (6-8-25).md",
+    "References/Loot/Etifa's Heart.png",
+    "References/Loot/Hand of the Living God.png",
+    "Persephone/Build.md",
+    "References/Loot",
     "Session Notes/Sessions 1-10/8 - The Beastmen of Barca III (6-1-25).md",
     "Session Notes/Sessions 1-10/7 - The Beastmen of Barca II (5-25-25).md",
     "Session Notes/Sessions 1-10/6 - The Beastmen of Barca I (5-18-25).md",
@@ -200,14 +207,10 @@
     "References/Images/Unconfirmed 25207.crdownload",
     "References/Images",
     "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
-    "Pasted image 20250601215646.png",
-    "Pasted image 20250601220852.png",
     "2025-06-29.md",
-    "Persephone/Build.md",
     "References/The Demonic Age & Session 0.md",
     "Persephone/Songs and Poems/Misc.md",
     "Session Notes/Rebel Lies.md",
-    "Persephone/Songs and Poems",
     "Persephone/Backstory.md",
     "Pasted image 20250601215644.png",
     "Session Notes/S1 - Title - Date - Copy (9).md",
