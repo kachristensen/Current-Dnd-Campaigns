@@ -1,4 +1,3 @@
-
 ###### Days 9 - 11
 
 ![[1 Desert Temple.png|center]]
