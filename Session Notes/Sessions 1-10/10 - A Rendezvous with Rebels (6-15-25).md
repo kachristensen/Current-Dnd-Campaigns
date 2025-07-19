@@ -1,6 +1,6 @@
 ###### Days 9 - 11
 
-![[1 Desert Temple.png|center]]
+![[10 Battlefield.webp|center]]
 
 ## Summary
 The party continued northeast back through the forest towards rebel territory, where they rescued a survivor of a skirmish, Connor, pinned down under his horse.
