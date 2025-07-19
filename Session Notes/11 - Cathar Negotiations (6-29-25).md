@@ -1,6 +1,6 @@
 ###### Day 11
 
-![[1 Desert Temple.png|center]]
+![[11 Encampment.webp|center]]
 
 ## Summary
 The party met with The Freedom Force Five and Captain Schwarz Bruner. In exchange for a writ of passage through rebel territory, they agreed to try and rescue the other members being held as prisoners of war at a nearby Dominion encampment. Rem led negotiations with Lord Aaron von Krieger, a fellow Cathar, and learned of the prisoner Dr. Jonas Haizner's attempts to negate the secomortis plague.
