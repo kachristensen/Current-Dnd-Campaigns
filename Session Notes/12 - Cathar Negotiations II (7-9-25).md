@@ -1,6 +1,6 @@
 ###### Days 11-12
 
-![[1 Desert Temple.png|center]]
+![[11 Encampment.webp|center]]
 
 ## Summary
 Rem was successful in negotiating for the release of the prisoners. The party returned to the rebels to collect their reward, and travelled further with them to the town of Lena.
