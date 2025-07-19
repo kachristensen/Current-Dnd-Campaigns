@@ -1,3 +1,13 @@
+###### Days 12-13
+
+![[1 Desert Temple.png|center]]
+
+## Summary
+At his home in Lena village, the party discovered Jonas's experiments negating the Secomortis plague with the use of lycanthropy and demon blood. Freeing his imprisoned demonic summon, Porto, the party slew one of Jonas's patients transformed into a werewolf. At Jonas's behest they tracked down the remaining three and rendered them unconscious. Rem provoked Jonas into transforming into a massive demonic creature.
+
+## IC Synopsis - Valindra
+
+>
 
 - Jonas's continued conversation with Valindra
 	- Lena village is where he initially set up shop, he had a lab, will probably need some aid recovering some assets

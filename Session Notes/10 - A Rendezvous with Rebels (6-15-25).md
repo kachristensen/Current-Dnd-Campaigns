@@ -4,7 +4,7 @@
 ![[1 Desert Temple.png|center]]
 
 ## Summary
-Over the course of their rest, the party discussed events together. Persephone was caught rummaging through Rem's things. Zidara, a servant of the living god, observed them and was questioned about her origins from across the sea. They received instructions from Tharon over the remaining artifacts to pursue and proceeded forward.
+The party continued northeast back through the forest towards rebel territory, where they rescued a survivor of a skirmish, Connor, pinned down under his horse.
 
 ## IC Synopsis - Ria
 

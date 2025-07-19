@@ -1,7 +1,9 @@
-
-###### Day 1
+###### Days 11-12
 
 ![[1 Desert Temple.png|center]]
+
+## Summary
+Rem was successful in negotiating for the release of the prisoners. The party returned to the rebels to collect their reward, and travelled further with them to the town of Lena.
 
 ## IC Synopsis - Tales from Persephone
 
