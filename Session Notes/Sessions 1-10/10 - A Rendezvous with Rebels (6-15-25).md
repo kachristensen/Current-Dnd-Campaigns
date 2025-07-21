@@ -1,7 +1,9 @@
+###### Days 9 - 11
 
-###### Day 9
+![[10 Battlefield.webp|center]]
 
-![[1 Desert Temple.png|center]]
+## Summary
+The party continued northeast back through the forest towards rebel territory, where they rescued a survivor of a skirmish, Connor, pinned down under his horse.
 
 ## IC Synopsis - Ria
 

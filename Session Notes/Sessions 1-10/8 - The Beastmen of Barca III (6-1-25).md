@@ -74,8 +74,8 @@ The party rescued the prisoners and spoke with the Living God on his motives, le
 			- While wearing this armor, you can use it to cast either Speak with Dead or Animate Dead. Once the armor has cast a spell in this way, it can't cast either spell until the next dawn. Your soul keeps this armor together. If you die while you are attuned to the armor, the armor is destroyed.  The wearer has Disadvantage on Dexterity (Stealth) checks.
 	- Javelin of Lightning
 	- Pearl of Power
-	- ![[Pasted image 20250601215646.png]]
-- ![[Pasted image 20250601220852.png]]
+	- ![[Hand of the Living God.png]]
+- ![[Etifa's Heart.png]]
 	- Pearl went to Ria, I gave the hand to Lewis, Valindra got the Javelin, Rem got the half plate and the heart.
 - Rem went to talk with Sally outside, tender moment. Said he truly doesn't think there's a good option. Spoke of his family and village, and the treatment. Said there wasn't any good options. Spoke of killing her.
 	- Sally asked what if his mother was right. Asked what he would do. Rem said he would choose to die. She said freedom to be herself. Not feel trapped anymore. But she's not ready yet. He said that she risked being trapped in her own body. 

@@ -13,15 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/13 - Title (7-13-25).md",
+                "file": "Session Notes/Sessions 1-10/3 - Crocodiles and the Beach (4-23-25).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 - Title (7-13-25)"
+              "title": "3 - Crocodiles and the Beach (4-23-25)"
+            }
+          },
+          {
+            "id": "21fdbbe11eae0584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/13 - Jonas's Unholy Affliction (7-13-25).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 - Jonas's Unholy Affliction (7-13-25)"
+            }
+          },
+          {
+            "id": "1dc38aef524eff76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Sessions 1-10/9 - The Beastmen of Barca IV (6-8-25).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 - The Beastmen of Barca IV (6-8-25)"
+            }
+          },
+          {
+            "id": "f57e1bfd820d3597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persephone/Backstory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backstory"
+            }
+          },
+          {
+            "id": "03788d3812c193e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Sessions 1-10/9 - The Beastmen of Barca IV (6-8-25).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 - The Beastmen of Barca IV (6-8-25)"
+            }
+          },
+          {
+            "id": "fe31302fbc1f2a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -171,52 +242,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78fdf2c31044a314",
+  "active": "fe31302fbc1f2a22",
   "lastOpenFiles": [
-    "Session Notes/Sessions 1-10/3 - Crocodiles and the Beach (4-23-25).md",
+    "Session Notes/Sessions 1-10/9 - The Beastmen of Barca IV (6-8-25).md",
+    "conflict-files-obsidian-git.md",
+    "Persephone/Backstory.md",
+    "Persephone/Build.md",
+    "Session Notes/Sessions 1-10/10 - A Rendezvous with Rebels (6-15-25).md",
+    "Session Notes/11 - Cathar Negotiations I(6-29-25).md",
+    "Session Notes/12 - Cathar Negotiations II (7-9-25).md",
+    "Session Notes/13 - Jonas's Unholy Affliction (7-13-25).md",
+    "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
     "Session Notes/Sessions 1-10/2 - Making Acquaintances (4-13-25).md",
+    "Persephone/Songs and Poems/Misc.md",
+    "Persephone/Songs and Poems/The Age of All Knowledge.md",
+    "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
+    "References/Loot/Hand of the Living God.png",
+    "References/Loot/Etifa's Heart.png",
+    "References/At the Rexum's Behest.pdf",
+    "References/The Demonic Age & Session 0.md",
+    "Session Notes/Sessions 1-10/3 - Crocodiles and the Beach (4-23-25).md",
     "Session Notes/Sessions 1-10/4 - The Cult of the Devourer (4-27-25).md",
+    "Session Notes/Sessions 1-10/5 - Dinner at the Hamlet (5-11-25).md",
     "Session Notes/Sessions 1-10/6 - The Beastmen of Barca I (5-18-25).md",
     "Session Notes/Sessions 1-10/7 - The Beastmen of Barca II (5-25-25).md",
     "Session Notes/Sessions 1-10/8 - The Beastmen of Barca III (6-1-25).md",
-    "Session Notes/Sessions 1-10/9 - The Beastmen of Barca IV (6-8-25).md",
+    "Session Notes/13 - Title (7-13-25).md",
+    "References/Loot",
+    "Images/6 Barca.jpg",
+    "Images/5 Hamlet.png",
+    "Images/4 Cult of the Devourer.jpg",
+    "Images/3 Beach.png",
+    "Images/2 Forest Campfire.jpg",
+    "Images/12 Jonas's Lab.jpg",
+    "Images/11 Encampment.webp",
+    "Images/10 Battlefield.webp",
+    "Images",
     "Session Notes/10 - Title (6-15-25).md",
     "Session Notes/11 - Title (6-29-25).md",
     "Session Notes/12 - Title (7-9-25).md",
-    "Session Notes/13 - Title (7-13-25).md",
-    "Session Notes/Sessions 1-10/5 - Dinner at the Hamlet (5-11-25).md",
-    "Persephone/Build.md",
-    "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
-    "References/Images/6 Barca.jpg",
     "References/Images/Unconfirmed 82092.crdownload",
-    "References/Images/5 Hamlet.png",
     "References/Images/Unconfirmed 59135.crdownload",
-    "Persephone/Songs and Poems/The Age of All Knowledge.md",
-    "References/Images/4 Cult of the Devourer.jpg",
     "References/Images/Unconfirmed 14516.crdownload",
-    "References/Images/3 Beach.png",
     "References/Images/Unconfirmed 841929.crdownload",
-    "References/Images/2 Forest Campfire.jpg",
     "References/Images/Unconfirmed 300664.crdownload",
     "Session Notes/Sessions 1-10",
-    "References/Images/1 Rexum's Throne Room.png",
-    "References/At the Rexum's Behest.pdf",
     "References/Images/Unconfirmed 25207.crdownload",
-    "References/Images",
-    "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
-    "Pasted image 20250601215646.png",
-    "Pasted image 20250601220852.png",
     "2025-06-29.md",
-    "References/The Demonic Age & Session 0.md",
-    "Persephone/Songs and Poems/Misc.md",
-    "Session Notes/Rebel Lies.md",
-    "Persephone/Songs and Poems",
-    "Persephone/Backstory.md",
-    "Pasted image 20250601215644.png",
-    "Session Notes/S1 - Title - Date - Copy (9).md",
-    "Session Notes/S1 - Title - Date - Copy (8).md",
-    "Persephone.md",
-    "README.md",
-    "References/Lore/Maps/Revas.jpg"
+    "Session Notes/Rebel Lies.md"
   ]
 }

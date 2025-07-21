@@ -1,9 +1,11 @@
+###### Days 11-12
 
-###### Day 1
+![[11 Encampment.webp|center]]
 
-![[1 Desert Temple.png|center]]
+## Summary
+Rem was successful in negotiating for the release of the prisoners. The party returned to the rebels to collect their reward, and travelled further with them to the town of Lena.
 
-## IC Synopsis - Persephone
+## IC Synopsis - Tales from Persephone
 
 >*Tales from Persephone*
  **Of Bargains and Blade Dolls**
