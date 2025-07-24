@@ -53,4 +53,4 @@
 	- I sent Lord Aaron a message about Jonas's cure and let him know we killed him and destroyed it. He gave his approval.
 - I talked to Rem in the morning.
 	- Asked what he senses on me, faintly fiendish. Now he also senses it on himself, conflicting with the celestial.
-	- Lewis cast Remove Curse on Rem, nothing happened.
+	- Lewis cast Remove Curse on Rem, nothing happened. Told him to wait until the full moon. Said he would take care of Rem, he wasn't going to lose anyone. 
