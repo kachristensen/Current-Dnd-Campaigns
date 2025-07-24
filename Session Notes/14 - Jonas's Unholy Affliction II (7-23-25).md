@@ -50,3 +50,4 @@
 	- We long rested, Valindra and I kept watch. 
 		- Rem had a dream. Urge to run, on all fours. Feels right, like it's always been natural.
 		- Rem's hair has grown an inch and he has an inch of facial hair.
+	- I sent Lord Aaron a message about Jonas's cure and 
