@@ -17,4 +17,4 @@
 - We headed back to the lab.  
 	- Remove curse - requires being done under a full moon, DC 17 constitution. 18 days until the next full moon.
 	- I took his grimoires about demon kind, mostly legends about them being violent lords, and the dragons destroying them. Rumors that the demons went underground after. To summon them, you must perform a ritual, blood sacrifice, will let you contact a higher level demon. I took all grimoires mentioning anything about it. 
-	- Lewis tossed some holy water on Rem. Rem put himself in a cage. 
+	- Lewis tossed some holy water on Rem. Rem put himself in a cage. Rem cast Speak with Dead on Jonas.
