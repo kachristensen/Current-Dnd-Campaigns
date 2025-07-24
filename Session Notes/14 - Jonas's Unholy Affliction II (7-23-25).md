@@ -46,3 +46,7 @@
 	- Rem doesn't want to leave. I told him we should leave for somewhere less populated. I told him he will be ok, I can help manage his emotions, he'll have to let me in, I won't do anything without his consent.
 	- We stayed the night. Rem stayed in the cell. Valindra and I kept watch, I stayed in the cell too.
 	- We incinerated the bodies.
+- Night
+	- We long rested, Valindra and I kept watch. 
+		- Rem had a dream. Urge to run, on all fours. Feels right, like it's always been natural.
+		- Rem's hair has grown an inch and he has an inch of facial hair.
