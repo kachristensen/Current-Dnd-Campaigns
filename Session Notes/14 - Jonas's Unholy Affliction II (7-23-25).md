@@ -1,4 +1,4 @@
-###### Days 12-13
+###### Days 13-14
 
 ![[12 Jonas's Lab.jpg|center]]
 
@@ -56,3 +56,4 @@
 	- Lewis cast Remove Curse on Rem, nothing happened. Told him to wait until the full moon. Said he would take care of Rem, he wasn't going to lose anyone. 
 	- I talked to Lewis in the morning, said Demons are capable of change. Lewis apologized for being brash. Also thinking about the hand. He said he would take my words into consideration. I asked about the hand, if he made a decision about it. Lewis feels guilty about not using the hand, maybe he could have prevented the outcome of the fight, Rem getting infected.
 	- I smacked Lewis on the shoulder and cheered him up, encouraged him that we would be okay. Rem also agreed. As did Ria. We told him he didn't need the hand.  
+- Journeyed to Maghaven, next 3 days, scenic route.
