@@ -37,4 +37,5 @@
 		- Valindra said the dragons would rise to stop them.
 		- Porto wants to know what Valindra desires and wants. 
 		- Valindra asked if Mastenovti had come into any recent artifacts, I downplayed it.
-		- I asked Porto in Abyssal 
+		- I asked Porto in Abyssal why I am here, he said "Curious. Could get answer, but need something in return." Asked us to work for his master, he could give us 
+		- He asked for something to find us all with. I handed him one of Mel's scales. 
