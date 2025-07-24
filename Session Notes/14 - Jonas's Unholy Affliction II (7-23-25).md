@@ -36,4 +36,4 @@
 		- I asked if Porto wanted to serve me, he said no, when the demons take over he will be rewarded from Mastenovti.
 		- Valindra said the dragons would rise to stop them.
 		- Porto wants to know what Valindra desires and wants. 
-		- Valindra asked 
+		- Valindra asked if Mastenovti had come into any recent artifacts, 
