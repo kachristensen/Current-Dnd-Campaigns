@@ -32,4 +32,4 @@
 	- Porto
 		- Mastenovti desires to create soldiers to retake what is theirs. He + 3 Demon lords are left, I got their names.
 		- I asked if Porto was alive during the demonic age. He said no. He was created during the Age of Ash. I asked if he was a quasit, he said yes, somewhat unique. 
-		- 
+		- Connection to the abyss is still tenuous, the ancient demons grow old. 
