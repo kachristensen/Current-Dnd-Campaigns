@@ -43,4 +43,6 @@
 	- I dissected Jonas. He was rotting on the inside. No secomortis plague.
 - Valindra asked Rem why he shoved Jonas. Bc Jonas was a liability, was going to burst into a rage. 
 	- I asked if Rem wanted me to inform Aaron of what we found. He said sure.
-	- Rem doesn't want to leave. I told him we should leave for somewhere less populated. I told him he will be ok, I can help manage his emotions, he'll have to let me in, I won't 
+	- Rem doesn't want to leave. I told him we should leave for somewhere less populated. I told him he will be ok, I can help manage his emotions, he'll have to let me in, I won't do anything without his consent.
+	- We stayed the night. Rem stayed in the cell. Valindra and I kept watch, I stayed in the cell too.
+	- We incinerated the bodies.
