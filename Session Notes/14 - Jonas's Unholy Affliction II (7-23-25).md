@@ -54,4 +54,5 @@
 - I talked to Rem in the morning.
 	- Asked what he senses on me, faintly fiendish. Now he also senses it on himself, conflicting with the celestial.
 	- Lewis cast Remove Curse on Rem, nothing happened. Told him to wait until the full moon. Said he would take care of Rem, he wasn't going to lose anyone. 
-	- I talked to Lewis in the morning, said Demons are capable of change. Lewis apologized for being brash. Also thinking about the hand. 
+	- I talked to Lewis in the morning, said Demons are capable of change. Lewis apologized for being brash. Also thinking about the hand. He said he would take my words into consideration. I asked about the hand, if he made a decision about it. Lewis feels guilty about not using the hand, maybe he could have prevented the outcome of the fight, Rem getting infected.
+	- 
