@@ -50,4 +50,7 @@
 	- We long rested, Valindra and I kept watch. 
 		- Rem had a dream. Urge to run, on all fours. Feels right, like it's always been natural.
 		- Rem's hair has grown an inch and he has an inch of facial hair.
-	- I sent Lord Aaron a message about Jonas's cure and 
+	- I sent Lord Aaron a message about Jonas's cure and let him know we killed him and destroyed it. He gave his approval.
+- I talked to Rem in the morning.
+	- Asked what he senses on me, faintly fiendish. Now he also senses it on himself, conflicting with the celestial.
+	- Lewis cast Remove Curse on Rem, nothing happened.
