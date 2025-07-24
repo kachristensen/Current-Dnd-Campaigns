@@ -42,4 +42,5 @@
 		- Lewis tried to guiding bolt him, it hit but he survived. I tried to silvery barbs. We had an extremely heated conversation. I tried to persuade Lewis that demons weren't all evil, Lewis didn't care. Said he would shoot the next one I talked to immediately.
 	- I dissected Jonas. He was rotting on the inside. No secomortis plague.
 - Valindra asked Rem why he shoved Jonas. Bc Jonas was a liability, was going to burst into a rage. 
-	- I asked if Rem wanted me to inform Aaron of what we found. 
+	- I asked if Rem wanted me to inform Aaron of what we found. He said sure.
+	- Rem doesn't want to leave. 
