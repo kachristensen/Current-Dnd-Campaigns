@@ -5,7 +5,7 @@
 ## Summary
 
 
-## IC Synopsis - Valindra
+## IC Synopsis - 
 
 >
 
