@@ -15,4 +15,4 @@
 	- Rem was bit and infected with lycanthropy. Lewis can't help yet. 
 	- I took the silver out of Jonas's throat and handed it to Rem to kill the remaining lycanthropes. 
 - We headed back to the lab.  
-	- Remove curse - requires being done under a full moon, DC 17 constitution. 
+	- Remove curse - requires being done under a full moon, DC 17 constitution. 18 days until the next full moon.
