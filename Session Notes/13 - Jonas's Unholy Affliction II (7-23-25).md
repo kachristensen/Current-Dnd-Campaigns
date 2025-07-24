@@ -9,4 +9,4 @@
 
 >
 
-- 
+- Jonas turned into a massive demon lycanthrope thing, it regens. Blood frenzy. 
