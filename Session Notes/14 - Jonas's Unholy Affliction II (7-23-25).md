@@ -5,9 +5,31 @@
 ## Summary
 
 
-## IC Synopsis - 
+## IC Synopsis - Lewis
 
->
+>The air was thick with tension as the ground trembled under Joonas' monstrous form. His transformation complete, the corrupted werewolf loomed before them, claws glistening with malice. Rem strode forward, greatsword in hand, eyes locked on the abomination.
+  "Is this your true form?" Rem muttered with a crooked grin, steel already swinging through the air.
+  The blade cleaved into Jonas with a roar of impact—no holding back, no mercy. Flesh tore and blood sprayed. Before the beast could recover, Valindra lunged with her spear, striking with precision and fury, carving through sinew like a dancer through shadow. The two warriors cut deep, but Joonas retaliated in a blur, claws slashing wildly at Rem, staggering him.
+  Lewis rushed forward, desperately trying to keep Rem on his feet with a healing spell, but the ground quaked as Jonas leapt into the air. With devastating force, he crashed down, sending Rem, Valindra, and Lewis tumbling to the earth in a heap.
+  Persephone raised her hand and cast her magic, Sticking at Jonas’s mind—but it fizzled. The werewolf was resisting everything.
+  Ria's eyes narrowed. Her form shimmered, crackling with energy as she entered her full damage form. She unleashed a glowing Flaming sphere, slamming into Jonas and forcing him back.
+  Gritting his teeth, Rem pushed himself up from the rubble, a healing glow wrapping around his wounds. With a war cry of defiance, he charged once more, striking with relentless might. Valindra was beside him again, her spear a blur, pressing the attack with precision.
+  But Jonas, not finished yet, swiped with a massive claw at Valindra  as Perse with a silvery barbs distraction. The distraction allowed Valindra just enough time to dodge—but only barely. A deep gash still bloomed across her shoulder.
+  Lewis, unfazed, summoned his Aura of Vitality, radiant energy pulsing outward to shield and mend his allies. Yet Jonas was on the move again—his massive frame leaping across the battlefield—landing a brutal critical strike on Valindra that sent her reeling.
+  Perse tried to stop him, voice sharp with authority. “Kneel before your Queen!” she commanded.
+  But the monster was too far gone. He pushed through her words like wind, rage blinding him.
+  Ria struck again—Shocking Grasp lancing through Jonas’s hide, amplified by the lingering energy of her sphere. Sparks danced across the beast’s form.
+  With coordinated fury, Valindra and Rem struck in unison—steel and spear meeting flesh in a final, fatal crescendo. Jonas fell to his knees, growling, blood pouring from a dozen wounds.
+  But he would not die quietly.
+  Perse tossed a set of coils to Lewis—silver.  Understanding instantly, Lewis heated them with Heat Metal, melting them into molten death. He poured the searing liquid down onto Jonas’s mouth, burning through fur, flesh, and bone. The beast shrieked... then was silent.
+  But not all eyes were on Jonas. During the chaos, Portos had tried something—something on Valindra. Perse caught it, her voice cutting through the clash: “What the hell do you think you’re doing, Portos?”
+  The tension sizzled, even as victory loomed.
+  And as the other werewolves laid there unconscious. Rem turned with unshakable calm. With an ironic flair fitting only of him, he dispatched the last of them—not with blade nor fire—but with a silver dildo,Presephone made, swung with irreverent precision. The battlefield was quiet again. Smoke. Blood. Victory
+  We returned back to Jonas’s lab and discovered Rem is now cursed with lycanthropy. I craft two silver daggers, research a lycanthropy cure (finds it inconclusive), and use holy water on Rem’s cursed wound. The full moon is in 18 days, pressing the urgency of Rem’s condition. I also consider trading his soul or life to save Rem.
+  Rem speaks with the dead (Jonas), learns of a demon named Mastenovti Joonas worked with, and has a dream about running on all fours. He begins growing a beard, hinting at his transformation. As well revealed to have created Sample F, the last remnant of his lycanthropy cure research. No other living person knows about it.
+  Persephone seeks information on demon summoning and shows interest in probing Portos for knowledge.  Portos (a quasit) serves one of four major demons and was created during the Age of Ash. He hints the "Old Ones" will rise again. He had tried to probe Valindra for leverage during the fight.
+  Lewis attacks Portos with Guiding Bolt as the quasit leaves. Persephone is extremely upset with this and questions me on my morals as well as my unthinking actions.
+  We travel on the next day pushing away from the city
 
 - Jonas turned into a massive demon lycanthrope thing, it regens. Blood frenzy. 
 	- Porto cast something on Valindra mid combat, Detect Thoughts.
