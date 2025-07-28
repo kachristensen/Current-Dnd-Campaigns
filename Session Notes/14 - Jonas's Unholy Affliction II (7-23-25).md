@@ -57,3 +57,7 @@
 	- I talked to Lewis in the morning, said Demons are capable of change. Lewis apologized for being brash. Also thinking about the hand. He said he would take my words into consideration. I asked about the hand, if he made a decision about it. Lewis feels guilty about not using the hand, maybe he could have prevented the outcome of the fight, Rem getting infected.
 	- I smacked Lewis on the shoulder and cheered him up, encouraged him that we would be okay. Rem also agreed. As did Ria. We told him he didn't need the hand.  
 - Journeyed to Maghaven, next 3 days, scenic route.
+- Text RP
+	- Ria's scales were showing, some scarred, bronze
+		- Her family were dragon slayers in the Dawning Age, eventually became more political rather than slayers
+		- Valindra said Saj'jaka hid in the forest with his followers to survive, clairvoyant, was killed by humans
