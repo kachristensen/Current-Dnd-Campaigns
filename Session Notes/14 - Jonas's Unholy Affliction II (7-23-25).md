@@ -3,7 +3,7 @@
 ![[13 Jonas's Lab.jpg|center]]
 
 ## Summary
-
+The party slew the monstrously transformed Jonas with melted silver, questioned his corpse, re-inspected his lab, and questioned Porto. Lewis and Persephone shared a heated argument as he tried to kill Porto. Rem was infected with lycanthropy, and the party discussed pursuing a cure, then headed forward to Maghaven in the morning.
 
 ## IC Synopsis - Lewis
 
