@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bronze",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,14 +172,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03788d3812c193e6",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
-    "References/At the Rexum's Behest.pdf",
-    "References/Historical Timeline.md",
     "References/Demons.md",
-    "References/The Demonic Age & Session 0.md",
     "Session Notes/14 - Jonas's Unholy Affliction II (7-23-25).md",
     "Session Notes/13 - Jonas's Unholy Affliction (7-13-25).md",
+    "References/Historical Timeline.md",
+    "References/At the Rexum's Behest.pdf",
+    "References/The Demonic Age & Session 0.md",
     "Session Notes/12 - Cathar Negotiations II (7-9-25).md",
     "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
     "Session Notes/Sessions 1-10/6 - The Beastmen of Barca I (5-18-25).md",
