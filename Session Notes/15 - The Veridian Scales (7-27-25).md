@@ -1,12 +1,11 @@
-###### Days 13-14
+###### Day 14
 
-![[12 Jonas's Lab.jpg|center]]
+![[13 Jonas's Lab.jpg|center]]
 
 ## Summary
 
 
 ## IC Synopsis - 
-
 >
 
 - Forest clearing

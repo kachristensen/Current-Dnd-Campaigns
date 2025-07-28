@@ -1,6 +1,6 @@
 ###### Days 13-14
 
-![[12 Jonas's Lab.jpg|center]]
+![[13 Jonas's Lab.jpg|center]]
 
 ## Summary
 
