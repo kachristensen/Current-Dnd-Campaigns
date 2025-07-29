@@ -1,9 +1,9 @@
 ###### Day 14
 
-![[13 Jonas's Lab.jpg|center]]
+![[14 Forest.jpg|center]]
 
 ## Summary
-
+The party slew a young green dragon and a band of the Veridian Scales, then spoke with one of Ria's cousins and fellow dragon slayers, Vera Fontaine.
 
 ## IC Synopsis - 
 >Journey to Maghaven interrupted by an encounter with a juvenile dragon (green). Party elected to engage to remove the pest. We were unable to take the dragon by surprise, and were attacked by another group during the engagement: humans, four foot soldiers, two mages. Notably, the group engaged with the dragon as well as our party. 
