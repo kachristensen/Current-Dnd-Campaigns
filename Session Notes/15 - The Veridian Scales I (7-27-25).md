@@ -14,8 +14,7 @@
   Possible adult dragon (black, unconfirmed) in the area, per rumors relayed by Fontaine. Our mission remains more pressing, but we were given the location of Fontaine’s encampment to the north. Party members aside from Valindra responded poorly to Fontaine. Collaboration unlikely. Success engaging on our own, if adult age confirmed, also unlikely.
   Party converged following Fontaine and company’s departure. Relayed the following information to party members: Drakesbane family history in relation to the slaying of an ancient bronze dragon (confirmed to be Valindra’s Lord Sajj’aka), means by which power was claimed from the ancient bronze dragon, deterioration of claimed power in descendants before manifesting in myself. 
   Informed party member Valindra has consumed blood from this dragon. Source and means of procurement unknown; possibly kept by the Veridian Scale cult as a relic(?) Will attempt to collaborate with Persephone to dissuade Valindra from the goal of resurrecting the dragon Sajj’aka. 
-
-Elimination of remaining Veridian Scale sect deemed a priority. Speak with Dead spell cast by Rembrandt to gather information: camp location, remaining numbers (7). Approach imminent, with intent to engage following scouting.
+  Elimination of remaining Veridian Scale sect deemed a priority. Speak with Dead spell cast by Rembrandt to gather information: camp location, remaining numbers (7). Approach imminent, with intent to engage following scouting.
 
 - Forest clearing
 	- We came across a young green dragon feasting on an elk
