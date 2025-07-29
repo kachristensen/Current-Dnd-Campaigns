@@ -6,7 +6,16 @@
 
 
 ## IC Synopsis - 
->
+>Journey to Maghaven interrupted by an encounter with a juvenile dragon (green). Party elected to engage to remove the pest. We were unable to take the dragon by surprise, and were attacked by another group during the engagement: humans, four foot soldiers, two mages. Notably, the group engaged with the dragon as well as our party. 
+  Majority of hostile focus fell on Rembrandt during battle. Crowd control managed by Persephone. Healing support provided by Lewis. Casters Silenced by Valindra. Of note: enemy casters capable of powerful spells, including Mass Cure Wounds and Flame Strike, as well as strong radiant attacks. Foot soldiers displayed unusual speed in maneuvering. Dragon and human attackers were felled with no casualties in our party. Surrender offered to and rejected by the last caster standing. 
+  Post engagement observations by Valindra: secondary attackers belonged to the Veridian Scale cult, and a third party observed our engagement with them from nearby cover.
+  Three individuals total, led by the hunter Vera Fontaine. Fontaine claimed to have been hunting the dragon, but surrendered claim to spoils. Dragon heart purchased from the party for 500gp, and promptly consumed by Fontaine. Scales harvested by Lewis and kept for potential use by the party. 
+  Of note: dragon heart partially consumed by party member Valindra. Will be monitoring for results. The dragon tooth glaive wielded by Valindra also seems to have had some response to contact and/or the killing of the dragon.
+  Possible adult dragon (black, unconfirmed) in the area, per rumors relayed by Fontaine. Our mission remains more pressing, but we were given the location of Fontaine’s encampment to the north. Party members aside from Valindra responded poorly to Fontaine. Collaboration unlikely. Success engaging on our own, if adult age confirmed, also unlikely.
+  Party converged following Fontaine and company’s departure. Relayed the following information to party members: Drakesbane family history in relation to the slaying of an ancient bronze dragon (confirmed to be Valindra’s Lord Sajj’aka), means by which power was claimed from the ancient bronze dragon, deterioration of claimed power in descendants before manifesting in myself. 
+  Informed party member Valindra has consumed blood from this dragon. Source and means of procurement unknown; possibly kept by the Veridian Scale cult as a relic(?) Will attempt to collaborate with Persephone to dissuade Valindra from the goal of resurrecting the dragon Sajj’aka. 
+
+Elimination of remaining Veridian Scale sect deemed a priority. Speak with Dead spell cast by Rembrandt to gather information: camp location, remaining numbers (7). Approach imminent, with intent to engage following scouting.
 
 - Forest clearing
 	- We came across a young green dragon feasting on an elk
