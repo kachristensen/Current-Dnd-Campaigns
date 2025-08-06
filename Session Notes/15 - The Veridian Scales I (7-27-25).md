@@ -57,3 +57,5 @@ The party slew a young green dragon and a band of the Veridian Scales, then spok
 		- Valindra says the VS always kept tabs on the DBs.
 - Lewis can make scale mail armor, will have some kind of immunity or resistance. Can also enhance Valindra's weapon.
 	- Valindra's glaive now does an extra 1d4 of poison damage per hit.
+- Text RP
+	- Valindra revealed she's been stalking Ria for 7 years to protect her
