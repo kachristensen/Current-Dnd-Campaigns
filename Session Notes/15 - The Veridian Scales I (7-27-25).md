@@ -3,9 +3,9 @@
 ![[14 Forest.jpg|center]]
 
 ## Summary
-The party slew a young green dragon and a band of the Veridian Scales, then spoke with one of Ria's cousins and fellow dragon slayers, Vera Fontaine.
+The party slew a young green dragon and a band of the Veridian Scales, then spoke with one of Ria's cousins and fellow dragon slayers, Vera Fontaine, who convinced Valindra to take a bite of its heart.
 
-## IC Synopsis - 
+## IC Synopsis - Ria
 >Journey to Maghaven interrupted by an encounter with a juvenile dragon (green). Party elected to engage to remove the pest. We were unable to take the dragon by surprise, and were attacked by another group during the engagement: humans, four foot soldiers, two mages. Notably, the group engaged with the dragon as well as our party. 
   Majority of hostile focus fell on Rembrandt during battle. Crowd control managed by Persephone. Healing support provided by Lewis. Casters Silenced by Valindra. Of note: enemy casters capable of powerful spells, including Mass Cure Wounds and Flame Strike, as well as strong radiant attacks. Foot soldiers displayed unusual speed in maneuvering. Dragon and human attackers were felled with no casualties in our party. Surrender offered to and rejected by the last caster standing. 
   Post engagement observations by Valindra: secondary attackers belonged to the Veridian Scale cult, and a third party observed our engagement with them from nearby cover.
