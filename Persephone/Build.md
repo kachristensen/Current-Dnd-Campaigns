@@ -71,4 +71,5 @@ L7 Bard
 - Polymorph
 
 L8 Bard
-- Feat: Resilient, Con
+- Resilient: Con
+- Raulothim's Psychic Lance
