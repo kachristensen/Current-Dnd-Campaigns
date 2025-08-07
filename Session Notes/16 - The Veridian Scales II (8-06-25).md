@@ -15,4 +15,4 @@
 	- We executed Valindra's controlled wyvern
 		- Rem has BI for the next hour
 		- We harvested 4 doses of wyvern poison
-		- We found a map to the black dragon's lair. Project Goldheart - they're gathering materials for it. Also found 270g  
+		- We found a map to the black dragon's lair. Project Goldheart - they're gathering materials for it. Also found 270g and 1 revivify.
