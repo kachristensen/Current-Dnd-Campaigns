@@ -12,3 +12,4 @@
 	- Rem used Necrotic Shroud
 	- Valindra used Etifa's heart to dominate monster the wyvern. One of the dudes mounted one and tried to flee, Valindra mounted hers and flew after it. Intense aerial combat. She managed to kill the drake.
 	- The wyverns were trained mounts of the VS. 5 int. Valindra wouldn't gain anything from consuming it's heart, but she considered it.
+	- We executed Valindra's controlled wyvern
