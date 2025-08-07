@@ -19,3 +19,4 @@
 - Short rest otw to Maghaven. At sunset, we arrived.
 	- Front gate guarded by soldiers. Rem showed them the writ that said we were trustworthy and had free passage from Schwartz Bruder.
 	- Guard asked why we were here, I said trade and to stay the night. Rem and Ria said we'd seek an audience with their leader. Recommended a tavern called the Ticking Tock. Mid-range. Lots of hoity toity types.
+	- Victorian style town, more modern compared to the smaller town's we've been to. Soldiers patrolling the streets at night. 
