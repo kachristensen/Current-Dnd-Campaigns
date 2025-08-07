@@ -19,7 +19,7 @@
 - Short rest otw to Maghaven. At sunset, we arrived.
 	- Front gate guarded by soldiers. Rem showed them the writ that said we were trustworthy and had free passage from Schwartz Bruder.
 	- Guard asked why we were here, I said trade and to stay the night. Rem and Ria said we'd seek an audience with their leader. Recommended a tavern called the Ticking Clock. Mid-range. Lots of hoity toity types.
-	- Victorian style town, more modern compared to the smaller town's we've been to. Soldiers patrolling the streets at night. Propaganda posters featuring a woman with glasses and a potion, to help the war effort and recruit members, Agnes.
+	- Victorian style town, more modern compared to the smaller town's we've been to. Soldiers patrolling the streets at night. Propaganda posters featuring a woman with glasses and a potion, to help the war effort and recruit members, Agnes. Something on her left wrist, similar to an artifact we're on the hunt for, Cirrepeti Scarificator, a vambrace.
 	- We got 2 premium suites, 5 gold a night for all of us. Dinner and wine.
 	- Perse asked Rem if mounting his horse was ok, he said they were compatible in combat, she teased him about being compatible elsewhere and about the granny on the other side of the bar, letting the wolf out, he said not to joke about it.
 	- 
