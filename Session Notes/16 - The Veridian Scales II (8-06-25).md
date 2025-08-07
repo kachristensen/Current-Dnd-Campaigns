@@ -23,5 +23,6 @@
 	- We got 2 premium suites, 5 gold a night for all of us. Dinner and wine.
 	- Perse asked Rem if mounting his horse was ok, he said they were compatible in combat, she teased him about being compatible elsewhere and about the granny on the other side of the bar, letting the wolf out, he said not to joke about it.
 	- Valindra suggested we find Vera and give her the dragon map. Lewis teased her about having a thing for her, she didn't know what that was, he said she doesn't know what love is. Ria doesn't think we should unless we mean to get involved. Ria suggested we slay it if it can ingratiate us with the rebels.
-	- We talked to Taryn, she's a seamstress who's only been here for 2-3 days. She made her own dress. She's here for business. We're accompanying Taryn to the market tomorrow.
-		- We asked around about Agnes, she's an inventor, artificer, magic shop.
+	- We talked to Taryn, she's a seamstress who's only been here for 2-3 days. She made her own dress. She's here for business. We're accompanying Taryn to the market tomorrow. She's a lesbian.
+		- We asked around about Agnes Welker, she's an inventor, artificer, magic shop.
+	- We're also going to meet with the mayor. Lewis asked about a messenger boy.
