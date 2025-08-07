@@ -71,4 +71,4 @@ L7 Bard
 - Polymorph
 
 L8 Bard
-- Feat: 
+- Feat: Resilient, Con
