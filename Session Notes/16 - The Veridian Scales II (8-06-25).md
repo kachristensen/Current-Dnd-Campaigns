@@ -8,4 +8,5 @@
 ## IC Synopsis - 
 >
 
-- Add 1 revivify diamond and 15g to party loot
+- We found a wyvern and more of the VS ppl near a boulder
+	- 
