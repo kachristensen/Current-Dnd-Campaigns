@@ -8,5 +8,5 @@
 ## IC Synopsis - 
 >
 
-- We found a wyvern and more of the VS ppl near a boulder
-	- 
+- We found 2 wyvern and 4 more of the VS ppl near a boulder. Out of 7 total. 
+	- Rem used Necrotic Shroud
