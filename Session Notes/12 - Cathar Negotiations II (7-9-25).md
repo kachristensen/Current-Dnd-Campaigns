@@ -9,7 +9,6 @@ Rem was successful in negotiating for the release of the prisoners. The party re
 
 >*Tales from Persephone*
  **Of Bargains and Blade Dolls**
-
 	With straining ears and aching thighs
 	Valindra and I continued to spy
 	On the conversations that came and went
@@ -60,8 +59,6 @@ Rem was successful in negotiating for the release of the prisoners. The party re
 	Jonas and Connor seemed to find our women quite cute
 	So I listened to them flirt while tuning the lute...
 	
-
-
 ## Notes
 - Lewis's convo with Aaron
 	- Aaron suggested we take out the rebels, Lewis thinks we shouldn't. He told Aaron one of them is a noble. Aaron suggested they discuss it with Rem.
