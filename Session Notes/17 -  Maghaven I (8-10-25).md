@@ -17,11 +17,30 @@
    In talking, we were able to pinpoint and glean 
    Of her origins from the lands of snow and white
    /
-   She informed us of her hometown Vienimas
+   She informed us of her hometown of Vienemas
    And the river Norvegg she had crossed
    Complimented our beauty and seemed intrigued
    By my companions and seeming lovers in league
-   As the others joined us until 
+   As we discussed the differences of her land in frost
+   /
+   Though I struggled to tell if she meant to deceive
+   I nudged Rem to gaze and perceive
+   With his eyes of gold, so as to look and deem
+   Of her dual nature as celestial and fiend
+   As we left the table to turn and leave
+   /
+   With Wuffi jealous and seemingly larger
+   And a short visit for Rem to a nearby barber
+   We made our way to a magical store
+   Traded and bartered for items galore
+   Newly equipped, we made our departure
+   /
+   To a stepping stone in the form Mayor Sabine
+   Who's high status and connections might mean
+   A way to meet with 
+   
+   
+   
    
 
 ## Notes
