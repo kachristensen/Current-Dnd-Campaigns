@@ -31,6 +31,7 @@ The party slew the monstrously transformed Jonas with melted silver, questioned 
   Lewis attacks Portos with Guiding Bolt as the quasit leaves. Persephone is extremely upset with this and questions me on my morals as well as my unthinking actions.
   We travel on the next day pushing away from the city
 
+## Notes
 - Jonas turned into a massive demon lycanthrope thing, it regens. Blood frenzy. 
 	- Porto cast something on Valindra mid combat, Detect Thoughts.
 	- Requires silver to kill. I gave Lewis 5 silver coins and told him to heat metal, he liquified it into Jonas's mouth.

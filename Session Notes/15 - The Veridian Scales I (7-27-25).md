@@ -16,6 +16,7 @@ The party slew a young green dragon and a band of the Veridian Scales, then spok
   Informed party member Valindra has consumed blood from this dragon. Source and means of procurement unknown; possibly kept by the Veridian Scale cult as a relic(?) Will attempt to collaborate with Persephone to dissuade Valindra from the goal of resurrecting the dragon Sajj’aka. 
   Elimination of remaining Veridian Scale sect deemed a priority. Speak with Dead spell cast by Rembrandt to gather information: camp location, remaining numbers (7). Approach imminent, with intent to engage following scouting.
 
+## Notes
 - Forest clearing
 	- We came across a young green dragon feasting on an elk
 	- Army of dragon ppl? In green armor. They attacked us -- Valindra's Viridian Scale order.
