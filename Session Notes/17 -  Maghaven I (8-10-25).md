@@ -36,9 +36,9 @@
    Newly equipped, we made our departure
    /
    To seek an audience in the office of Mayor Sabine
-   Whose high status and connections might mean
+   Whose higher status and connections might mean
    A way to meet with the illustrious Agnes
-   After speaking with a secretary, she then had us
+   In speaking with a secretary, she then had us
    Sit there and wait until our meeting could convene
    
    
