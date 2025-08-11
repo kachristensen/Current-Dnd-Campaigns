@@ -3,6 +3,7 @@
 ![[14 Forest.jpg|center]]
 
 ## Summary
+The party conversed with Taryn, who gifted Perse a dress and mentioned her origins from the north. They purchased some magical equipment and proceeded to the office of Mayor Sabine to wait for an audience.
 
 ## IC Synopsis - Tales from Persephone
 > **Taryn's Tales and Tells**
