@@ -21,6 +21,7 @@
    And the river Norvegg she had crossed
    Complimented our beauty and seemed intrigued
    By my companions and seeming lovers in league
+   As the others joined us until 
    
 
 ## Notes
