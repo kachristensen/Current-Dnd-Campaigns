@@ -6,11 +6,11 @@
 
 ## IC Synopsis - Tales from Persephone
 > **Taryn's Tales and Tells**
-> After a night with Valindra of resting and bathing,
+  After a night with Valindra of resting and bathing,
    We headed downstairs in the morning while waiting
    As the others joined us, though in doing so
    Conversed with Taryn to learn and know
-   Of the woman we found ourselves mutually appraising
+   Of the woman I found myself mutually appraising
    /
    She gifted me a dress she'd sewn overnight
    Which I accepted in return for breakfast despite
