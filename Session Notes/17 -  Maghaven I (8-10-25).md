@@ -1,6 +1,6 @@
 ###### Day 15
 
-![[14 Forest.jpg|center]]
+![[17 Maghaven.jpg | center]]
 
 ## Summary
 The party conversed with Taryn, who gifted Perse a dress and mentioned her origins from the north. They purchased some magical equipment and proceeded to the office of Mayor Sabine to wait for an audience.
