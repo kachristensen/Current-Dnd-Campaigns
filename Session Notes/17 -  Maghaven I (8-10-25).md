@@ -3,7 +3,6 @@
 ![[14 Forest.jpg|center]]
 
 ## Summary
-The party slew the remaining party of Veridian Scales, then arrived at Maghaven.
 
 ## IC Synopsis - Tales from Persephone
 >
