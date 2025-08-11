@@ -15,7 +15,13 @@
    Which I accepted in return for breakfast despite
    My rising suspicions she was more than she seemed
    In talking, we were able to pinpoint and glean 
-   Of her origins from 
+   Of her origins from the lands of snow and white
+   /
+   She informed us of her hometown Vienimas
+   And the river Norvegg she had crossed
+   Complimented our beauty and seemed intrigued
+   By my companions and seeming lovers in league
+   
 
 ## Notes
 - Overnight
