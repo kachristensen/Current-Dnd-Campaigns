@@ -5,6 +5,7 @@
 ## Summary
 
 ## IC Synopsis - Tales from Persephone
+> **Taryn's Tales and Tells**
 > After a night with Valindra of resting and bathing,
    We headed downstairs for breakfast while waiting
    As the others joined us, though in doing so
