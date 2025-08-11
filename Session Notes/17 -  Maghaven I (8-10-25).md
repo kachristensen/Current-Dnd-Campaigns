@@ -11,7 +11,8 @@
    Conversed with Taryn to learn and know
    Of the woman we found ourselves appraising
    /
-    
+   She gifted me a dress she'd sewn overnight
+   Arousing 
 
 ## Notes
 - Overnight
