@@ -7,7 +7,7 @@
 ## IC Synopsis - Tales from Persephone
 > After a night with Valindra of resting and bathing,
 > We headed downstairs for breakfast while waiting
-> For the others to join us, though in doing so
+> For the others to join us, and in doing so
 > Conversed with Taryn to learn and know
 > 
 > 
