@@ -31,7 +31,7 @@
    As we stood from the table to turn and leave
    /
    With Wuffi jealous and seemingly larger
-   And a short visit for Rem to a nearby barber
+   And Rem's short visit to a nearby barber
    We made our way to a magical store
    And traded and bartered for items galore
    Newly equipped, we made our departure
@@ -41,10 +41,6 @@
    A way to meet with the illustrious Agnes
    In speaking with a secretary, she then had us
    Sit there and wait until our meeting could convene
-   
-   
-   
-   
 
 ## Notes
 - Overnight
