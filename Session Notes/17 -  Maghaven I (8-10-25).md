@@ -12,7 +12,10 @@
    Of the woman we found ourselves appraising
    /
    She gifted me a dress she'd sewn overnight
-   Arousing 
+   Which I accepted in return for breakfast despite
+   My rising suspicions she was more than she seemed
+   In talking, we were able to pinpoint and glean 
+   Of her origins from 
 
 ## Notes
 - Overnight
