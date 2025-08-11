@@ -28,7 +28,7 @@
    I nudged Rem to gaze and perceive
    With his eyes of gold, so as to look and deem
    Of her dual nature as celestial and fiend
-   As we left the table to turn and leave
+   As we stood from the table to turn and leave
    /
    With Wuffi jealous and seemingly larger
    And a short visit for Rem to a nearby barber
