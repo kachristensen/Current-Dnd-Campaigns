@@ -5,7 +5,10 @@
 ## Summary
 
 ## IC Synopsis - Tales from Persephone
->
+> After a night with Valindra of resting and bathing,
+> We headed downstairs for breakfast while waiting
+> For the others to join us, though in doing so
+> 
 
 ## Notes
 - Overnight
