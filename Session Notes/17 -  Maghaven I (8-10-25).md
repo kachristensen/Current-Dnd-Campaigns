@@ -7,21 +7,21 @@
 ## IC Synopsis - Tales from Persephone
 > After a night with Valindra of resting and bathing,
    We headed downstairs for breakfast while waiting
-   For the others to join us, though in doing so
+   As the others joined us, though in doing so
    Conversed with Taryn to learn and know
-   Of the woman we found ourselves appraising
+   Of the woman we found ourselves mutually appraising
    /
    She gifted me a dress she'd sewn overnight
    Which I accepted in return for breakfast despite
    My rising suspicions she was more than she seemed
    In talking, we were able to pinpoint and glean 
-   Of her origins from the lands of snow and white
+   Of her origins from lands of snow, ice, and white
    /
-   She informed us of her hometown of Vienemas
-   And the river Norvegg she had crossed
-   Complimented our beauty and seemed intrigued
+   She informed us of the town of Vienemas
+   And the river Norvegg she had ere crossed
+   She complimented our beauty and seemed intrigued
    By my companions and seeming lovers in league
-   As we discussed the differences of her land in frost
+   As we discussed the differences of her home in frost
    /
    Though I struggled to tell if she meant to deceive
    I nudged Rem to gaze and perceive
@@ -32,12 +32,14 @@
    With Wuffi jealous and seemingly larger
    And a short visit for Rem to a nearby barber
    We made our way to a magical store
-   Traded and bartered for items galore
+   And traded and bartered for items galore
    Newly equipped, we made our departure
    /
-   To a stepping stone in the form Mayor Sabine
-   Who's high status and connections might mean
-   A way to meet with 
+   To seek an audience in the office of Mayor Sabine
+   Whose high status and connections might mean
+   A way to meet with the illustrious Agnes
+   After speaking with a secretary, she then had us
+   Sit there and wait until our meeting could convene
    
    
    
