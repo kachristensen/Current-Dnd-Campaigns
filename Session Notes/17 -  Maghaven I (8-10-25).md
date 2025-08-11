@@ -8,6 +8,8 @@
 > After a night with Valindra of resting and bathing,
 > We headed downstairs for breakfast while waiting
 > For the others to join us, though in doing so
+> Conversed with Taryn to learn and know
+> 
 > 
 
 ## Notes
