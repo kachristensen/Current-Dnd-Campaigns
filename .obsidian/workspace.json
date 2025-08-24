@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Persephone/Build.md",
+                "file": "Session Notes/18 -  Maghaven II (8-24-25).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Build"
+              "title": "18 -  Maghaven II (8-24-25)"
             }
           }
         ]
@@ -172,10 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78fdf2c31044a314",
+  "active": "cb95ffbf2d978591",
   "lastOpenFiles": [
-    "Session Notes/13 - Jonas's Unholy Affliction (7-13-25).md",
     "Session Notes/17 -  Maghaven I (8-10-25).md",
+    "Session Notes/18 -  Maghaven II (8-24-25).md",
+    "Persephone/Backstory.md",
+    "References/The Demonic Age & Session 0.md",
+    "References/At the Rexum's Behest.pdf",
+    "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
+    "Persephone/Build.md",
+    "Session Notes/13 - Jonas's Unholy Affliction (7-13-25).md",
     "Images/17 Maghaven.jpg",
     "Session Notes/16 - The Veridian Scales II (8-06-25).md",
     "Session Notes/11 - Cathar Negotiations I (6-29-25).md",
@@ -202,23 +208,17 @@
     "Session Notes/Sessions 1-10/4 - The Cult of the Devourer (4-27-25).md",
     "Session Notes/Sessions 1-10/3 - Crocodiles and the Beach (4-23-25).md",
     "Session Notes/Sessions 1-10/2 - Making Acquaintances (4-13-25).md",
-    "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
     "Images/12 Jonas's Lab.jpg",
     "Images/11 Encampment.webp",
     "Images/12 Jonas's Lab.jpg.sb-8cdd4b42-FQMxgP",
     "Images/10 Battlefield.webp",
     "References/Loot/Etifa's Heart.png",
-    "Persephone/Build.md",
     "References/Loot",
     "References/Images/Unconfirmed 82092.crdownload",
     "References/Images/Unconfirmed 59135.crdownload",
-    "Persephone/Songs and Poems/The Age of All Knowledge.md",
     "References/Images/Unconfirmed 14516.crdownload",
     "References/Images/Unconfirmed 841929.crdownload",
     "References/Images/Unconfirmed 300664.crdownload",
-    "Session Notes/Sessions 1-10",
-    "References/At the Rexum's Behest.pdf",
-    "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
-    "2025-06-29.md"
+    "Session Notes/Sessions 1-10"
   ]
 }
