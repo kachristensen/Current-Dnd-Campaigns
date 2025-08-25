@@ -27,4 +27,5 @@
 - We visited Gideon Montigue, he had met Lady Taryn yesterday. This person seems under her finger. Charmed. I pulled Gideon aside. 
 	- Lewis and Taryn talked. She took his measurements, asked if he and I were suspicious of her.
 	- I took Rem and Gideon to the back office, said I was interested in commissioning something for Rem. I cast dispel magic on Gideon, dispelled a level 5.
-	- Gideon was confused, said he met Taryn in his dreams, appeared by his bedside. She said she had made the dress, was going to be given to someone she knew. I asked Gideon 
+	- Gideon was confused, said he met Taryn in his dreams, appeared by his bedside. She said she had made the dress, was going to be given to someone she knew. I asked Gideon what he wanted to do, arrest her. Rem and him went to fetch the guard out of an exit.
+	- Taryn knew her control was broken, told me to stop lying, we had a frank talk. She said she could offer me more power, said us 
