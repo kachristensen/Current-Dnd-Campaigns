@@ -13,3 +13,4 @@
 - Lady Sabine Clawthorne = the Mayor
 	- Has an eyepatch on her right eye, black hair in a bun, hot. Has a fully armored guard in one corner.
 	- Asked how we were recommended by Captain Schwarz, Ria explained us rescuing Connor and the other soldiers from the imperials. Introduced herself as Lady Drakesbane, said she's here to take stock of the rebels and see if their cause are worth supporting. Concerned if history would repeat itself (the Rexum being a former rebellion leader too).
+		- Sabine asked what she can do to get Ria on her side. Ria asked about Ria Belkner
