@@ -20,3 +20,5 @@
 	- We decided to go for the sewers first, after our business we may swing after the Dragon later.
 		- They employ gelatinous cubes in the sewers. She gave us the general area to start looking in. Molly will join us to let us in, she is the key, skeleton key capabilities. They recommend 10 ft poles. She gave us a map of the sewers. Mechanicals don't function well in the sewers, corrosion. Give Molly a piece of paper to have her under our control.
 	- I mentioned introducing her to Taryn, she said my dress looks similar to a dress to the most popular tailor in Maghaven. Gideon Montigue. Lady Sabine is currently wearing his work. I said I would do some investigating and get back to her on the nature of the dress. Stolen? Copied?
+- We returned to the pub
+	- Lewis, Valindra and I joined Taryn, I mentioned we showed off her work. She feigned knowing who the mayor was. She said her designs were originals, Taryn said she was a special savant. She seems like she is trying to play us, feigning cluelessness. 
