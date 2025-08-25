@@ -22,3 +22,5 @@
 	- I mentioned introducing her to Taryn, she said my dress looks similar to a dress to the most popular tailor in Maghaven. Gideon Montigue. Lady Sabine is currently wearing his work. I said I would do some investigating and get back to her on the nature of the dress. Stolen? Copied?
 - We returned to the pub
 	- Lewis, Valindra and I joined Taryn, I mentioned we showed off her work. She feigned knowing who the mayor was. She said her designs were originals, Taryn said she was a special savant. She seems like she is trying to play us, feigning cluelessness and innocence that her works resemble Gideon. 
+	- I took Lewis to Valindra and my room, we failed an investigation check. Lewis told me she was lying, I figured I would continue to bluff with her.
+	- META: Downstairs Taryn talked with Valindra, asked why she doesn't dress up as much, asked why Valindra still hid what's around her neck again.
