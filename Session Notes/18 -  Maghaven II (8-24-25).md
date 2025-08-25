@@ -26,4 +26,4 @@
 	- META: Downstairs Taryn talked with Valindra, asked why she doesn't dress up as much, asked why Valindra still hid what's around her neck again. She cast suggestion on Valindra to suggest she wear it on the outside (dc 16). Valindra failed it.
 - We visited Gideon Montigue, he had met Lady Taryn yesterday. This person seems under her finger. Charmed. I pulled Gideon aside. 
 	- Lewis and Taryn talked. She took his measurements, asked if he and I were suspicious of her.
-	- I took Rem and Gideon to the back office, said I was interested in commissioning something.
+	- I took Rem and Gideon to the back office, said I was interested in commissioning something for Rem. I cast dispel magic on Gideon, dispelled a level 5.
