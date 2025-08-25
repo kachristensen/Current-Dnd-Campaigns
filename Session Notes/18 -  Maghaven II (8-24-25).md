@@ -31,4 +31,4 @@
 	- Taryn knew her control was broken, told me to stop lying, we had a frank talk. She said she could offer me more power, said she didn't want to speak around these mortals. Said she was here on the personal behalf of a god to investigate certain mortals. Probably Etifa. She winked and used Teleport to get out.
 		- I gave the dress back, it was worth 200g. Gideon said he'd give us a 10% discount in the future.
 - Sewers
-	- Molly let us in, 
+	- Molly let us in, waiting for us at the entrance.
