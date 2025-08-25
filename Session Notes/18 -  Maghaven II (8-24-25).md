@@ -32,3 +32,4 @@
 		- I gave the dress back, it was worth 200g. Gideon said he'd give us a 10% discount in the future.
 - Sewers
 	- Molly let us in, waiting for us at the entrance.
+	- Lewis cast Warding Bond on Rem.
