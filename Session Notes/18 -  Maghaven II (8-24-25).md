@@ -29,4 +29,5 @@
 	- I took Rem and Gideon to the back office, said I was interested in commissioning something for Rem. I cast dispel magic on Gideon, dispelled a level 5.
 	- Gideon was confused, said he met Taryn in his dreams, appeared by his bedside. She said she had made the dress, was going to be given to someone she knew. I asked Gideon what he wanted to do, arrest her. Rem and him went to fetch the guard out of an exit.
 	- Taryn knew her control was broken, told me to stop lying, we had a frank talk. She said she could offer me more power, said she didn't want to speak around these mortals. Said she was here on the personal behalf of a god to investigate certain mortals. She winked and used Teleport to get out.
+	- I gave the dress back, it was worth 200g. 
 	- 
