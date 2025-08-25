@@ -16,3 +16,4 @@
 		- Sabine asked what she can do to get Ria on her side. Ria asked about Agnes Belkner, Sabine explained the machines are keeping their war effort going. Agnes is eccentric and has become extremely rich, egotistical. 
 		- Sabine could arrange for us to meet at a council meeting, we could arrive as guests, but needs to also evaluate Ria of her worth. Asked us to assist in a matter.
 			- One option - underbelly, a lot of sewer workers reported odd noises, gone missing. Find the source of the chaos and deal with it.
+			- Other option - go after the adult black dragon nearby.
