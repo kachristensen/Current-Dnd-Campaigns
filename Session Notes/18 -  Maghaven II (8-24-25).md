@@ -24,3 +24,4 @@
 	- Lewis, Valindra and I joined Taryn, I mentioned we showed off her work. She feigned knowing who the mayor was. She said her designs were originals, Taryn said she was a special savant. She seems like she is trying to play us, feigning cluelessness and innocence that her works resemble Gideon. 
 	- I took Lewis to Valindra and my room, we failed an investigation check. Lewis told me she was lying, I figured I would continue to bluff with her.
 	- META: Downstairs Taryn talked with Valindra, asked why she doesn't dress up as much, asked why Valindra still hid what's around her neck again. She cast suggestion on Valindra to suggest she wear it on the outside (dc 16). Valindra failed it.
+- We visited Gideon Montigue, he had met Lady Taryn yesterday. 
