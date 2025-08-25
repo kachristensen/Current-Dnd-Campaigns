@@ -32,4 +32,4 @@
 		- I gave the dress back, it was worth 200g. Gideon said he'd give us a 10% discount in the future.
 - Sewers
 	- Molly let us in, waiting for us at the entrance. Lewis cast Warding Bond on Rem. Valindra changed Wuffi to an Acid type, green now.
-	- Avoided a gelatinous cube, fought some otyughs and an ooze
+	- Avoided a gelatinous cube, fought some otyughs and a black pudding. Lewis cast spirit guardians.
