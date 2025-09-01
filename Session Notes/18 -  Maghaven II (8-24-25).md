@@ -3,7 +3,7 @@
 ![[17 Maghaven.jpg | center]]
 
 ## Summary
-
+The party accepted Mayor Sabine's mission to investigate strange occurrences in Maghaven's sewers in exchange for being invited to a council meeting and meet Agnes. After confronting Taryn and dispelling her enchantment on a tailor, Taryn revealed she was sent by a god to investigate them, then teleported out. The party entered the sewers and began slaying aberrations.
 
 ## IC Synopsis - Valindra
 > I... Have made some mistakes. Ria, has been avoiding me since she learned of my protecting her all these years. I thought, I thought I was doing what I was supposed to. But Persephone pointed out how much wrong I have done. Maybe I can talk to Ria in a few days and set things right. 
