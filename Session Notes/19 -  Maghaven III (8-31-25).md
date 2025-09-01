@@ -16,3 +16,4 @@
 - We continued east, vibrating, killed swarm of insects. Cultist fishing in the water, did Mind Rot, big psychic damage, inhumanly loud shriek. Summoned a wyvern-like thing with worms burrowing in its skin
 	- Defeated the cultist, wyvern, and maggots. Cultist body didn't look human, chitinous. Xchitalla? Insect-like. 
 	- Strange symbol, Rem and Lewis know of it, Xi'talla
+	- Mage hand + light in pool, we recovered a brownish split egg, insectoid.
