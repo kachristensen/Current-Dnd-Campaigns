@@ -15,4 +15,4 @@
 	- Valindra suggested we name it Scarlet. We said we'd discuss with the mayor and have someone come talk to it again.
 - We continued east, vibrating, killed swarm of insects. Cultist fishing in the water, did Mind Rot, big psychic damage, inhumanly loud shriek. Summoned a wyvern-like thing with worms burrowing in its skin
 	- Defeated the cultist, wyvern, and maggots. Cultist body didn't look human, chitinous. Xchitalla? Insect-like. 
-	- Strange symbol, Rem and Lewis know of it 
+	- Strange symbol, Rem and Lewis know of it, Xi'talla
