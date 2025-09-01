@@ -9,4 +9,4 @@
 > 
 
 ## Notes
-- Voice asked "who goes there", big gooey red slime full of corpses, said this place is this home. Found rotting corpses and integrated them into his body.
+- Voice asked "who goes there", big gooey red slime full of corpses, said this place is this home. Found rotting corpses and integrated them into his body. He has their memories as well, ambushed by something in the water, long slippery.
