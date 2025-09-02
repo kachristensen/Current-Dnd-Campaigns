@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "19 -  Maghaven III (8-31-25)"
             }
+          },
+          {
+            "id": "37785df3cae09057",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -186,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70db3bcf9d77841a",
+  "active": "37785df3cae09057",
   "lastOpenFiles": [
     "Markdown Cheat Sheet.md",
     "Session Notes/Sessions 1-10/8 - The Beastmen of Barca III (6-1-25).md",
