@@ -3,7 +3,7 @@
 ![[17 Maghaven.jpg | center]]
 
 ## Summary
-The party encountered a newborn elder oblex who had integrated several corpses of the workers into its form, and named it Red. They slew an insectoid cultist and behir likely related to the Cult of the Broodmother, Xi'talla, and returned to the surface.
+The party encountered a friendly newborn elder oblex who had integrated several corpses of the workers into its form, and named it Red. They slew an insectoid cultist and behir likely related to the Cult of the Broodmother, Xi'talla, and returned to the surface.
 
 ## IC Synopsis - Ria
 > Sewer search resumed post-combat. Encountered a handful of gelatinous cubes in transit (no threat, eliminated or avoided without casualties). 
