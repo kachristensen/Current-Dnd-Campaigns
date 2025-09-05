@@ -16,62 +16,6 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "70db3bcf9d77841a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Sessions 10-20/19 -  Maghaven III (8-31-25).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19 -  Maghaven III (8-31-25)"
-            }
-          },
-          {
-            "id": "37785df3cae09057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Sessions 10-20/11 - Cathar Negotiations I (6-29-25).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 - Cathar Negotiations I (6-29-25)"
-            }
-          },
-          {
-            "id": "8d9775e0eb81062a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Sessions 10-20/12 - Cathar Negotiations II (7-9-25).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12 - Cathar Negotiations II (7-9-25)"
-            }
-          },
-          {
-            "id": "67cac0c1114557be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Persephone/Backstory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Backstory"
-            }
           }
         ]
       }
@@ -224,48 +168,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78fdf2c31044a314",
+  "active": "cb95ffbf2d978591",
   "lastOpenFiles": [
-    "Persephone/Backstory.md",
     "Session Notes/Sessions 10-20/20 - Maghaven IV (9-7-25).md",
+    "Session Notes/Sessions 10-20/19 -  Maghaven III (8-31-25).md",
+    "Session Notes/Sessions 10-20/18 -  Maghaven II (8-24-25).md",
+    "Session Notes/Sessions 10-20/17 -  Maghaven I (8-10-25).md",
+    "Session Notes/Sessions 10-20/16 - The Veridian Scales II (8-06-25).md",
+    "Session Notes/Sessions 10-20/15 - The Veridian Scales I (7-27-25).md",
+    "Session Notes/Sessions 10-20/14 - Jonas's Unholy Affliction II (7-23-25).md",
     "Session Notes/Sessions 10-20/13 - Jonas's Unholy Affliction (7-13-25).md",
     "Session Notes/Sessions 10-20/12 - Cathar Negotiations II (7-9-25).md",
     "Session Notes/Sessions 10-20/11 - Cathar Negotiations I (6-29-25).md",
-    "Session Notes/Sessions 10-20/19 -  Maghaven III (8-31-25).md",
     "Session Notes/Sessions 10-20",
-    "Markdown Cheat Sheet.md",
-    "Session Notes/Sessions 10-20/15 - The Veridian Scales I (7-27-25).md",
-    "Session Notes/Sessions 10-20/16 - The Veridian Scales II (8-06-25).md",
-    "Session Notes/Sessions 10-20/18 -  Maghaven II (8-24-25).md",
-    "Session Notes/Sessions 10-20/17 -  Maghaven I (8-10-25).md",
-    "Session Notes/Sessions 10-20/14 - Jonas's Unholy Affliction II (7-23-25).md",
-    "Session Notes/Sessions 1-10/6 - The Beastmen of Barca I (5-18-25).md",
-    "Session Notes/Sessions 1-10/8 - The Beastmen of Barca III (6-1-25).md",
-    "conflict-files-obsidian-git.md",
-    "References/Historical Timeline.md",
+    "Session Notes/17 -  Maghaven I (8-10-25).md",
+    "Session Notes/18 -  Maghaven II (8-24-25).md",
+    "Persephone/Backstory.md",
     "References/The Demonic Age & Session 0.md",
-    "Persephone/Build.md",
-    "Images/17 Maghaven.jpg",
-    "Images/Unconfirmed 844243.crdownload",
-    "References/Loot/Hand of the Living God.png",
-    "Persephone/Songs and Poems/Misc.md",
-    "Persephone/Songs and Poems/The Age of All Knowledge.md",
-    "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
+    "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
+    "Persephone/Build.md",
+    "Session Notes/13 - Jonas's Unholy Affliction (7-13-25).md",
+    "Images/17 Maghaven.jpg",
+    "Session Notes/16 - The Veridian Scales II (8-06-25).md",
+    "Session Notes/11 - Cathar Negotiations I (6-29-25).md",
     "References/Maps/The Dominion.png",
     "References/Maps/The Dominion, Pre-Unification.png",
     "References/Maps/The Dominion, Post-Unification.png",
     "References/Maps",
     "Session Notes/16 - (8-06-25).md",
+    "Session Notes/15 - The Veridian Scales I (7-27-25).md",
+    "Session Notes/14 - Jonas's Unholy Affliction II (7-23-25).md",
+    "References/Historical Timeline.md",
     "References/Demons.md",
     "Persephone/Songs and Poems/Untitled.md",
     "Images/14 Forest.jpg",
     "Images/13 Jonas's Lab.jpg",
-    "Session Notes/11 - Cathar Negotiations I(6-29-25).md",
+    "Session Notes/12 - Cathar Negotiations II (7-9-25).md",
     "Images/12 Jonas's Lab.jpg",
     "Images/11 Encampment.webp",
     "Images/12 Jonas's Lab.jpg.sb-8cdd4b42-FQMxgP",
     "Images/10 Battlefield.webp",
+    "References/Loot/Etifa's Heart.png",
     "References/Loot",
     "References/Images/Unconfirmed 82092.crdownload",
     "References/Images/Unconfirmed 59135.crdownload",
