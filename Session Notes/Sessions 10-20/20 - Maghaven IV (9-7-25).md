@@ -47,3 +47,6 @@
 		- Recess
 			- Rem used Divine sense. Agnes wears something on her right arm that shines in his senses. 
 			- Ria spoke to Agnes, said she wanted to meet her. Agnes let her approach, blade doll blocked the rest of us. 
+				- Ria talked about the blade dolls, Agnes said there is a price attached to them. In some ways she likes the wealth, but used to be inferior, now she's superior, enjoying the role switch. Ria alluded to where the rebellion would be without her. Trying to access her character. Said she seems more significant than the others.
+					- Seems like we can play to her ego. She's ambitious.
+				- Ria asked what she thinks of the rebellion, she said she happened to be from Maghaven and made the most of it.
