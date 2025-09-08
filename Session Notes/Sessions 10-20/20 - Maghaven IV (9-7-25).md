@@ -14,4 +14,4 @@
 		- I suggested we attend as Ria's security so we can attend the council meeting too. 
 		- She's not expecting any threats, probably some squabbling. Concerned about cult activity. 
 	- She's paying for our room and board, gave us 400g, 2 500g diamonds, 3 100g rubies
-	- Ria asked about safer quarters, Mayor offered 
+	- Ria asked about safer quarters, Mayor offered use of the guest wing. Her guardian is alive. Molly will be here to keep watch of things.
