@@ -20,5 +20,5 @@
 	- Blood well vial - 400g, Rhythm-Maker's Drums - 400g: 2-3 days to arrive
 		- We spent 800g
 	- Amulet of the Devout - Lewis has to go somewhere divine to obtain it
-	- Lewis crafted Rem the rest of his plate armor
-- 
+- Lewis crafted Rem the rest of his plate armor
+	- Talked about Lewis's indecision. Lewis asked what Rem would do if his god wasn't talking to him and someone offered him power beyond belief. Rem asked what drew him to St. Imelda. It's who Lewis grew up knowing, who his family believed in, peacemaker. They stayed out of the war until his dad and bro were killed, him and his mom ran. Lewis is trying to find a peaceful solution but the LG is offering him it, has more impact/results than St. Im.
