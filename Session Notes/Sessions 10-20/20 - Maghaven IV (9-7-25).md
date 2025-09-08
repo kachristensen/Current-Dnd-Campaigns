@@ -16,4 +16,7 @@
 	- She's paying for our room and board, gave us 400g, 2 500g diamonds, 3 100g rubies
 	- Ria asked about safer quarters, Mayor offered use of the guest wing. Her guardian is alive. Molly will be here to keep watch of things.
 	- Rem asked about contacts for the dragon, she referred to us to Gerard, local town captain?
-	- 
+- Magic items
+	- Blood well vial - 400g, Rhythm-Maker's Drums - 400g: 2-3 days to arrive
+		- We spent 800g
+	- Amulet of the Devout - Lewis has to go somewhere divine to obtain it
