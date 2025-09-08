@@ -29,5 +29,4 @@
 - Perse apologized to Ria about being cruel earlier, offered to be get to know her better, Ria was suspicious, Perse tried to assure her, Ria agreed to talk to get to know each other. She trusts no one.
 	- I took her indoors for a drink, asked her what she did for fun. She doesn't have fun, doesn't relax. She'd read, games, stories. Didn't enjoy music. I suggest she find a library or something, take an hour to relax. I asked what happened to her that made her so untrusting. She grew up among nobility. Doesn't trust them. Worried about betrayal. Those who she felt save with are either dead or well out of contact. She made friends in the military. She likes mysteries. 
 		- Molly came by, offered some mystery literature, gave us special wine, was asked to make us as comfortable as possible.
-- META: Rem taught Valindra how to ride Wuffi.
-	- 
+- META: Rem taught Valindra how to ride Wuffi. Valindra thanked him. Shared a moment. Told her Valindra's stalking of Ria isn't common, Ria is shaken by it. Valindra said she talked to Perse, who told her the error of her ways, Valindra said she never meant to hurt Ria but understand. Said she couldn't get close without risking everything. Rem asked if L SJ speaks to her, she said no, just the once. 
