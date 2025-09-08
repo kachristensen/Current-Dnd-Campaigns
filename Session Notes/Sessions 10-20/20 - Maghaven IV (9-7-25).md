@@ -46,4 +46,4 @@
 		- Proceedings - Next steps in the war, fate of Berdea which is currently split between beast folk, Dominion, and formally the rebellion. Cut losses and move on? Reorganizing to attack Laval, northern part of the continent.
 		- Recess
 			- Rem used Divine sense. Agnes wears something on her right arm that shines in his senses. 
-			- Ria spoke to Agnes, said she wanted to meet her.
+			- Ria spoke to Agnes, said she wanted to meet her. Agnes let her approach, blade doll blocked the rest of us. 
