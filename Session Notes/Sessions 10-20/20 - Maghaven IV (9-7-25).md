@@ -28,3 +28,4 @@
 		- Rem agreed to visit the temple and thanked him for his new armor.
 - Perse apologized to Ria about being cruel earlier, offered to be trustworthy, Ria was suspicious, Perse tried to assure her, Ria agreed to talk to get to know each other. She trusts no one.
 	- I took her indoors for a drink, asked her what she did for fun. She doesn't have fun, doesn't relax. She'd read, games, stories. Didn't enjoy music. I suggest she find a library or something, take an hour to relax. I asked what happened to her that made her so untrusting. She grew up among nobility. Doesn't trust them. Those who she felt save with are either dead or well out of contact. She made friends in the military. She likes mysteries. 
+		- Molly came by, offered some mystery literature, gave us special wine, was asked to make us as comfortable as possible.
