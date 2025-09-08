@@ -20,3 +20,5 @@
 	- Blood well vial - 400g, Rhythm-Maker's Drums - 400g: 2-3 days to arrive
 		- We spent 800g
 	- Amulet of the Devout - Lewis has to go somewhere divine to obtain it
+	- Lewis crafted Rem the rest of his plate armor
+- 
