@@ -37,6 +37,6 @@
 			- Erasmus came in and talked with him for a while. Lewis asked him to keep the portrait for as long as he could and gave him 20g. Erasmus said he and his friends seem like they belong here, give the place a sense of renewal. E asked what they're in Maghaven for.
 			- L asked if the priests had items, like amulets from their preferred gods. E said there is an abandoned temple to the north that used to revere St. I, may be beneficial to look at the ruins there. E brought out an Amulet of the Devout to give it to him, a gift.
 	- They left the monastery, noticed this city isn't very religious. Lewis said he wondered why ppl gave up on religion, Rem chuckled and teased him, talked about how ppl's faith are shaken after the confrontation with the Rexum.
-- Captain Gerard met us at Mayor Sabine's, fancy armor, Rem talked and asked for info, they know the location but soldiers were ambushed by the VS. Decided to hold off for now. looking for volunteers for expedition. Potentially. Said Vera Fontaine came by and will be around too. 
+- Captain Gerard met us at Mayor Sabine's, fancy armor, Rem talked and asked for info, they know the location but soldiers were ambushed by the VS. Decided to hold off for now. looking for volunteers for expedition. Potentially. Said Vera Fontaine came by and will be around too. He'll give us the exact location if we give him a fine wine. He's looking for the funds to purchase his own. 
 - Day after
 	- Council meeting
