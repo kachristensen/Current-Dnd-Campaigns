@@ -41,5 +41,8 @@
 - Day after
 	- Council meeting.
 		- Sabine told us Agnes, all the major families. Also, Chancellor Ansa Modron, political figure of the rebellion will be taking the stage
-		- Ria joined as herself, we r her entourage. 
-		- Lewis cast Enhance Ability on himself and Ria, Wis and Cha.
+		- Ria joined as herself, we r her entourage. Lewis cast Enhance Ability on himself and Ria, Wis and Cha.
+		- Agnes on the other side of the balcony floor.
+		- Proceedings - Next steps in the war, fate of Berdea which is currently split between beast folk, Dominion, and formally the rebellion. Cut losses and move on? Reorganizing to attack Laval, northern part of the continent.
+		- Recess
+			- Rem used Divine sense, nothing unusual.
