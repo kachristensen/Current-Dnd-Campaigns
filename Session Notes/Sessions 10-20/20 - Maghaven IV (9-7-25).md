@@ -15,3 +15,5 @@
 		- She's not expecting any threats, probably some squabbling. Concerned about cult activity. 
 	- She's paying for our room and board, gave us 400g, 2 500g diamonds, 3 100g rubies
 	- Ria asked about safer quarters, Mayor offered use of the guest wing. Her guardian is alive. Molly will be here to keep watch of things.
+	- Rem asked about contacts for the dragon, she referred to us to Gerard, local town captain?
+	- 
