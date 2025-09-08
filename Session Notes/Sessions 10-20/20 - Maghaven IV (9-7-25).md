@@ -52,4 +52,4 @@
 				- Ria asked what she thinks of the rebellion, she said she happened to be from Maghaven and made the most of it.
 			- Agnes asked what Ria wants of her. Ria said we're looking for items, said we've been to one of the shops. Seen the bracers on the poster, asked about it. Agnes said it's her muse, replica of a very powerful artifact that was given to her. She said doesn't wear it on her person, but is lying. 
 			- I tried to persuade her to give us the bracer to do better with it. She refused, said we're obsolete.
-			- Valindra suggested we challenge her for them. I suggested we fight her blade dolls to prove we're more worthy of it. She asked what she gets out of it, 
+			- Valindra suggested we challenge her for them. I suggested we fight her blade dolls to prove we're more worthy of it. She asked what she gets out of it, maybe she would involve us in her goals. We suggested we could help her, bring reagents, Lewis could assist with crafting. Agnes said metal could craft better than him. 
