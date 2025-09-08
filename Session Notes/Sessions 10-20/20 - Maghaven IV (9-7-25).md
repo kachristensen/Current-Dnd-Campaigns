@@ -26,4 +26,4 @@
 		- Lewis asked for Rem to come visit a temple with him. Maybe they can contact St. Imelda. Said it's hard not to see results and have LG's hand offered to him. Rem said he wouldn't judge Lewis if he decided to serve the LG, but he can't do so himself, would conflict with oaths he's already sworn.
 		- Lewis said he's talked to Perse too about it, I'm of the same mind as Rem. Lewis said if 2 of his friends are saying the same thing, maybe we're right and he's overthinking. Rem would prefer if we didn't use it since binding our souls is poopoo, but Lewis is his own person, wiser than he is. Do as he sees fit if he wishes to better the world. 
 		- Rem agreed to visit the temple and thanked him for his new armor.
-- Perse apologized to Ria about being cruel earlier, offered 
+- Perse apologized to Ria about being cruel earlier, offered to help, 
