@@ -10,5 +10,7 @@
 
 ## Notes
 - We returned to Mayor Sabine, told her of the cult and showed her what we recovered, were careful not to tell her too much about the cult. We also told her about Red and Taryn. 
-	- She told us there is a council meeting in a day or two. Agnes will be there, Mayor Sabine will hire us to pose as security. Asked that Ria attend as a special guest to the council.
+	- She told us there is a council meeting in a day or two. Agnes will be there, Mayor Sabine will hire us to pose as security. Asked that Ria attend as a special guest to the council. 
+		- I suggested we attend as Ria's security so we can attend the council meeting too. 
+		- She's not expecting any threats, probably some squabbling. Concerned about cult activity. 
 	- She's paying for our room and board, gave us 400g, 2 500g diamonds, 3 100g rubies
