@@ -42,3 +42,4 @@
 	- Council meeting.
 		- Sabine told us Agnes, all the major families. Also, Chancellor Ansa Modron, political figure of the rebellion will be taking the stage
 		- Ria joined as herself, we r her entourage. 
+		- Lewis cast Enhance Ability on himself and Ria, Wis and Cha.
