@@ -11,14 +11,12 @@
             "id": "78fdf2c31044a314",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Session Notes/Sessions 10-20/20 - Maghaven IV (9-7-25).md",
-                "mode": "source",
-                "source": false
+                "file": "References/Loot/Hand of the Living God.png"
               },
-              "icon": "lucide-file",
-              "title": "20 - Maghaven IV (9-7-25)"
+              "icon": "lucide-image",
+              "title": "Hand of the Living God"
             }
           }
         ]
@@ -172,10 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb95ffbf2d978591",
+  "active": "78fdf2c31044a314",
   "lastOpenFiles": [
-    "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 10-20/20 - Maghaven IV (9-7-25).md",
+    "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 10-20/14 - Jonas's Unholy Affliction II (7-23-25).md",
     "Session Notes/Sessions 10-20/15 - The Veridian Scales I (7-27-25).md",
     "Session Notes/Sessions 10-20/16 - The Veridian Scales II (8-06-25).md",
@@ -218,7 +216,6 @@
     "References/Images/Unconfirmed 82092.crdownload",
     "References/Images/Unconfirmed 59135.crdownload",
     "References/Images/Unconfirmed 14516.crdownload",
-    "References/Images/Unconfirmed 841929.crdownload",
-    "References/Images/Unconfirmed 300664.crdownload"
+    "References/Images/Unconfirmed 841929.crdownload"
   ]
 }
