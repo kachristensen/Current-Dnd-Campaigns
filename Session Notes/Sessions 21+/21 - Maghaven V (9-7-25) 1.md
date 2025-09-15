@@ -23,7 +23,11 @@
 		- I asked if we could swing by the warehouse, said Lady Drakesbane was interested. She said she'd give us the location but didn't want to cause any trouble. 
 			- Molly can assist us with access to whatever we need.
 - We visited Agnes's warehouse, got a tour.
-	- Crystal placed inside the automaton, power sources.
+	- Crystal placed inside the automaton, power sources/battery.
+		- Certain gems/stones can hold magical energy/be foci. Odd that there's so many, they take time to make.
+		- New shipment arrives once a week ago. We examined the crate - it would have to arrive from somewhere with a lot of sorcerers or mages to create them. 
 	- Construction is all done by workers, Agnes only makes blueprints/designs. Has a room in the back, doesn't visit as often.
 	- Newer model, the Nanny, about to finish construction. Bigger, cage inside it. Capture, rather than kill. Burning furnace inside, can pour inside the cage. 
 	- Lewis asked to look at a crystal. They can build 6-7 blade dolls a day. 
+	- They're not sure how they obey commands, they just do.
+	- 
