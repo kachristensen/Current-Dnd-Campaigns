@@ -11,12 +11,14 @@
             "id": "78fdf2c31044a314",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "References/Loot/Hand of the Living God.png"
+                "file": "Session Notes/Sessions 10-20/20 - Maghaven IV (9-7-25).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Hand of the Living God"
+              "icon": "lucide-file",
+              "title": "20 - Maghaven IV (9-7-25)"
             }
           }
         ]
@@ -172,14 +174,17 @@
   },
   "active": "78fdf2c31044a314",
   "lastOpenFiles": [
+    "Session Notes/Sessions 10-20/19 -  Maghaven III (8-31-25).md",
     "Session Notes/Sessions 10-20/20 - Maghaven IV (9-7-25).md",
+    "Session Notes/Sessions 10-20/18 -  Maghaven II (8-24-25).md",
+    "Session Notes/Sessions 21+/21 - Maghaven V (9-7-25) 1.md",
+    "References/Loot/Hand of the Living God.png",
+    "Session Notes/Sessions 21+",
     "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 10-20/14 - Jonas's Unholy Affliction II (7-23-25).md",
     "Session Notes/Sessions 10-20/15 - The Veridian Scales I (7-27-25).md",
     "Session Notes/Sessions 10-20/16 - The Veridian Scales II (8-06-25).md",
     "Session Notes/Sessions 10-20/17 -  Maghaven I (8-10-25).md",
-    "Session Notes/Sessions 10-20/19 -  Maghaven III (8-31-25).md",
-    "Session Notes/Sessions 10-20/18 -  Maghaven II (8-24-25).md",
     "Persephone/Ria Short Story.md",
     "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
     "Persephone/Backstory.md",
@@ -196,7 +201,6 @@
     "Persephone/Build.md",
     "Images/17 Maghaven.jpg",
     "Images/Unconfirmed 844243.crdownload",
-    "References/Loot/Hand of the Living God.png",
     "Persephone/Songs and Poems/Misc.md",
     "Persephone/Songs and Poems/The Age of All Knowledge.md",
     "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
@@ -205,7 +209,6 @@
     "References/Maps/The Dominion, Post-Unification.png",
     "References/Maps",
     "Session Notes/16 - (8-06-25).md",
-    "References/Demons.md",
     "Images/14 Forest.jpg",
     "Images/13 Jonas's Lab.jpg",
     "Images/12 Jonas's Lab.jpg",
@@ -215,7 +218,6 @@
     "References/Loot",
     "References/Images/Unconfirmed 82092.crdownload",
     "References/Images/Unconfirmed 59135.crdownload",
-    "References/Images/Unconfirmed 14516.crdownload",
-    "References/Images/Unconfirmed 841929.crdownload"
+    "References/Images/Unconfirmed 14516.crdownload"
   ]
 }

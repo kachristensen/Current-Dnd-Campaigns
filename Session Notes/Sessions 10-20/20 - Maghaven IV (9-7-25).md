@@ -3,10 +3,16 @@
 ![[17 Maghaven.jpg | center]]
 
 ## Summary
+The party
 
-
-## IC Synopsis - Ria
-> 
+## IC Synopsis - Dan
+> Ria had cleaned the stink of the sewers from the party  before reporting back to Mayor Sabine. She praised our efforts, handed us a chest of gems and gold, and spoke of a meeting where we might face Agnes Welker—Ria to be invited as some guest of honor. Cults were mentioned, though Sabine couscous at first, hardly seemed concerned with an attack. She offered us a guest room, as we were seeking different logging, under Molly’s sharp eye, warning us not to wander.
+   I gathered what I needed to finish Rem’s armor, bringing it at last to full plate. The others spent heavily on new Items for their magic—good investments if you ask me, though my own shaky faith demands I seek something more. St. Imelda’s name weighed heavily on me. I confessed to Rem the doubts I’ve carried and spoke of my family’s devotion. He listened, and we agreed he’d accompany me to the chapel in the morning.
+   Valindra borrowed Rem for a little riding lesson for her and Wuffi. She has been antsy all afternoon if I do say so myself. As the two of them were leaving she asked me if I could improve her spear with the dragon scale.
+   Meanwhile(Unknown to me) Perse tried to make peace with Ria, pressing her to drink, to share, to trust. Ria admitted little save that her noble blood taught her to guard herself. Molly even joined in, bringing wine and talk of mysteries. It seems everyone but me is trying to draw Ria out of her shell.
+   At dawn, Rem and I found Father Erasmus. I prayed to Imelda and saw her likeness weep—pleading, sorrowful.I proclaimed my devolution right then and there.  Erasmus spoke of a ruined temple north of here, once hers, and he also placed in my hands a blessed amulet. I fell to my knees with gratitude. Rem’s prayers were darker—visions of plague, of Karz, of pain. He left unsettled.
+   Later came Captain Gerard, a proud noble, armor shining brighter than his usefulness. He spoke of wyvern-riders and Vera Fontaine, asking for wine before giving anything of worth. We had little patience for him.
+   Then the gathering. Nobles, rebels, even Chancellor Modron. Sabine gave us a private box. I wove a blessing of clarity over Ria and myself, while Rem sensed only the artifact Agnes carried. Ria approached her directly, and I kept back as her bladedoll blocked the rest of us. Agnes dripped with superiority, questioning Ria’s nobility, boasting of her “muse,” pretending it a mere replica. She insulted my craft without hesitation. (Inner thoughts) I only hope St. Imalda blesses me after I kill Agnes; she adds no appeal to craftsmanship. Agnes is revealing herself as a  sharp mind, selfish of heart, and blind to her own hypocrisy. She decries nobility, yet clings to her prize like any lord to his crown.
 
 ## Notes
 - We returned to Mayor Sabine, told her of the cult and showed her what we recovered, were careful not to tell her too much about the cult. We also told her about Red and Taryn. 
