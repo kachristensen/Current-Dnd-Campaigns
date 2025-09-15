@@ -31,3 +31,5 @@
 	- Lewis asked to look at a crystal. They can build 6-7 blade dolls a day. 
 	- They're not sure how they obey commands, they just do.
 	- No windows or skylights in the factory. Only the main opening. 
+	- I paid the worker who gave us a tour 2g to stay silent. 
+- Clocktower, dinner w/ Lucious
