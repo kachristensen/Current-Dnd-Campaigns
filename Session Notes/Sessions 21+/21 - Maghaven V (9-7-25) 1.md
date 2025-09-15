@@ -22,4 +22,8 @@
 		- She doesn't know how she creates them. She does know where her primary warehouse is done. The nobles fund her/give materials. 
 		- I asked if we could swing by the warehouse, said Lady Drakesbane was interested. She said she'd give us the location but didn't want to cause any trouble. 
 			- Molly can assist us with access to whatever we need.
-- 
+- We visited Agnes's warehouse, got a tour.
+	- Crystal placed inside the automaton, power sources.
+	- Construction is all done by workers, Agnes only makes blueprints/designs. Has a room in the back, doesn't visit as often.
+	- Newer model, the Nanny, about to finish construction. Bigger, cage inside it. Capture, rather than kill. Burning furnace inside, can pour inside the cage. 
+	- Lewis asked to look at a crystal. They can build 6-7 blade dolls a day. 
