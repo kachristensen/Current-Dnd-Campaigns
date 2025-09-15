@@ -44,3 +44,7 @@
 	- He'll turn on us the moment it's advantageous, but right now is willing to work with us. 
 	- I asked what he could offer, he said he noticed we were trying to trade, said we could have it. 
 		- He said he'd provide us with a distraction. Said he'd clear the place out of the people, the machines will still be there but not active. He can guarantee we won't be blamed for it. 
+	- He's funding this project himself, has others interested but he's alone in this. Offered 5,000g.
+		- He tapped his cane on the ground and summoned two women, purple dresses/masks, mages? Says all of them are busy slaving away. These are his friends who can help, they were here the entire time, invisible.
+		- I asked for 2k upfront, and his assistance. He gave us 1.5k upfront. We can meet him here afterwards for payment, safehouse up top at the clocktower. 
+			- 
