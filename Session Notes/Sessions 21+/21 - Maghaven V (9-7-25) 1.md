@@ -30,4 +30,4 @@
 	- Newer model, the Nanny, about to finish construction. Bigger, cage inside it. Capture, rather than kill. Burning furnace inside, can pour inside the cage. 
 	- Lewis asked to look at a crystal. They can build 6-7 blade dolls a day. 
 	- They're not sure how they obey commands, they just do.
-	- 
+	- No windows or skylights in the factory. Only the main opening. 
