@@ -35,3 +35,7 @@
 - Clocktower, dinner w/ Lucious
 	- Perse didn't eat, Rem gorged himself. 
 	- Asked if we were here to cause harm to dear Agnes. I said no, he alluded that we might be assassins. 
+	- I asked how they would fare vs. the Dominion without Agnes, they said they could probably keep the operation running without her. They create the crystals for her.
+		- Valindra suggested maybe she built a failsafe in the machines.
+		- Lewis suggested maybe the dolls would turn against her. 
+		- I suggested we learn more about the blade dolls' construction. He said a few of his colleagues have tried to reverse engineer them. They're powered by the crystals, put together by workers, then shipped out. Said he can assure us there's nothing we had to worry about. 
