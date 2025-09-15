@@ -3,7 +3,7 @@
 ![[17 Maghaven.jpg | center]]
 
 ## Summary
-The party
+The party returned to Mayor Sabine, purchased more items, and exchanged conversations. Lewis hardened his resolve to serve St. Imelda. With Ria at their head, the party attended the council meeting and spoke with Agnes.
 
 ## IC Synopsis - Dan
 > Ria had cleaned the stink of the sewers from the party  before reporting back to Mayor Sabine. She praised our efforts, handed us a chest of gems and gold, and spoke of a meeting where we might face Agnes Welker—Ria to be invited as some guest of honor. Cults were mentioned, though Sabine couscous at first, hardly seemed concerned with an attack. She offered us a guest room, as we were seeking different logging, under Molly’s sharp eye, warning us not to wander.
