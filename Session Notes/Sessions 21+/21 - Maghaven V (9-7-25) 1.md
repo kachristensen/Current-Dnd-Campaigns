@@ -54,4 +54,4 @@
 	- Long rest
 - We left to fight the dragon. Human tracks, Vera Fontaine's camp. We debated if we wanted to join her, we let Valindra decide. Valindra approached, thought it was a good idea. Vera is alone.
 	- Her companions died. They found the dragon, it killed them then flew away to its lair. She does look roughed up/blistered. About a day and half ago. Offered to join us.
-	- Valindra told her we have plans for the heart, 
+	- Valindra told her we have plans for the heart. Vera's open to also glory. 
