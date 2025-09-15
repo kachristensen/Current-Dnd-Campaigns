@@ -42,3 +42,5 @@
 	- Wants us to make Agnes leave by whatever means possible, so that they can take control.
 	- I asked if he could give us an edge, said he could arrange for an accident to take place in the workshop as a lure, we could meet with her there. 
 	- He'll turn on us the moment it's advantageous, but right now is willing to work with us. 
+	- I asked what he could offer, he said he noticed we were trying to trade, said we could have it. 
+		- He said he'd provide us with a distraction. Said he'd clear the place out of the people, the machines will still be there but not active. He can guarantee we won't be blamed for it. 
