@@ -57,4 +57,4 @@
 	- Valindra told her we have plans for the heart. Vera's open to also glory. We told her if we do consume the heart, we'd be open to sharing it with her.
 		- She'll come with us. 
 - Dragon lair
-	- Voice called out to us, asked who approaches, in Draconic. 
+	- Voice called out to us, asked who approaches, in Draconic, deep voice. Valindra called out, asked if she could come learn more about it. It asked what she wants to know. She said she worships a dead dragon, wants to learn more about its brethren. Dragon asked if it wants to worship it. She said she wishes to understand who he is.
