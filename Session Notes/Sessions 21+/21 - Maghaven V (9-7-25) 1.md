@@ -52,4 +52,6 @@
 	- Rem suggested a middle ground - we pursue the dragon, use it to talk to Agnes, if she won't agree to trade the bracer then we proceed with Lucious's plan. 
 	- Perse gave Valindra a big hug. 
 	- Long rest
-- We left to fight the dragon. Human tracks, Vera Fontaine's camp. 
+- We left to fight the dragon. Human tracks, Vera Fontaine's camp. We debated if we wanted to join her, we let Valindra decide. Valindra approached, thought it was a good idea. Vera is alone.
+	- Her companions died. They found the dragon, it killed them then flew away to its lair. She does look roughed up/blistered. About a day and half ago.
+	- 
