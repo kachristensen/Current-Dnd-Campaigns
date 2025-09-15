@@ -16,3 +16,10 @@
 		- He asked why we were here, I introduced us as Lady Drakesbane's entourage. 
 		- Told us about Maghaven's history, used to be more about arcane arts, but they've been sidelined. 
 		- I suggested we talk more over dinner, he seemed excited. Doesn't think it would be wise to meet at his abode, wants to meet at the clocktower at 7pm. 
+	- Rest of the meeting - the rebels want to pursue peace with the beastmen. 
+	- I asked what Sabine knows of Lucious Grubb, says he's a pig, thinks highly of himself. Long line of sorcerers. Rude, boisterous. More interested in their name/history than the rebellion themselves. Losing glory. 
+		- I asked where she stands. Agnes is a bit much, but she's all that keeps the city safe. She thinks strategically, Agnes is the better bet. The Dominion doesn't take prisoners, kill all. 
+		- She doesn't know how she creates them. She does know where her primary warehouse is done. The nobles fund her/give materials. 
+		- I asked if we could swing by the warehouse, said Lady Drakesbane was interested. She said she'd give us the location but didn't want to cause any trouble. 
+			- Molly can assist us with access to whatever we need.
+- 
