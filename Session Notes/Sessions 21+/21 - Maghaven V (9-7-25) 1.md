@@ -47,4 +47,5 @@
 	- He's funding this project himself, has others interested but he's alone in this. Offered 5,000g.
 		- He tapped his cane on the ground and summoned two women, purple dresses/masks, mages? Says all of them are busy slaving away. These are his friends who can help, they were here the entire time, invisible.
 		- I asked for 2k upfront, and his assistance. He gave us 1.5k upfront. We can meet him here afterwards for payment, safehouse up top at the clocktower. 
-			- 
+- We returned to Mayor Sabine's
+	- 
