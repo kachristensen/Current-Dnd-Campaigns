@@ -41,3 +41,4 @@
 		- I suggested we learn more about the blade dolls' construction. He said a few of his colleagues have tried to reverse engineer them. They're powered by the crystals, put together by workers, then shipped out. Said he can assure us there's nothing we had to worry about. 
 	- Wants us to make Agnes leave by whatever means possible, so that they can take control.
 	- I asked if he could give us an edge, said he could arrange for an accident to take place in the workshop as a lure, we could meet with her there. 
+	- He'll turn on us the moment it's advantageous, but right now is willing to work with us. 
