@@ -56,3 +56,5 @@
 	- Her companions died. They found the dragon, it killed them then flew away to its lair. She does look roughed up/blistered. About a day and half ago. Offered to join us.
 	- Valindra told her we have plans for the heart. Vera's open to also glory. We told her if we do consume the heart, we'd be open to sharing it with her.
 		- She'll come with us. 
+- Dragon lair
+	- Voice called out to us, asked who approaches, in Draconic. 
