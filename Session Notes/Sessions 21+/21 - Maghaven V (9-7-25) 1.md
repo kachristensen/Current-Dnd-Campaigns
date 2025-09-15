@@ -50,3 +50,4 @@
 - We returned to Mayor Sabine's
 	- Rem would prefer to avoid bloodshed. Lewis questioned what we're doing. Valindra thinks it will solve a lot of problems.
 	- Rem suggested a middle ground - we pursue the dragon, use it to talk to Agnes, if she won't agree to trade the bracer then we proceed with Lucious's plan. 
+	- Perse gave Valindra a big hug. 
