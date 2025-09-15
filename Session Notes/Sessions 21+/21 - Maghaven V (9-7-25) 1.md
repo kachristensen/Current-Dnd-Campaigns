@@ -33,3 +33,5 @@
 	- No windows or skylights in the factory. Only the main opening. 
 	- I paid the worker who gave us a tour 2g to stay silent. 
 - Clocktower, dinner w/ Lucious
+	- Perse didn't eat, Rem gorged himself. 
+	- Asked if we were here to cause harm to dear Agnes. I said no, he alluded that we might be assassins. 
