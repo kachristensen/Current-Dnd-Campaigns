@@ -1,4 +1,4 @@
-###### 18
+###### 18-19
 
 ![[17 Maghaven.jpg | center]]
 
@@ -51,3 +51,4 @@
 	- Rem would prefer to avoid bloodshed. Lewis questioned what we're doing. Valindra thinks it will solve a lot of problems.
 	- Rem suggested a middle ground - we pursue the dragon, use it to talk to Agnes, if she won't agree to trade the bracer then we proceed with Lucious's plan. 
 	- Perse gave Valindra a big hug. 
+	- Long rest, we going to fight the dragon.
