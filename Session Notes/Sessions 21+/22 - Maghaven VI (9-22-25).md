@@ -24,3 +24,4 @@
 		- Lewis held out the hand of the Living God, said he didn't want to hold on to it any longer. I said I'd hold onto it if no one else wanted it, could be useful, safer if we hold on to it. Ria suggested he put it in the bag of holding. Lewis agreed.
 		- Watch
 			- Lewis and Ria - lewis asked if Ria liked the color black, preferred color? She said meh. Lewis's favorite is green. 
+			- Valindra and Perse snuggled, Perse asked if she ever wished she could dream, we talked through a fantasy story together of a child adventuring with dragons and a mystery.
