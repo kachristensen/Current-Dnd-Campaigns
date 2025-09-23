@@ -6,7 +6,7 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> 
+> There are 
 
 ## Notes
 - Post dragon fight / short rest

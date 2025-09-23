@@ -11,12 +11,14 @@
             "id": "78fdf2c31044a314",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "References/At the Rexum's Behest.pdf"
+                "file": "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "At the Rexum's Behest"
+              "icon": "lucide-file",
+              "title": "22 - Maghaven VI (9-22-25)"
             }
           }
         ]
@@ -172,9 +174,10 @@
   },
   "active": "78fdf2c31044a314",
   "lastOpenFiles": [
+    "Persephone/Songs and Poems/Untitled.md",
+    "References/At the Rexum's Behest.pdf",
     "References/Maps/The Dominion, Pre-Unification.png",
     "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
-    "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 21+/21 - Maghaven V (9-15-25).md",
     "References/Historical Timeline.md",
     "Session Notes/Sessions 10-20/19 -  Maghaven III (8-31-25).md",
