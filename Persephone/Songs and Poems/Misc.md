@@ -31,7 +31,7 @@ A man worth an eye for
 Vera, darling, take it from me
 One look at him is all it takes to see
 The only time Rembrandt gets an erection
-Is when his gaze looks in the male direction
+Is when his gaze lies in the male direction
 Trust me, you're barking up the wrong tree
 
 
