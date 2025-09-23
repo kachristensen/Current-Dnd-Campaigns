@@ -32,4 +32,5 @@
 		- Ria asked about Molly, she's a gift from Agnes herself. 
 	- Rem and Lewis went to the church
 		- Meta: visited Erasmus, Lewis showed him the dragon scales, gifted it to him.
-		- Rem felt a strange feeling when passing the statue of Zarunok, like someone was watching him.
+		- Rem felt a strange feeling when passing the statue of Zarunok, like someone was watching him. Reminded him of Taryn.
+		- 
