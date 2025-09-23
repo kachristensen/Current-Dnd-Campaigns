@@ -1,4 +1,4 @@
-###### Day 16-18
+###### Days 16-18
 
 ![[17 Maghaven.jpg | center]]
 
