@@ -15,16 +15,31 @@
 	Acid burns and vision wanes
 	Flesh tears and blood stains
 	We cannot hide, we cannot run
-	They kill him first and take our son
+	They kill him first, then take our son
 	/
 	This man I cling to is not him
 	Rip, tear, rend limb from limb
 	He holds and heals and I do not die
-	He soothes and in his arms I cry
+	He soothes and comforts while I cry
 	/
 	Valindra crafts a salve to proffer
 	Vera becomes Rem's new stalker
-	The
+	We lay claim to heart, scale, and dragon's hoard
+	Whence Vera departs in desirous accord
+	/
+	At rest we decide to keep the Hand
+	Rem and Ria soar across the land
+	Lewis and her hold colors in esteem
+	Valindra and I muse what it is to dream
+	/
+	We return to Mayor Sabine of Maghaven
+	And ponder the words of Lucious the Craven
+	
+	
+	
+	
+	
+	
 	
 	
 	
