@@ -30,19 +30,19 @@
 	At night we decide to keep the Hand
 	Rem and Ria soar across the land
 	Lewis and her hold colors in esteem
-	Valindra and I muse what it means to dream
+	Valindra and I muse what it is to dream
 	/
 	We return to Mayor Sabine of Maghaven
 	And ponder the offer of Lucious the Craven
 	Turning down a reward, we instead inquire
 	For her to arrange the meeting required
 	/
-	Lewis and Rem head off to pray
+	Lewis and Rem head to the temple to pray
 	Returning with cloak and backwards beret
 	Agnes responds with her choice of the stage
 	We finalize our plans before we engage
 	/
-	And all the while I drift from lie to lie
+	And all the while drifting from lie to lie
 	In the hopes I forget what once was mine
 
 
