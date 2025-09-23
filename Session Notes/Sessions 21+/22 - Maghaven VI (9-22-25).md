@@ -24,16 +24,25 @@
 	/
 	Valindra crafts a salve to proffer
 	Vera becomes Rem's new stalker
-	We lay claim to heart, scale, and dragon's hoard
+	We claim heart and scale, and dragon's hoard
 	Whence Vera departs in desirous accord
 	/
-	At rest we decide to keep the Hand
+	At night we decide to keep the Hand
 	Rem and Ria soar across the land
 	Lewis and her hold colors in esteem
-	Valindra and I muse what it is to dream
+	Valindra and I muse what it means to dream
 	/
 	We return to Mayor Sabine of Maghaven
 	And ponder the words of Lucious the Craven
+	Turning down a reward, we instead inquire
+	To see if she can arrange the meeting required
+	/
+	Lewis and Rem head off to pray
+	Returning with cloak and backwards beret
+	Agnes responds with her choice of the stage
+	We finalize our plans before we engage
+	
+	
 	
 	
 	
