@@ -43,7 +43,7 @@
 	We finalize our plans before we engage
 	/
 	And all the while I drift from lie to lie
-	In hopes I forget what once was mine
+	In the hopes I forget what once was mine
 
 
 ## Notes
