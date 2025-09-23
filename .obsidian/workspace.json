@@ -11,14 +11,12 @@
             "id": "78fdf2c31044a314",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
-                "mode": "source",
-                "source": false
+                "file": "References/At the Rexum's Behest.pdf"
               },
-              "icon": "lucide-file",
-              "title": "22 - Maghaven VI (9-22-25)"
+              "icon": "lucide-file-text",
+              "title": "At the Rexum's Behest"
             }
           }
         ]
@@ -74,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,10 +170,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "292895759e1a043f",
+  "active": "78fdf2c31044a314",
   "lastOpenFiles": [
-    "References/At the Rexum's Behest.pdf",
+    "References/Maps/The Dominion, Pre-Unification.png",
     "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
+    "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 21+/21 - Maghaven V (9-15-25).md",
     "References/Historical Timeline.md",
     "Session Notes/Sessions 10-20/19 -  Maghaven III (8-31-25).md",
@@ -207,7 +205,6 @@
     "Persephone/Songs and Poems/The Age of All Knowledge.md",
     "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
     "References/Maps/The Dominion.png",
-    "References/Maps/The Dominion, Pre-Unification.png",
     "References/Maps/The Dominion, Post-Unification.png",
     "References/Maps",
     "Images/14 Forest.jpg",
