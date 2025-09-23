@@ -41,20 +41,9 @@
 	Returning with cloak and backwards beret
 	Agnes responds with her choice of the stage
 	We finalize our plans before we engage
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	/
+	And all the while I drift from lie to lie
+	To ease the loss of what once was mine
 
 
 ## Notes
