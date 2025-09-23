@@ -17,3 +17,4 @@
 	- Loot - 6.3k gold, ring of jumping, animated shield, figurine of wondrous power/golden lions, mace of disruption, staff of swarming insects, 350gp in gems, lavender tome with a lock and chain (cursed?).
 	- Valindra came to check up on me & Lewis, mentioned she had a remedy. Went to the woods, birch bark/pine resin, crushed into ointment. She applied it to me, I thanked her.
 	- Valindra and Lewis harvested some scales
+	- Rem went outside to tend to Anicca, Vera was there, wanted to know more about him, said he had interesting/predatory/wild eyes. She asked what his plans were. He said continue on. She asked if he craved blood. He said he seems to find it. She mentioned he and her could be a team, killing dragons.
