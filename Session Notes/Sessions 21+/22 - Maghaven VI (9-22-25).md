@@ -14,6 +14,12 @@
 	/
 	Acid burns and vision wanes
 	Flesh tears and blood stains
+	We cannot hide, we cannot run
+	They kill him first and take our son
+	/
+	This man I cling to is not him
+	Rip, tear, rend limb from limb
+	
 	
 
 
