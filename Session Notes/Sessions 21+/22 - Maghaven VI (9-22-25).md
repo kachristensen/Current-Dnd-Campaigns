@@ -26,4 +26,4 @@
 			- Lewis and Ria - lewis asked if Ria liked the color black, preferred color? She said meh. Lewis's favorite is green. 
 			- Valindra and Perse snuggled, Perse asked if she ever wished she could dream, we talked through a fantasy story together of a child adventuring with dragons and a mystery.
 - Next day
-	- 
+	- Ria thanked us for negotiating with Grubb, she said she is more soldier than noble, hasn't been in court since a young child. Ria's been in the army/surgers for 15 years, sent when she was 12.
