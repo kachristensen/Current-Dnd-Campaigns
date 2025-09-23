@@ -7,10 +7,15 @@
 
 ## IC Synopsis - Tales from Persephone
 >**TITLE**
-	There is pain that defies belief
+	There are agonies that defy belief
 	There are screams that transcend time
-	\
+	No sharper pain than that of grief
+	For the loss of what once was mine
+	/
+	Acid burns and vision wanes
+	Flesh tears and blood stains
 	
+
 
 ## Notes
 - Post dragon fight / short rest
