@@ -30,3 +30,5 @@
 	- Returned to Mayor Sabine
 		- In exchange for us killing the dragon, Rem asked for her to arrange a meeting with Agnes within 3 days. Ria and Rem turned down a monetary reward.
 		- Ria asked about Molly, she's a gift from Agnes herself. 
+	- Rem and Lewis went to the church
+		- Meta: visited Erasmus, Lewis showed him the dragon scales, gifted it to him.
