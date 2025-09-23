@@ -6,7 +6,11 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> There are 
+>**TITLE**
+	There is pain that defies belief
+	There are screams that transcend time
+	\
+	
 
 ## Notes
 - Post dragon fight / short rest
