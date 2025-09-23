@@ -1,4 +1,4 @@
-###### Days 19
+###### Days 19-20
 
 ![[17 Maghaven.jpg | center]]
 
@@ -25,3 +25,5 @@
 		- Watch
 			- Lewis and Ria - lewis asked if Ria liked the color black, preferred color? She said meh. Lewis's favorite is green. 
 			- Valindra and Perse snuggled, Perse asked if she ever wished she could dream, we talked through a fantasy story together of a child adventuring with dragons and a mystery.
+- Next day
+	- 
