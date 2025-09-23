@@ -29,3 +29,4 @@
 	- Ria thanked us for negotiating with Grubb, she said she is more soldier than noble, hasn't been in court since a young child. Ria's been in the army/surgers for 15 years, sent when she was 12.
 	- Returned to Mayor Sabine
 		- In exchange for us killing the dragon, Rem asked for her to arrange a meeting with Agnes within 3 days. 
+		- Ria asked about Molly, she's a gift from Agnes herself. 
