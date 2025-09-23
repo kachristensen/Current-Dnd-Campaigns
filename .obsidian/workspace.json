@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Zarunok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,11 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78fdf2c31044a314",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
-    "Session Notes/Sessions 21+/21 - Maghaven V (9-15-25).md",
-    "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
     "References/At the Rexum's Behest.pdf",
+    "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
+    "Session Notes/Sessions 21+/21 - Maghaven V (9-15-25).md",
     "References/Historical Timeline.md",
     "Session Notes/Sessions 10-20/19 -  Maghaven III (8-31-25).md",
     "Session Notes/Sessions 10-20/20 - Maghaven IV (9-7-25).md",
