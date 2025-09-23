@@ -21,3 +21,4 @@
 	- Ria cast Fly on Anicca, Rem took Ria for a ride.
 	- Perse cast Tiny Hut
 		- Rem suggested we bring the dragon head back to Maghaven, make a show of it. He mentioned that going back in quietly might be better vs. Agnes. Rem is hoping they can at least speak first before striking her down.
+		- Lewis held out the hand of the Living God, said he didn't want to hold on to it any longer. 
