@@ -6,26 +6,26 @@
 
 
 ## IC Synopsis - Tales from Persephone
->**TITLE**
+>**What Once Was Mine**
 	There are agonies that defy belief
 	There are screams that transcend time
 	No sharper pain than that of grief
 	For the loss of what once was mine
 	/
 	Acid burns and vision wanes
-	We cannot hide, we cannot run
 	Flesh tears and blood stains
+	We cannot hide, we cannot run
 	They kill him first, then take our son
 	/
 	This man I cling to is not him
-	He holds and heals and I do not die
 	Rip, tear, rend limb from limb
+	He holds and heals and I do not die
 	He soothes and comforts while I cry
 	/
 	Valindra crafts a salve to proffer
-	Claiming heart and scale and dragon's hoard
 	Vera becomes Rem's new stalker
-	Before she departs in desirous accord
+	We claim heart and scale and dragon's hoard
+	Whereupon she departs in desirous accord
 	/
 	At night we decide to keep the Hand
 	Rem and Ria soar across the land
@@ -35,7 +35,7 @@
 	We return to Mayor Sabine of Maghaven
 	And ponder the offer of Lucious the Craven
 	Turning down a reward, we instead inquire
-	For her to arrange the meeting we require
+	For her to arrange the meeting required
 	/
 	Lewis and Rem head off to pray
 	Returning with cloak and backwards beret
@@ -43,7 +43,7 @@
 	We finalize our plans before we engage
 	/
 	And all the while I drift from lie to lie
-	To ease the loss of what once was mine
+	In hopes of forgetting what once was mine
 
 
 ## Notes
