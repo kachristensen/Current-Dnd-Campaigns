@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gideon",
+                "query": "xi'talla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3e63c1fd183566f",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
     "Persephone/Backstory.md",
