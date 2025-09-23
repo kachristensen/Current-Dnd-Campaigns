@@ -13,19 +13,19 @@
 	For the loss of what once was mine
 	/
 	Acid burns and vision wanes
-	Flesh tears and blood stains
 	We cannot hide, we cannot run
+	Flesh tears and blood stains
 	They kill him first, then take our son
 	/
 	This man I cling to is not him
-	Rip, tear, rend limb from limb
 	He holds and heals and I do not die
+	Rip, tear, rend limb from limb
 	He soothes and comforts while I cry
 	/
 	Valindra crafts a salve to proffer
+	Claiming heart and scale and dragon's hoard
 	Vera becomes Rem's new stalker
-	We claim heart and scale and dragon's hoard
-	Whereupon Vera departs in desirous accord
+	Before she departs in desirous accord
 	/
 	At night we decide to keep the Hand
 	Rem and Ria soar across the land
