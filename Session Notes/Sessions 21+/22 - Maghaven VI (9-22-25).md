@@ -19,6 +19,10 @@
 	/
 	This man I cling to is not him
 	Rip, tear, rend limb from limb
+	He holds and heals and 
+	He holds and heals and lets me cry
+	/
+	
 	
 	
 
