@@ -19,9 +19,14 @@
 	/
 	This man I cling to is not him
 	Rip, tear, rend limb from limb
-	He holds and heals and 
-	He holds and heals and lets me cry
+	He holds and heals and I do not die
+	He soothes and in his arms I cry
 	/
+	Valindra crafts a salve to proffer
+	Vera becomes Rem's new stalker
+	The
+	
+	
 	
 	
 	
