@@ -34,4 +34,4 @@
 		- Meta: visited Erasmus, Lewis showed him the dragon scales, gifted it to him.
 		- Rem felt a strange feeling when passing the statue of Zarunok, like someone was watching him. Reminded him of Taryn.
 		- Lewis prayed to St. Imelda, wants to make her proud. Portrait exuded approval.
-		- They visited Gideon the tailor again, Lewis looking for an interchangeable cloak, red on one side, black on the other. He offered it for a massive discount of 300g, Rem negotiated it down to 200g. 
+		- They visited Gideon the tailor again, Lewis looking for an interchangeable cloak, red on one side, black on the other. He offered it for a massive discount of 300g, Rem negotiated it down to 200g. Threw in a cap for free, Lewis put it on backwards.
