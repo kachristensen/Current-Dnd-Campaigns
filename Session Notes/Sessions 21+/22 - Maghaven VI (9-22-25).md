@@ -36,4 +36,5 @@
 		- Lewis prayed to St. Imelda, wants to make her proud. Portrait exuded approval.
 		- They visited Gideon the tailor again, Lewis looking for an interchangeable cloak, red on one side, black on the other. He offered it for a massive discount of 300g, Rem negotiated it down to 200g. Threw in a cap for free, Lewis put it on backwards.
 	- Girls
-		- Molly had a message for us
+		- Molly had a message for us, Agnes wants to choose the meeting place.
+		- Rem discussed a rendezvous point if we get separated 
