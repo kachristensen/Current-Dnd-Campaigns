@@ -18,3 +18,4 @@
 	- Valindra came to check up on me & Lewis, mentioned she had a remedy. Went to the woods, birch bark/pine resin, crushed into ointment. She applied it to me, I thanked her.
 	- Valindra and Lewis harvested some scales
 	- Rem went outside to tend to Anicca, Vera was there, wanted to know more about him, said he had interesting/predatory/wild eyes. She asked what his plans were. He said continue on. She asked if he craved blood. He said he seems to find it. She mentioned he and her could be a team, killing dragons, support of the Fontaines. He turned her down. She said she'd be lingering nearby for the night.
+	- Ria cast Fly on Anicca, Rem took Ria for a ride.
