@@ -14,7 +14,7 @@
 	/
 	Acid burns and vision wanes
 	Flesh tears and blood stains
-	We cannot hide, we cannot run
+	I cannot hide, I cannot run
 	They kill him first, then take our son
 	/
 	This man I cling to is not him
