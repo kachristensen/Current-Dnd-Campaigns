@@ -22,3 +22,5 @@
 	- Perse cast Tiny Hut
 		- Rem suggested we bring the dragon head back to Maghaven, make a show of it. He mentioned that going back in quietly might be better vs. Agnes. Rem is hoping they can at least speak first before striking her down.
 		- Lewis held out the hand of the Living God, said he didn't want to hold on to it any longer. I said I'd hold onto it if no one else wanted it, could be useful, safer if we hold on to it. Ria suggested he put it in the bag of holding. Lewis agreed.
+		- Watch
+			- Lewis and Ria - lewis asked if Ria liked the color black, preferred color? She said meh. Lewis's favorite is green. 
