@@ -11,12 +11,14 @@
             "id": "c3e63c1fd183566f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "References/At the Rexum's Behest.pdf"
+                "file": "Session Notes/Sessions 21+/23 - Maghaven VII (9-28-25).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "At the Rexum's Behest"
+              "icon": "lucide-file",
+              "title": "23 - Maghaven VII (9-28-25)"
             }
           }
         ]
@@ -172,6 +174,10 @@
   },
   "active": "c3e63c1fd183566f",
   "lastOpenFiles": [
+    "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
+    "Session Notes/Sessions 21+/23 - Maghaven VII (9-28-25).md",
+    "Session Notes/Sessions 21+/21 - Maghaven V (9-15-25).md",
+    "References/At the Rexum's Behest.pdf",
     "References/Historical Timeline.md",
     "References/The Demonic Age & Session 0.md",
     "Persephone/Songs and Poems/Misc.md",
@@ -182,11 +188,8 @@
     "Persephone/Build.md",
     "Persephone/Ria Short Story.md",
     "Session Notes/Sessions 10-20/17 -  Maghaven I (8-10-25).md",
-    "Session Notes/Sessions 21+/21 - Maghaven V (9-15-25).md",
-    "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
     "Session Notes/Sessions 1-10/2 - Making Acquaintances (4-13-25).md",
     "Session Notes/Sessions 1-10/4 - The Cult of the Devourer (4-27-25).md",
-    "References/At the Rexum's Behest.pdf",
     "References/Maps/The Dominion, Pre-Unification.png",
     "Session Notes/Sessions 10-20/19 -  Maghaven III (8-31-25).md",
     "Session Notes/Sessions 10-20/20 - Maghaven IV (9-7-25).md",
@@ -202,7 +205,6 @@
     "Session Notes/Sessions 10-20",
     "Markdown Cheat Sheet.md",
     "Session Notes/Sessions 1-10/6 - The Beastmen of Barca I (5-18-25).md",
-    "Session Notes/Sessions 1-10/8 - The Beastmen of Barca III (6-1-25).md",
     "Images/17 Maghaven.jpg",
     "Images/Unconfirmed 844243.crdownload",
     "References/Maps/The Dominion.png",

@@ -3,7 +3,7 @@
 ![[17 Maghaven.jpg | center]]
 
 ## Summary
-
+Lewis comforted Perse, who reacted traumatically to her near death. Vera perved on Rem. The party returned to Maghaven and arranged to meet with Agnes.
 
 ## IC Synopsis - Tales from Persephone
 >**What Once Was Mine**
@@ -44,7 +44,6 @@
 	/
 	And all the while I drift from lie to lie
 	In the hopes I forget what once was mine
-
 
 ## Notes
 - Post dragon fight / short rest
