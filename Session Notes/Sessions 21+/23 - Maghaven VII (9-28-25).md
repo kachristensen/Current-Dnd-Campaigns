@@ -26,4 +26,4 @@
 		- He beelined for Agnes and killed her, grabbed the bracer, inner lining punctured with dozens of needles like an iron maiden.
 		- I polymorphed Ria 
 		- Nanny/constructs can't be compelled magically to act against their programming
-		- Door to Agnes's office opened, giant iron golem, Agnes inside it. 
+		- Door to Agnes's office opened, giant iron golem, Agnes inside it. Has an anti-magic cone. 
