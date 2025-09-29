@@ -10,6 +10,6 @@
 
 ## Notes
 - Shopping
-	- 30 lbs of dragon scales - 900g total
-	- Greatsword of Wounding - 1900g
+	- 30 lbs of dragon scales - can sell for 900g total
+	- Greatsword of Wounding - 1900g, we traded in the +1 gs for 500g off.
 	- 
