@@ -23,4 +23,4 @@
 		- I pulled him aside to give him a hug, said I'd take some time to think.
 - Agnes's workshop
 	- Rem showed her the heart, said we want the bracer. She asked why. She's not willing to part with it. Rem said he was sworn to serve the divines and will take back what is there.
-		- He beelined for Agnes and killed her
+		- He beelined for Agnes and killed her, grabbed the bracer, inner lining punctured with dozens of needles like an iron maiden.
