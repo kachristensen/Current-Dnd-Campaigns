@@ -18,4 +18,4 @@
 	- Glamoured studded leather - 3200g
 - Resting
 	- Message returned from Lucious Grubb - said if we needed anything, let him know, he'll be waiting in the clocktower. 
-	- Lewis gifted Ria a cloak of billowing, Lewis got flustered when she said it wasn't time for courtship. 
+	- Lewis gifted Ria a cloak of billowing, Lewis got flustered when she said it wasn't time for courtship. Also presented her with the ring of Jumping. 
