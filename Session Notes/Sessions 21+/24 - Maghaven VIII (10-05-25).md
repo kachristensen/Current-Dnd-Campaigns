@@ -23,3 +23,4 @@
 - We travelled northward, forced march through the next day.
 	- Made it to the temple
 		- Some movement, low to the ground, long and flat. I spoke animals, hungry creatures in there.
+	- Perse asked Rem to check in on the ladies, he ripped the arm out of the bracer and chucked it.
