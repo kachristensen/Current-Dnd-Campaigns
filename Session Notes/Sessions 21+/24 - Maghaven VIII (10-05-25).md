@@ -26,4 +26,5 @@
 	- Perse asked Rem to check in on the ladies, he ripped the arm out of the bracer and chucked it.
 	- Perse boiled the bracer and Agnes's head down to the skull, saving some meat sludge for the animals. Lewis and I stayed up, we identified the bracer. 1 level of exhaustion but without the reduced speed effect, just does the other stuff.
 	- I busted out the tome, tried to dispel the lock and chain. I felt like the key to the lock was a specific spell, requires Knock specifically. Could dispel it possibly but need higher than a 15.
-	- Lewis asked about my son, was gentle, I told him he was taken from me and then at some point died. Said the LG told me what I wanted to know. He said he could try to speak to her during this temple. 
+	- Lewis asked about my son, was gentle, I told him he was taken from me and then at some point died. Said the LG told me what I wanted to know. He said he could try to speak to St Imelda during this temple. I told Lewis I wanted to know what sort of life he lived. He asked for my son's name. Zagreus. 
+		- I told Lewis I was concerned about his quick attachments, he never had anyone else. He was quiet and tended to his work. His only friend was the hammer and iron. 
