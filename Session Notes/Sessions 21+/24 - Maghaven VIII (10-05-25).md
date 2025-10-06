@@ -35,4 +35,5 @@
 	- Perse and Ria talked, Perse asked if she was going to break, unleash soon. She said that was always the plan, has a target. Someone with history in her life,  I asked if we could help, said revenge stories could be fun. Said we'll have to survive long enough to return to the capital, they've taken much from her. She'll be disappointed Ria's not dead by now. Thief and a murderer. She will burn everything she's built around herself, everything she's stolen, all the complacent individuals who let her get away with it. I asked what they did to her. She never loved her, stole her childhood, murdered your childhood, poisoned her sister against her, sent her away, stole her birthright. Her mother. 
 		- Cordelia Drakesbane, loyalist, remarried. She married into the family, the new husband and son are not Drakesbanes but have the name.
 		- I gave her a side hug. Said we would help. She isn't going to kill her quietly. Bloody coup. She had intended to forge friendships/alliances to turn against her. Her sister was sent to the clergy. She's not sure where to find her. I suggested she let her guard down around us. Told her she was scary when she talked about murdering Valindra with intensity. I gave her a kiss on the cheek and went to bed. Woke up Valindra.
-		- 
+		- Noticed Porto outside
+	- 
