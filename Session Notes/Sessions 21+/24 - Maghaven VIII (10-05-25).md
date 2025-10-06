@@ -21,4 +21,4 @@
 	- Vera wanted to stick with us, Rem rebuffed her. 
 	- Rem suggested in exchange for the dragon heart, she cover their tracks. She agreed. As a show of friendship, she offered Valindra the first bite. Valindra accepted.
 - We travelled northward, forced march through the next day.
-- 
+	- Made it to the temple
