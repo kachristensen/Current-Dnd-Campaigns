@@ -32,4 +32,5 @@
 			- I toasted him with wine. 
 			- He suggested we summon Porto, Perse joked some, but said she wouldn't like to give the serum to them, the demons might do something crazy.
 			- Lewis caught movement in the trees, glowing red eyes.
-		- 
+	- Perse and Ria talked, Perse asked if she was going to break, unleash soon. She said that was always the plan, has a target. Someone with history in her life,  I asked if we could help, said revenge stories could be fun. Said we'll have to survive long enough to return to the capital, they've taken much from her. She'll be disappointed Ria's not dead by now. Thief and a murderer. She will burn everything she's built around herself, everything she's stolen, all the complacent individuals who let her get away with it. I asked what they did to her. She never loved her, stole her childhood, murdered your childhood, poisoned her sister against her, sent her away, stole her birthright. Her mother. 
+		- Cordelia Drakesbane, loyalist, remarried. She married into the family, the new husband and son are not Drakesbanes but have the name.
