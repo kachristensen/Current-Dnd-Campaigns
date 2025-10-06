@@ -24,4 +24,4 @@
 	- Made it to the temple
 		- Some movement, low to the ground, long and flat. I spoke animals, hungry creatures in there.
 	- Perse asked Rem to check in on the ladies, he ripped the arm out of the bracer and chucked it.
-	- Perse boiled the bracer and Agnes's head down to the skull, saving some meat sludge for the animals. Lewis and I stayed up, we identified the bracer.
+	- Perse boiled the bracer and Agnes's head down to the skull, saving some meat sludge for the animals. Lewis and I stayed up, we identified the bracer. 1 level of exhaustion but without the reduced speed effect, just does the other stuff.
