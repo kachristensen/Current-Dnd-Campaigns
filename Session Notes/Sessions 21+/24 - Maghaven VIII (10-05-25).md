@@ -22,3 +22,4 @@
 	- Rem suggested in exchange for the dragon heart, she cover their tracks. She agreed. As a show of friendship, she offered Valindra the first bite. Valindra accepted.
 - We travelled northward, forced march through the next day.
 	- Made it to the temple
+		- Some movement, low to the ground, long and flat. 
