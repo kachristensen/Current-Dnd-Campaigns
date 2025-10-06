@@ -12,4 +12,4 @@
 - We killed Agnes, it exploded
 	- I took her head and some crystals, we found her notes, diary, schematics, wine
 	- Lewis harvested some material from the golem
-- 
+	- Ria's scales are visible through her torn clothes, thick bronze draconic scales
