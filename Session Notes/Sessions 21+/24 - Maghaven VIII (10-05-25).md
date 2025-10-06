@@ -18,3 +18,4 @@
 	- We came across Vera. We debated about what to do, Valindra set Wuffi to collect her, he allowed her to mount him.
 	- Prayer of Healing from Rem
 	- Valindra seemed disturbed by the chains wrapped around her neck from before. Vera asked where we were headed to, Valindra said away.
+	- Vera wanted to stick with us, Rem rebuffed her. 
