@@ -20,3 +20,4 @@
 	- Valindra seemed disturbed by the chains wrapped around her neck from before. Vera asked where we were headed to, Valindra said away.
 	- Vera wanted to stick with us, Rem rebuffed her. 
 	- Rem suggested in exchange for the dragon heart, she cover their tracks. She agreed. As a show of friendship, she offered Valindra the first bite. Valindra accepted.
+	- We travelled northward, camped just before dawn.
