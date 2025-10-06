@@ -29,3 +29,7 @@
 	- Lewis asked about my son, was gentle, I told him he was taken from me and then at some point died. Said the LG told me what I wanted to know. He said he could try to speak to St Imelda during this temple. I told Lewis I wanted to know what sort of life he lived. He asked for my son's name. Zagreus. 
 		- I told Lewis I was concerned about his quick attachments, he never had anyone else. He was quiet and tended to his work. His only friend was the hammer and iron. 
 		- We talked more, I said he was a good person, he said likewise. I asked if he would really deliver the artifacts to the Rexum, he said yeah, looking at other paths though, the bigger picture, not so narrow minded.
+			- I toasted him with wine. 
+			- He suggested we summon Porto, Perse joked some, but said she wouldn't like to give the serum to them, the demons might do something crazy.
+			- Lewis caught movement in the trees, glowing red eyes.
+		- 
