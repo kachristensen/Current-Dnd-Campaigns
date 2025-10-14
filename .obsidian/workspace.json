@@ -25,12 +25,14 @@
             "id": "4a83bc264a00e57e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Persephone/Songs and Poems/Misc.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Misc"
             }
           }
         ],
@@ -187,6 +189,8 @@
   },
   "active": "4a83bc264a00e57e",
   "lastOpenFiles": [
+    "Persephone/Songs and Poems/Untitled.md",
+    "Persephone/Songs and Poems/The Age of All Knowledge.md",
     "Session Notes/Sessions 21+/24 - Maghaven VIII (10-05-25).md",
     "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
     "Session Notes/Sessions 21+/23 - Maghaven VII (9-28-25).md",
@@ -195,9 +199,7 @@
     "References/Historical Timeline.md",
     "References/The Demonic Age & Session 0.md",
     "Persephone/Songs and Poems/Misc.md",
-    "Persephone/Songs and Poems/The Age of All Knowledge.md",
     "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
-    "Persephone/Songs and Poems/Untitled.md",
     "Persephone/Backstory.md",
     "Persephone/Build.md",
     "Persephone/Ria Short Story.md",
