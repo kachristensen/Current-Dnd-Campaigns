@@ -3,7 +3,7 @@
 ![[17 Maghaven.jpg | center]]
 
 ## Summary
-
+The party killed Agnes, collected their reward from Lucious, gave the heart to Vera, and made camp outside the temple to the north.
 
 ## IC Synopsis -
 > Perse’s voice cut through the chaos  “Ria and I will take the nanny!”  and in an instant the battlefield was divided. Rem and Valindra surged forward, intercepting Agnes’s monstrous construct as I slipped from view, calling upon divinity to heal Valindra’s wounds, light spilling between my fingers.
