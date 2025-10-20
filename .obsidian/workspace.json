@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "xi'tal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a83bc264a00e57e",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Session Notes/Sessions 21+/24 - Maghaven VIII (10-05-25).md",
     "Session Notes/Sessions 21+/25 -  (10-19-25).md",
