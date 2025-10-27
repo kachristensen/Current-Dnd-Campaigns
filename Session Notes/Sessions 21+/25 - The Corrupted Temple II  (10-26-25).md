@@ -9,28 +9,4 @@
 > 
 
 ## Notes
-- Valindra/Ria watch
-	- Valindra seemed uncomfortable/needed space, stepped out. 
-		- META: Snuck up on Valindra, spoke in perfect Abyssal. Asked what Porto was doing here. He wants to speak with Perse and Valindra. Told Valindra he knows of a potential interesting item, might tell in due time. Valindra said she's just looking for a reprieve from her memories. Valindra said she wouldn't trust a demon, Porto said ironic for what she is. 
-		- Porto warned us that this place was of great terror and evil, to be on guard.
-	- Ria went to check where Valindra was, then went back inside.
-	- Rem woke up
-		- META: dream, same golden fields, but looming shadow behind him
-		- Demanded Porto show himself, threatened him if he didn't. Rem talked about Mastenovti/Jonas, asked why would Mas agree to help him. Porto said it isn't his secret to tell. Porto offered to help with his tainted blood. 
-	- Lewis dream META - he was in a temple, statue of St. Imelda. Said he was close, will see her soon. Was a fake, he saw through her. Temple decayed, voice deepened. Not the Living God. Xitalla? Looks forward to meeting him soon. 
-- Valindra called out to me in the morning, was in at a tree with Porto. 
-	- Porto said our activities have been observed. They know of incident in human city. Asked if we were here for items of power. I deflected. Said Mastenovti knows what we seek. Proposes a trade. Wants us to kill someone for item. Says details will be discussed in person, wants us to visit him in person, Porto can guide us. He suggested we conduct a ritual instead to speak directly, requires blood. I said if he tags along he'll find plenty of it. Porto asked what we were doing here, recommended we don't go to the temple, tainted. Land is corrupted, and their blood would be too. Said he could use our combined blood. 
-		- Valindra asked if her blood was tainted, Porto said nah, pure.
-		- Rem said he wouldn't give his blood.
-		- Ria was fine with it. 
-		- Porto suggested we sacrifice Wuffi for the blood. Wuffi got defensive.
-		- I told Porto he could come with us and we'd find something else to kill, wild game or something. He said he'd wait for us outside the temple.
-	- Lewis said he had a dream, told us something lies inside the temple. Eager to see him. We'll go cleanse it.
-	- Porto said he'd wait here for 2 days.
-	- Ria isn't wearing her shades today. Sclera are completely pitch blade. Bright yellow iris, slitted pupils.
-- Otw to the temple
-	- I complimented Ria, then talked to Validra, asked if she was ok. The chains gave her PTSD. She needed some fresh air. The day they took her, they clad her in irons. Three of her family were taken, a girl her age Solana, was killed before she left. Also an older man, Ralnor, they labored together, lost contact eventually. I comforted her.  
-- Temple - we fought some giant centipedes
-	- Mosaic on the floor - sun rays connecting to the gods
-	- We proceeded inside, spiders, we fireballed. Sound of a door opening in the distance. 
-	- Driders, flying spider, ettercaps, etc.
+- 
