@@ -1,4 +1,5 @@
-Tunnels seem jagged, not naturally made.###### Day 21
+Tunnels seem jagged, not naturally made. We killed a lot more driders, etter caps, umber hulks, hellwasps, etc.
+- Voice called out to us, asked what have you done to the children. ###### Day 21
 
 ![[17 Maghaven.jpg | center]]
 
@@ -9,4 +10,5 @@ Tunnels seem jagged, not naturally made.###### Day 21
 > 
 
 ## Notes
-- Tunnels seem jagged, not naturally made.
+- Tunnels seem jagged, not naturally made. We killed a lot more driders, etter caps, umber hulks, hellwasps, etc.
+- Voice called out to us, asked what have you done to the children. 
