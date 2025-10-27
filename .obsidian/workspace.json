@@ -25,12 +25,14 @@
             "id": "4a83bc264a00e57e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "References/At the Rexum's Behest.pdf"
+                "file": "Session Notes/Sessions 21+/25 - The Corrupted Temple II  (10-26-25).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "At the Rexum's Behest"
+              "icon": "lucide-file",
+              "title": "25 - The Corrupted Temple II  (10-26-25)"
             }
           }
         ],
@@ -187,9 +189,11 @@
   },
   "active": "4a83bc264a00e57e",
   "lastOpenFiles": [
-    "Session Notes/Sessions 21+/25 -  (10-19-25).md",
+    "Session Notes/Sessions 21+/25 - The Corrupted Temple I  (10-19-25).md",
+    "Session Notes/Sessions 21+/25 - The Corrupted Temple II  (10-26-25).md",
     "Session Notes/Sessions 21+/24 - Maghaven VIII (10-05-25).md",
     "Session Notes/Sessions 21+/23 - Maghaven VII (9-28-25).md",
+    "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 1-10/8 - The Beastmen of Barca III (6-1-25).md",
     "Session Notes/Sessions 1-10/7 - The Beastmen of Barca II (5-25-25).md",
     "Persephone/Songs and Poems/Misc.md",
@@ -197,7 +201,6 @@
     "Persephone/Songs and Poems/The Age of All Knowledge.md",
     "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
     "Session Notes/Sessions 21+/21 - Maghaven V (9-15-25).md",
-    "References/At the Rexum's Behest.pdf",
     "References/Historical Timeline.md",
     "References/The Demonic Age & Session 0.md",
     "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
@@ -216,7 +219,6 @@
     "Session Notes/Sessions 21+",
     "Session Notes/Sessions 10-20/15 - The Veridian Scales I (7-27-25).md",
     "Session Notes/Sessions 10-20/16 - The Veridian Scales II (8-06-25).md",
-    "Session Notes/Sessions 10-20/13 - Jonas's Unholy Affliction (7-13-25).md",
     "Session Notes/Sessions 10-20",
     "Images/17 Maghaven.jpg",
     "Images/Unconfirmed 844243.crdownload",
