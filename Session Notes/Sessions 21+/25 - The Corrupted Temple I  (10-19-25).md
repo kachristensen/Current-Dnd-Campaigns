@@ -3,7 +3,7 @@
 ![[17 Maghaven.jpg | center]]
 
 ## Summary
-
+Porto extended Mastenovti's offer of assassinating someone for a powerful artifact. The party agreed to conduct a blood ritual with him at some point to learn more. They returned to St. Imelda's temple and began clearing it of numerous large insects.
 
 ## IC Synopsis - Ria
 > Night watch held under observation by unknown creature(s)- later identified as the demon Porto. Tiny Hut believed to have provided sufficient cover. Valindra exited briefly during my shift with her, during which she approached our observer. Subject(s) of conversation unknown (spoken in Abyssal). 
