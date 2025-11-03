@@ -7,10 +7,10 @@
 
 ## IC Synopsis - Tales from Persephone
 > how quickly songs fade
-   no rhyme or reason
    words become expensive
    they fall
    here and there
+   with no rhyme or reason
    I weep
    melody into dirge
    and yet I must try
