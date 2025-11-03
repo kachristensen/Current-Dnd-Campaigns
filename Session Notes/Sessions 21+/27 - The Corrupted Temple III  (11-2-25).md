@@ -16,3 +16,4 @@
 	- Altar with egg, candles, food. Egg has burst open. 2 Human bodies webbed. Baby humanoid insect bee thing at the edge of the table, eating flesh. Wail - exhaustion to many of us. Valindra silenced it. Bug did the uppies motion. Rem killed it.
 	- Corpses - human male and female, 20s. Were living until an hour ago, freshly dead. Egg recently hatched. 
 	- Mural - has been painted over, instead of St. Imelda, is XI'Talla. Crowds and masses of screaming writhing humans, giant bug goddess, burning flames and smoke. 
+	- Ria and I arcana'd - egg is the same one we saw in the sewers of Maghaven. Hybrid between human and insect, tainted, trying to be grown as a vessel, but came out deformed. Method is trying to be perfected.
