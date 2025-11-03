@@ -68,3 +68,5 @@
 			- Verlatenland, former city is said to have fallen into the Abyss long ago, considered a portal to hell.
 			- Valindra dropped Valdrheim, Porto recommended we visit beforehand.
 			- Long way over the river would be like a month of travel. Porto knows a way that would be faster, closer here.
+- Tiny Hut
+	- We discussed what to do next. Decided to inform Theron. 
