@@ -54,4 +54,6 @@
 	- Ritual - we dripped the remaining blood. Porto pulled out a mirror. Needs a person to touch it, Perse touched it. 
 		- Temperature dropped in the circle, a voice.
 			- Mastenovti asked if I was familiar with him. I said perhaps.
-			- He needs a group of powerful individuals. Asked why our interest in powerful artifacts. Said the items we seek are connected to the gods. The essence that makes them what they are are not solely of divine, demons can make them as well. 
+			- He needs a group of powerful individuals. Asked why our interest in powerful artifacts. Said the items we seek are connected to the gods. The essence that makes them what they are are not solely of divine, he can make them as well. What he needs to craft such an item is the body of a powerful demon. Competition. Wants us to take out a rival of his. Pick one of the remaining three.
+				- I questioned why they haven't unified, can only be through conquest.
+				- The humans aren't important, need to get rid of the gods who are holding back the essence of the abyss. Have grown stale 
