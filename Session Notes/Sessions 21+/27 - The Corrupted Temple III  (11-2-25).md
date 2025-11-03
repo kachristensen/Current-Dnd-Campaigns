@@ -62,17 +62,18 @@
    /
    And I know joy.
    /
-   I am twenty again. My hands strum the lute, and his strum mine. To forsake the surface is no troubling task, when the stars are in his skin, and the moon in his eyes. He pulls the galaxy below ground. The heavens were never above, but below, where he strung them in dancing motes, and hung them from the balconies in soft everlasting light. For two hundred years, we are one, mine right his and his mine. I garden and grow, and over time, we change. From imperfection we create new life.
+   I am twenty again. My hands strum the lute, and his strum mine. To forsake the surface is no troubling task, when the stars are in his skin, and the moon in his eyes. He pulls the galaxy below ground. The heavens were never above, but below, where he strung them in dancing motes, and hung them from the balconies in soft everlasting light. I know him as well as I know myself. For two hundred years, we are one, mine right his and his mine. I garden and grow, and over time, we change. From imperfection and sin we create new life.
    /
    He is the most perfect thing we have ever made.
    /
-   We should have known better. For a time, we partake in my maiden sky--the stars though distant, still present. They are still there under your skin when I curl up next to you. Your body was still warm. The mountains are cold, but the fire drowns out his cries and burn away our sins. My blood, my flesh, my dread, my soul. You are gone, and I follow.
+   We should have known better. For a time, we partake in my maiden sky--the stars though distant, still present. They are still there under your skin when I curl up next to you. Your body was still warm. The mountains are cold, but the fire drowns out his cries and burn away our transgressions. My blood, my flesh, my dread, my soul. You are gone, and I follow.
    /
+   ...
    ...
    ...
    Questions follow. I answer them to my abilities. Valindra, my darling, speaks our tongue, so she hears what is said. How strange it is to find this youth, this elven woman, who knows the barest glimmer of our histories. She knows of you, and I cannot but help to share my joy with her. They bruised her body and heart and mind, but not her soul. She is pure. She is grace and love, beauty and kindness, and I burst so wholly with such things that I cannot help but pour them into her.
    / 
-   Time has passed. Things are different. Two years have elapsed since I was brought back to this realm, and made to live in an alien world. I am still a ghost struggling to find form. A wraith without meaning. But I still walk forward, and sometimes when I laugh or smile it is genuine, and it is in those I know my love has never diminished.
+   Time has passed. Things are different. Two years have elapsed since I was brought back to this realm, and made to live in this alien world. I am still a ghost struggling to find form. A wraith without meaning. But I still walk forward, and sometimes when I laugh or smile it is genuine, and it is in those precious moments I know my love has never diminished.
    /
    We set up camp.
    Lewis sends Theron our plans.
@@ -121,10 +122,10 @@
    And thus did I oblige, dispelling the mystery
    Of my life beforehand and the strange circumstance
    Which did in a way give me the chance
-   To meet someone as sweet and well-intentioned as she
-   And find a friend with to weather the centuries' advance
+   To meet someone as pure and well-intentioned as she
+   And in her, a friend with to weather time's advance
    /
-   Conversing with Rem during our final shift
+   I approached Rem during our final shift
    'Twas not an argument or rivalry I wished
    Yet in doing so, we traded our blows
    My angered frustration and weeping woes
@@ -133,28 +134,15 @@
    The aching hurt that left myself hollow
    Only proved to show
    That a Cathar cannot coexist
+		with
    /
-   For if 
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-
-
+   for if you see a ploy instead of vulnerability
+   and manipulation instead of honesty
+   if my tears to you are lies
+   if my pain to you is a deception
+   then to you I will only ever be
+                        a
+               demon.
 
 ## Notes
 - Prayer of Healing
