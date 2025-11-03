@@ -89,3 +89,6 @@
 		- not much to say - Ria seems irritated. Valindra asked for tea. 
 	- Valindra and Perse
 		- She asked about my history, what it was like. I told her much about it. Love, ruling, our son. 
+		- We talked about Rem some. Hugged. Said in our long lives we would be friends.
+	- Rem and Perse
+		- Awkward. 
