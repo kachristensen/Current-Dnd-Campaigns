@@ -60,5 +60,6 @@
 					- He was trying to fish why he was familiar with me - I told him he should look to his history books/memory. He asked Porto to describe me to him, they conferred in Abyssal. 
 					- He says my husband is betrothed to Xchi'maltia. His kingdom has been left to an inferior, let it rot. All of his rivals live in the underdark. We'll need to meet in person to discuss - deliver the body of his rival and craft the weapon. 
 					- I told them we would speak again. 
-				- Party conversed. I told them of my history and Hades.
+				- Party conversed. I told them of my history and Hades. Dying, resurrecting in the mountains in the northwest. 
 		- I asked as a favor that they come with. Lewis was with me, as was Valindra. 
+			- META: Ria wondering if my joy is blinding me. Jim asked Chris about what he knows of visiting the underworld -- its a fantasy, no one goes there unless worshipping demons, heretical. 
