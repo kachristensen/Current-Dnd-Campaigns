@@ -64,4 +64,6 @@
 		- I asked as a favor that they come with. Lewis was with me, as was Valindra. 
 			- META: Ria wondering if my joy is blinding me. Jim asked Chris about what he knows of visiting the underworld -- its a fantasy, no one goes there unless worshipping demons, heretical. Asked about marriage, gods are supposedly infertile, forbidden from having offspring. Ely asked about demon couples - era was very competitive, used humans as proxies for war, had alliances but those usually crumbled. Not out of the question for there to be romantic alliances. 
 		- Rem seems reserved, guarded. Said has reservations about the Rexum but wants no part in upending the Grand Divine. Would be fine to slay a demon lord, but Mastenovti's plans are concerning. 
-		- Porto said he knows of a path to get there.
+		- Porto said he knows of a path to get there. Verlatenland, former city is said to have fallen into the Abyss long ago, considered a portal to hell.
+			- Valindra dropped Valdrheim, Porto recommended we visit beforehand.
+			- 
