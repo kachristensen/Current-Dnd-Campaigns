@@ -75,7 +75,7 @@
    ...
    Questions follow. I answer them to my abilities. Valindra, my darling, speaks our tongue, so she hears what is said. How strange it is to find this youth, this elven woman, who knows the barest glimmer of our histories. She knows of you, and I cannot but help to share my joy with her. They bruised her body and heart and mind, but not her soul. She is pure. She is grace and love, beauty and kindness, and I burst so wholly with such things that I cannot help but pour them into her.
    / 
-   Time has passed. Things are different. Two years have elapsed since I was brought back to this realm, and made to live in this alien world. I am still a ghost struggling to find form. A wraith without meaning. But I still walk forward, and sometimes when I laugh or smile it is genuine, and it is in those precious moments I know my love has never diminished.
+   Time has passed. Things are different. Two years have elapsed since I was brought back to this realm, and made to live in this alien world. I am still a ghost struggling to find form. A wraith without meaning. But I still walk forward, and sometimes when I laugh or smile it is genuine, and it is in those precious moments I know my love for you has never diminished.
    /
    We set up camp.
    Lewis sends Theron our plans.
