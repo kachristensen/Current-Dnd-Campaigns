@@ -44,3 +44,5 @@
 	- Lewis asked Rem about an item that should've been the temple, they didn't see it. Thanked him for looking.
 	- 
 	- Porto has been scribing weird symbols into the ground. Surprised we came back so quickly. 
+		- Abyssal - can't tell much more about the ritual. Communication ritual. 
+		- Needs about as much blood as an adult human, must be mortal. 
