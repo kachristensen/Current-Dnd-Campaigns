@@ -41,4 +41,6 @@
 	- Perse cut off the head of the heirophant and put it in the bag of holding
 	- Burned all and left the temple
 - We returned to Porto
-	- Lewis asked Rem about an item that should've been the temple, they didn't see it. Thanked him for looking. 
+	- Lewis asked Rem about an item that should've been the temple, they didn't see it. Thanked him for looking.
+	- 
+	- Porto has been scribing weird symbols into the ground. Surprised we came back so quickly. 
