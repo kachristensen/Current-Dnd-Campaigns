@@ -39,3 +39,6 @@
 			- Lewis brained it with his mace. Tore down the painting and lit it afire. 
 	- Rem looked for buttons/hidden passageways. This section is part of the temple but was cemented off long ago.
 	- Perse cut off the head of the heirophant and put it in the bag of holding
+	- Burned all and left the temple
+- We returned to Porto
+	- Lewis asked Rem about an item that should've been the temple, they didn't see it. Thanked him for looking. 
