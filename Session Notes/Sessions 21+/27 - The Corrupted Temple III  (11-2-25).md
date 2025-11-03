@@ -45,7 +45,7 @@
    Ho ho, ha ha, what amusing coincidence!
    Such fortune, such luck, such divine deliverance!
    He informs us of a bargain, in which struck
-   Sees us slaying his rival, the poor fuck 
+   Sees us slaying his rival, the poor sorry fuck 
    In exchange for an artifact of god-killing significance
    /
    And then I am made
@@ -53,7 +53,7 @@
    In his desire to persuade
    He tells me of him
    /
-   He is not dead
+   Hades is not dead
    Nor is he alive
    Betrothed
    Revived?
@@ -62,14 +62,35 @@
    /
    And I know joy.
    /
-   I am twenty again. My hands strum the lute, and his strum mine. To forsake the surface is no troubling task, when the stars are in his skin, and the moon in his eyes. He pulls the galaxy below ground. The heavens were never above, but below, where he strung them in dancing motes, and hung them from the balconies in everlasting light. For two hundred years, we are one, mine right his and his mine. I garden and grow, and over time, we change. From imperfection we create new life.
+   I am twenty again. My hands strum the lute, and his strum mine. To forsake the surface is no troubling task, when the stars are in his skin, and the moon in his eyes. He pulls the galaxy below ground. The heavens were never above, but below, where he strung them in dancing motes, and hung them from the balconies in soft everlasting light. For two hundred years, we are one, mine right his and his mine. I garden and grow, and over time, we change. From imperfection we create new life.
    /
    He is the most perfect thing we have ever made.
    /
-   We should have known better. Perhaps had we stayed, we would have survived. You fought. 
+   We should have known better. For a time, we partake in the sky--the stars though distant, still present. They are still there under your skin when I curl up next to you. Your body was still warm. The mountains are cold, but the fire drowns out his cries. My blood, my flesh, my dread, my soul. You are gone, and I follow.
+   /
+   ...
+   ...
+   Questions follow. I answer them to my abilities. Valindra, my darling, speaks our tongue, so she hears what is said. How strange it is to find this youth, this elven woman, who knows the barest glimmer of our histories. She knows of you, and I cannot but help to share my joy with her. They bruised her body and heart and mind, but not her soul. She is pure. She is grace and love, beauty and kindness, and I burst so wholly with such things that I cannot help but pour them into her.
+   / 
+   Time has passed. Things are different. Two years have elapsed since I was brought back to this realm, and made to live in an alien world. I am still a ghost struggling to find form. A wraith without meaning. But I still walk forward, and sometimes when I laugh or smile it is genuine, and it is in those I know my love has never diminished.
+   /
+   We set up camp.
+   Lewis sends Theron our plans.
+   We discuss Mastenovti's proposal.
+   We elect to continue to Valdrheim.
+   /
+   Rembrandt, remember  
+   His golden sun splendor
+   There was once a time
+   Where 
+   
+   
+   
+   
+   
    
 
-   
+
 
 
 
