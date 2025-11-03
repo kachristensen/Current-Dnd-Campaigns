@@ -39,7 +39,8 @@
    No handsomer, nor caliber, nor cheeks quite as rosy
    As the perky and cheerful Lord Mastenovti! 
    /
-   Ho ho, ha, what an amusing coincidence
+   Ho ho, ha ha, what amusing coincidence
+   
 
    
 
