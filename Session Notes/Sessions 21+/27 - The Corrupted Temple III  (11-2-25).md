@@ -6,7 +6,10 @@
 
 
 ## IC Synopsis - Tales from Persephone
-
+> How quickly songs fade
+   No rhyme or reason
+   Words become expensive
+    
 
 ## Notes
 - Prayer of Healing
