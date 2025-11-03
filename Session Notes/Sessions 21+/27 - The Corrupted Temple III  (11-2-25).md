@@ -47,4 +47,10 @@
 		- Needs about as much blood as an adult human, must be mortal. 
 			- Valindra went hunting, Perse assisted with Bardic Inspo. Valindra took down a young elk. 
 				- Porto says good for 80%, will need some extra blood.
-		- 
+				- Valindra was very willing, Perse squinted at her.
+				- Ria has no objections so long as the circle is disposed of.
+				- Lewis was willing, took out a dagger.
+				- Rem abstained.
+	- Ritual - we dripped the remaining blood. Porto pulled out a mirror. Needs a person to touch it, Perse touched it. 
+		- Temperature dropped in the circle, a voice.
+			- 
