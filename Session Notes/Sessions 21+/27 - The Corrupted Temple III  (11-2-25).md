@@ -6,6 +6,8 @@
 
 
 ## IC Synopsis - Tales from Persephone
+> **The Stars Beneath the Earth**
+> 
 > how quickly songs fade
    words become expensive
    they
