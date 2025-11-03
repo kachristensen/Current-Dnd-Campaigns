@@ -46,7 +46,7 @@
    Such fortune, such luck, such divine deliverance!
    He informs us of a bargain, in which struck
    Sees us slaying his rival, the poor fuck 
-   In exchange for an artifact of no small significance
+   In exchange for an artifact of god-killing significance
    /
    And then I am made
    He knows of my sins
@@ -54,11 +54,19 @@
    He tells me of him
    /
    He is not dead
-   Nor alive
+   Nor is he alive
    Betrothed
    Revived?
+   To the goddess X'chimaltia
+   Sharing his domain
    /
-   
+   And I know joy.
+   /
+   I am twenty again. My hands strum the lute, and his strum mine. To forsake the surface is no troubling task, when the stars are in his skin, and the moon in his eyes. He pulls the galaxy below ground. The heavens were never above, but below, where he strung them in dancing motes, and hung them from the balconies in everlasting light. For two hundred years, we are one, mine right his and his mine. I garden and grow, and over time, we change. From imperfection we create new life.
+   /
+   He is the most perfect thing we have ever made.
+   /
+   We should have known better. Perhaps had we stayed, we would have survived. You fought. 
    
 
    
