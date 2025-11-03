@@ -53,4 +53,5 @@
 				- Rem abstained.
 	- Ritual - we dripped the remaining blood. Porto pulled out a mirror. Needs a person to touch it, Perse touched it. 
 		- Temperature dropped in the circle, a voice.
-			- Mastenovti asked 
+			- Mastenovti asked if I was familiar with him. I said perhaps.
+			- He needs a group of powerful individuals. Asked why our interest in powerful artifacts. Said the items we seek are connected to the gods. The essence that makes them what they are are not solely of divine, demons can make them as well. 
