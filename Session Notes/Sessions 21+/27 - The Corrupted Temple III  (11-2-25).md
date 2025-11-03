@@ -11,3 +11,4 @@
 ## Notes
 - Prayer of Healing
 	- Bardic Inspiration on Lewis
+	- Enemies start to decay/sludge on death
