@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3e63c1fd183566f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Persephone/Build.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Build"
-            }
-          },
-          {
             "id": "4a83bc264a00e57e",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "27 - The Corrupted Temple III  (11-2-25)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

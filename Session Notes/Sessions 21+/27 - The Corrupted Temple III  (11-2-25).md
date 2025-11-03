@@ -9,4 +9,5 @@
 
 
 ## Notes
-- 
+- Prayer of Healing
+	- Bardic Inspiration on Lewis
