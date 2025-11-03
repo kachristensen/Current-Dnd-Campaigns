@@ -80,3 +80,5 @@
 		- Rem wants to go to Valdrheim, said he'd never go to the underworld. 
 		- Ria said we are less beholden to Mastenovti than the Rexum. 
 		- I said I don't mind going to Valdrheim first, but if we don't ever go to the underdark, I will part ways with them.  Lewis said he was with me, as did Valindra. 
+	- I failed dispelling the tome again, Rem Enhanced Abilitied me.
+- 
