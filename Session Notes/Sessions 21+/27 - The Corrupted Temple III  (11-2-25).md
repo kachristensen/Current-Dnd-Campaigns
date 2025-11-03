@@ -15,13 +15,31 @@
    melody into dirge
    and yet beholden I try
    /
-   Our noble adventurers, tried and true
+   Our noble adventurers, tried and true!
    Ventured verily forth unto eldritch wailing
    Against insectoid creature born freshly anew
    Our mighty spells and blades prevailing
    /
    Ere departing we discovered a dastardly plot
-   To create more o' these creatures, through ritual and sin
+   To create more of them via ritual and sin
+   we question the corpse and 
+   set flame
+   blazing
+   hot
+   and
+   Returned to the entrance whence we did begin!
+   /
+   With decapitated head decayed on my hip
+   We merrily maketh our trip
+   Back to Porto, that loveable scamp
+   What scallywag, what rascal, what adorable tramp!
+   /
+   
+   
+   
+   
+   
+   
    
    
    
