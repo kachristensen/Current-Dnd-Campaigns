@@ -8,12 +8,14 @@
 ## IC Synopsis - Tales from Persephone
 > how quickly songs fade
    words become expensive
-   they fall
-   here and there
+   they
+       fall
+   here        and          there
    with no rhyme or reason
-   I weep
+              I weep.
    melody into dirge
-   and yet beholden, I try
+   and yet beholden
+      I try.
    /
    Our noble adventurers, tried and true!
    Ventured verily forth unto eldritch wailing
@@ -24,9 +26,10 @@
    To create more of them via corruption and sin
    we question the corpse and 
    set flame
-   blazing
-   hot
-   and
+       blazing
+          hot
+          **it burns**
+    and
    Returned to the entrance whence we did begin!
    /
    With decapitated head decayed on my hip
@@ -39,7 +42,11 @@
    No handsomer, nor caliber, nor cheeks quite as rosy
    As the perky and cheerful Lord Mastenovti! 
    /
-   Ho ho, ha ha, what amusing coincidence
+   Ho ho, ha ha, what amusing coincidence!
+   Such fortune, such luck, such divine deliverance!
+   He informs us of a bargain, in which struck
+   Sees us slaying his rival 
+   
    
 
    
