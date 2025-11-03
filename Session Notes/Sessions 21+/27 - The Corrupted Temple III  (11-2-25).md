@@ -15,6 +15,17 @@
    melody into dirge
    and yet I must try
    /
+   Our noble adventurers, tried and true
+   Ventured verily forth unto eldritch wailing
+   Against insectoid creature born freshly new
+   Our mighty spells and blades prevailing
+   
+   
+   
+   
+   
+   
+   
    
 
 
