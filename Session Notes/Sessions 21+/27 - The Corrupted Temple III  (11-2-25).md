@@ -92,4 +92,5 @@
 		- We talked about Rem some. Hugged. Said in our long lives we would be friends.
 	- Rem and Perse
 		- Terse conversation, Rem said Perse had plenty of opportunities to confide in him. She said he wasn't ready and he's treated her rudely since then.
+		- He asked what my end goal is, said just to learn, the others can decide the fate of Skediwen. He asked what we did as Demon Lords, feudalism. 
 		- He asked why he should. Perse cried and yelled at him, said he needs us on the same side. Said she was sorry. She loves her husband and wants to find out what happened to him. She likes this party.
