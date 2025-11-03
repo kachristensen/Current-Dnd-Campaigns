@@ -73,3 +73,4 @@
 	- Perse asked Valindra why she speaks Abyssal. 
 		- All in the Veridian Scales can speak Abyssal. Their stories/histories came from the demons, the one who wrote them down. When they're told to them, they're spoken in Abyssal. Draconic was left to the higher ranking more devout.  The dragons spoke oral history, destroyed a lot of the demons, so those who knew the histories of the demons preserved it. Demons kept very detailed records. 
 	- Lewis sent message to Theron - Agnes is dead, bracer is ours, dolls may not be in surplus. What other artifacts are available for procurement?
+		- Theron asked about the heart, Lewis said it was still out of reach. We're coming up with a better plan for future endeavor.
