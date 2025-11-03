@@ -45,7 +45,19 @@
    Ho ho, ha ha, what amusing coincidence!
    Such fortune, such luck, such divine deliverance!
    He informs us of a bargain, in which struck
-   Sees us slaying his rival 
+   Sees us slaying his rival, the poor fuck 
+   In exchange for an artifact of no small significance
+   /
+   And then I am made
+   He knows of my sins
+   In his desire to persuade
+   He tells me of him
+   /
+   He is not dead
+   Nor alive
+   Betrothed
+   Revived?
+   /
    
    
 
