@@ -112,11 +112,28 @@
    The reasons behind her eldritch corruption
    To assist in his efforts of investigation and deduction
    /
-   Ria makes no secret she thinks he is stupid
-   And asserts killing him is well within her ability
+   Ria makes no secret she thinks his idea is stupid
+   Asserting that killing him is well within her ability
    Of her time with Valindra, their watch together is muted
    Though there is a easing of rage, and the sharing of tea
    /
+   Of Valindra and I, she asked more of my history
+   And thus did I oblige, dispelling the mystery
+   Of my life beforehand and the strange circumstance
+   Which did in a way give me the chance
+   To meet someone as sweet and well-intentioned as she
+   And find a friend with to weather the centuries' advance
+   /
+   Conversing with Rem during our final shift
+   'Twas not an argument or rivalry I wished
+   Yet in doing so, we traded our hurts
+   
+   
+   
+   
+   
+   
+   
    
    
    
