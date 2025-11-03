@@ -66,7 +66,7 @@
    /
    He is the most perfect thing we have ever made.
    /
-   We should have known better. For a time, we partake in the sky--the stars though distant, still present. They are still there under your skin when I curl up next to you. Your body was still warm. The mountains are cold, but the fire drowns out his cries. My blood, my flesh, my dread, my soul. You are gone, and I follow.
+   We should have known better. For a time, we partake in my maiden sky--the stars though distant, still present. They are still there under your skin when I curl up next to you. Your body was still warm. The mountains are cold, but the fire drowns out his cries and burn away our sins. My blood, my flesh, my dread, my soul. You are gone, and I follow.
    /
    ...
    ...
@@ -81,16 +81,30 @@
    /
    Rembrandt, remember  
    His golden sun splendor
-   There was once a time
-   Where 
+   A smile to die for
+   A man worth an eye for?
+   /
+   Only now his light diminishes
+   His cold indifference eclipses
+   A once easy smile, a playful grin
+   The proffered strength, the radiance within
+   Are now but fading glimpses
+   Of what what once was and what could have been
+   /
+   He makes himself clear.
+   If to the underworld we head, he won't be coming with.
+   Lewis, brave and ever dear
+   Forges loyalties iron-smithed
+   And lets me know I won't be alone
+   /
+   Valindra seconds him, eager to please
+   Ria keeps quiet as to whether she disagrees
    
    
    
    
    
    
-
-
 
 
 
