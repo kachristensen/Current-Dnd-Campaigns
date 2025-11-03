@@ -19,3 +19,21 @@
 	- Ria and I arcana'd - egg is the same one we saw in the sewers of Maghaven. Hybrid between human and insect, tainted, trying to be grown as a vessel, but came out deformed. Method is trying to be perfected.
 	- Lewis cast speak with dead
 		- How long have you been captured? 
+			- I don't know what you mean.
+		- You were a part of this ritual?
+			- Indeed.
+		- What was the point of building this settlement underneath the temple?
+			- To be closer to her.
+		- Was there anything inside the temple worth grabbing?
+			- Just the priestess, I suppose.
+		- Where is the priestess now?
+			- I don't know.
+		- Corpse continued to look at Lewis and speak with him even after the 5 questions. 
+			- What were your plans for the priestess?
+				- The lady of the temple became part of the hive and administered the final rites. 
+				- "Lewis, your mother is calling."
+			- Where is my mother?
+				- She sleeps below. She awaits for her children to wake her up. Please wake me up, Lewis. 
+			- And how would I wake you up?
+				- repeated - please wake me up Lewis.
+			- Lewis brained it with his mace. 
