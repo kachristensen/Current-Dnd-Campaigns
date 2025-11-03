@@ -76,4 +76,4 @@
 		- Theron asked about the heart, Lewis said it was still out of reach. We're coming up with a better plan for future endeavor.
 			- 2 Artifacts in Valdrheim - shield and chains. Shield of Forsherey. Chains of Zaronach. Valdrheim has seen a massive increase in spirits due to concentration of artifacts - full frontal assault not practical. 
 			- Theron asked if he should send someone to pick up artifacts, Lewis said we'll bring back none or all as agreed.
-	- 
+		- Valindra asked what my husband's name was, Hades. Her history books do mention him. 
