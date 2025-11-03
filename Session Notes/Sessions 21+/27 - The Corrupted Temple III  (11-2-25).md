@@ -6,10 +6,16 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> How quickly songs fade
-   No rhyme or reason
-   Words become expensive
-    
+> how quickly songs fade
+   no rhyme or reason
+   words become expensive
+   they fall
+   here and there
+   I weep
+   melody into dirge
+   and yet I must try
+
+
 
 ## Notes
 - Prayer of Healing
