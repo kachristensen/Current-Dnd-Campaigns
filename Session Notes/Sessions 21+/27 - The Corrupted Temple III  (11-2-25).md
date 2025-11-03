@@ -17,8 +17,10 @@
    /
    Our noble adventurers, tried and true
    Ventured verily forth unto eldritch wailing
-   Against insectoid creature born freshly new
+   Against insectoid creature born freshly anew
    Our mighty spells and blades prevailing
+   /
+   Ere its death we discovered
    
    
    
