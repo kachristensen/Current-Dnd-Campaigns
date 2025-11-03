@@ -37,3 +37,5 @@
 			- And how would I wake you up?
 				- repeated - please wake me up Lewis.
 			- Lewis brained it with his mace. Tore down the painting and lit it afire. 
+	- Rem looked for buttons/hidden passageways. This section is part of the temple but was cemented off long ago.
+	- Perse cut off the head of the heirophant 
