@@ -36,4 +36,4 @@
 				- She sleeps below. She awaits for her children to wake her up. Please wake me up, Lewis. 
 			- And how would I wake you up?
 				- repeated - please wake me up Lewis.
-			- Lewis brained it with his mace. 
+			- Lewis brained it with his mace. Tore down the painting and lit it afire. 
