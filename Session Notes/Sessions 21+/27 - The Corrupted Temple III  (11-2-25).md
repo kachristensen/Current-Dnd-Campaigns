@@ -77,3 +77,5 @@
 			- 2 Artifacts in Valdrheim - shield and chains. Shield of Forsherey. Chains of Zaronach. Valdrheim has seen a massive increase in spirits due to concentration of artifacts - full frontal assault not practical. 
 			- Theron asked if he should send someone to pick up artifacts, Lewis said we'll bring back none or all as agreed.
 		- Valindra asked what my husband's name was, Hades. Her history books do mention him. 
+		- Rem wants to go to Valdrheim, said he'd never go to the underworld. 
+		- Ria said we are less beholden to Mastenovti than the Rexum. 
