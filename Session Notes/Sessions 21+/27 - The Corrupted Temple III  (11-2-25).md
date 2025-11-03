@@ -126,7 +126,18 @@
    /
    Conversing with Rem during our final shift
    'Twas not an argument or rivalry I wished
-   Yet in doing so, we traded our hurts
+   Yet in doing so, we traded our blows
+   My angered frustration and weeping woes
+   Were dispassionately dismissed
+   And the silence and tension that followed
+   The aching hurt that left myself hollow
+   Only proved to show
+   That a Cathar cannot coexist
+   /
+   For if 
+   
+   
+   
    
    
    
