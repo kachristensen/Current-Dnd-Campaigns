@@ -93,4 +93,7 @@
 	- Rem and Perse
 		- Terse conversation, Rem said Perse had plenty of opportunities to confide in him. She said he wasn't ready and he's treated her rudely since then.
 		- He asked what my end goal is, I said I don't know, just to learn, the others can decide the fate of Skediwen. He asked what we did as Demon Lords, I likened it to feudalism, we controlled a portion of the underworld. He questioned if we wanted to rule again, I said I thought the demons had their turn, thought the humans should have theirs. 
-		- He asked why he should. Perse cried and yelled at him, said he needs us on the same side. Said she was sorry. She loves her husband and wants to find out what happened to him. She likes this party.
+		- I told him he was a dog following his leash, he said I should try harder to pull his leash. I wasn't. I was trying to make peace with him but didn't have much to work with.
+		- He said give him a reason, Perse cried and yelled at him, said he needs us on the same side, as a team. He needs us, unless he intends to fight us all. 
+		- I reiterated I didn't need the artifacts, he could take the others after Valdrheim, she would leave. I like some of the party. She loves her husband and wants to find out what happened to him and their son. Said she was sorry for everything he is going through and what she put him through.
+		- She wishes him well. He doesn't wish her ill will and would help, but not go into the underworld. Was cold, said I needed to confide in them and continue to give reason for them to trust in her. He'd consider it. 
