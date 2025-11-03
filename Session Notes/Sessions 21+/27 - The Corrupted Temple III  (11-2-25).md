@@ -13,7 +13,7 @@
    with no rhyme or reason
    I weep
    melody into dirge
-   and yet beholden I try
+   and yet beholden, I try
    /
    Our noble adventurers, tried and true!
    Ventured verily forth unto eldritch wailing
@@ -39,23 +39,8 @@
    No handsomer, nor caliber, nor cheeks quite as rosy
    As the perky and cheerful Lord Mastenovti! 
    /
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+   Ho ho, ha, what an amusing coincidence
+
    
 
 
