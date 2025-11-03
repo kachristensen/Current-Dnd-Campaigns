@@ -53,4 +53,4 @@
 				- Rem abstained.
 	- Ritual - we dripped the remaining blood. Porto pulled out a mirror. Needs a person to touch it, Perse touched it. 
 		- Temperature dropped in the circle, a voice.
-			- 
+			- Mastenovti asked 
