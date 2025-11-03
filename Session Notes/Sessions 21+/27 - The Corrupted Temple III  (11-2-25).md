@@ -21,7 +21,7 @@
    Our mighty spells and blades prevailing
    /
    Ere departing we discovered a dastardly plot
-   To create more of them via ritual and sin
+   To create more of them via corruption and sin
    we question the corpse and 
    set flame
    blazing
@@ -34,6 +34,14 @@
    Back to Porto, that loveable scamp
    What scallywag, what rascal, what adorable tramp!
    /
+   With Valindra procuring a stag with ample blood
+   And Porto's runes scored into the mud
+   No handsomer, nor caliber, nor cheeks quite as rosy
+   As the perky and cheerful Lord Mastenovti! 
+   /
+   
+   
+   
    
    
    
