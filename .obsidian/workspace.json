@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xi'tal",
+                "query": "heart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a83bc264a00e57e",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Session Notes/Sessions 21+/26 - The Corrupted Temple II  (10-26-25).md",
     "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
