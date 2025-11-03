@@ -58,3 +58,5 @@
 				- I questioned why they haven't unified, can only be through conquest.
 				- The humans aren't important, need to get rid of the gods who are holding back the essence of the abyss. Have grown stale from lack of contact.
 					- He was trying to fish why he was familiar with me - I told him he should look to his history books/memory. He asked Porto to describe me to him, they conferred in Abyssal. 
+					- He says my husband is betrothed to Xchi'maltia. His kingdom has been left to an inferior, let it rot. All of his rivals live in the underdark. We'll need to meet in person to discuss - deliver the body of his rival and craft the weapon. 
+					- I told them we 
