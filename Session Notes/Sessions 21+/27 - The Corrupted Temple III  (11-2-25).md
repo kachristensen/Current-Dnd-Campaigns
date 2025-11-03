@@ -62,4 +62,4 @@
 					- I told them we would speak again. 
 				- Party conversed. I told them of my history and Hades. Dying, resurrecting in the mountains in the northwest. 
 		- I asked as a favor that they come with. Lewis was with me, as was Valindra. 
-			- META: Ria wondering if my joy is blinding me. Jim asked Chris about what he knows of visiting the underworld -- its a fantasy, no one goes there unless worshipping demons, heretical. 
+			- META: Ria wondering if my joy is blinding me. Jim asked Chris about what he knows of visiting the underworld -- its a fantasy, no one goes there unless worshipping demons, heretical. Asked about marriage, gods are supposedly infertile, forbidden from having offspring. 
