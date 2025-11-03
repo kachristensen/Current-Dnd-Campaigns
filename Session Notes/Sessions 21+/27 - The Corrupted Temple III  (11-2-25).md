@@ -83,5 +83,6 @@
 	- I failed dispelling the tome again, Rem Enhanced Abilitied me.
 - Watches
 	- Ria and Lewis
-		- Lewis pulled some brain matter out of the skull of the hierophant. Said he was preparing for tomorrow, a spell. Ria asked what. He wants to know why she turned/gave up. Ria said the entity's influence spreads like an infection, said to take care it doesn't root itself in him. She'd have to kill him. Lewis said he'll consume the mind of that person. Ria asked why. He said he'd sit on it. Ria warned against the corruption. Lewis asked for our support in the morning.
+		- Lewis pulled some brain matter out of the skull of the hierophant. Said he was preparing for tomorrow, a spell. Ria asked what. He wants to know why she turned/gave up. Ria said the entity's influence spreads like an infection, said to take care it doesn't root itself in him. She'd have to kill him. Lewis said he'll consume the mind of that person. Ria asked why. He said he'd sit on it. Ria warned against the corruption. Lewis asked for our support in the morning. Ria called him stupid.
 			- Grim Hollow - Consume Mind spell
+		- 
