@@ -81,4 +81,6 @@
 		- Ria said we are less beholden to Mastenovti than the Rexum. 
 		- I said I don't mind going to Valdrheim first, but if we don't ever go to the underdark, I will part ways with them.  Lewis said he was with me, as did Valindra. 
 	- I failed dispelling the tome again, Rem Enhanced Abilitied me.
-- 
+- Watches
+	- Ria and Lewis
+		- Lewis pulled some brain matter out of the skull of the hierophant. Said he was preparing for tomorrow, a spell. Ria asked what. He wants to know why she turned/gave up. Ria said the entity's influence spreads like an infection, said to take care it doesn't root itself in him. She'd have to kill him.
