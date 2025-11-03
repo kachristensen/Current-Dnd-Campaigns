@@ -91,4 +91,5 @@
 		- She asked about my history, what it was like. I told her much about it. Love, ruling, our son. 
 		- We talked about Rem some. Hugged. Said in our long lives we would be friends.
 	- Rem and Perse
-		- Awkward. 
+		- Terse conversation, Rem said Perse had plenty of opportunities to confide in him. She said he wasn't ready and he's treated her rudely since then.
+		- He asked why he should. Perse cried and yelled at him, said he needs us on the same side. Said she was sorry. She loves her husband and wants to find out what happened to him. She likes this party.
