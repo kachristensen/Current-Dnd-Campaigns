@@ -79,10 +79,15 @@
    We discuss Mastenovti's proposal.
    We elect to continue to Valdrheim.
    /
-   Rembrandt, remember  
+   Of Rem, I remember  
    His golden sun splendor
    A smile to die for
    A man worth an eye for?
+   A time where his arms held me aloft
+   And carried me over a river crossed
+   The noble and knightly
+   Selfless and kindly
+   Rembrant Eiffert
    /
    Only now his light diminishes
    His cold indifference eclipses
@@ -94,11 +99,26 @@
    He makes himself clear.
    If to the underworld we head, he won't be coming with.
    Lewis, brave and ever dear
-   Forges loyalties iron-smithed
-   And lets me know I won't be alone
+   Forges loyalties adamantine-smithed
+   And lets me know I won't be going alone
    /
    Valindra seconds him, eager to please
    Ria keeps quiet as to whether she disagrees
+   And with lines in the sand starkly drawn
+   An eternity lies before us to await the dawn
+   /
+   Lewis conjures a plan to consume the brain
+   Of Saint Imelda's priestess, so as to obtain
+   The reasons behind her eldritch corruption
+   To assist in his efforts of investigation and deduction
+   /
+   Ria makes no secret she thinks he is stupid
+   And asserts killing him is well within her ability
+   Of her time with Valindra, their watch together is muted
+   Though there is a easing of rage, and the sharing of tea
+   /
+   
+   
    
    
    
