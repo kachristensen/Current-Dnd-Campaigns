@@ -13,14 +13,16 @@
    with no rhyme or reason
    I weep
    melody into dirge
-   and yet I must try
+   and yet beholden I try
    /
    Our noble adventurers, tried and true
    Ventured verily forth unto eldritch wailing
    Against insectoid creature born freshly anew
    Our mighty spells and blades prevailing
    /
-   Ere its death we discovered
+   Ere departing we discovered a dastardly plot
+   To create more o' these creatures, through ritual and sin
+   
    
    
    
