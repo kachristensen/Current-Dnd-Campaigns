@@ -69,4 +69,6 @@
 			- Valindra dropped Valdrheim, Porto recommended we visit beforehand.
 			- Long way over the river would be like a month of travel. Porto knows a way that would be faster, closer here.
 - Tiny Hut
-	- We discussed what to do next. Decided to inform Theron. 
+	- We discussed what to do next. Decided to inform Theron. Rem wants to be cured before we visit Mastenovti.
+	- Perse asked Valindra why she speaks Abyssal. 
+		- All in the Veridian Scales can speak Abyssal. Their stories/histories came from the demons, the one who wrote them down. When they're told to them, they're spoken in Abyssal. Draconic was left to the higher ranking more devout.  The dragons spoke oral history, destroyed a lot of the demons, so those who knew the histories of the demons preserved it. Demons kept very detailed records. 
