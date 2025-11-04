@@ -90,7 +90,7 @@
    And carried me over a river crossed
    The noble and knightly
    Selfless and kindly
-   Rembrant Eiffert
+   Rembrant Eifert
    /
    Only now his light diminishes
    His cold indifference eclipses
