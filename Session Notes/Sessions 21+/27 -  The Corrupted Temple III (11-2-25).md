@@ -3,7 +3,7 @@
 ![[17 Maghaven.jpg | center]]
 
 ## Summary
-
+The party cleared out the rest of the temple, discovering the same cultists as the ones under Maghaven. They returned to Porto and spoke with Mastenovti, learning more of Persephone's origins and her husband's betrothal to Xch'imaltia. Rem and Perse had a heated conversation about her request to travel to the underworld.
 
 ## IC Synopsis - Tales from Persephone
 > **The Stars Beneath the Earth**
