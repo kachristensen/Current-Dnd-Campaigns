@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Theron",
+                "query": "maya",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a68b2df7c7c09b5",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Session Notes/Sessions 21+/27 -  The Corrupted Temple III (11-2-25).md",
     "Session Notes/Sessions 21+/28 -   (11-9-25).md",
