@@ -29,3 +29,5 @@
 			- Z said we have his blessing to make the decisions necessary. He asked that Ria and Valindra also have a plan after killing the Rexum to avoid chaos. 
 		- Z said he'd grant us use of the chains. Retrieve them and use them to bring down the Rexum. Then he'll aid in the aftermath. If we're not up to replacing him, we'll find another solution. Rem agreed to it, shook his hand, and his hand burned. 
 	- Z mentioned he wants Taryn to collect more info on someone else. 
+		- Rem mentioned the LG, that is who Taryn will be looking into. Z said forget anything the LG said, this isn't their world, said the LG is an abomination that will be destroyed, don't listen to its lies. 
+		- Ria stayed quiet, Valindra stepped up, asked about the LG's sister - Rem clarified the Apex Queen. Z got mad, repeated not to listen to any lies, there is no "other" (Apex Queen). 
