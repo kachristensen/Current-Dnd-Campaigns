@@ -40,4 +40,4 @@
 			- Lewis was shocked, asked Rem about it. Rem believes the Rexum could be doing more to help the people but chooses not to. Lewis agreed the Rexum only wanted the artifacts for himself. Rem said when he was a boy and Karz's sap was discovered to cure the plague, they immediately stopped administering it. 
 		- Perse asked if we should start preparing for the rise of king Rem. Rem asked why him, mentioned Ria might be better. Ria said she doesn't see a future for herself. Said there are far better leaders than him. Perse said he'd potentially be the best option. He said he'd do what must be done. We could get the other factions to turn against the Rexum, minimize damage in the coup. 
 			- She joked about it, said he was an interesting project, could write songs about him.
-		- 
+		- Rem helped Perse dispel the lock on the tome
