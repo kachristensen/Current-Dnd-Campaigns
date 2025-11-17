@@ -20,4 +20,4 @@
 		- Valindra asked what would happen if we didn't return the chains - he will continue to try and take it. Taryn isn't the only servant of his looking for them. 
 		- Perse asked if she could promise no harm could come to us, she said we'd have to be respectful. Couldn't exactly promise us.
 			- Valindra asked if he might try to take the heart. Perhaps. Zarunok doesn't care about "elves being tainted", we're all just mortals to him.
-			- 
+	- We split the party, Lewis and Perse would stay behind, the rest would head with Taryn to talk to Zarunok. Valindra took off the heart of etifa, cold damage, gave it to Lewis who put it in the bag of holding.
