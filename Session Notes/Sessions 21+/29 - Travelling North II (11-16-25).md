@@ -28,3 +28,4 @@
 		- Z said he's at an impasse. Says someone should take the Rexum's place. Asked if Rem thought himself worthy. Rem said he'd prob be terrible at it, but the bar is low. Z said he won't make the same mistake of choosing another champion, but does want to see the Rxm fall. Asks that if Rem uses the chains, make sure he has something in mind to replace the Rexum to avoid chaos. If he can do that, we'll have his blessing. Rem swore he'd pursue the best course of action that he can. 
 			- Z said we have his blessing to make the decisions necessary. He asked that Ria and Valindra also have a plan after killing the Rexum to avoid chaos. 
 		- Z said he'd grant us use of the chains. Retrieve them and use them to bring down the Rexum. Then he'll aid in the aftermath. If we're not up to replacing him, we'll find another solution. Rem agreed to it, shook his hand, and his hand burned. 
+	- Z mentioned he wants Taryn to collect more info on someone else. 
