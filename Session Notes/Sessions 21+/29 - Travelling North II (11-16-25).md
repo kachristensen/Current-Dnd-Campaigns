@@ -22,4 +22,7 @@
 			- Valindra asked if he might try to take the heart. Perhaps. Zarunok doesn't care about "elves being tainted", we're all just mortals to him.
 	- We split the party, Lewis and Perse would stay behind, the rest would head with Taryn to talk to Zarunok. Valindra took off the heart of etifa, cold damage, gave it to Lewis who put it in the bag of holding.
 - META: Zarunok conversation
-	- Etheral, red stars, in space. 
+	- Etheral, red stars, in space. Taryn introduced them. Zarunok asked for confirmation of our mission. Rem confirmed we are seeking the artifacts. 
+		- Zarunok asked why. Rem said that's a question he's been asking himself. Said we were nominated by the factions of Dominion to retrieve the artifacts for the Rexum. Rem said he's sworn to serve the GD, wondering if that's the best way to do it. Z asked why we haven't taken it back yet. Rem asked to keep the chains to help retrieve the sword of Karz. Z asked if we mean to kill the Rexum.
+			- Rem said he knows that the Rexum chooses not to do more about the plague. He deserves to be stripped of power. Z asked what happens after. Rem wants peace, prosperity, plenty, to help those inflicted by the plague.
+		- Z said he's at an impasse. Says someone should take the Rexum's place. Asked if Rem thought himself worthy. Rem said he'd prob be terrible at it, but the bar is low. Z said he won't make the same mistake of choosing another champion, but does want to see the Rxm fall. Asks that if Rem uses the chains, make sure he has something in mind to replace the Rexum to avoid chaos. If he can do that, we'll have his blessing. 
