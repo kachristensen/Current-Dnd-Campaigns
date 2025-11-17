@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Sessions 21+/29 - Travelling North II (11-16-25).md",
+                "file": "Session Notes/Sessions 21+/25 - The Corrupted Temple I  (10-19-25).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29 - Travelling North II (11-16-25)"
+              "title": "25 - The Corrupted Temple I  (10-19-25)"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "Release Notes 1.10.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,18 +184,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57a70e1baa09a3e4",
+  "active": "7a68b2df7c7c09b5",
   "lastOpenFiles": [
-    "Session Notes/Sessions 21+/28 - Travelling North I (11-9-25).md",
+    "Session Notes/Sessions 21+/24 - Maghaven VIII (10-05-25).md",
+    "Session Notes/Sessions 21+/25 - The Corrupted Temple I  (10-19-25).md",
+    "Session Notes/Sessions 21+/26 - The Corrupted Temple II  (10-26-25).md",
+    "Session Notes/Sessions 21+/27 -  The Corrupted Temple III (11-2-25).md",
     "Session Notes/Sessions 21+/29 - Travelling North II (11-16-25).md",
+    "Session Notes/Sessions 21+/28 - Travelling North I (11-9-25).md",
     "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
     "References/Loot/Etifa's Heart.png",
     "References/Loot/Hand of the Living God.png",
     "References/The Demonic Age & Session 0.md",
     "References/Demons.md",
     "References/At the Rexum's Behest.pdf",
-    "Session Notes/Sessions 21+/27 -  The Corrupted Temple III (11-2-25).md",
-    "Session Notes/Sessions 21+/26 - The Corrupted Temple II  (10-26-25).md",
     "References/Historical Timeline.md",
     "Persephone/Songs and Poems/Misc.md",
     "Persephone/Songs and Poems/The Age of All Knowledge.md",
@@ -207,8 +208,6 @@
     "Session Notes/Sessions 21+/22 - Maghaven VI (9-22-25).md",
     "Session Notes/Sessions 1-10/8 - The Beastmen of Barca III (6-1-25).md",
     "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
-    "Session Notes/Sessions 21+/25 - The Corrupted Temple I  (10-19-25).md",
-    "Session Notes/Sessions 21+/24 - Maghaven VIII (10-05-25).md",
     "Session Notes/Sessions 21+/23 - Maghaven VII (9-28-25).md",
     "Session Notes/Sessions 1-10/7 - The Beastmen of Barca II (5-25-25).md",
     "Session Notes/Sessions 21+/21 - Maghaven V (9-15-25).md",
