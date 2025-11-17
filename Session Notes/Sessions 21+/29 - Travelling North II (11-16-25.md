@@ -1,0 +1,11 @@
+###### Day 22
+
+![[17 Maghaven.jpg | center]]
+
+## Summary
+
+## IC Synopsis - Tales from Persephone
+> 
+
+## Notes
+- 
