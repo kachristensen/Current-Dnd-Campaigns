@@ -35,7 +35,7 @@
 	- Taryn said beware the undead corruption as we proceeded to the city. Questioned if Valindra was being influenced by the LG. Warned that foul things seek us, be careful. 
 - Camp
 	- Rem filled us in on what happened with Z
-		- He brought up the fact that we have the means to change Skediwen's future. He believes we don't serve anyone well by returning it to them. 
+		- He brought up the fact that we have the means to change Skediwen's future. He believes we don't serve anyone well by returning it to the Rxm. 
 			- Ria doesn't give a shit about the Rexum
 			- Lewis was shocked, asked Rem about it. Rem believes the Rexum could be doing more to help the people but chooses not to. Lewis agreed the Rexum only wanted the artifacts for himself. Rem said when he was a boy and Karz's sap was discovered to cure the plague, they immediately stopped administering it. 
 		- Perse asked if we should start preparing for the rise of king Rem. Rem asked why him, mentioned Ria might be better. Ria said she doesn't see a future for herself. Said there are far better leaders than him. Perse said he'd potentially be the best option. He said he'd do what must be done. We could get the other factions to turn against the Rexum, minimize damage in the coup. 
