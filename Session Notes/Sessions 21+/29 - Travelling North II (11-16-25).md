@@ -32,4 +32,4 @@
 		- Rem mentioned the LG, that is who Taryn will be looking into. Z said forget anything the LG said, this isn't their world, said the LG is an abomination that will be destroyed, don't listen to its lies. 
 		- Ria stayed quiet, Valindra stepped up, asked about the LG's sister - Rem clarified the Apex Queen. Z got mad, repeated not to listen to any lies, there is no "other" (Apex Queen). Had Taryn take us away. 
 - They returned to us
-	- Taryn said beware the undead corruption as we proceeded to the city
+	- Taryn said beware the undead corruption as we proceeded to the city. Questioned if Valindra was being influenced by the LG. 
