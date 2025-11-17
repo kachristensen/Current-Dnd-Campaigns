@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "29 - Travelling North II (11-16-25)"
             }
+          },
+          {
+            "id": "57a70e1baa09a3e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb95ffbf2d978591",
+  "active": "57a70e1baa09a3e4",
   "lastOpenFiles": [
     "Session Notes/Sessions 21+/28 - Travelling North I (11-9-25).md",
     "Session Notes/Sessions 21+/29 - Travelling North II (11-16-25).md",
