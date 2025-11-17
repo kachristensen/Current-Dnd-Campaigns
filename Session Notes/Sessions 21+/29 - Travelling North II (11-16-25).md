@@ -8,4 +8,4 @@
 > 
 
 ## Notes
-- 
+- We killed the ruffians (assassins)? Black hooded uniforms.
