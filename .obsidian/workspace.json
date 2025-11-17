@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zarunok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a68b2df7c7c09b5",
+  "active": "cb95ffbf2d978591",
   "lastOpenFiles": [
     "Session Notes/Sessions 21+/28 - Travelling North I (11-9-25).md",
     "Session Notes/Sessions 21+/29 - Travelling North II (11-16-25).md",
