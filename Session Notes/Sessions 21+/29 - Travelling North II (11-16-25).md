@@ -22,4 +22,4 @@
 			- Valindra asked if he might try to take the heart. Perhaps. Zarunok doesn't care about "elves being tainted", we're all just mortals to him.
 	- We split the party, Lewis and Perse would stay behind, the rest would head with Taryn to talk to Zarunok. Valindra took off the heart of etifa, cold damage, gave it to Lewis who put it in the bag of holding.
 - META: Zarunok conversation
-	- 
+	- Etheral, red stars, in space. 
