@@ -11,12 +11,12 @@
             "id": "7a68b2df7c7c09b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "References/At the Rexum's Behest.pdf"
+                "file": "References/Loot/Hand of the Living God.png"
               },
-              "icon": "lucide-file-text",
-              "title": "At the Rexum's Behest"
+              "icon": "lucide-image",
+              "title": "Hand of the Living God"
             }
           },
           {
@@ -184,6 +184,7 @@
   },
   "active": "7a68b2df7c7c09b5",
   "lastOpenFiles": [
+    "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 21+/29 - Travelling North II (11-16-25).md",
     "Session Notes/Sessions 21+/28 - Travelling North I (11-9-25).md",
     "Session Notes/Sessions 21+/25 - The Corrupted Temple I  (10-19-25).md",
@@ -195,7 +196,6 @@
     "References/Loot/Hand of the Living God.png",
     "References/The Demonic Age & Session 0.md",
     "References/Demons.md",
-    "References/At the Rexum's Behest.pdf",
     "References/Historical Timeline.md",
     "Persephone/Songs and Poems/Misc.md",
     "Persephone/Songs and Poems/The Age of All Knowledge.md",
@@ -213,7 +213,6 @@
     "Session Notes/Sessions 1-10/2 - Making Acquaintances (4-13-25).md",
     "Session Notes/Sessions 1-10/4 - The Cult of the Devourer (4-27-25).md",
     "References/Maps/The Dominion, Pre-Unification.png",
-    "Session Notes/Sessions 10-20/19 -  Maghaven III (8-31-25).md",
     "Session Notes/Sessions 21+",
     "Session Notes/Sessions 10-20",
     "Images/17 Maghaven.jpg",
