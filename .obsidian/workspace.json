@@ -11,12 +11,14 @@
             "id": "7a68b2df7c7c09b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "References/At the Rexum's Behest.pdf"
+                "file": "Session Notes/Sessions 21+/29 - Travelling North II (11-16-25).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "At the Rexum's Behest"
+              "icon": "lucide-file",
+              "title": "29 - Travelling North II (11-16-25)"
             }
           },
           {
@@ -184,6 +186,9 @@
   },
   "active": "7a68b2df7c7c09b5",
   "lastOpenFiles": [
+    "Session Notes/Sessions 21+/28 - Travelling North I (11-9-25).md",
+    "Session Notes/Sessions 21+/29 - Travelling North II (11-16-25).md",
+    "References/At the Rexum's Behest.pdf",
     "References/Demons.md",
     "References/Historical Timeline.md",
     "Session Notes/Sessions 1-10/8 - The Beastmen of Barca III (6-1-25).md",
@@ -191,15 +196,12 @@
     "Session Notes/Sessions 1-10/10 - A Rendezvous with Rebels (6-15-25).md",
     "Session Notes/Sessions 1-10/7 - The Beastmen of Barca II (5-25-25).md",
     "Persephone/Backstory.md",
-    "References/At the Rexum's Behest.pdf",
     "References/The Demonic Age & Session 0.md",
-    "Session Notes/Sessions 21+/29 - Travelling North II (11-16-25).md",
     "Persephone/Songs and Poems/Misc.md",
     "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
     "References/Maps/The Dominion, Pre-Unification.png",
     "References/Loot/Hand of the Living God.png",
     "References/Maps/The Dominion, Post-Unification.png",
-    "Session Notes/Sessions 21+/28 - Travelling North I (11-9-25).md",
     "Session Notes/Sessions 21+/25 - The Corrupted Temple I  (10-19-25).md",
     "Session Notes/Sessions 21+/24 - Maghaven VIII (10-05-25).md",
     "Session Notes/Sessions 21+/26 - The Corrupted Temple II  (10-26-25).md",
@@ -214,7 +216,6 @@
     "Session Notes/Sessions 21+/23 - Maghaven VII (9-28-25).md",
     "Session Notes/Sessions 21+/21 - Maghaven V (9-15-25).md",
     "Session Notes/Sessions 10-20/17 -  Maghaven I (8-10-25).md",
-    "Session Notes/Sessions 1-10/2 - Making Acquaintances (4-13-25).md",
     "Session Notes/Sessions 21+",
     "Session Notes/Sessions 10-20",
     "Images/17 Maghaven.jpg",
