@@ -77,3 +77,4 @@ L8 Bard
 L9 Bard
 - Expertise: Perception, Stealth
 - Synaptic Static
+- Calm Emotions -> Doom Tide
