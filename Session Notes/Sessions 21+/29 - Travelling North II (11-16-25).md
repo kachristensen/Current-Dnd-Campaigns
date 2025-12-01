@@ -63,6 +63,8 @@ The party slew their would-be assassins. Taryn appeared and took Rem, Ria, and V
 			- Rem/Ria - same effectively as Rem's about his blood. Rem also mentioned he'd assist in whatever she asked.
 	- Perse asked Rem about his oaths to the Grand Divine. They discussed the LG, AQ, his beliefs, the Rexum, Jonas, the plague, the lycanthropy etc.
 	- Lewis complimented Ria's hands in a very intense, poetic way, called her over. Ria insisted she was deformed/mutated/a monster, told him to knock if off. Lewis complimented her in a rather descriptive and heavy way, insisted she was beautiful, embraced her. Ria teleported out and left the dome. Lewis followed and proclaimed she had his trust. Ria threw the cloak/ring back at him. 
+		- Lewis Quotes:
+			- 
 		- Valindra intervened and pulled him back in, gently reminded him that Ria didn't want or need his help and that he should give her space. Lewis compared her to shaping/refining metal but later apologized and retracted his words.
 		- Persephone chewed Lewis out for being overbearing, creepy, and trying to speedrun close relationships with the others, then left the dome for air. 
 		- Lewis was confused and said he was just complimenting Ria. Rem told Lewis his apologies wouldn't matter until he understood what he did wrong, and encouraged him to ask Ria and listen about her experiences instead of telling her what she is.
