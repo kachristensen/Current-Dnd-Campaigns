@@ -24,3 +24,5 @@
 				- If we close the book it goes dormant.
 				- Perse asked if the int save would happen again, it said it was like it was yawning, shouldn't happen to the same degree again.
 			- Perse asked about Xchimaltia (1st born) and Hades. A deal was made. Ink becoming harder to read. Zarunok. Servants. Book only knows so much. We let it rest and will check on it in a day or so. 
+			- Perse teased Rem about having a god in his pocket.
+		- Rem had a faint sense of undeath towards the direction we were headed.
