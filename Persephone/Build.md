@@ -75,4 +75,5 @@ L8 Bard
 - Raulothim's Psychic Lance
 
 L9 Bard
-- 
+- Expertise: Perception, Stealth
+- Synaptic Static
