@@ -39,4 +39,4 @@
 - Next day
 	- Evening - travelling to Temut. We came across will-o-wisps. Closer to Temut = darker it got. Soldiers standing scattered on the road. Spectral soldiers, wights, zombies, undead knight horseman supervising the wights digging into the ground, giant Oblivion Juggernaut wrapped in leather and armor.
 		- We mopped them up
-	- 
+		- Seems like this was the site of an older battle
