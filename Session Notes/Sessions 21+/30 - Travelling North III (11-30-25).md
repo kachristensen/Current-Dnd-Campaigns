@@ -35,4 +35,4 @@
 		- Valindra apologized for intervening with Lewis without asking, Ria said it saved Lewis's life, she appreciates it, encouraged Valindra to use her best discretion. Valindra she said witnessing Lewis made her appreciate what Perse said before and understand why Ria is upset with her. Valindra apologized for stalking her and left it at that. 
 	- Valindra and Lewis
 		- Lewis thanked V again for pulling him away earlier from Ria.
-		- Something down the road during watch 
+		- Something down the road during watch but it left by morning
