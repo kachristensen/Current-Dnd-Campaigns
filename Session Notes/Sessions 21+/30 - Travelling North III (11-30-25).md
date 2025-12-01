@@ -33,3 +33,5 @@
 			- Ria suggested we slightly dissect Rem - when Jonas was killed, he was putrid/rotten as if dead for weeks. Perse suggested we wait until he's wounded to take a look. Both mentioned Rem seemed to be adverse to being experimented on. We mentioned we'd talk to the book about it when it was next awake.
 	- Ria and Valindra
 		- Valindra apologized for intervening with Lewis without asking, Ria said it saved Lewis's life, she appreciates it, encouraged Valindra to use her best discretion. Valindra she said witnessing Lewis made her appreciate what Perse said before and understand why Ria is upset with her. Valindra apologized for stalking her and left it at that. 
+	- Valindra and Lewis
+		- Lewis thanked V again for pulling him away earlier from Ria. 
