@@ -21,3 +21,6 @@
 					- I asked why they aren't known. Yaluska is the 3rd born, she used magic to break away from the GD. Hypithia is the 4th, was sealed away due to its knowledge. I asked why. GD is complicated entity, Yaluska wanted free will. Opening it would piss off the GD.
 					- Hypithia is the god of knowledge and secrets. Said to know too much was to be mad. I asked if she was mad, she said depends but kinda.
 			- Perse handed Rem the tome, said she was curious but the tome was integral to Rem's beliefs/beings so he should hold it. 
+				- If we close the book it goes dormant.
+				- Perse asked if the int save would happen again, it said it was like it was yawning, shouldn't happen to the same degree again.
+			- Perse asked about Xchimaltia (1st born) and Hades. A deal was made. Ink becoming harder to read. Zarunok. Servants. Book only knows so much. We let it rest and will check on it in a day or so. 
