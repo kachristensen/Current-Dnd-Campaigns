@@ -26,9 +26,9 @@
 			- Perse asked about Xchimaltia (1st born) and Hades. A deal was made. Ink becoming harder to read. Zarunok. Servants. Book only knows so much. We let it rest and will check on it in a day or so. 
 			- Perse teased Rem about having a god in his pocket.
 		- Rem had a faint sense of undeath towards the direction we were headed.
-		- Hypithia can cast Borrowed Knowledge, Clairvoyance, Divination, Legend Lore
+		- Hypithia can cast **Augury, Borrowed Knowledge, Clairvoyance, Divination, Legend Lore** without material costs. Depending on the spell's level, that is the number of days before a new spell can be used.
 	- Ria and Perse
 		- Perse asked if she should try and keep Lewis away from her, she said yes.
 		- They talked about Jonas's notes. Perse isn't sure what to do -- we can't preserve the blood, test it on victims, can't set up a lab, Rem's going to be cured. We reviewed his notes, 2 things pitting against each other nullify each other. Secomortis is divine. Boosted lycanthropy could "counteract" it. Still missing some kind of piece, due to the threat of shifting into a werewolf. 
 			- Ria suggested we slightly dissect Rem - when Jonas was killed, he was putrid/rotten as if dead for weeks. Perse suggested we wait until he's wounded to take a look. Both mentioned Rem seemed to be adverse to being experimented on. We mentioned we'd talk to the book about it when it was next awake.
-			- 
+	- Ria and Valindra
