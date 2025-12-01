@@ -50,7 +50,7 @@ The party slew their would-be assassins. Taryn appeared and took Rem, Ria, and V
 			- She joked about it, said he was an interesting project, could write songs about him.
 		- Rem helped Perse dispel the lock on the tome
 - TEXT RP
-	- Lewis and Valindra conversed, talked about improving her armor. Valindra asked how Lewis keeps his faith and expressed doubts in Lord Sajjaka. 
+	- Lewis and Valindra conversed, talked about improving her armor. Valindra asked for advice on how Lewis keeps his faith, worried about being misled and expressed doubts in Lord Sajjaka. Lewis encouraged her to be happy & at peace with her choices and do what she believes is right. 
 	- Perse gave Rem a cold rock to cool his brand. Ria and them discussed plans to potentially overthrow the Rexum. Perse and Rem initially clashed about going to the underdark but cooled off. Perse got somewhat tipsy and explained the history of the Demon Age as she knows it.
 		- Rem cast Zone of Truth - Perse slit her palm, blood oath, and Ria showed off her draconic hands. Some more personable, vulnerable moments shared.
 		- Oaths
