@@ -11,12 +11,26 @@
             "id": "7a68b2df7c7c09b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "References/At the Rexum's Behest.pdf"
+                "file": "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "At the Rexum's Behest"
+              "icon": "lucide-file",
+              "title": "1 - The Rexum's Request (4-6-2025)"
+            }
+          },
+          {
+            "id": "69272f83a0aca9b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           },
           {
@@ -31,7 +45,8 @@
               "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a68b2df7c7c09b5",
+  "active": "69272f83a0aca9b8",
   "lastOpenFiles": [
-    "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
     "References/At the Rexum's Behest.pdf",
+    "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
     "Session Notes/Sessions 21+/29 - Travelling North II (11-16-25).md",
     "Session Notes/Sessions 21+/28 - Travelling North I (11-9-25).md",
     "References/Demons.md",
