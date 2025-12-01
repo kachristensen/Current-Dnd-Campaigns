@@ -73,3 +73,6 @@ L7 Bard
 L8 Bard
 - Resilient: Con
 - Raulothim's Psychic Lance
+
+L9 Bard
+- 
