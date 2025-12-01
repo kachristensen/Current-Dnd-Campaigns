@@ -29,4 +29,4 @@
 	- Ria and Perse
 		- Perse asked if she should try and keep Lewis away from her, she said yes.
 		- They talked about Jonas's notes. Perse isn't sure what to do -- we can't preserve the blood, test it on victims, can't set up a lab, Rem's going to be cured. We reviewed his notes, 2 things pitting against each other nullify each other. Secomortis is divine. Boosted lycanthropy could "counteract" it. Still missing some kind of piece, due to the threat of shifting into a werewolf. 
-			- Ria suggested we dissect Rem - when Jonas was killed, he was putrid/rotten as if dead for weeks. 
+			- Ria suggested we dissect Rem - when Jonas was killed, he was putrid/rotten as if dead for weeks. Perse suggested we wait until he's wounded to take a look. 
