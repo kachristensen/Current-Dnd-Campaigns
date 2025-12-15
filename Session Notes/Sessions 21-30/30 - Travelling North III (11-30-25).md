@@ -3,7 +3,7 @@
 ![[17 Maghaven.jpg | center]]
 
 ## Summary
-
+Persephone successfully dispelled the tome. Together, her and Rem learned it was a hidden god of knowledge, Hypithia, that had been bound by the Grand Divine 
 
 ## IC Synopsis - 
 > Given recent decisions, I see little reason to continue compiling mission reports. However, it seems prudent to maintain some record of events as we carry on. I will do my best to maintain a comprehensive account. I suppose we can tell ourselves it is for the sake of posterity. 
