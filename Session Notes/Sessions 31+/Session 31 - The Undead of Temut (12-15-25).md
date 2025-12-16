@@ -32,3 +32,5 @@
 		- Mercs work for someone in the Temut, here for security. They offered Rem some slaves for contract. Rem asked if their master would facilitate the sale. They said yes. They're contracted under **Lord Antoine**.
 		- **Countess Tessarae Harker** has been organizing nightly militia watches, leads the city. **Lord Dareth** has also been stressing the importance of safety, and is also a large purchaser of slaves. They are stationed here in town. Auction tomorrow when these slaves will be revealed.
 		- Curfew will be enacted in 20 min at sunset and the local guard will be rough with anyone breaking it. There's an inn we can stay at.
+- Fight
+	- Perse 
