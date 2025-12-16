@@ -35,4 +35,4 @@
 - Fight
 	- Perse opened with a cloud of insects that obscured everything and teleported in. Summoned them to approach. Ria lightning bolted a house. Lewis spirit guardians. Rem and Valindra chased mercs fleeing. They blew a horn for reinforcements. 
 	- Perse looked under the big cage and found a teenage frost giant.
-	- Several 
+	- Several of the mercs surrendered and we knocked them out
