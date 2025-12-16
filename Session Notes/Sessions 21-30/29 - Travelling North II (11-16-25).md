@@ -1,7 +1,5 @@
 ###### Day 22
 
-![[17 Maghaven.jpg | center]]
-
 ## Summary
 The party slew their would-be assassins. Taryn appeared and took Rem, Ria, and Valindra to speak with Zarunok. Rem swore he would do his best to ensure stability after deposing the Rexum. The party rested and Perse dispelled the chains around the tome.
 

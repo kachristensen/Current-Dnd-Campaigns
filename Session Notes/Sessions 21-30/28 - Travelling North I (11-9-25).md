@@ -1,7 +1,5 @@
 ###### Day 22
 
-![[17 Maghaven.jpg | center]]
-
 ## Summary
 Several members of the party experienced eerie dreams and discussed them together. They travelled north, passing an odd woman Isolde, and encountered bandits.
 

@@ -1,7 +1,5 @@
 ###### Day 21
 
-![[17 Maghaven.jpg | center]]
-
 ## Summary
 The party fought more insects and cultists.
 

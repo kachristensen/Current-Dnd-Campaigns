@@ -1,7 +1,5 @@
 ###### Day 21
 
-![[17 Maghaven.jpg | center]]
-
 ## Summary
 Porto extended Mastenovti's offer of assassinating someone for a powerful artifact. The party agreed to conduct a blood ritual with him at some point to learn more. They returned to St. Imelda's temple and began clearing it of numerous large insects.
 
