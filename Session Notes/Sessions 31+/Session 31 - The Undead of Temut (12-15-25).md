@@ -18,7 +18,7 @@
 		- Lots of cages under the tarps, 1 large, 6 small surrounding.
 			- 8 guards surrounding, have a sun amulet.
 			- In the cages
-				- 1 of the barca dudes
+				- 2 of the Barca dudes
 				- A redcap, small ugly fey dude
 				- Pretty elf woman
 				- Couldn't lift the heavy one without potentially alerting the guards, breathing heavily. Smells like wet dog. Beastman?
