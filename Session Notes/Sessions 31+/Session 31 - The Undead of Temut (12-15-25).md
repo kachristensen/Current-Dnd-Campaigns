@@ -15,3 +15,4 @@
 		- Is your leader waiting inside Temut for us? I shant say.
 - Girls went to investigate first/stealth
 	- Patrols in town, chatter. Human. Shouting. Tarps moving around. Getting things moving around for tomorrow. They'll start their watches.
+		- Lots of cages under the tarps, 1 large, 6 small surrounding.
