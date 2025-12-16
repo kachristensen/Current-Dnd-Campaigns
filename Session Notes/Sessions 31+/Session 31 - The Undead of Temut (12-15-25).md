@@ -33,4 +33,5 @@
 		- **Countess Tessarae Harker** has been organizing nightly militia watches, leads the city. **Lord Dareth** has also been stressing the importance of safety, and is also a large purchaser of slaves. They are stationed here in town. Auction tomorrow when these slaves will be revealed.
 		- Curfew will be enacted in 20 min at sunset and the local guard will be rough with anyone breaking it. There's an inn we can stay at.
 - Fight
-	- Perse 
+	- Perse opened with a cloud of insects that obscured everything and teleported in. Summoned them to approach. Ria lightning bolted a house. Lewis spirit guardians. Rem and Valindra chased mercs fleeing. They blew a horn for reinforcements. 
+	- Perse looked under the big cage and found a teenage frost giant.
