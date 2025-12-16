@@ -16,3 +16,10 @@
 - Girls went to investigate first/stealth
 	- Patrols in town, chatter. Human. Shouting. Tarps moving around. Getting things moving around for tomorrow. They'll start their watches.
 		- Lots of cages under the tarps, 1 large, 6 small surrounding.
+			- 8 guards surrounding, have a sun amulet.
+			- In the cages
+				- 1 of the barca dudes
+				- A redcap, small ugly fey dude
+				- Pretty elf woman
+				- Couldn't lift the heavy one without potentially alerting the guards, breathing heavily. Smells like wet dog. Beastman?
+		- Some families in the 
