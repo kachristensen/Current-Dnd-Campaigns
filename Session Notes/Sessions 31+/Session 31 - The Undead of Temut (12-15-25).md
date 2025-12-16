@@ -7,7 +7,7 @@
 
 ## Notes
 - Party investigated the bodies. 
-	- Ria found a scroll of create undead, and gave it to me
+	- Ria found a scroll of create undead, and gave it to me to hold onto.
 	- Lewis cast Speak Dead on the "captain" dude
 		- What was your purpose here: no answer
 		- Name: Rodrick
