@@ -14,3 +14,4 @@
 		- When were you first lain to rest: I don't remember
 		- Is your leader waiting inside Temut for us? I shant say.
 - Girls went to investigate first/stealth
+	- Patrols in town, chatter 
