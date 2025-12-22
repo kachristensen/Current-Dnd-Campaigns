@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a68b2df7c7c09b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - The Rexum's Request (4-6-2025)"
-            }
-          },
-          {
-            "id": "69272f83a0aca9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Sessions 21+/29 - Travelling North II (11-16-25).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "29 - Travelling North II (11-16-25)"
-            }
-          },
-          {
-            "id": "53adcd3a36e8685a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Persephone/Build.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Build"
-            }
-          },
-          {
             "id": "95c409cd1402f125",
             "type": "leaf",
             "state": {
@@ -62,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Session 32 - (12-21-25)"
             }
-          },
-          {
-            "id": "57a70e1baa09a3e4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,15 +174,18 @@
   },
   "active": "95c409cd1402f125",
   "lastOpenFiles": [
+    "Session Notes/Sessions 21-30/22 - Maghaven VI (9-22-25).md",
+    "Session Notes/Sessions 21-30/23 - Maghaven VII (9-28-25).md",
+    "Session Notes/Sessions 21-30/24 - Maghaven VIII (10-05-25).md",
+    "Session Notes/Sessions 21-30/25 - The Corrupted Temple I  (10-19-25).md",
+    "Session Notes/Sessions 21-30/26 - The Corrupted Temple II  (10-26-25).md",
+    "Session Notes/Sessions 21-30/27 -  The Corrupted Temple III (11-2-25).md",
+    "Session Notes/Sessions 21-30/28 - Travelling North I (11-9-25).md",
+    "Session Notes/Sessions 21-30/29 - Travelling North II (11-16-25).md",
+    "Session Notes/Sessions 21-30/30 - Travelling North III (11-30-25).md",
     "Session Notes/Sessions 31+/Session 31 - Temut (12-15-25).md",
     "Session Notes/Sessions 31+/Session 32 - (12-21-25).md",
     "Persephone/Lewis Quotes.md",
-    "Session Notes/Sessions 21-30/30 - Travelling North III (11-30-25).md",
-    "Session Notes/Sessions 21-30/29 - Travelling North II (11-16-25).md",
-    "Session Notes/Sessions 21-30/28 - Travelling North I (11-9-25).md",
-    "Session Notes/Sessions 21-30/27 -  The Corrupted Temple III (11-2-25).md",
-    "Session Notes/Sessions 21-30/26 - The Corrupted Temple II  (10-26-25).md",
-    "Session Notes/Sessions 21-30/25 - The Corrupted Temple I  (10-19-25).md",
     "Persephone/Ria Short Story.md",
     "Session Notes/Sessions 21-30/21 - Maghaven V (9-15-25).md",
     "Session Notes/Sessions 21-30/CHANGE ELADRIN TYPE.md",
@@ -255,13 +203,10 @@
     "Persephone/Backstory.md",
     "References/The Demonic Age & Session 0.md",
     "Persephone/Songs and Poems/Misc.md",
-    "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
     "References/Maps/The Dominion, Pre-Unification.png",
     "References/Loot/Hand of the Living God.png",
     "References/Maps/The Dominion, Post-Unification.png",
-    "Session Notes/Sessions 21-30/24 - Maghaven VIII (10-05-25).md",
     "References/Loot/Etifa's Heart.png",
-    "Persephone/Songs and Poems/The Age of All Knowledge.md",
     "Session Notes/Sessions 21-30",
     "Session Notes/Sessions 10-20",
     "Images/17 Maghaven.jpg",
