@@ -1,6 +1,6 @@
 ###### Day 23-24
 ## Summary
-
+The party continued north, conversed with the rescued slaves, and killed pursuers from Temut. 
 
 ## IC Synopsis - Tales from Persephone
 > **Axes and Ashes**
