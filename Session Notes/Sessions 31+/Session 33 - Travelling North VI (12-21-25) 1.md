@@ -23,4 +23,4 @@
 		- His cane seems celestial somewhat.
 		- We skirted around rem's condition, didn't mention the secomortis plague. 
 		- He does have some staff. Didn't have much medical treatment. 
-		- Ria history check - he used to be a templar, left the military ~40 years ago bc he couldn't handle it. 
+		- Ria history check - he used to be a templar, left the military ~40 years ago bc he couldn't handle it. One of the few good/nice nobles.
