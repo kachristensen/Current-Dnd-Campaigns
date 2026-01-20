@@ -7,4 +7,4 @@
 
 
 ## Notes
-- 
+- Valindra gave Ailbhe a bow. Aibhe will probably need a wizard to best learn magic.
