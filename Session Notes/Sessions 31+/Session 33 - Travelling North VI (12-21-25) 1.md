@@ -17,3 +17,5 @@
 		- Only the one who created the plague can truly eradicate it. Once the fruit finally matures and is consumed, that is when the rebirth will happen. Will happen within 6 months. Those in power have been biding their time. Whoever consumes the fruit can cure the plague.
 - Later - gully/small canyon. Temp dropped, feeling of dread. We killed a shadowghast. Some shadowy being called out "drained them of their life" and hovered up to the top.
 	- Ria cast fly on Annica, we flew up. We saw a human rider also riding in our direction. Shouted tally ho and came to our rescue.
+	- We killed the things. 
+	- Guy on the horse (Betsy).
