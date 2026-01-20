@@ -19,4 +19,4 @@
 	- Ria cast fly on Annica, we flew up. We saw a human rider also riding in our direction. Shouted tally ho and came to our rescue.
 	- We killed the things. 
 	- Guy on the horse (Betsy). Lord Whalmer of the Sanitorium. Said he'd meet us at the edge of the gully.
-		- He patrols these woods to make it safe from the undead. He runs a sanatorium nearby, always looking for those to help. It predates the secomortis plague. It's built to be remote, secluded, to help those no matter the ailment. A lot of his fortune is tied in with it so he didn't leave when 
+		- He patrols these woods to make it safe from the undead. He runs a sanatorium nearby, always looking for those to help. It predates the secomortis plague. It's built to be remote, secluded, to help those no matter the ailment. A lot of his fortune is tied in with it so he didn't leave when the undead encroached. He invited us to stay. Seemed noble and altruistic. 
