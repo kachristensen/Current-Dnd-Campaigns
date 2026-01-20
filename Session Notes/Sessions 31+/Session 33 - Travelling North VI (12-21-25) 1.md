@@ -26,3 +26,5 @@
 		- He does have some staff. Didn't have much medical treatment. 
 		- Ria history check - he used to be a templar, left the military ~40 years ago bc he couldn't handle it. One of the few good/nice nobles.
 		- He was surprised that Valindra spoke and in broken elvish greeted her.
+- Sanatorium
+	- Rhenka stayed in the barn due to size
