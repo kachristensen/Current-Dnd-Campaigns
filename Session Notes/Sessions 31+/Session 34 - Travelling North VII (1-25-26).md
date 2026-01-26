@@ -25,7 +25,10 @@
 	- Ria cast detect magic - rug is magic, statues, and door (Abjuration).
 	- Ria asked the servant about the cellar in the back, it used to be the morgue. Storage now. She said they don't understand how the undead plague works just in case there's undead spawning down there. Catacombs. Ria came and told me. 
 	- I asked Ria about asking Hyphithia about her sister, she doesn't want to know where, knowledge is a dangerous infection. Said she's probably at her home. I asked if she was interested in asking about lord SJ, she said maybe. I asked if she wanted to know how to help her sister, maybe. I was sympathetic.
-	- META: Ria had a dream. In a desert, grey ashen sand, barren charred trees. 
+	- META: Ria had a dream. Creepy. In a desert, grey ashen sand, barren charred trees. Hooded figure in black. "Hello child." Wants her. Said it was a philanthropist here to help. It senses pain in Ria. Wants to guide her towards the right way. Ria was cold and standoffish.
+		- This universe runs on indifference - doesn't punish cruelty or correct injustice, just is. Offered her a release from pain. Ria called her a manipulator. 
+		- Her family isn't unique, just features of this ecosystem. Wanted to know what Ria's goals were, what if they wanted the same thing. Destruction. Why should existence exist? Ria said only her own aims matter. But Xi'talla put herself in her path. Ria has no interest in working with her, wants to destroy her. 
+		- Figure took off her hood. Humanoid, white skin, red eyes, insectlike appendages on the head. Said she isn't who Ria thinks she is - she's a harbinger of "Sleeping Mother", Xi'talla. Offered Ria to join her. Ria cone of lightning'd her.
 
 H questions
 - Lewis's
