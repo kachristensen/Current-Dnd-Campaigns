@@ -14,5 +14,5 @@
 		- We discussed routes north, recommended the town of Kula to stop by. Most undead don't cross the river.
 		- Saw a dragon made of bone and fire flying about. 
 	- He went to bed, I cast invis and trailed him. Checked out the mansion. Locked door behind the stairs.
-		- I tried to pick the door. 22 - not enough to open it. 2 armored creatures animated when I triggered the door, went to go stand in front of it. Prudence told them to go back to where they were standing and they obeyed. 
+		- I tried to pick the door. 22 - not enough to open it. 2 armored creatures animated when I triggered the door, went to go stand in front of it. Prudence told them to go back to where they were standing and they obeyed. Lewis mentioned 
 	- Rem went outside to try and tend to his horse, front door was locked, front doorman Tori seemed nervous and had to unlock it.
