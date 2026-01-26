@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Session 33 - Travelling North VI (12-21-25) 1"
             }
+          },
+          {
+            "id": "9379712d62b88bb8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95c409cd1402f125",
+  "active": "9379712d62b88bb8",
   "lastOpenFiles": [
     "Session Notes/Sessions 31+/Session 32 - Travelling North V (12-21-25).md",
     "Session Notes/Sessions 31+/Session 33 - Travelling North VI (12-21-25) 1.md",
