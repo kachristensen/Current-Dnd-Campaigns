@@ -22,4 +22,13 @@
 		- Rem suggested we start reaching out to our allies and mention them to try and start a rebellion. We discussed reaching back out to Lucius/Brumer, etc. 
 		- Ria suggested we continue to look for a cure elsewhere but Perse didn't think it would bear anything. 
 		- Perse asked to borrow Hypithia soon. Lewis asked to confirm that Remove Curse is the only way to cure the plague. She was annoyed at Rem for not prioritizing her questions. Rem gave her the book - Hypithia requires at least a day to recharge.
-		- 
+	- Ria cast detect magic - rug is magic, statues, and door (Abjuration).
+	- Ria asked the servant about the cellar in the back, it used to be the morgue. She said they don't understand how the undead plague works just in case there's undead spawning down there. Catacombs. 
+
+H questions
+- Lewis's
+- What does Lord Sajjakka desire to do with Ria? 
+- Where is Ria's sister?
+- Why am I alive?
+- What are Xchimaltia and Hades doing together?
+- What kind of life did Zagreus lead?
