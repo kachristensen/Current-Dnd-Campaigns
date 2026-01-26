@@ -24,7 +24,7 @@
 		- Perse asked to borrow Hypithia soon. Lewis asked to confirm that Remove Curse is the only way to cure the plague. She was annoyed at Rem for not prioritizing her questions. Rem gave her the book - Hypithia requires at least a day to recharge.
 	- Ria cast detect magic - rug is magic, statues, and door (Abjuration).
 	- Ria asked the servant about the cellar in the back, it used to be the morgue. She said they don't understand how the undead plague works just in case there's undead spawning down there. Catacombs. Ria came and told me. 
-	- I asked Ria about asking Hyphitia about her siste,r she doesn't want ot know where, dangerous infaection. Said she's probably at her home. 
+	- I asked Ria about asking Hyphitia about her siste,r she doesn't want ot know where, dangerous infaection. Said she's probably at her home. I asked if she was interested in asking about lord SJ, she said maybe. 
 
 H questions
 - Lewis's
