@@ -28,7 +28,7 @@
 	- META: Ria had a dream. Creepy. In a desert, grey ashen sand, barren charred trees. Hooded figure in black. "Hello child." Wants her. Said it was a philanthropist here to help. It senses pain in Ria. Wants to guide her towards the right way. Ria was cold and standoffish.
 		- This universe runs on indifference - doesn't punish cruelty or correct injustice, just is. Offered her a release from pain. Ria called her a manipulator. 
 		- Her family isn't unique, just features of this ecosystem. Wanted to know what Ria's goals were, what if they wanted the same thing. Destruction. Why should existence exist? Ria said only her own aims matter. But Xi'talla put herself in her path. Ria has no interest in working with her, wants to destroy her. 
-		- Figure took off her hood. Humanoid, white skin, red eyes, insectlike appendages on the head. Said she isn't who Ria thinks she is - she's a harbinger of "Sleeping Mother", Xi'talla. Offered Ria to join her. Ria cone of lightning'd her.
+		- Figure took off her hood. Humanoid, white skin, red eyes, insectlike appendages on the head. Said she isn't who Ria thinks she is - she's a harbinger of "Sleeping Mother", Xi'talla. Offered Ria to join her. Ria cone of lightning'd her. It mind blasted her. It said hope was just an illusion to avoid pain. When all is destroyed, no one will be afraid or alone or hate themselves again. This world will fade to black
 
 H questions
 - Lewis's
