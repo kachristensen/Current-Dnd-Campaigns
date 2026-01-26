@@ -25,7 +25,7 @@
 	- Ria cast detect magic - rug is magic, statues, and door (Abjuration).
 	- Ria asked the servant about the cellar in the back, it used to be the morgue. Storage now. She said they don't understand how the undead plague works just in case there's undead spawning down there. Catacombs. Ria came and told me. 
 	- I asked Ria about asking Hyphithia about her sister, she doesn't want to know where, knowledge is a dangerous infection. Said she's probably at her home. I asked if she was interested in asking about lord SJ, she said maybe. I asked if she wanted to know how to help her sister, maybe. I was sympathetic.
-	- META: Ria had a dream. 
+	- META: Ria had a dream. In a desert, grey ashen sand, barren charred trees. 
 
 H questions
 - Lewis's
