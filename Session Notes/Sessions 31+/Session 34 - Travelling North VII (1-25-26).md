@@ -21,4 +21,4 @@
 	- Rem told us about what he learned from Hypithia - about the fruit, curing the plague by ascending, the Rexum wanting it. I asked if we were making him a god, he said we could find others more suited. If he falls, he wants one of us to do it in his stead. Lewis suggested me since I'm the closest to it. 
 		- Rem suggested we start reaching out to our allies and mention them to try and start a rebellion. We discussed reaching back out to Lucius/Brumer, etc. 
 		- Ria suggested we continue to look for a cure elsewhere but Perse didn't think it would bear anything. 
-		- Perse asked to borrow Hypithia soon. Lewis asked to confirm that a plague. 
+		- Perse asked to borrow Hypithia soon. Lewis asked to confirm that Remove Curse is the only way to cure the plague. 
