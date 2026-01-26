@@ -13,3 +13,4 @@
 		- Rem and Lewis said grace. Lewis mentioned St. Imelda, Whalmer glanced away at it.
 		- We discussed routes north, recommended the town of Kula to stop by. Most undead don't cross the river.
 		- Saw a dragon made of bone and fire flying about. 
+	- He went to bed, I cast invis and trailed him
