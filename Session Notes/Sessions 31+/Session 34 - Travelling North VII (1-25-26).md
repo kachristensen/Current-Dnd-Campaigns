@@ -18,4 +18,4 @@
 	- Rem went outside to try and tend to his horse, front door was locked, front doorman Tori seemed nervous and had to unlock
 - We went upstairs
 	- I cast Leomund's Tiny Hut - told them about the door. Rem encouraged me to drop it.
-	- Rem told us about what he learned from Hypithia - about the fruit, curing the plague by ascending, the Rexum wanting it. 
+	- Rem told us about what he learned from Hypithia - about the fruit, curing the plague by ascending, the Rexum wanting it. I asked if we were making him a god, he said we could find others more suited. If he falls, he wants one of us to do it in his stead. Lewis suggested me since I'm the closest to it. 
