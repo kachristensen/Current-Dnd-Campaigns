@@ -19,4 +19,4 @@
 - We went upstairs
 	- I cast Leomund's Tiny Hut - told them about the door. Rem encouraged me to drop it.
 	- Rem told us about what he learned from Hypithia - about the fruit, curing the plague by ascending, the Rexum wanting it. I asked if we were making him a god, he said we could find others more suited. If he falls, he wants one of us to do it in his stead. Lewis suggested me since I'm the closest to it. 
-		- Rem suggested we start reaching out to our allies and mention them to try and start a rebellion. 
+		- Rem suggested we start reaching out to our allies and mention them to try and start a rebellion. We discussed reaching back out to Lucius/Brumer, etc. 
