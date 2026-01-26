@@ -16,3 +16,6 @@
 	- He went to bed, I cast invis and trailed him. Checked out the mansion. Locked door behind the stairs.
 		- I tried to pick the door. 22 - not enough to open it. 2 armored creatures animated when I triggered the door, went to go stand in front of it. Prudence told them to go back to where they were standing and they obeyed. Lewis mentioned he was interested and inspected them. Prudence said Lord Whalmer 
 	- Rem went outside to try and tend to his horse, front door was locked, front doorman Tori seemed nervous and had to unlock
+- We went upstairs
+	- I cast Leomund's Tiny Hut - told them about the door. Rem encouraged me to drop it.
+	- Rem told us about what he learned from Hypithia - about the fruit, curing the plague by ascending, the Rexum wanting it. 
