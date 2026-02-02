@@ -19,4 +19,6 @@
 		- Tori said he was going to pretend to be knocked out, Rem actually knocked him out.
 		- Rem wants to talk to Lord Whalmer, kept suggesting he go alone. I got a flask of holy water from Lewis
 - We were led through basement tunnels, the kitchen, smelled of death, corpses, all people eating something.
+	- Lord Whalmer - said he wanted to be precautious so he tried to capture us. We all seemed competent. He sees within Lewis and Rembrandt a younger himself. He invited us to a snack. Rem said nah. Our options are eat or be eaten. 
+		- Rem said repent or be killed. Lord Whalmer said the gods turned their back on us. All of this is to devour the sins of this world, and have a purified world afterwards. 
 	
