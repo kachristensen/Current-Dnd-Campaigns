@@ -18,5 +18,5 @@
 		- Perse asked if the house is alive. He sweated and said yes. It wasn't always but the feasting that happens here is what gives ability to the hunger to manifest. This house has become a living creature. 
 		- Tori said he was going to pretend to be knocked out, Rem actually knocked him out.
 		- Rem wants to talk to Lord Whalmer, kept suggesting he go alone. I got a flask of holy water from Lewis
-- We were led through the kitchen, smelled of death, corpses, all people eating something.
+- We were led through basement tunnels, the kitchen, smelled of death, corpses, all people eating something.
 	
