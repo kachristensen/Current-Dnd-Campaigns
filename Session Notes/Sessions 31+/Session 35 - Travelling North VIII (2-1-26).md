@@ -16,5 +16,6 @@
 		- Perse asked if he's been helping his master lure people here to eat them. Yes, he has, or else he'll be eaten too.
 		- His master doesn't wish to consume us all unless he has to. Work with him or be eaten. There are at least 4 more ppl down there, mouth things, cultists.
 		- Perse asked if the house is alive. He sweated and said yes. It wasn't always but the feasting that happens here is what gives ability to the hunger to manifest. This house has become a living creature. 
-		- Tori said he was going to pretend to be knocked out, Rem actually knocked him out. 
+		- Tori said he was going to pretend to be knocked out, Rem actually knocked him out.
+		- Rem wants to talk to Lord Whalmer, kept suggesting he go alone. I got a flask of holy water from 
 	
