@@ -8,4 +8,6 @@
 ## Notes
 - I fey stepped Ailbhe outside to the ground, told her to go find Rhenka and Annica, wait four us.
 	- After fight - Rem telepathically talked to Annica, told her to keep Ailbhe close and hunker down. 
+		- Rhenka attacked the house and it crit her, 
 	- Valindra sent Wuffi down the stairs while we were prayer of healing, I minor illusioned at the top. Wuffi was attacked downstairs. 
+	
