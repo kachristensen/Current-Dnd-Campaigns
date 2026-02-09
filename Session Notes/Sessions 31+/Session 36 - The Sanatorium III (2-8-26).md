@@ -54,4 +54,4 @@
 - Perse asked about what we'll do with Tori - Rem cut him loose and gave him a javelin. He's on his own. Tori called some of our party freaks and Valindra went and punched him in the face. Ria tried to kill him and Rem stopped her. He called Valindra an elf bitch.
 	- I psychic lanced him - he survived but I assumed he was dead. 
 	- Betsy was alive - we gave Ailbhe the horse. Valindra rode with her and showed her how to ride it. 
-- 
+- Travelling North - 2 hours in, sound of wings - Adult Copper Dragon with a draconic humanoid rider. It said "Ria Drakesbane, we have come for you." Said come peacefully or else. Ambush of Viridian Scales.
