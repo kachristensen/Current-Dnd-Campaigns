@@ -23,4 +23,6 @@
 		- D told us about Rexums' mental state - our mortal bodies and minds can't wield such powers. It broke the Rexum's mind and created a monster. 
 			- Rem said we don't intend to let one person use all of them. Said we don't want to repeat the mistakes of the past but will use what we can. D asked about the fruit. 
 			- D says he's fine with mortal meddling, just not the gods. D says he likes mortals and is tired of us destroying ourselves. 
-			- D said it was Karz's idea to choose a champion. He said we could use the fruit to resurrect Karz. Rem said he just wants to end the plague. 
+			- D said it was Karz's idea to choose a champion. He said we could use the fruit to resurrect Karz. Rem said he just wants to end the plague.
+			- Rem asked what D wants us to do. He said he wants us to try without relying on the strength of the gods. He said we could probably face the Rexum on our own.
+			- Rem asked what about fighting the gods. 
