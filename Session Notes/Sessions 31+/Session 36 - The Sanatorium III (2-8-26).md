@@ -49,4 +49,4 @@
 	- Persephone asked if anyone else was infected in their dreams, Rem says he dreams of golden fields. Lewis said he has had multiple gods in his dreams, also the same presence affecting Ria. 
 		- I popped open Hypithia and asked if she was ready to talk today. Chris is enforcing the spells rule now. 
 			- Divination - I asked how does one cure the Apex Queen's infection of someone. There is no cure, there is only resistance. Only one who is able to not give in to those that she feeds on - doubt, fear, uncertainty - can one overcome the pool and resist the transformation. People do not often give up intentionally. 
-				- I suggested we perform regular mental exercises - 
+				- I suggested we perform regular mental exercises - also she needs confidence in herself and her allies. She immediately walked into the barn and demanded an inspection - Perse assisted. She's covered in scaly patches, blunted scales, scarring from where the scales have been - 
