@@ -30,3 +30,6 @@
 				- D joked he was going to tell the others about his and Ria's sexual escapades had the charade gone on longer
 		- Lewis asked about the living god, D said he's neutral on it. The LG snuck in and doesn't belong. D doesn't agree with what he's trying to do. Said it's trying to save a world that is long since gone - things are different now and require a different approach. 
 			- Lewis thanked D on behalf of the group for getting us out of the house. D told us to take care and he will be watching. 
+- We rested in the barn
+	- Ria said there was something we needed to discuss in the morning
+	- 
