@@ -15,3 +15,7 @@
 	- Dietarch kissed Lewis, who healed for 62.
 	- House is resistant to psychic and necrotic
 	- Valindra used Summon Fey for the first time, little irridescent purple dragon with antlers
+- After
+	- I turned down Lewis's healing 
+	- I asked why Dietarch spared the two of us of the duplicity, he said it was more fun that way. He turned into Ysolde and pulled out the silver dildo on a stick
+	- I asked what he wanted - he wants to lend a helping hand, got the gods attention. 
