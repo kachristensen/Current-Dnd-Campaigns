@@ -25,12 +25,14 @@
             "id": "7ede9a18cacd3800",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "References/At the Rexum's Behest.pdf"
+                "file": "Session Notes/Sessions 31+/Session 36 - The Sanatorium III (2-8-26).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "At the Rexum's Behest"
+              "icon": "lucide-file",
+              "title": "Session 36 - The Sanatorium III (2-8-26)"
             }
           }
         ],
@@ -187,6 +189,7 @@
   },
   "active": "7ede9a18cacd3800",
   "lastOpenFiles": [
+    "References/At the Rexum's Behest.pdf",
     "Persephone/Build.md",
     "Persephone/Lewis Quotes.md",
     "Persephone/Backstory.md",
@@ -212,10 +215,8 @@
     "Session Notes/Sessions 21-30/23 - Maghaven VII (9-28-25).md",
     "Session Notes/Sessions 21-30/24 - Maghaven VIII (10-05-25).md",
     "Session Notes/Sessions 21-30/28 - Travelling North I (11-9-25).md",
-    "Session Notes/Sessions 21-30/29 - Travelling North II (11-16-25).md",
     "Session Notes/Sessions 31+",
     "Session Notes/Sessions 21+/Untitled",
-    "References/At the Rexum's Behest.pdf",
     "References/Maps/The Dominion, Pre-Unification.png",
     "References/Loot/Hand of the Living God.png",
     "References/Maps/The Dominion, Post-Unification.png",
