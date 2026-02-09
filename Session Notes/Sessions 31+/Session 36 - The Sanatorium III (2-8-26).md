@@ -13,4 +13,5 @@
 			- He said the tp scroll takes us 60 ft outside of the house. Ria cast it, bardic inspo + enhance ability
 - We tp'd out front, house boss. Our friends in the barn were in a resilient sphere.
 	- Dietarch kissed Lewis, who healed for 62.
-	- House is resistant to psychic and necrotic 
+	- House is resistant to psychic and necrotic
+	- Valindra used Summon Fey for the first time, little irridescent purple dragon with antlers
