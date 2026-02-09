@@ -47,3 +47,4 @@
 			- She said much of the corruption has manifested physically, she will submit herself to regular inspection.
 			- Valindra asked if she would be open to being imprisoned in case there was another solution. Ria said she doubted we would be able to hold her. She refused to become a liability. Also we know that once someone becomes infected, they disappear after a while. 
 	- Persephone asked if anyone else was infected in their dreams, Rem says he dreams of golden fields. Lewis said he has had multiple gods in his dreams, also the same presence affecting Ria. 
+		- I popped open Hypithia and asked if she was ready to talk today. Chris is enforcing the spells rule now. 
