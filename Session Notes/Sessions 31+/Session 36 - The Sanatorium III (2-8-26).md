@@ -10,4 +10,5 @@
 	- Random dude Radomir said he was our party member, as if totally normal, only Ria and I thought it was unusual, Rem and Lewis and Valindra acted as if normal. Rem healed him. 
 		- I dispel magicked Rem but it didn't seem to do anything. He gave us a scroll of teleportation, had coordinates on it. I took it and refused to cast it. I teleported Lewis up with a Fey Step into acid.
 		- They argued, I told them I'd only use the scroll if Radomir killed himself, he refused, said he'd stay, Rem offered to stay with him. I told Rem to divine sense, he sensed celestial, Radomir transformed into Dietarch. Rem, Valindra, and Lewis all returned to normal. 
-			- He said the tp scroll takes us 60 ft outside of the house. 
+			- He said the tp scroll takes us 60 ft outside of the house. Ria cast it, bardic inspo + enhance ability
+	- 
