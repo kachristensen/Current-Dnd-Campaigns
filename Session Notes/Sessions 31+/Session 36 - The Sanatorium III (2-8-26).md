@@ -51,3 +51,4 @@
 			- Divination - I asked how does one cure the Apex Queen's infection of someone. There is no cure, there is only resistance. Only one who is able to not give in to those that she feeds on - doubt, fear, uncertainty - can one overcome the pool and resist the transformation. People do not often give up intentionally. 
 				- I suggested we perform regular mental exercises - also she needs confidence in herself and her allies. She immediately walked into the barn and demanded an inspection - Perse assisted. She's covered in scaly patches, blunted scales, scarring from where the scales have been - I investigated her and found no bug stuff.
 		- Chris mentioned he'll tweak the book
+- Perse asked about what we'll do with Tori - Rem cut him loose and gave him a javelin. He's on his own. Tori called some of our party freaks and Valindra went and punched him in the face. Ria tried to kill him and Rem stopped her. He called Valindra an elf bitch.
