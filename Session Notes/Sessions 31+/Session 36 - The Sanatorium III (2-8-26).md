@@ -33,3 +33,13 @@
 - We rested in the barn
 	- Ria said there was something we needed to discuss in the morning
 	- Valindra/Rhenka looked among the house, found Tori unconscious, she bound him. 
+		- 1,400 GP in coinage:
+		- 140 PP
+		- Dust of Dryness
+		- Scroll of Protection from Celestials
+		- Eyedrops of Clarity
+		- Iron Belly
+		- 3 Potion of Holistic Wellness
+
+
+		  
