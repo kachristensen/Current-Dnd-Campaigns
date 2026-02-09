@@ -7,4 +7,4 @@
 
 ## Notes
 - Rem cured wounds Lewis 
-	
+	- Random dude Radomir 
