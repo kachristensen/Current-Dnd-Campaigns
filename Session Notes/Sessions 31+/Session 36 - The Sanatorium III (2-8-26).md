@@ -46,3 +46,4 @@
 		- She said she received another vision from the Harbinger of the Insect Queen, it is trying to corrupt her - knowledge is an infection. She handed a folded and sealed letter to Rembrandt and Persephone. In the event it is necessary to kill her, these are instructions - what to do with her corpse and who to reach out for assistance in her absence. She also tucked away a third copy into her stuff. 
 			- She said much of the corruption has manifested physically, she will submit herself to regular inspection.
 			- Valindra asked if she would be open to being imprisoned in case there was another solution. Ria said she doubted we would be able to hold her. She refused to become a liability. Also we know that once someone becomes infected, they disappear after a while. 
+	- Persephone asked if anyone else was infected in their dreams, Rem says he dreams of golden fields. Lewis said he has had multiple gods in his dreams, also the same presence affecting Ria. 
