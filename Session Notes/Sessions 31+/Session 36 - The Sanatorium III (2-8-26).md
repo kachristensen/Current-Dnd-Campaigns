@@ -18,4 +18,5 @@
 - After
 	- I turned down Lewis's healing 
 	- I asked why Dietarch spared the two of us of the duplicity, he said it was more fun that way. He turned into Ysolde and pulled out the silver dildo on a stick
-	- I asked what he wanted - he wants to lend a helping hand, got the gods attention. 
+	- I asked what he wanted - he wants to lend a helping hand, got the gods attention. The house has the ability to trap us inside of itself, short of a spell to bend reality, we weren't getting out of there. 
+	- He knows we have important items on us, and one that belongs to the living god. 
