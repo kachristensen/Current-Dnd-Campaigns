@@ -32,4 +32,4 @@
 			- Lewis thanked D on behalf of the group for getting us out of the house. D told us to take care and he will be watching. 
 - We rested in the barn
 	- Ria said there was something we needed to discuss in the morning
-	- 
+	- Valindra/Rhenka looked among the house, found Tori unconscious, she bound him. 
