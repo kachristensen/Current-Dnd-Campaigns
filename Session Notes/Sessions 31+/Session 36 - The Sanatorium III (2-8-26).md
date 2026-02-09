@@ -12,3 +12,4 @@
 		- They argued, I told them I'd only use the scroll if Radomir killed himself, he refused, said he'd stay, Rem offered to stay with him. I told Rem to divine sense, he sensed celestial, Radomir transformed into Dietarch. Rem, Valindra, and Lewis all returned to normal. 
 			- He said the tp scroll takes us 60 ft outside of the house. Ria cast it, bardic inspo + enhance ability
 - We tp'd out front, house boss. Our friends in the barn were in a resilient sphere.
+	- Dietarch kissed Lewis, who healed for 62.
