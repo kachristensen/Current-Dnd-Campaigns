@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Session 36 - The Sanatorium III (2-8-26)"
             }
+          },
+          {
+            "id": "7ede9a18cacd3800",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "References/At the Rexum's Behest.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "At the Rexum's Behest"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,11 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9379712d62b88bb8",
+  "active": "7ede9a18cacd3800",
   "lastOpenFiles": [
+    "Persephone/Build.md",
+    "Persephone/Lewis Quotes.md",
+    "Persephone/Backstory.md",
+    "Session Notes/Sessions 31+/Session 36 - The Sanatorium III (2-8-26).md",
     "Session Notes/Sessions 31+/Session 35 - The Sanatorium II (2-1-26).md",
     "Session Notes/Sessions 31+/Session 34 - The Sanatorium I (1-25-26).md",
-    "Session Notes/Sessions 31+/Session 36 - The Sanatorium III (2-8-26).md",
     "Session Notes/Sessions 31+/Session 33 - Travelling North VI (1-19-26).md",
     "Session Notes/Sessions 31+/Session 32 - Travelling North V (12-21-25).md",
     "Session Notes/Sessions 31+/Session 31 - Travelling North IV (12-15-25).md",
@@ -185,10 +201,7 @@
     "Persephone/Songs and Poems/The Age of All Knowledge.md",
     "Persephone/Songs and Poems/Untitled.md",
     "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
-    "Persephone/Lewis Quotes.md",
     "Persephone/Ria Short Story.md",
-    "Persephone/Build.md",
-    "Persephone/Backstory.md",
     "Session Notes/Sessions 1-10/9 - The Beastmen of Barca IV (6-8-25).md",
     "Session Notes/Sessions 21-30/27 -  The Corrupted Temple III (11-2-25).md",
     "Session Notes/Sessions 21-30/26 - The Corrupted Temple II  (10-26-25).md",
