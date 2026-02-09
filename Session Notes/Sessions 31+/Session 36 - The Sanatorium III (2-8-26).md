@@ -52,3 +52,6 @@
 				- I suggested we perform regular mental exercises - also she needs confidence in herself and her allies. She immediately walked into the barn and demanded an inspection - Perse assisted. She's covered in scaly patches, blunted scales, scarring from where the scales have been - I investigated her and found no bug stuff.
 		- Chris mentioned he'll tweak the book
 - Perse asked about what we'll do with Tori - Rem cut him loose and gave him a javelin. He's on his own. Tori called some of our party freaks and Valindra went and punched him in the face. Ria tried to kill him and Rem stopped her. He called Valindra an elf bitch.
+	- I psychic lanced him - he survived but I assumed he was dead. 
+	- Betsy was alive - we gave Ailbhe the horse. Valindra rode with her and showed her how to ride it. 
+- 
