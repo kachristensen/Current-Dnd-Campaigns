@@ -40,6 +40,6 @@
 		- Eyedrops of Clarity
 		- Iron Belly
 		- 3 Potion of Holistic Wellness
-
-
-		  
+	- I went and burned some bits of the house
+		- Cloak of the Manta Ray
+	- Ria's morning - 
