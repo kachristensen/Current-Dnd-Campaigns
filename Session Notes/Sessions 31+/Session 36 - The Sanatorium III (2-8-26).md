@@ -25,4 +25,8 @@
 			- D says he's fine with mortal meddling, just not the gods. D says he likes mortals and is tired of us destroying ourselves. 
 			- D said it was Karz's idea to choose a champion. He said we could use the fruit to resurrect Karz. Rem said he just wants to end the plague.
 			- Rem asked what D wants us to do. He said he wants us to try without relying on the strength of the gods. He said we could probably face the Rexum on our own.
-			- Rem asked what about fighting the gods. Perse interjected and asked if the gods intended to deal with godly affairs - that there are many threats that are trying to devour Skediwen. He says he believe they can and have been doing their best/trying. I told them to do better. He circled me. 
+			- Rem asked what about fighting the gods. Perse interjected and asked if the gods intended to deal with godly affairs - that there are many threats that are trying to devour Skediwen. He says he believe they can and have been doing their best/trying. I told them to do better. He circled me. Perse was uncomfortable. 
+			- D tried to remove Ria's glasses. She backed up. Said there's no need for her to live in a prison of her own design. D said she doesn't let anyone close to her, like she's locking herself up. Ria clarified it was a fortress/bulwark, not a prison. 
+				- D joked he was going to tell the others about his and Ria's sexual escapades had the charade gone on longer
+		- Lewis asked about the living god, D said he's neutral on it. The LG snuck in and doesn't belong. D doesn't agree with what he's trying to do. Said it's trying to save a world that is long since gone - things are different now and require a different approach. 
+			- Lewis thanked D on behalf of the group for getting us out of the house. D told us to take care and he will be watching. 
