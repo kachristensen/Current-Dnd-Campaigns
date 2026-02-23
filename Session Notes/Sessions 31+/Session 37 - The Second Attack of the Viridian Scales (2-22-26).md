@@ -4,14 +4,17 @@
 
 ## IC Synopsis - Tales from Persephone
 > **The Second Attack of the Viridian Scales**
-> Valindra, their former, introduces herself
+> Scales draw close, demanding surrender
+   Seemingly desirous of taking Ria alive
+   
+   Valindra, their former, introduces herself
    Telling once-known Drago of her vision
    He dubs her liar, traitor, and heretic elf
    And executes Lady Blackwood's mission
    /
    Combat starts, Rem swings
    Valindra dominates, Lewis banishes
-   Edicts control, lightning sings
+   Edict controls, lightning sings
    To the south, a duo vanishes
    / 
    Now Rem and I, this lovely guy
