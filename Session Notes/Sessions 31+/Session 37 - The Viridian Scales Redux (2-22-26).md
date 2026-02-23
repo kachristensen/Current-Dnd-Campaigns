@@ -3,7 +3,8 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> Now Rem and I, we have this game
+> Now Rem and I, this lovely guy
+   We have this game we play
 
 ## Notes
 - Dragon rider's name is Drago
