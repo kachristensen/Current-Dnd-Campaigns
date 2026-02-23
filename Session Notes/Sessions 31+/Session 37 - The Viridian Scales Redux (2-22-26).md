@@ -4,7 +4,11 @@
 
 ## IC Synopsis - Tales from Persephone
 > Valindra, darling, introduces herself
-   Telling 
+   Telling the half-dragon Drago of her vision
+   He dubs her liar, traitor, and heretic elf
+   And executes Lady Blackwood's mission
+   /
+   With combat started 
    / 
    Now Rem and I, this lovely guy
    We have this game we play
