@@ -5,7 +5,8 @@
 ## IC Synopsis - Tales from Persephone
 > **The Second Attack of the Viridian Scales**
 > Scales draw close, demanding surrender
-   Seemingly desirous of taking Ria alive
+   Seemingly intent on taking Ria alive
+   We ready our blades, her earnest defenders
    
    Valindra, their former, introduces herself
    Telling once-known Drago of her vision
