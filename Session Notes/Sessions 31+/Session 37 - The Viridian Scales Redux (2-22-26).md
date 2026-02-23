@@ -8,7 +8,12 @@
    He dubs her liar, traitor, and heretic elf
    And executes Lady Blackwood's mission
    /
-   With combat started 
+   Combat starts, Rem swings
+   Valindra dominates, Lewis banishes
+   Bolts pierce, lightning sings
+   A veridian duo south vanishes
+   / 
+   
    / 
    Now Rem and I, this lovely guy
    We have this game we play
