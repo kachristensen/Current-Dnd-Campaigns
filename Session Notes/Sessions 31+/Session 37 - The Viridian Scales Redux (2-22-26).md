@@ -3,9 +3,16 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> Now Rem and I, this lovely guy
+> Now Rem and I, my sunny guy
    We have this game we play
-   Where I 
+   He gives our enemies the chance to rectify
+   Their sins and walk away
+   /
+   He dislikes it when I torture and maim
+   Or drink the juice of people
+   
+   
+   
 
 ## Notes
 - Dragon rider's name is Drago
