@@ -4,10 +4,11 @@
 
 ## IC Synopsis - Tales from Persephone
 > **The Second Attack of the Viridian Scales**
-> Scales draw close, demanding surrender
-   Seemingly intent on taking Ria alive
+> On this day of travel gone awry
+   Scales draw close, demanding surrender
+   Though seeming intent to take Ria alive
    We ready our blades, her earnest defenders
-   
+   /
    Valindra, their former, introduces herself
    Telling once-known Drago of her vision
    He dubs her liar, traitor, and heretic elf
@@ -26,7 +27,7 @@
    Since he dislikes it when I torture
    Or drink the juice of people
    I wait 'til after his departure
-   To kick the last off a steep hill
+   To kick the last o'er a steep hill
    /
    Dragons and all defeated
    Lewis brings Drago back
