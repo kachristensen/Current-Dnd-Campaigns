@@ -12,3 +12,4 @@
 	- Valindra pulled out the vial of SJ's blood, she said she's drank it and lord SJ has spoke to her, granted her Wuffi as a gift. Said SJ has told her to take care of Lady Drakesbane.
 	- Drago said Valindra is a liar, traitor, heretic, and shall burn with the rest.
 - Combat
+	- Valindra dominated the wyvern again
