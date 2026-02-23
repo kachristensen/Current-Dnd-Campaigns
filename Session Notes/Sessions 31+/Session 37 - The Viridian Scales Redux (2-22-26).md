@@ -13,3 +13,6 @@
 	- Drago said Valindra is a liar, traitor, heretic, and shall burn with the rest.
 - Combat
 	- Valindra dominated the wyvern again
+	- Lewis banished Drago, we killed everyone, one got away
+	- Short rest
+	- 1.1k gold, wand of Silence
