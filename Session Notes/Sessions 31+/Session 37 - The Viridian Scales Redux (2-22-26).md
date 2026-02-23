@@ -2,8 +2,8 @@
 ## Summary
 
 
-## IC Synopsis - Rem's Ruminations
->
+## IC Synopsis - Tales from Persephone
+> Now Rem and I, we have this game
 
 ## Notes
 - Dragon rider's name is Drago
