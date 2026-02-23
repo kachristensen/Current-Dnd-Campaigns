@@ -3,14 +3,21 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> Now Rem and I, my sunny guy
+> Valindra, darling, introduces herself
+   Telling 
+   / 
+   Now Rem and I, this lovely guy
    We have this game we play
    He gives our enemies the chance to rectify
    Their sins and walk away
    /
-   He dislikes it when I torture and maim
+   Since he dislikes it when I torture
    Or drink the juice of people
-   So I wait until 
+   I wait 'til after his departure
+   To kick the last off a steep hill
+   /
+   
+   
    
    
    
