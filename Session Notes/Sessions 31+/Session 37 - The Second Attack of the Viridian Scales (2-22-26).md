@@ -3,17 +3,16 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> Valindra, darling, introduces herself
-   Telling the half-dragon Drago of her vision
+> **The Second Attack of the Viridian Scales**
+> Valindra, their former, introduces herself
+   Telling once-known Drago of her vision
    He dubs her liar, traitor, and heretic elf
    And executes Lady Blackwood's mission
    /
    Combat starts, Rem swings
    Valindra dominates, Lewis banishes
-   Bolts pierce, lightning sings
-   A veridian duo south vanishes
-   / 
-   
+   Edicts control, lightning sings
+   To the south, a duo vanishes
    / 
    Now Rem and I, this lovely guy
    We have this game we play
@@ -25,11 +24,10 @@
    I wait 'til after his departure
    To kick the last off a steep hill
    /
-   
-   
-   
-   
-   
+   Dragons and all defeated
+   Lewis brings Drago back
+   By blood and death he is greeted
+   Thus ending the Viridian attack
 
 ## Notes
 - Dragon rider's name is Drago
