@@ -1,6 +1,6 @@
 ###### Day 25
 ## Summary
-
+The party slew the second attack of the Viridian Scales.
 
 ## IC Synopsis - Tales from Persephone
 > **The Second Attack of the Viridian Scales**
