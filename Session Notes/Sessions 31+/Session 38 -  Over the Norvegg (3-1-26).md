@@ -1,6 +1,6 @@
 ###### Day 25 - 26
 ## Summary
-The party crossed the Norvegg river and fought off undead giants.
+The party crossed the Norvegg river, sneaked around enemies, and fought off undead giants.
 
 ## IC Synopsis - Valindra
 >A hard fought battle ends with us finishing off Drago.
