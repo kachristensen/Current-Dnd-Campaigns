@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ulrich",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "292895759e1a043f",
+  "active": "7ede9a18cacd3800",
   "lastOpenFiles": [
     "Session Notes/Sessions 31+/Session 38 -  Over the Norvegg (3-1-26).md",
     "Session Notes/Sessions 31+/Session 39 -  (3-8-26) 1.md",
