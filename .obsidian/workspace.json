@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uncle",
+                "query": "ulrich",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ede9a18cacd3800",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Session Notes/Sessions 31+/Session 38 -  Over the Norvegg (3-1-26).md",
     "Session Notes/Sessions 31+/Session 39 -  (3-8-26) 1.md",
