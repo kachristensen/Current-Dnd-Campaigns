@@ -6,4 +6,4 @@
 > 
 
 ## Notes
-- Combat - more skeletons
+- Combat - more undead giants, snow elves, Bheur hag
