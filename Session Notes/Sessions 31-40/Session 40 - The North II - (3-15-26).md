@@ -14,3 +14,4 @@
 	- Perse also decapitated Eladrin head
 	- We took the armor/weapons of the dead
 	- Rem broke the hag staff and yeeted it, Rhenka threw Wuffi after it like fetch 
+	- We burnt the bodies
