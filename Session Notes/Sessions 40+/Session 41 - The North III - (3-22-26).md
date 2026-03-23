@@ -16,3 +16,5 @@
 			- Perse asked Lewis to make her a chain for the ears.
 	- 2nd watch
 		- Valindra seemed uncomfortable about the elf ears. We talked about it. Valindra wanted me to stop cutting them. She identifies with these elves. Wished there was another way to talk to them. She was worried I would do the same thing to her if she died, I said no. I was annoyed she only wanted me to stop maiming becaue they were elves. 
+		- 3rd watch
+			- Ria and Rem saw a ghostly elf woman walking around, more regal, like a projection of someone. 
