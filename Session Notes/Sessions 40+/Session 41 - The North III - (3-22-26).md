@@ -24,4 +24,5 @@
 		- She asked if Valindra was our slave. Do we intend to enslave them? Valindra said we treat her as equals and work for a better world.
 		- Matron said she scryed upon corpses, saw one ear severed each, like trophies/animals. Perse retorted, called her an icy bitch, maims all equally, and she's the one using frost giant corpses
 		- Ice giants refuse to change, she is using them as fodder.
-		- Rem mentioned mankind would soon be under new leadership. The Matron asked us to leave as a demonstration of peace, but said ice giants aren't part of this world so they don't matter. Rem asked for the body of Rhenka's sister to return. She said it's already in use. Deviously smile and said she'd return it in few days. 
+		- Rem mentioned mankind would soon be under new leadership. The Matron asked us to leave as a demonstration of peace, but said ice giants aren't part of this world so they don't matter. Rem asked for the body of Rhenka's sister to return. She said it's already in use. Deviously smile and said she could return it in a few days. 
+			- Rhenka doesn't want to return to her village until she has succeeded or is killed. 
