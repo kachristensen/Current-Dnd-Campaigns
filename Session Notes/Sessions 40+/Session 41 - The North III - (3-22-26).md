@@ -15,4 +15,4 @@
 			- Valindra tried to interrogate one, he spit on her so she killed him. 
 			- Perse asked Lewis to make her a chain for the ears.
 	- 2nd watch
-		- Valindra seemed uncomfortable about the elf ears. 
+		- Valindra seemed uncomfortable about the elf ears. We talked about it. 
