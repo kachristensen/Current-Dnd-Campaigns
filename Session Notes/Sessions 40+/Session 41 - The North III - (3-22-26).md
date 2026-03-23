@@ -1,7 +1,7 @@
-###### Day 27
+###### Day 27-28
 ## Summary
 
-## IC Synopsis - Frey
+## IC Synopsis - Rem
 >
 
 ## Notes
@@ -17,4 +17,9 @@
 	- 2nd watch
 		- Valindra seemed uncomfortable about the elf ears. We talked about it. Valindra wanted me to stop cutting them. She identifies with these elves. Wished there was another way to talk to them. She was worried I would do the same thing to her if she died, I said no. I was annoyed she only wanted me to stop maiming becaue they were elves. 
 		- 3rd watch
-			- Ria and Rem saw a ghostly elf woman walking around, more regal, like a projection of someone. It approached the dome, sat there, and meditated. 
+			- Ria and Rem saw a ghostly elf woman walking around, more regal, like a projection of someone. It approached the dome, sat there, and meditated.
+- New day
+	- I reupped the dome before some of our members stepped out and spoke to the illusion
+	- Woman spoke in Elvish, asked what we were doing in our land. They don't speak common. We said we were looking for the body of an ice giant, Rhenka's sister. The Matron said she is using it as a weapon, doesn't understand why we would want it back. She wants to march her forces south to take vengeance upon the humans for centuries of mistreatment. 
+		- She asked if Valindra was our slave. Do we intend to enslave them? Valindra said we treat her as equals and work for a better world.
+		- Matron said she scryed upon corpses 
