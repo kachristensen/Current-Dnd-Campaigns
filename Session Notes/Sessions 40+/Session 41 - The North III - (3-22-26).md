@@ -14,4 +14,5 @@
 			- Captain counterspelled Lewis's wall of fire and ran. We caught them and killed them. 
 			- Valindra tried to interrogate one, he spit on her so she killed him. 
 			- Perse asked Lewis to make her a chain for the ears.
-- 
+	- 2nd watch
+		- 
