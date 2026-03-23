@@ -22,5 +22,6 @@
 	- I reupped the dome before some of our members stepped out and spoke to the illusion
 	- Woman spoke in Elvish, asked what we were doing in our land. They don't speak common. We said we were looking for the body of an ice giant, Rhenka's sister. The Matron said she is using it as a weapon, doesn't understand why we would want it back. She wants to march her forces south to take vengeance upon the humans for centuries of mistreatment. 
 		- She asked if Valindra was our slave. Do we intend to enslave them? Valindra said we treat her as equals and work for a better world.
-		- Matron said she scryed upon corpses, saw one ear severed each, like trophies/animals. Perse retorted, called her an icy bitch 
+		- Matron said she scryed upon corpses, saw one ear severed each, like trophies/animals. Perse retorted, called her an icy bitch, maims all equally, and she's the one using frost giant corpses
 		- Ice giants refuse to change, she is using them as fodder.
+		- Rem mentioned mankind would soon be under new leadership. The Matron asked us to leave as a demonstration of peace, but said ice giants aren't part of this world so they don't matter. Rem asked for the body of Rhenka's sister to return. She said it's already in use. Deviously smile and said she'd return it in few days. 
