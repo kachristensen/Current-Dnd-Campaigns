@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Session 41 - The North III - (3-22-26)"
             }
+          },
+          {
+            "id": "ae89a207a519c916",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ede9a18cacd3800",
+  "active": "ae89a207a519c916",
   "lastOpenFiles": [
     "Session Notes/Sessions 1-10/1 - The Rexum's Request (4-6-2025).md",
     "Session Notes/Sessions 1-10/2 - Making Acquaintances (4-13-25).md",
