@@ -13,4 +13,4 @@
 	- Rem cast command on the giant spectral skele thing
 	- Lewis skipped his turn bc of the beautiful women
 	- Frost giant shot a line of cold and incapacitated Rem, Perse, Lewis, Annica
-	- Lewis resisted a draining kiss, broke out of the incapacitated
+	- Lewis resisted a draining kiss, broke out of the incapacitated, but got hit with the next kiss, lost 3 str
