@@ -21,12 +21,12 @@
    With Anicca tactically pulling us away
    The others desperately held the fray
    Stabbed and entangled by hairy length
-   Thoroughly tongued and drained of their strength
+   Tongued and drained of their strength
    /
    Lewis, while healing, was thoroughly milked
    Causing Rhenka to chuck him away from their ilk
    She suggested a retreat and her self-sacrifice
-   Where I countered our strength would suffice
+   Where I countered our strength should suffice
    /
    Finally roused, I launched spider and spell
    And the remaining attackers were swiftly felled
