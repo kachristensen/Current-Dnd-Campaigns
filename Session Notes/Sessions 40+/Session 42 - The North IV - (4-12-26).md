@@ -13,8 +13,20 @@
    Meenlocks, skeletons, and giant undead
    Were swiftly dispatched as we continued ahead
    /
-   We discovered a pond that proved to be host
-   Of beautiful women and a massive ghost
+   We discovered a pond that proved to host
+   Beautiful women and a massive ghost
+   The former seduced our virgin hound
+   Whereas the latter kept Rem and I icebound
+   /
+   With Anicca tactically pulling us away
+   The others desperately held the fray
+   Stabbed and entangled by hairy length
+   Kissed and drained of their strength
+   /
+   Lewis in particular, 
+   
+   
+   
    
    
    
