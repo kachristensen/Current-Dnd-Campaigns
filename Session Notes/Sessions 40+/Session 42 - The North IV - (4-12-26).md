@@ -1,4 +1,4 @@
-###### Day 27-28
+###### Day 28
 ## Summary
 
 
@@ -6,4 +6,4 @@
 > 
 
 ## Notes
-- Valindra found a trail for the snow elves, we followed it 
+- Valindra found a trail for the snow elves, we followed it north. 2 hours later - crack in a glacier, cave at the bottom. 
