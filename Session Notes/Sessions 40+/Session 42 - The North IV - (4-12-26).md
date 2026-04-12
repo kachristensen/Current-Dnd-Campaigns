@@ -13,7 +13,9 @@
    Meenlocks, skeletons, and giant undead
    Were swiftly dispatched as we continued ahead
    /
-   The next room o
+   We discovered a pond that proved to be host
+   Of beautiful women and a massive ghost
+   
    
    
    
