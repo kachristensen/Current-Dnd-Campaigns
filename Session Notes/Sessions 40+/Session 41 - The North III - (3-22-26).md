@@ -1,5 +1,6 @@
 ###### Day 27-28
 ## Summary
+The party arrived at a cave and took out some yetis. They rested and killed a scouting party of elves. The Matron visited and spoke with them in the form of a projection.
 
 ## IC Synopsis - Reflections by Rembrandt
 > We descended from the chilly peak in the aftermath of our battle against the snow elves.  Most of us gathered the bodies and burned them while Valindra scouted the area.  She determined the forces had been there for some time, though to what end she could not say.  After an hour’s reprieve, we marched onward until we came across a cave.  Thinking it would make a fine shelter against the elements, Valindra draped us in concealing magic and we delved deeper.  As a result, we got the drop on a group of four yetis: two young and two adults.  One of the adults unleashed its cold breath on us and wounded Perse grievously, but we were able to dispatch the creatures without further issue.  Lewis saw to Perse’s wounds, and she in turn erected her arcane dome for us to rest in.
