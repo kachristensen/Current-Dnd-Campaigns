@@ -28,7 +28,8 @@
    Suggesting a retreat and her self-sacrifice
    Where instead I countered our strength would suffice
    /
-   Finally free, I 
+   Finally free, I cast spider and spell
+   
    
    
    
