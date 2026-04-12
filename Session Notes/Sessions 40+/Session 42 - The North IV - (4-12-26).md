@@ -12,4 +12,5 @@
 - Next fight - frozen lake, large skeletal cloud-like spectral entity from the waters, also blue wet women, beautiful Drowned Maidens, illusory look human. 
 	- Rem cast command on the giant spectral skele thing
 	- Lewis skipped his turn bc of the beautiful women
-	  Frost giant shot a line of cold and incapacitated Rem, Perse, Lewis, Annica
+	- Frost giant shot a line of cold and incapacitated Rem, Perse, Lewis, Annica
+	- Lewis resisted a draining kiss, broke out of the incapacitated
