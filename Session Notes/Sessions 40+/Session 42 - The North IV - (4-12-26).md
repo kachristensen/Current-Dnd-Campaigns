@@ -10,3 +10,4 @@
 	- I cast Fly on Annica to ferry people up and down. 
 	- Valindra Pass without Traced but we triggered an Alarm, giant construct. Voice echoing throughout the caves, said this will be our graves. Combat with meenlocks and giant skeletons. 
 - Next fight - frozen lake, large skeletal cloud-like spectral entity from the waters, also blue wet women, beautiful Drowned Maidens. 
+	- Rem cast command on the giant spectral skele thing
