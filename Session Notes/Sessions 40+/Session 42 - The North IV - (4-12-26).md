@@ -16,3 +16,4 @@
 	- Lewis resisted a draining kiss, broke out of the incapacitated, but got hit with the next kiss, lost 3 str
 	- Valindra failed a kiss, -4 str
 	- Lewis failed another, -7 total
+	- Rh
