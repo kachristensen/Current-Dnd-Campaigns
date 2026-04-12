@@ -11,3 +11,5 @@
 	- Valindra Pass without Traced but we triggered an Alarm, giant construct. Voice echoing throughout the caves, said this will be our graves. Combat with meenlocks and giant skeletons. 
 - Next fight - frozen lake, large skeletal cloud-like spectral entity from the waters, also blue wet women, beautiful Drowned Maidens, illusory look human. 
 	- Rem cast command on the giant spectral skele thing
+	- Lewis skipped his turn bc of the beautiful women
+	  Frost giant shot a line of cold and incapacitated Rem, Perse, Lewis, Annica
