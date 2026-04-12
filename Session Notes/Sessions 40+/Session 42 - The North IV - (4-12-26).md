@@ -6,4 +6,4 @@
 > 
 
 ## Notes
-- 
+- Valindra found a trail for the snow elves, we followed it 
