@@ -23,7 +23,14 @@
    Stabbed and entangled by hairy length
    And kissed and drained of their strength
    /
-   Lewis in particular, 
+   Lewis, in particular, was thoroughly milked
+   So Rhenka threw him away from their ilk
+   Suggesting a retreat and her self-sacrifice
+   Where instead I countered our strength would suffice
+   /
+   Finally free, I 
+   
+   
    
    
    
