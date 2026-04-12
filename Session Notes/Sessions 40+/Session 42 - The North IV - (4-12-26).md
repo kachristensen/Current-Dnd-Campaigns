@@ -17,3 +17,4 @@
 	- Valindra failed a kiss, -4 str
 	- Lewis failed another, -7 total
 	- Rhenka called for us to retreat and said she would hold them off. Perse ignored her
+- Immediate new fight, drow and yeth
