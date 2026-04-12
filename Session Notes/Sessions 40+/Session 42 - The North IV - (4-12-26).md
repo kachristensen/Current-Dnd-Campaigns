@@ -3,7 +3,21 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> 
+> With Valindra tracking, we travelled north
+   Down cliff and crevice 'fore proceeding forth
+   Into a cave where a voice proclaimed
+   It to be the grave of all us who came
+   /
+   Though stealthy, we triggered alarm
+   Raising those who would bring us harm
+   Meenlocks, skeletons, and giant undead
+   Were swiftly dispatched as we continued ahead
+   /
+   The next room o
+   
+   
+   
+   
 
 ## Notes
 - Valindra found a trail for the snow elves, we followed it north. 2 hours later - crack in a glacier, cave at the bottom 400 ft down, pitons in the ice wall indicating it's been climbed. 
