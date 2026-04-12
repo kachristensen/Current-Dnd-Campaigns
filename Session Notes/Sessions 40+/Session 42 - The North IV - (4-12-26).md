@@ -14,9 +14,9 @@
    Were swiftly dispatched as we continued ahead
    /
    We discovered a pond that proved to host
-   Beautiful sirens and massive ghost
+   Beautiful women and massive ghost
    The former seduced our virgin hound
-   Where the latter kept Rem and I icebound
+   Where the latter kept Rem and I bound
    /
    With Anicca tactically pulling us away
    The others desperately held the fray
@@ -33,7 +33,9 @@
    By summoned fey and storming sphere
    Though Rem remained dazed in the rear
    /
-   With little warning
+   With little warning or chance to catch our breath
+   From our battle against siren and undeath
+   The now-living arrived to v
    
    
    
