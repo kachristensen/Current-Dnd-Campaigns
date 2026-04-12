@@ -3,7 +3,8 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> With Valindra tracking, we travelled north
+>**The Matron's Back Door**
+   With Valindra tracking, we travelled north
    Down cliff and crevice 'fore proceeding forth
    Into a cave where a voice proclaimed
    It to be the grave of all who came
