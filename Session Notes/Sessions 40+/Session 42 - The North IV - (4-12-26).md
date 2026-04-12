@@ -21,7 +21,7 @@
    With Anicca tactically pulling us away
    The others desperately held the fray
    Stabbed and entangled by hairy length
-   Kissed and drained of their strength
+   And kissed and drained of their strength
    /
    Lewis in particular, 
    
