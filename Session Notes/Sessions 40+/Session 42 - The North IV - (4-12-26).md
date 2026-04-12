@@ -14,21 +14,28 @@
    Were swiftly dispatched as we continued ahead
    /
    We discovered a pond that proved to host
-   Beautiful women and a massive ghost
+   Beautiful sirens and massive ghost
    The former seduced our virgin hound
-   Whereas the latter kept Rem and I icebound
+   Where the latter kept Rem and I icebound
    /
    With Anicca tactically pulling us away
    The others desperately held the fray
    Stabbed and entangled by hairy length
-   And kissed and drained of their strength
+   Thoroughly tongued and drained of their strength
    /
-   Lewis, in particular, was thoroughly milked
-   So Rhenka threw him away from their ilk
-   Suggesting a retreat and her self-sacrifice
-   Where instead I countered our strength would suffice
+   Lewis, while healing, was thoroughly milked
+   Causing Rhenka to chuck him away from their ilk
+   She suggested a retreat and her self-sacrifice
+   Where I countered our strength would suffice
    /
-   Finally free, I cast spider and spell
+   Finally roused, I launched spider and spell
+   And the remaining attackers were swiftly felled
+   By summoned fey and storming sphere
+   Though Rem remained dazed in the rear
+   /
+   With little warning
+   
+   
    
    
    
