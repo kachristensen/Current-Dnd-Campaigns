@@ -6,15 +6,15 @@
 > With Valindra tracking, we travelled north
    Down cliff and crevice 'fore proceeding forth
    Into a cave where a voice proclaimed
-   It to be the grave of all us who came
+   It to be the grave of all who came
    /
    Though stealthy, we triggered alarm
-   Raising those who would bring us harm
-   Meenlocks, skeletons, and giant undead
+   Raising those who sought to bring us harm
+   Meenlocks and giant skeletal undead
    Were swiftly dispatched as we continued ahead
    /
    We discovered a pond that proved to host
-   Beautiful women and massive ghost
+   Beautiful women and a massive ghost
    The former seduced our virgin hound
    Where the latter kept Rem and I bound
    /
@@ -26,7 +26,7 @@
    Lewis, while healing, was thoroughly milked
    Causing Rhenka to chuck him away from their ilk
    She suggested a retreat and her self-sacrifice
-   Where I countered our strength should suffice
+   Where I countered our strength would suffice
    /
    Finally roused, I launched spider and spell
    And the remaining attackers were swiftly felled
@@ -35,7 +35,9 @@
    /
    With little warning or chance to catch our breath
    From our battle against siren and undeath
-   The now-living arrived to v
+   Elves and yeth hounds rounded into sight
+   Thus condemning ourselves to another fight
+   
    
    
    
