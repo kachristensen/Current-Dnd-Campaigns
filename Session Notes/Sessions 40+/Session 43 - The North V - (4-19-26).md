@@ -14,4 +14,4 @@
 		- Totem is in it's heart. 2 more of his kind, but also more waiting to ambush. He told us the way to the Matron. 
 		- The fey are against their will, but the elves are loyal to the matron. He is a Korred, name is Cory. 
 	- Battle w/ more korred and elves, we're trying to nonlethal the fey
-		- Rem failed Otto's Irresistible dance but I countercharmed 
+		- Rem failed Otto's Irresistible dance but I countercharmed  
