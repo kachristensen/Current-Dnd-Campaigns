@@ -16,3 +16,5 @@
 	- Battle w/ more korred and elves, we're trying to nonlethal the fey
 		- Rem failed Otto's Irresistible dance but I countercharmed 
 		- Valindra went down, I administered people juice to her 
+	- After fight
+		- We resummoned Wuffi, I threw down my 2 golden lions
