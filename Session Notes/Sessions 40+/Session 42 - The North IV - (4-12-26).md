@@ -1,6 +1,6 @@
 ###### Day 28
 ## Summary
-
+The party tracked the snow elves to a cave and fought undead within.
 
 ## IC Synopsis - Tales from Persephone
 >**The Matron's Back Door**
