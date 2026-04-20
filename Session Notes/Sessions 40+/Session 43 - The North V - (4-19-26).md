@@ -17,4 +17,4 @@
 		- Rem failed Otto's Irresistible dance but I countercharmed 
 		- Valindra went down, I administered people juice to her 
 	- We resummoned Wuffi, I threw down my 2 golden lions
-		- 
+		- new fight - PoBelly, more ice maidens, annis hag 
