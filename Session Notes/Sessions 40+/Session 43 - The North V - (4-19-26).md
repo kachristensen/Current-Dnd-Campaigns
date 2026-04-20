@@ -6,3 +6,5 @@
 >
 
 ## Notes
+- Fought more quicklings, yeth hounds, elves
+	- Rem saved w/ Bardic Inspiration
