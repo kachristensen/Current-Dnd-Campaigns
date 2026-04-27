@@ -6,4 +6,5 @@
 >
 
 ## Notes
-- Combat w/ Potbelly and some others
+- Combat w/ Potbelly and some others, killed a hag
+- Next combat with the Matron and Frost Giant Everlasting One
