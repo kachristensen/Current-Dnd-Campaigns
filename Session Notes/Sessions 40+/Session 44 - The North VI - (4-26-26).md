@@ -12,3 +12,5 @@
 	- We'll level up after we leave - ask about loot after 
 - Level 10
 	- Fire Bolt
+	- Fireball
+	- Phantasmal Force -> Wall of Force
