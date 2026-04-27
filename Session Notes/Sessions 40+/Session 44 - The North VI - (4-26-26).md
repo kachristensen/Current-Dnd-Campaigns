@@ -14,3 +14,5 @@
 	- Fire Bolt
 	- Fireball
 	- Phantasmal Force -> Wall of Force
+- Level 11
+	- Contingency (Polymorph)
