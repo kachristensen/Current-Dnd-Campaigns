@@ -7,4 +7,4 @@
 
 ## Notes
 - Combat w/ Potbelly and some others, killed a hag
-- Next combat with the Matron and Frost Giant Everlasting One
+- Next combat with The Matron, Maohir and Frost Giant Everlasting One, Farnal Farbuta
