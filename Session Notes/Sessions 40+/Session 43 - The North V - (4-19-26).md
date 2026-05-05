@@ -33,4 +33,6 @@ The party found their way further into the cave, discovering that some fey were 
 	- Lewis silvered some weapons. Put down a circle of iron powder and water. Used 50g to make a ton of werewolf chains. Stoneshaped the ends into the ground. Perse put up a dome in the circle and inscribed her staff in blood runes.
 	- Rem spoke to all of us, said it was a privilege, 2 requests if he dies
 		- See that the fruit is used to end the plague
-		- Spread his ashes near Shadeleaf 
+		- Spread his ashes near Shadeleaf
+		- Rem cast Aid on us, stripped. He put his mother's locket down and cast Daylight on it. "I promised you I'd live, Mom."
+	- Lewis spread iron ash on Rem and bound him in the silver chains. Burning feeling.
