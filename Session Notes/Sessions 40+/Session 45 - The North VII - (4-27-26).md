@@ -22,4 +22,8 @@
 	- Watch rotation
 		- Rhenka and Ria - Rhenka feels empty after her revenge. Ria said it's unlikely to be filled, just grown around. Said she will be satisfied when hers is done. Consoled Rhenka that her sister is at rest now.  Rhenka says she's concerned for Ria as a friend who might have no purpose after revenge. Ria said Rhenka will have her community to return to. Ria will decide afterwards. 
 		- Perse and Valindra 
-			- conversation, 
+			- light conversation
+		- Rem has been having a dream
+			- META: running through the fields that started darkening and decaying. Red glowing eyes in the distance. Voice that said yes, come to me my child, bring forth my race once more. Then awoke.
+		- Perse and Rem
+			- Perse gave him some tea, Rem shaved his face 
