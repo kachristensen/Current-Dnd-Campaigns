@@ -30,4 +30,4 @@ The party found their way further into the cave, discovering that some fey were 
 		- new fight - PoBelly, more ice maidens, annis hag 
 - In the morning
 	- Porto came by and visited, is here to observe and report back to Mastenovti 
-	- Lewis silvered some weapons. Put down a circle of iron powder and water. 
+	- Lewis silvered some weapons. Put down a circle of iron powder and water. Used 50g to make a ton of werewolf chains. Stoneshaped the ends into the ground. 
