@@ -6,3 +6,5 @@
 
 
 ## Notes
+- Loot
+	- Piwafi (Cloak of Elvenkind)
