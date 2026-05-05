@@ -35,4 +35,4 @@ The party found their way further into the cave, discovering that some fey were 
 		- See that the fruit is used to end the plague
 		- Spread his ashes near Shadeleaf
 		- Rem cast Aid on us, stripped. He put his mother's locket down and cast Daylight on it. "I promised you I'd live, Mom."
-	- Lewis spread iron ash on Rem and bound him in the silver chains. Burning feeling.
+	- Lewis spread iron ash on Rem and bound him in the silver chains. Burning feeling. Lewis cast Heat metal. 
