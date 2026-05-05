@@ -10,3 +10,4 @@
 	- 4600 g
 	- Piwafi (Cloak of Elvenkind)
 	- Eldritch staff 
+- We left, the Korreds were grateful, made the cave their new home 
