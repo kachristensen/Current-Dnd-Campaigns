@@ -14,4 +14,5 @@
 	- We retreated, chipped down the ice wall after 40 min
 - Returned to the previous cave, camped with dome
 	- Valindra went and collapsed 
-	- Lewis wanted to conduct the ritual somewhere safe, openish area, flat. Should be in a good area an hour's hike south. 
+	- Lewis wanted to conduct the ritual somewhere safe, openish area, flat. Should be in a good area an hour's hike south.
+	- Ria asked why it was necessary to do it outside. 
