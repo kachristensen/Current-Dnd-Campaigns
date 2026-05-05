@@ -13,4 +13,5 @@
 - We left, the Korreds were grateful, made the cave their new home, Perse suggested they make allies with the ice giants
 	- We retreated, chipped down the ice wall after 40 min
 - Returned to the previous cave, camped with dome
-	- Valindra went and collapseed 
+	- Valindra went and collapsed 
+	- Lewis wanted to conduct the ritual somewhere safe, openish area, flat. 
