@@ -21,3 +21,5 @@
 		- Rem doesn't want the sap but he'd be honored to have any of our blood. He's fine with my blood too. Rhenka mentioned her blood was cold for her kind. 
 	- Watch rotation
 		- Rhenka and Ria - Rhenka feels empty after her revenge. Ria said it's unlikely to be filled, just grown around. Said she will be satisfied when hers is done. Consoled Rhenka that her sister is at rest now.  Rhenka says she's concerned for Ria as a friend who might have no purpose after revenge. Ria said Rhenka will have her community to return to. Ria will decide afterwards. 
+		- Perse and Valindra 
+			- conversation, 
