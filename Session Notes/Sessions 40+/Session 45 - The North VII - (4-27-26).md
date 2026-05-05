@@ -17,4 +17,5 @@
 	- Lewis wanted to conduct the ritual somewhere safe, openish area, flat. Should be in a good area an hour's hike south.
 	- Ria asked why it was necessary to do it outside. Lewis acquiesced to it being inside. 
 	- Perse put blankets on Valindra and Rem
-	- We discussed plans, Lewis wants to silver our weapons. 
+	- We discussed plans, Lewis wants to silver our weapons. Perse asked whose blood Rem wants, Lewis offered to sacrifice himself.
+		- Rem doesn't want the sap but he'd be honored to have any of our blood. He's fine with my blood too. 
