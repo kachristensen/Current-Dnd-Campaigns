@@ -26,4 +26,4 @@
 		- Rem has been having a dream
 			- META: running through the fields that started darkening and decaying. Red glowing eyes in the distance. Voice that said yes, come to me my child, bring forth my race once more. Then awoke.
 		- Perse and Rem
-			- Perse gave him some tea, Rem shaved his face 
+			- Perse gave him some tea, Rem shaved his face, Perse checked up on him, he seemed calm and ready but holding back something 
