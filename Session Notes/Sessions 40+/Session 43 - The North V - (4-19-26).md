@@ -37,4 +37,5 @@ The party found their way further into the cave, discovering that some fey were 
 		- Rem cast Aid on us, stripped. He put his mother's locket down and cast Daylight on it. "I promised you I'd live, Mom."
 - Ritual at night
 	- Lewis spread iron ash on Rem and bound him in the silver chains. Burning feeling. Lewis cast Heat metal. Valindra - Summon Fey, Perse - Protection from Evil and Good on Rem. 
-	- Heat Metal was burning the skin, fur reappeared underneath. 
+	- Heat Metal was burning the skin, fur reappeared underneath but he didn't transform. Lewis looked panicked and uncertain, Rhenka called out to drain him, Perse stepped up and slit Rem's throat.
+	- Two pools of blood. One formed into a large praying-mantis spider demon wolf creature, dark crimson. Other formed into a blood pool with a golden tint, formed into a massive creature with a large gaping jaw and many other small mouths, morbidly obese.
