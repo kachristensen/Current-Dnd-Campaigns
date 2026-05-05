@@ -28,3 +28,6 @@ The party found their way further into the cave, discovering that some fey were 
 		- Valindra went down, I administered people juice to her 
 	- We resummoned Wuffi, I threw down my 2 golden lions
 		- new fight - PoBelly, more ice maidens, annis hag 
+- In the morning
+	- Porto came by and visited, is here to observe and report back to Mastenovti 
+	- Lewis silvered some weapons 
