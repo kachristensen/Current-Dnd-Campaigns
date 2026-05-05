@@ -19,3 +19,5 @@
 	- Perse put blankets on Valindra and Rem
 	- We discussed plans, Lewis wants to silver our weapons. Perse asked whose blood Rem wants, Lewis offered to sacrifice himself.
 		- Rem doesn't want the sap but he'd be honored to have any of our blood. He's fine with my blood too. Rhenka mentioned her blood was cold for her kind. 
+	- Watch rotation
+		- Rhenka and Ria - Rhenka feels empty after her revenge. Ria said it's unlikely to be filled, just grown around. 
