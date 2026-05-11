@@ -55,3 +55,6 @@
 		- I asked her what she thinks happens to the dead if there is no god of death
 			- Valindra said her parents told her elves move on to their next life, reincarnation, like the god of death didn't guide them 
 			- I talked about how I haven't done much with this life, just tried to find out about what happened. Valindra encouraged me to maybe find another goal. We talked a lot and hugged. 
+	- Valindra and Ria
+		- Valindra asked if she thought if their blood being spilled would summon a dragon
+			- Ria said it woudl leave her weak and useless
