@@ -22,5 +22,11 @@
 	- Rem's eyes are no longer glowing but still gold, cured of the secomortis plague and the demonic lycanthropy. Doesn't feel dry anymore. 
 	- Lewis teared up a little, was very tired, Rem healed him a bit
 	- I told him about the Gluttonous Seraphim, cast Minor Illusion
-	- Lewis said he doesn't think we should be holding the flasks of Karz anymore, Rem gave his to Lewis
+	- Lewis said he doesn't think we should be holding the flasks of Karz anymore, Rem gave his to Lewis. he's going to hold on to them 
 		- Ria asked how he intended to dispose of them
+		- Rem told us about his dream fight with Mastenovti. Jonas was there, he helped him. 
+		- Ria will hold onto hers, she hasn't used it anwyays
+		- I will hold onto mine until we find alternatives
+		- Valindra held onto hers as well
+		- Lewis wants to heal us and recommended we use it as our last resort. Rem seconded it, he doesn't want us to use it except as a last resort 
+	- Porto flew away 
