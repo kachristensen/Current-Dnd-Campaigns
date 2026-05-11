@@ -13,4 +13,4 @@
 		- Perse - wall of force on the Quavilithku Spyder-Fiend, grovel on the Gluttony Seraphim
 		- Lewis - spare the dying on Rem, had a bunch of rhyming poetry/fiery preaching
 		- Gluttony Seraph dispelled Tiny Hut
-		- Anicca panicked and attacked Porto
+		- Anicca panicked and attacked Porto, I ran up and calmed her/mounted her
