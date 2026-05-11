@@ -44,3 +44,6 @@
 		- She asked if we still intended to free her, I said yes
 	- META: Valindra's use of the heart of etifa needs to be used more often or devoted to unlock further abilities
 	- META: Lewis cast Sending to the Living God - "Living God, your strength answered mine. Rem still breathes because your hand carried me through blood, fire, and sacred burden alike." LG responded indeed, though it was Lewis's strength. He also called out to St. Imelda and thanked her. 
+	- Lewis and Perse
+		- I praised him, we talked about his performance today
+		- 
