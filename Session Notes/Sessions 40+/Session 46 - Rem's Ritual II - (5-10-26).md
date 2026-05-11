@@ -30,3 +30,12 @@
 		- Valindra held onto hers as well
 		- Lewis wants to heal us and recommended we use it as our last resort. Rem seconded it, he doesn't want us to use it except as a last resort 
 	- Porto flew away 
+	- Lewis cast Create Food and Water
+- Hypithia
+	- What was that creature in Rem we fought?
+		- Was the manifestation of the plague that infected Rembrandt. An endless hunger of divine origin. 
+	- Does it exist in all victims of the secomortis plague?
+		- Yes, it feeds off them
+		- I mentioned to Rem it might be a
+	- How do I reach my son?
+		- I must travel to the underworld past the gates of death 
