@@ -74,4 +74,4 @@
 		- Xchimaltia said she wants to talk about Persephone -- she recently made a trip back to her domain and Lewis was toying with death. She said she prefers if Perse stays away from her domain, see that it doesn't happen again. 
 		- Lewis said he doesn't control Perse, but will try. Xchimaltia threatened to make his existence a living hell. Lewis asked why.
 		- She didn't answer and Lewis awoke. 
-	- Lewis said I pissed off Xchimaltia and I shouldn't do it again. Dark forest. He told us about it. 
+	- Lewis said I pissed off Xchimaltia and I shouldn't do it again. Dark forest. He told us about it. He said he would bring me back if I died, then got divinely smote for 70 necrotic damage. 
