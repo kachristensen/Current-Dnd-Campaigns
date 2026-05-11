@@ -19,5 +19,5 @@
 		- Lewis cast Life Transference at 5th level on himself and healed Rem to full 
 		- I dropped wall of force, we killed the demon spider
 - After
-	- Rem's eyes are no longer glowing but still gold, cured of the secomortis plague and the demonic lycanthropy
-	- Lewis teared up a little, was very tired, Rem healed him a bit  
+	- Rem's eyes are no longer glowing but still gold, cured of the secomortis plague and the demonic lycanthropy. Doesn't feel dry anymore. 
+	- Lewis teared up a little, was very tired, Rem healed him a bit
