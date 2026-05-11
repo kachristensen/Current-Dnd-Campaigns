@@ -51,4 +51,4 @@
 			- I mentioned at least we know it didn't work, also they must be collecting souls in the stones for some reason instead of in the stars
 		- Bonded with Lewis, told him he was a good egg
 	- Valindra and Perse
-		- Valindra asked if I thought that was reckless, 
+		- Valindra asked if I thought that was reckless, asked what death felt like 
