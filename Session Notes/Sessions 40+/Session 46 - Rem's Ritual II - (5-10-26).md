@@ -8,7 +8,8 @@
 ## Notes
 - Fight
 	- META: Rem had a vision, awoke in desolate wastes in front of a demon werewolf, 1v1 fight vs. Mastenovti's Avatar
-		- Jonas appeared behind him, said there wasn't much he could do but is here to help. Said he still hated him for killing him but appreciated that Rem never gave up. Cast Life Transference to help heal Rem before vanishing.  
+		- Jonas appeared behind him, said there wasn't much he could do but is here to help. Said he still hated him for killing him but appreciated that Rem never gave up. Cast Life Transference to help heal Rem before vanishing.
+		- Rem slew the avatar and it vanished in obsidian dust, then woke up with 1 hp but couldn't move
 	- Real world
 		- Perse - wall of force on the Quavilithku Spyder-Fiend, grovel on the Gluttony Seraphim
 		- Lewis - spare the dying on Rem, had a bunch of rhyming poetry/fiery preaching, encouraging others. He started hurting himself with his mace. 
