@@ -67,4 +67,11 @@
 		- Ria pulled out Otis's flask and handed it back, Rem said he would wait until we got back to the giants.
 		- Rem stepped out to bask in the moonlight and Ria joined him, then they returned
 	- META: Lewis had a dream
-		- In a dark forest, chanting, bones rattling, someone walked towards him
+		- In a dark forest, chanting, bones rattling, someone walked towards him. Human woman in tribal outfit with feathered headpiece, except head is a skull. Intense coldness.
+		- Lewis grabbed his mace
+		- "Lewis Sparks. We've not yet had the pleasure of meeting."
+		- He asked who she was, she said that was blasphemous. He doubled down. She warned him to show him respect or she would make him regret it. He apologized and bowed, said there are so many and he was wary of deception.
+		- Xchimaltia said she wants to talk about Persephone -- she recently made a trip back to her domain and Lewis was toying with death. She said she prefers if Perse stays away from her domain, see that it doesn't happen again. 
+		- Lewis said he doesn't control Perse, but will try. Xchimaltia threatened to make his existence a living hell. Lewis asked why.
+		- She didn't answer and Lewis awoke. 
+	- Lewis said I pissed off Xchimaltia and I shouldn't do it again. Dark forest. He told us about it. 
