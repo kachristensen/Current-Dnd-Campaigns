@@ -17,4 +17,7 @@
 		- Anicca panicked and attacked Porto, I ran up and calmed her/mounted her
 		- Valindra slew the Gluttony Seraph, it disintegrated into a golden dust
 		- Lewis cast Life Transference at 5th level on himself and healed Rem to full 
-		- I dropped wall of force, we 
+		- I dropped wall of force, we killed the demon spider
+- After
+	- Rem's eyes are no longer glowing, cured of the secomortis plague and the demonic lycanthropy
+	- 
