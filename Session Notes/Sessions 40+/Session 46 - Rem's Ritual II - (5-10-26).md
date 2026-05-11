@@ -36,6 +36,9 @@
 		- Was the manifestation of the plague that infected Rembrandt. An endless hunger of divine origin. 
 	- Does it exist in all victims of the secomortis plague?
 		- Yes, it feeds off them
-		- I mentioned to Rem it might be a
+		- I mentioned to Rem it might be a 
 	- How do I reach my son?
 		- I must travel to the underworld past the gates of death 
+	- I asked if it was a physical place or if I needed to die. She didn't respond, tired.
+	- She asked if we still intended to free her, I said yes
+- META: Valindra's use of the heart of etifa needs to be used more often or devoted to unlock further abilities
