@@ -12,3 +12,5 @@
 	- Real world
 		- Perse - wall of force on the Quavilithku Spyder-Fiend
 		- Lewis - spare the dying on Rem
+		- Gluttony Seraph dispelled Tiny Hut
+		- Anicca panicked and attacked Porto
