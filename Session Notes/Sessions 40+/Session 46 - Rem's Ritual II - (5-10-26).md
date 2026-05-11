@@ -58,3 +58,4 @@
 	- Valindra and Ria
 		- Valindra asked if she thought if their blood being spilled would summon a dragon
 			- Ria said it woudl leave her weak and useless
+		- Valindra said her eyes used to be green,C Ria's used to be grey
