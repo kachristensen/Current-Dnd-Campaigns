@@ -21,3 +21,4 @@
 - After
 	- Rem's eyes are no longer glowing but still gold, cured of the secomortis plague and the demonic lycanthropy. Doesn't feel dry anymore. 
 	- Lewis teared up a little, was very tired, Rem healed him a bit
+	- I told him about the Gluttonous Seraphim, cast Minor Illusion 
