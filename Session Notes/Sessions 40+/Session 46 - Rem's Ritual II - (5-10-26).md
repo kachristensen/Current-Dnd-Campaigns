@@ -65,4 +65,6 @@
 		- Rem no longer has his running dreams
 			- Had a dream where he was sleeping with Jonas 
 		- Ria pulled out Otis's flask and handed it back, Rem said he would wait until we got back to the giants.
-		- Rem stepped out to bask in the moonlight and Ria joined him.
+		- Rem stepped out to bask in the moonlight and Ria joined him, then they returned
+	- META: Lewis had a dream
+		- In a dark forest, chanting, bones rattling, someone walked towards him
