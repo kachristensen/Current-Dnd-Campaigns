@@ -31,14 +31,16 @@
 		- Lewis wants to heal us and recommended we use it as our last resort. Rem seconded it, he doesn't want us to use it except as a last resort 
 	- Porto flew away 
 	- Lewis cast Create Food and Water
-- Hypithia
-	- What was that creature in Rem we fought?
-		- Was the manifestation of the plague that infected Rembrandt. An endless hunger of divine origin. 
-	- Does it exist in all victims of the secomortis plague?
-		- Yes, it feeds off them
-		- I mentioned to Rem it might be a 
-	- How do I reach my son?
-		- I must travel to the underworld past the gates of death 
-	- I asked if it was a physical place or if I needed to die. She didn't respond, tired.
-	- She asked if we still intended to free her, I said yes
-- META: Valindra's use of the heart of etifa needs to be used more often or devoted to unlock further abilities
+- Rest / watch
+	- Hypithia
+		- What was that creature in Rem we fought?
+			- Was the manifestation of the plague that infected Rembrandt. An endless hunger of divine origin. 
+		- Does it exist in all victims of the secomortis plague?
+			- Yes, it feeds off them
+			- I mentioned to Rem it might be an alternative if we wish to kill the gods, he said it was blasphemous 
+		- How do I reach my son?
+			- I must travel to the underworld past the gates of death 
+		- I asked if it was a physical place or if I needed to die. She didn't respond, tired.
+		- She asked if we still intended to free her, I said yes
+	- META: Valindra's use of the heart of etifa needs to be used more often or devoted to unlock further abilities
+	- META: Lewis cast Sending to the Living God - "Living God, your strength answered mine. Rem still breathes because your hand carried me through blood, fire, and sacred burden alike." LG responded indeed, though it was Lewis's strength. He also called out to St. Imelda and thanked her. 
