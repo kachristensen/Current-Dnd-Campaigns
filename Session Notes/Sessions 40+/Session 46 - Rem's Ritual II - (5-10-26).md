@@ -14,3 +14,4 @@
 		- Lewis - spare the dying on Rem, had a bunch of rhyming poetry/fiery preaching
 		- Gluttony Seraph dispelled Tiny Hut
 		- Anicca panicked and attacked Porto, I ran up and calmed her/mounted her
+		- Valindra slew the Gluttony Seraph, it disintegrated into a golden dust
