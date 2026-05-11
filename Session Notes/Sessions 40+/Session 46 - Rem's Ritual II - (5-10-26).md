@@ -8,7 +8,7 @@
 ## Notes
 - Fight
 	- META: Rem had a vision, awoke in desolate wastes in front of a demon werewolf, 1v1 fight vs. Mastenovti's Avatar
-		- Jonas appeared behind him 
+		- Jonas appeared behind him, said there wasn't much he could do but is here to help 
 	- Real world
 		- Perse - wall of force on the Quavilithku Spyder-Fiend, grovel on the Gluttony Seraphim
 		- Lewis - spare the dying on Rem, had a bunch of rhyming poetry/fiery preaching
