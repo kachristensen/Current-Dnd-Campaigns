@@ -52,3 +52,5 @@
 		- Bonded with Lewis, told him he was a good egg
 	- Valindra and Perse
 		- Valindra asked if I thought that was reckless, asked what death felt like 
+		- I asked her what she thinks happens to the dead if there is no god of death
+			- Valindra said her parents told her elves move on to their next life, reincarnation, like the god of death didn't guide them 
