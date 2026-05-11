@@ -64,3 +64,5 @@
 	- Ria and Rem
 		- Rem no longer has his running dreams
 			- Had a dream where he was sleeping with Jonas 
+		- Ria pulled out Otis's flask and handed it back, Rem said he would wait until we got back to the giants.
+		- Rem stepped out to bask in the moonlight and Ria joined him.
