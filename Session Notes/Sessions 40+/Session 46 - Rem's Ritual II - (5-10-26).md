@@ -21,4 +21,6 @@
 - After
 	- Rem's eyes are no longer glowing but still gold, cured of the secomortis plague and the demonic lycanthropy. Doesn't feel dry anymore. 
 	- Lewis teared up a little, was very tired, Rem healed him a bit
-	- I told him about the Gluttonous Seraphim, cast Minor Illusion 
+	- I told him about the Gluttonous Seraphim, cast Minor Illusion
+	- Lewis said he doesn't think we should be holding the flasks of Karz anymore, Rem gave his to Lewis
+		- Ria asked how he intended to dispose of them
