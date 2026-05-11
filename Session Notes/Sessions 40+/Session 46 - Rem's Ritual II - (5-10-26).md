@@ -47,4 +47,5 @@
 	- Lewis and Perse
 		- I praised him, we talked about his performance today, he mentioned being the glue that keeps each other back
 		- I asked if he can bring ppl back from the death without using diamonds, he said yes, I stabbed myself in the heart 
-			- I faded into darkness. Falling. I got a glimpse of a vast piece of land, little white stones scattered throughout it, dark grey ground. I hit a stone and then nothingness. Brought back by Lewis. A gravestone. 
+			- I faded into darkness. Falling. I got a glimpse of a vast piece of land, little white stones scattered throughout it, dark grey ground. I hit a stone and then nothingness. Brought back by Lewis. A gravestone.
+			- 
