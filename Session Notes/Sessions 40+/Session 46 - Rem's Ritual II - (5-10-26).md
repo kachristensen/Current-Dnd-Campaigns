@@ -75,4 +75,4 @@
 		- Lewis said he doesn't control Perse, but will try. Xchimaltia threatened to make his existence a living hell. Lewis asked why.
 		- She didn't answer and Lewis awoke. 
 	- Lewis said I pissed off Xchimaltia and I shouldn't do it again. Dark forest. He told us about it. He said he would bring me back if I died, then got divinely smote for 70 necrotic damage. 
-	- 
+
