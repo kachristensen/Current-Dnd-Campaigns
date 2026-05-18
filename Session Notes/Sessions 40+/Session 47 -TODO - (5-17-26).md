@@ -20,7 +20,9 @@
 		- Thanked us for building Rhenka into a warrior worthy of succeeding him. Mention he only has a few decades left to live
 	- Valindra went to speak with Snjorr.
 		- Rhenka was telling the tale of our adventures
-		- 
+		- Gave her condolences about her daughter, they talked about our deed. Snjor mentioned there used to be a terrible queen of the fey who ruled the north, glad those tales didn't get revived. 
+		- Valindra asked for a donation of scales from the white dragonling they have, showed her glaive, Snjor was pleased she keeps trophies of her kills.
+			- Snjor suggested a battle between her and Goin, whatever she strikes off she gets to keep. 
 
 
 
