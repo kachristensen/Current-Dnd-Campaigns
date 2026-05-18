@@ -6,4 +6,5 @@
 > 
 
 ## Notes
-- 
+- We returned to the ice giant camp by the evening
+	- 
