@@ -33,3 +33,5 @@
 		- Why does Xchi'maltia not want me dead?
 			- Hypithia hesitated. Said her older sister is not one to fear things but has recently gained something she doesn't want to lose.
 		- She said information is good to have, very powerful, can lead to ruin or lead to something beautiful.
+	- Lewis lesser restoration'ed Valindra so she wasn't hungover
+		- META: He went to Rem and said they're lovely in reference to his mother's locket -- Rem's father Otto, his mother Mila. 
