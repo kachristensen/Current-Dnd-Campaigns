@@ -11,3 +11,5 @@
 	- I threw my necklace of elf ears and the eladrin head in the fire, Valindra smiled
 	- Ailbhe came and hugged Valindra, was followed by giant children, she is doing well 
 	- Rhenka came out with her father, she gave a speech in giant - authoritative and hopeful, showed the head of her sister, presented it to her father. He blew on it, froze it, and then crushed it.
+		- He spoke and thanked us, bowed to us, we returned the gesture.
+- We feasted 
