@@ -27,10 +27,9 @@
 	- Rem challenged the party to a drinking contest, Perse and Ria refrained, so just Lewis participated
 		- Lewis poured four mugs, Perse took one and participated but backed off quickly
 		- Rem won, mentioned he gave us a mammoth 
-
-
-
-- Hypithia
-	- Where are the Gates of Death?
-	- Why does Xchi'maltia not want me present in the underworld?
-	- What are the significance of the white tombstones? 
+	- Hypithia
+		- Where are the Gates of Death?
+			- Said they were closer than we might think - located in the underworld. Drew me a detailed map. South east corner of the underworld META: inside a... fortress? 4 walls?
+		- Why does Xchi'maltia not want me dead?
+			- Hypithia hesitated. Said her older sister is not one to fear things but has recently gained something she doesn't want to lose.
+		- She said information is good to have, very powerful, can lead to ruin or lead to something beautiful.
