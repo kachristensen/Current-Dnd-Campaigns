@@ -44,3 +44,4 @@
 	- Faurbati approached us with two mammoths, let us pick one
 		- They should be able to survive on grass, trees, foliage
 	- Can fit all of us 
+		- Perse had Rem throw her up 
