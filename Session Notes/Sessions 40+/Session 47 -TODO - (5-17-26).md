@@ -35,3 +35,5 @@
 		- She said information is good to have, very powerful, can lead to ruin or lead to something beautiful.
 	- Lewis lesser restoration'ed Valindra so she wasn't hungover
 		- META: He went to Rem and said they're lovely in reference to his mother's locket -- Rem's father Otto, his mother Mila. 
+	- Later that night
+		- META: Rem got a message from Ulrich, who mentioned things at the capital were getting complicated. Rem asked if Ulrich can meet us at Valdrheim, he said yes, is about 20 miles to the west. Should be there in 6 days. 
