@@ -51,4 +51,5 @@
 	- Crossed the river at the end of the day, reached Valdrheim in 2 days
 - Day 33
 	- We left Manny somewhere safe
-	- Wuffi scouted the city, was ambushed by a giant skeletal bird, died 
+	- Wuffi scouted the city, was ambushed by a giant skeletal bird, died
+	- Our recon wasn't very successful, we didn't notice much undead, 
