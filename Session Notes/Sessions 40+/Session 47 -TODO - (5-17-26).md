@@ -45,4 +45,4 @@
 		- They should be able to survive on grass, trees, foliage
 		- Can fit all of us 
 			- Perse had Rem throw her up 
-		- Told us there is a legend of a temple of the titans, there is a ring with the power to rival that of the gods. Rem passed up the knowledge but Perse insisted on knowing it now. 
+		- Told us there is a legend of a temple of the titans, there is a ring with the power to rival that of the gods. Rem passed up the knowledge but Perse insisted on knowing it now. It is far to the west, must travel underneath the volcano in the Kjemperygg Mountains, massive temple larger than a castle, the Ring of the Final Titan, could be a belt
