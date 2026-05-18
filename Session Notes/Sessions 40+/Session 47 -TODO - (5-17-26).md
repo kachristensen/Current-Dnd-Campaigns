@@ -53,5 +53,4 @@
 	- We left Manny somewhere safe
 	- Wuffi scouted the city, was ambushed by a giant skeletal bird, died
 	- Our recon wasn't very successful
-	- We found a giant undead, also the ground gives off a desecrated aura
-	  
+	- We found a giant undead, also the ground gives off a desecrated aura. Failed to stealth, combat with it and undead bears
