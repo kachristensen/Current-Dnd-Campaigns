@@ -22,7 +22,11 @@
 		- Rhenka was telling the tale of our adventures
 		- Gave her condolences about her daughter, they talked about our deed. Snjor mentioned there used to be a terrible queen of the fey who ruled the north, glad those tales didn't get revived. 
 		- Valindra asked for a donation of scales from the white dragonling they have, showed her glaive, Snjor was pleased she keeps trophies of her kills.
-			- Snjor suggested a battle between her and Goin, whatever she strikes off she gets to keep. 
+			- Snjor suggested a battle between her and Goin, whatever she strikes off she gets to keep.
+			- Valindra won the duel, harvested some scales. A giant carried her off and celebrated her with booze, Valindra got super drunk 
+	- Rem challenged the party to a drinking contest, Perse and Ria refrained, so just Lewis participated
+		- Lewis poured four mugs, Perse took one and participated but backed off quickly
+		- Rem won, mentioned he gave us a mammoth 
 
 
 
