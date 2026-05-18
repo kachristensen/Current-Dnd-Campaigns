@@ -14,7 +14,10 @@
 		- He spoke and thanked us, bowed to us, we returned the gesture.
 - We feasted
 	- Faurbati spoke with Rem about their alliance, Rem mentioned we could use their assistance if we war with the Rexum on the open field. Also mentioned the fey could be friendly.
-	- Farbauti asked about our plans to fight the Rexum, Rem mentioned we are trying to recruit others 
+		- Farbauti asked about our plans to fight the Rexum, Rem mentioned we are trying to recruit others.
+		- Farbauti mentioned it would take about 3 days upon notice to get to the capital. They are honor sworn to aid us with our deeds.
+		- Asked if we needed help transporting to Verdighiem. Could spare one mammoth for us. Also mentioned there is something else he could give us but will speak on it tomo.
+		- Thanked us for building Rhenka into a warrior worthy of succeeding him. Mention he only has a few decades left to live 
 - Hypithia
 	- Where are the Gates of Death?
 	- Why does Xchi'maltia not want me present in the underworld?
