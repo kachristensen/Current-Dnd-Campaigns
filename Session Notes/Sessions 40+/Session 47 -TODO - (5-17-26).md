@@ -36,7 +36,7 @@
 	- Lewis lesser restoration'ed Valindra so she wasn't hungover
 		- META: He went to Rem and said they're lovely in reference to his mother's locket -- Rem's father Otto, his mother Mila. 
 	- Later that night
-		- META: Rem got a message from Ulrich, who mentioned things at the capital were getting complicated. Rem asked if Ulrich can meet us at Valdrheim, he said yes, is about 20 miles to the west. Should be there in 6 days.
+		- META: Rem got a message from Ulrich, who mentioned things at the capital were getting complicated. Rem asked if Ulrich can meet us at Valdrheim, he said yes, is about 20 miles to the west. Should be there in 6 days (Day 36).
 - Early Morning
 	- Perse and Ria tranced in the dome. Rhenka came and asked Ria to follow her.
 		- META: led her to her tent, had a present for her. 2 ft tall teddy bear made of  her own hair. Rhenka has one of her own, it's a tradition to give younger sisters in the tribe them. Ria thanked her. Rhenka says she wants to be friends with all of us for life and hopes that we survive.
@@ -50,4 +50,5 @@
 - Travelling south
 	- Crossed the river at the end of the day, reached Valdrheim in 2 days
 - Day 33
-	- We left Manny somewhere safe and went to recon the city
+	- We left Manny somewhere safe
+	- Wuffi scouted the city, was ambushed by a giant skeletal bird, died 
