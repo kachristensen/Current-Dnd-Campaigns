@@ -13,7 +13,8 @@
 	- Rhenka came out with her father, she gave a speech in giant - authoritative and hopeful, showed the head of her sister, presented it to her father. He blew on it, froze it, and then crushed it.
 		- He spoke and thanked us, bowed to us, we returned the gesture.
 - We feasted
-	- Giant chieftain spoke with Rem about their alliance, Rem mentioned we could use their assistance if we war with the Rexum on the open field
+	- Faurbati spoke with Rem about their alliance, Rem mentioned we could use their assistance if we war with the Rexum on the open field. Also mentioned the fey could be friendly.
+	- Farbauti asked about our plans to fight the Rexum, Rem mentioned we are trying to recruit others 
 - Hypithia
 	- Where are the Gates of Death?
 	- Why does Xchi'maltia not want me present in the underworld?
