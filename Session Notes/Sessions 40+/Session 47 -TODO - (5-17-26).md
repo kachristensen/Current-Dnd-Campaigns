@@ -17,7 +17,13 @@
 		- Farbauti asked about our plans to fight the Rexum, Rem mentioned we are trying to recruit others.
 		- Farbauti mentioned it would take about 3 days upon notice to get to the capital. They are honor sworn to aid us with our deeds.
 		- Asked if we needed help transporting to Verdighiem. Could spare one mammoth for us. Also mentioned there is something else he could give us but will speak on it tomo.
-		- Thanked us for building Rhenka into a warrior worthy of succeeding him. Mention he only has a few decades left to live 
+		- Thanked us for building Rhenka into a warrior worthy of succeeding him. Mention he only has a few decades left to live
+	- Valindra went to speak with Snjorr.
+		- Rhenka was telling the tale of our adventures
+		- 
+
+
+
 - Hypithia
 	- Where are the Gates of Death?
 	- Why does Xchi'maltia not want me present in the underworld?
