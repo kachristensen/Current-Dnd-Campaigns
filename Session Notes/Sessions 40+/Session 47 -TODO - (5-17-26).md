@@ -42,3 +42,4 @@
 		- META: led her to her tent, had a present for her. 2 ft tall teddy bear made of  her own hair. Rhenka has one of her own, it's a tradition to give younger sisters in the tribe them. Ria thanked her. Rhenka says she wants to be friends with all of us for life and hopes that we survive.
 - Morning
 	- Faurbati approached us with a mammoth
+		- They should be able to survive on grass, trees, foliage 
