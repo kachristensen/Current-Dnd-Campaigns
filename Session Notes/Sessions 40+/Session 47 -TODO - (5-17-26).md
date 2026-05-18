@@ -55,4 +55,4 @@
 	- Our recon wasn't very successful
 	- We found a giant undead, also the ground gives off a desecrated aura. Failed to stealth, combat with it and undead bears and dryad spirit, wailed, Lewis instantly went down and Anicca instantly died
 		- No one healed Lewis so I poured the flask down his face and I polymorphed him into a giant ape, then climbed up on him - Chris ruled we don't know what a T. Rex is
-		- Giant crow landed too with a skeletal snake on it
+		- Giant crow landed too with a skeletal snake in its rib cage
