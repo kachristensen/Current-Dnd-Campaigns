@@ -50,4 +50,4 @@
 - Travelling south
 	- Crossed the river at the end of the day, reached Valdrheim in 2 days
 - Day 33
-	- 
+	- We left Manny somewhere safe and went to recon the city
