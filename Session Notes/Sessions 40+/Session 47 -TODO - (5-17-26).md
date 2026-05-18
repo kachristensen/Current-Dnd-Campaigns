@@ -52,4 +52,6 @@
 - Day 33
 	- We left Manny somewhere safe
 	- Wuffi scouted the city, was ambushed by a giant skeletal bird, died
-	- Our recon wasn't very successful, we didn't notice much undead, 
+	- Our recon wasn't very successful
+	- We found a giant undead, also the ground gives off a desecrated aura
+	  
