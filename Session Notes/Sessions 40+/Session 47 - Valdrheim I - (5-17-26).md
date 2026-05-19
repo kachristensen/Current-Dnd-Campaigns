@@ -9,19 +9,22 @@
    Over matron foul and wintery
    /
    In the fire I threw my excess meat
-   Valindra, Ailbhe was keen to greet
+   Of Valindra, Ailbhe was keen to greet
    Rhenka emerged with a triumphant speech
    And Faurbati bowed and thanked us each
    /
-   We feasted and cavorted around the flames
+   We feasted and cavorted about the flames
    Downing steaks and ale amongst drinking games
    Rem spoke with Faurbati of our mutual accord
-   While Valindra dueled Goin for scaly reward
+   Valindra dueled Goin for scaly reward
    /
    She also granted Snjor her deepest sympathies
    'Fore the giants drowned her in drinking activities
    Lewis restored her and bonded with Rem
-   As I 
+   And I spoke to Hypithia whence my questions stemmed
+   /
+   Learning location of the Gates of Death
+   And Xchi'maltias intent to k
    
    
 
