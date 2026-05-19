@@ -3,56 +3,51 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> We returned to camp later that eve
+> **Revels 'Fore Ruin**
+   We returned to camp later that eve
    Where Lady Snjor was quite relieved
    To learn of our safe and swift victory
-   Over matron foul and wintery
+   Over dark matron foul and wintery
    /
    In the fire I threw my excess meat
    Of Valindra, Ailbhe was keen to greet
    Rhenka emerged with a triumphant speech
    And Faurbati bowed and thanked us each
    /
-   We feasted and cavorted about the flames
+   We feasted and cavorted around the flames
    Downing steaks and ale amongst drinking games
    Rem spoke with Faurbati of our mutual accord
-   Valindra dueled Goin for scaly reward
+   And Valindra dueled Goin for scaly reward
    /
    She also granted Snjor her deepest sympathies
    'Fore the giants drowned her in drinking activities
    Lewis restored her and bonded with Rem
-   And I spoke to Hypithia whence my questions stemmed
+   I spoke to Hypithia whence my questions stemmed
    /
    She informed me of the location of the Gates of Death
    And Xchi'maltia's intent to keep me from reaching its depths
   Such ponderous thought imposed by godly tome
-  Made my rest melancholy within my quiet dome
+  Made rest melancholy within the bounds of my dome
   /
   Come morn, Rhenka invited Ria to her tent
   Gifting her a bear of her hair which traditionally meant
   She considered her a sister, and all of us friends
-  And her intent to support us to the very end
+  And her undying intent to support us 'til the end
   /
-  Faurbati gifted us a mammoth of our own
-  Informing us of legend to most unknown
-  Where a temple awaits far to the west
-  Containing an ancient relic once titan-blessed
+  Faurbati gifted us a with mammoth of our own
+  Informing us of a legend, to most unknown
+  Where a temple awaits us far to the west
+  Containing a relic known to be titan-blessed
   /
   Promising aid versus the Rexum and to stay in contact
   They bid us farewell in our quest for the artifacts
-  That led us to travel to the city of the dead
-  Where Rem mentioned Ulrich would later meet us ahead
+  That then led us to travel to the city of the dead
+  Where Rem master was to later meet us ahead
   /
-  Once there, our scouting was largely in vain
-  Exposing us to ambush in unholy terrain
+  Upon our arrival, our scouting was largely in vain
+  Exposing us to ambush in desecrated terrain
   To save Lewis, I transformed him into giant ape
-  
-  
-  
-  
-  
-     
-   
+  And we destroyed all that fought us in this unholy landscape
 
 ## Notes
 - We returned to the ice giant camp by the evening
