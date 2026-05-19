@@ -8,7 +8,14 @@
    To learn of our safe and swift victory
    Over matron foul and wintery
    /
-   In the fire I threw my excess parts
+   In the fire I threw my excess meat
+   Valindra, Ailbhe was keen to greet
+   Rhenka emerged with a triumphant speech
+   And Faurbati bowed and thanked us each
+   /
+   We feasted and celebrated with dancing flames
+   Drowning in ale and drinking games
+   Rem spoke with Fa
    
 
 ## Notes
