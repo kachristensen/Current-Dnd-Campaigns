@@ -16,6 +16,9 @@
    We feasted and cavorted around the flames
    Drowning in ale and drinking games
    Rem spoke with Faurbati of our mutual accord
+   Valindra dueled Goin for scaly reward
+   /
+   With her 
    
    
 
