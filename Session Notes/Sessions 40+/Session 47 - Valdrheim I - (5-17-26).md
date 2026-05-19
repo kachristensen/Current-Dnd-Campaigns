@@ -14,11 +14,14 @@
    And Faurbati bowed and thanked us each
    /
    We feasted and cavorted around the flames
-   Drowning in ale and drinking games
+   Downing steaks and ale amongst drinking games
    Rem spoke with Faurbati of our mutual accord
-   Valindra dueled Goin for scaly reward
+   While Valindra dueled Goin for scaly reward
    /
-   With her 
+   She also granted Snjor her deepest sympathies
+   'Fore the giants drowned her in drinking activities
+   Lewis restored her and bonded with Rem
+   As I 
    
    
 
