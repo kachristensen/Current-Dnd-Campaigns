@@ -2,7 +2,7 @@
 ## Summary
 
 
-## IC Synopsis - Rem
+## IC Synopsis - Tales from Persephone
 > 
 
 ## Notes
