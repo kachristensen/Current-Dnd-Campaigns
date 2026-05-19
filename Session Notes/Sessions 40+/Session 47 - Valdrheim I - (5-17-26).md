@@ -9,7 +9,7 @@
    To learn of our safe and swift victory
    Over dark matron foul and wintery
    /
-   In the fire I threw my excess meat
+   In the fire I tossed of my excess meat
    Of Valindra, Ailbhe was keen to greet
    Rhenka emerged with a triumphant speech
    And Faurbati bowed and thanked us each
@@ -19,7 +19,7 @@
    Rem spoke with Faurbati of our mutual accord
    And Valindra dueled Goin for scaly reward
    /
-   She also granted Snjor her deepest sympathies
+   She also gave Snjor her sincerest sympathies
    'Fore the giants drowned her in drinking activities
    Lewis restored her and bonded with Rem
    I spoke to Hypithia whence my questions stemmed
