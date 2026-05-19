@@ -13,9 +13,10 @@
    Rhenka emerged with a triumphant speech
    And Faurbati bowed and thanked us each
    /
-   We feasted and celebrated with dancing flames
+   We feasted and cavorted around the flames
    Drowning in ale and drinking games
-   Rem spoke with Fa
+   Rem spoke with Faurbati of our mutual accord
+   
    
 
 ## Notes
