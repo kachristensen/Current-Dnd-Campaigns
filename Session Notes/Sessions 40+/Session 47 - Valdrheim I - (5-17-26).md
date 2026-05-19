@@ -28,8 +28,29 @@
   Such ponderous thought imposed by godly tome
   Made my rest melancholy within my quiet dome
   /
-  In the morn, Rhenka came for Ria 
-   
+  Come morn, Rhenka invited Ria to her tent
+  Gifting her a bear of her hair which traditionally meant
+  She considered her a sister, and all of us friends
+  And her intent to support us to the very end
+  /
+  Faurbati gifted us a mammoth of our own
+  Informing us of legend to most unknown
+  Where a temple awaits far to the west
+  Containing an ancient relic once titan-blessed
+  /
+  Promising aid versus the Rexum and to stay in contact
+  They bid us farewell in our quest for the artifacts
+  That led us to travel to the city of the dead
+  Where Rem mentioned Ulrich would later meet us ahead
+  /
+  Once there, our scouting was largely in vain
+  Exposing us to ambush in unholy terrain
+  To save Lewis, I turned him into giant ape
+  
+  
+  
+  
+     
    
 
 ## Notes
