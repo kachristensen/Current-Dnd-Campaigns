@@ -45,7 +45,8 @@
   /
   Once there, our scouting was largely in vain
   Exposing us to ambush in unholy terrain
-  To save Lewis, I turned him into giant ape
+  To save Lewis, I transformed him into giant ape
+  
   
   
   
