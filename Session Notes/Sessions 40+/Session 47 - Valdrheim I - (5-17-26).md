@@ -23,8 +23,12 @@
    Lewis restored her and bonded with Rem
    And I spoke to Hypithia whence my questions stemmed
    /
-   Learning location of the Gates of Death
-   And Xchi'maltias intent to k
+   She informed me of the location of the Gates of Death
+   And Xchi'maltia's intent to keep me from reaching its depths
+  Such ponderous thought imposed by godly tome
+  Made my rest melancholy within my quiet dome
+  /
+  In the morn, Rhenka came for Ria 
    
    
 
