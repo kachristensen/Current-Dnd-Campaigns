@@ -3,7 +3,11 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> 
+> We returned to camp later that eve
+   Where Lady Snjor was quite relieved
+   To learn of our safe and swift victory
+   Over matron foul and wintery
+   /
 
 ## Notes
 - We returned to the ice giant camp by the evening
