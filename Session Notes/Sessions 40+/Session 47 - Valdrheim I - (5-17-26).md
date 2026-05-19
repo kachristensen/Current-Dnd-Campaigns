@@ -47,7 +47,7 @@
   Upon our arrival, our scouting was largely in vain
   Exposing us to ambush in desecrated terrain
   To save Lewis, I transformed him into giant ape
-  And we destroyed all that fought us in this unholy landscape
+  And we destroyed all that fought us in this unholy 'scape
 
 ## Notes
 - We returned to the ice giant camp by the evening
