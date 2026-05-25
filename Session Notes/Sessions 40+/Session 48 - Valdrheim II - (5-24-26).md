@@ -18,4 +18,8 @@
 		- It's the hearts that give it an extra 1d4 though
 	- Rem suggested Lewis message Sabine, Perse recommended asking her to join the empire once we deposed of the Rexum.
 		- Sabine responded, she's been imprisoned
+		- Perse recommended she play nice to get out. Lewis asked what are the conditions of her imprisonment. Is there a way she can make up with her captors.
+			- She was seen as colluding with us, weakening the rebellion. 
+		- Lewis asked who's in charge? Will they have her head? Do you need help?
+			- She's going to be hanged eventually. Lucius Grubb in command. 
 	- Do you know what caused the undead here to gain purpose/intelligence/directive?
