@@ -33,4 +33,7 @@
 		- Rem mentioned we would need a name for our cause. I mentioned we could market ourselves as the chosen of the gods.
 		- Hypithia
 			- Do you know what caused the undead here to gain purpose/intelligence/directive?
-				- Various factors. The meddling of those seeking power. A cursed item used by the former lord of the region -- upon destroying it it fused with his soul and spread. 
+				- Various factors. The meddling of those seeking power. A cursed item used by the former lord of the region -- upon destroying it it fused with his soul and spread.
+			- Any hazards we should look out for?
+				- She gave us a map layout, said we'd want to take the north and east path for the items of power
+				- Answers about persephone - west path 
