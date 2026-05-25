@@ -36,4 +36,6 @@
 				- Various factors. The meddling of those seeking power. A cursed item used by the former lord of the region -- upon destroying it it fused with his soul and spread.
 			- Any hazards we should look out for?
 				- She gave us a map layout, said we'd want to take the north and east path for the items of power
-				- Answers about persephone - west path 
+				- Answers about persephone - west path
+					- Rem mentioned he was sworn to help me find answers
+					- Both him and Ria mentioned we might take the north path first, kill the lord, might make the others easier - we agred 
