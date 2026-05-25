@@ -22,4 +22,5 @@
 			- She was seen as colluding with us, weakening the rebellion. 
 		- Lewis asked who's in charge? Will they have her head? Do you need help?
 			- She's going to be hanged eventually. Lucius Grubb in command. 
+		- We discussed maybe helping her, can talk about it after Verdigheim. She's our best bet for a reasonable power there but there's a big mess to clean up.
 	- Do you know what caused the undead here to gain purpose/intelligence/directive?
