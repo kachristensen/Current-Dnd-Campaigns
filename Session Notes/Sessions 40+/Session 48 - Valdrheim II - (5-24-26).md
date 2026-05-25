@@ -24,5 +24,6 @@
 			- She's going to be hanged eventually. Lucius Grubb in command. 
 		- We discussed maybe helping her, can talk about it after Verdigheim. She's our best bet for a reasonable power there but there's a big mess to clean up.
 		- Lewis mentioned he will ask the LG to put some pressure on Maghaven to potentially delay the hanging.
-		- 
+	- Watch
+		- Area is getting foggier and foggier as night passes. Things flying above 
 	- Do you know what caused the undead here to gain purpose/intelligence/directive?
