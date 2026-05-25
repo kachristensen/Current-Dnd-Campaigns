@@ -26,5 +26,5 @@
 		- Lewis mentioned he will ask the LG to put some pressure on Maghaven to potentially delay the hanging.
 	- Watch
 		- Area is getting foggier and foggier as night passes. Things flying above
-		- META: Lewis's dream with the LG, he said the people in Maghaven are interested in joining the LG's cause. 
+		- META: Lewis's dream with the LG, he said the people in Maghaven are interested in joining the LG's cause. He asked if the LG's people could either rescue Sabine or pressure the south. 
 	- Do you know what caused the undead here to gain purpose/intelligence/directive?
