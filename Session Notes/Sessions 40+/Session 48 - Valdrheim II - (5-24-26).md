@@ -1,4 +1,4 @@
-###### Day 31
+###### Day 31 - 32
 ## Summary
 
 
@@ -38,4 +38,5 @@
 				- She gave us a map layout, said we'd want to take the north and east path for the items of power
 				- Answers about persephone - west path
 					- Rem mentioned he was sworn to help me find answers
-					- Both him and Ria mentioned we might take the north path first, kill the lord, might make the others easier - we agred 
+					- Both him and Ria mentioned we might take the north path first, kill the lord, might make the others easier - we agreed to try and pursue that one first
+- Siege site
