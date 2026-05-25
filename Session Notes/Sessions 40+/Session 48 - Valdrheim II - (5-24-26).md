@@ -26,7 +26,8 @@
 		- Lewis mentioned he will ask the LG to put some pressure on Maghaven to potentially delay the hanging.
 	- Watch
 		- Area is getting foggier and foggier as night passes. Things flying above
-		- META: Lewis's dream with the LG, he said the people in Maghaven are interested in joining the LG's cause. He asked if the LG's people could either rescue Sabine or pressure the south. 
-			- He can't directly save her. The Rexum's forces have been more aggressive, esp by Von Krieger. Lewis offered to take him out. LG said any distract would be welcome, if we turn the tides he can arrange for someone to rescue Sabine. 
+		- Lewis's dream with the LG, he said the people in Maghaven are interested in joining the LG's cause. He asked if the LG's people could either rescue Sabine or pressure the south. 
+			- He can't directly save her. The Rexum's forces have been more aggressive, esp by Lord Aaaron von Krieg. Lewis offered to take him out. LG said any distract would be welcome, if we turn the tides he can arrange for someone to rescue Sabine. 
 	- Morning
+		- Lewis told us about his dream, told Rem about the LG's request. Rem said he recommends we wait for Ulrich and then decide afterwards. I asked what he thought of Aaron joining our cause, Rem was unsure, but we discussed that it could be possible, esp if the Orthodoxy are leading it. 
 		- Do you know what caused the undead here to gain purpose/intelligence/directive?
