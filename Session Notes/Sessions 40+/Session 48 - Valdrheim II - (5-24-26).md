@@ -41,4 +41,4 @@
 					- Both him and Ria mentioned we might take the north path first, kill the lord, might make the others easier - we agreed to try and pursue that one first
 - Siege site, combat w/ the undead guards
 	- We short rested w/ dome then made it to the city
-	- Valindra Pass without Traced, we headed north
+	- Valindra Pass without Traced, we headed north, but banshee spirit 
