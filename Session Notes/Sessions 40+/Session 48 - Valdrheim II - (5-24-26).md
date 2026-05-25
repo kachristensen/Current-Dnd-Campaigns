@@ -30,4 +30,7 @@
 			- He can't directly save her. The Rexum's forces have been more aggressive, esp by Lord Aaaron von Krieg. Lewis offered to take him out. LG said any distract would be welcome, if we turn the tides he can arrange for someone to rescue Sabine. 
 	- Morning
 		- Lewis told us about his dream, told Rem about the LG's request. Rem said he recommends we wait for Ulrich and then decide afterwards. I asked what he thought of Aaron joining our cause, Rem was unsure, but we discussed that it could be possible, esp if the Orthodoxy are leading it. 
-		- Do you know what caused the undead here to gain purpose/intelligence/directive?
+		- Rem mentioned we would need a name for our cause. I mentioned we could market ourselves as the chosen of the gods.
+		- Hypithia
+			- Do you know what caused the undead here to gain purpose/intelligence/directive?
+				- Various factors. The meddling of those seeking power. A cursed item used by the former lord of the region -- upon destroying it it fused with his soul and spread. 
