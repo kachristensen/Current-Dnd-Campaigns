@@ -40,3 +40,4 @@
 					- Rem mentioned he was sworn to help me find answers
 					- Both him and Ria mentioned we might take the north path first, kill the lord, might make the others easier - we agreed to try and pursue that one first
 - Siege site, combat w/ the undead guards
+	- We short rested w/ dome 
