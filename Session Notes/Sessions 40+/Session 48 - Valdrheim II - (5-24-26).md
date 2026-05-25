@@ -27,5 +27,6 @@
 	- Watch
 		- Area is getting foggier and foggier as night passes. Things flying above
 		- META: Lewis's dream with the LG, he said the people in Maghaven are interested in joining the LG's cause. He asked if the LG's people could either rescue Sabine or pressure the south. 
-			- He can't directly save her. The Rexum's forces have been more aggressive, esp by Von Krieger. 
-	- Do you know what caused the undead here to gain purpose/intelligence/directive?
+			- He can't directly save her. The Rexum's forces have been more aggressive, esp by Von Krieger. Lewis offered to take him out. LG said any distract would be welcome, if we turn the tides he can arrange for someone to rescue Sabine. 
+	- Morning
+		- Do you know what caused the undead here to gain purpose/intelligence/directive?
