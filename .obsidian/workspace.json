@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "292895759e1a043f",
+  "active": "ae89a207a519c916",
   "lastOpenFiles": [
     "Session Notes/Sessions 40+/Session 47 - Valdrheim I - (5-17-26).md",
     "Session Notes/Sessions 40+/Session 48 - Valdrheim II - (5-24-26).md",

@@ -42,7 +42,7 @@
   Promising aid versus the Rexum and to stay in contact
   They bid us farewell in our quest for the artifacts
   That then led us to travel to the city of the dead
-  Where Rem master was to later meet us ahead
+  Where Rem's master was to later meet us ahead
   /
   Upon our arrival, our scouting was largely in vain
   Exposing us to ambush in desecrated terrain
