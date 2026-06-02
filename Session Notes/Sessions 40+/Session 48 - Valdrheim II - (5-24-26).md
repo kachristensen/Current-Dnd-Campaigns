@@ -14,7 +14,7 @@
 		- I asked about safe and direct routes to get to them - she says the land is blanketed by a curse, and it shifts as needed, but quelling it should give us moments to rest as needed
 		- How might we end this curse, what is fueling it?
 			- The rage and sorrow of thousands of souls - Hypithia doesn't know how to end it 
-	- Valindra asked Lewis to decprate her glaive with the additional scales
+	- Valindra asked Lewis to decorate her glaive with the additional scales
 		- It's the hearts that give it an extra 1d4 though
 	- Rem suggested Lewis message Sabine, Perse recommended asking her to join the empire once we deposed of the Rexum.
 		- Sabine responded, she's been imprisoned
