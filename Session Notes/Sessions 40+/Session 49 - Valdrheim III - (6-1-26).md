@@ -7,4 +7,4 @@
 
 ## Notes
 - Combat
-	- I commanded the Banshee spirit. Muscular zombies approached
+	- I commanded the Banshee spirit. Muscular zombies approached, large monsters made of arms and hands,
