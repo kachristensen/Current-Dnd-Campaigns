@@ -11,12 +11,14 @@
             "id": "ae89a207a519c916",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "References/At the Rexum's Behest.pdf"
+                "file": "Session Notes/Sessions 40+/Session 49 - Valdrheim III - (6-1-26).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "At the Rexum's Behest"
+              "icon": "lucide-file",
+              "title": "Session 49 - Valdrheim III - (6-1-26)"
             }
           }
         ]
@@ -172,10 +174,14 @@
   },
   "active": "ae89a207a519c916",
   "lastOpenFiles": [
-    "Session Notes/Sessions 40+/Session 49 - Valdrheim III - (6-1-26).md",
-    "Session Notes/Sessions 40+/Session 47 - Valdrheim I - (5-17-26).md",
+    "Session Notes/Sessions 40+/Session 43 - The North V - (4-19-26).md",
+    "Session Notes/Sessions 40+/Session 44 - The North VI - (4-26-26).md",
+    "Session Notes/Sessions 40+/Session 45 - Rem's Ritual I - (5-03-26).md",
     "Session Notes/Sessions 40+/Session 46 - Rem's Ritual II - (5-10-26).md",
+    "Session Notes/Sessions 40+/Session 47 - Valdrheim I - (5-17-26).md",
     "Session Notes/Sessions 40+/Session 48 - Valdrheim II - (5-24-26).md",
+    "Session Notes/Sessions 40+/Session 49 - Valdrheim III - (6-1-26).md",
+    "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 1-10/8 - The Beastmen of Barca III (6-1-25).md",
     "Session Notes/Sessions 1-10/9 - The Beastmen of Barca IV (6-8-25).md",
     "Session Notes/Sessions 31-40/Session 37 - The Second Attack of the Viridian Scales (2-22-26).md",
@@ -185,9 +191,6 @@
     "Session Notes/Sessions 31-40/Session 33 - Travelling North VI (1-19-26).md",
     "Session Notes/Sessions 31-40/Session 32 - Travelling North V (12-21-25).md",
     "Session Notes/Sessions 31-40/Session 31 - Travelling North IV (12-15-25).md",
-    "Session Notes/Sessions 40+/Session 45 - Rem's Ritual I - (5-03-26).md",
-    "Session Notes/Sessions 40+/Session 44 - The North VI - (4-26-26).md",
-    "Session Notes/Sessions 40+/Session 43 - The North V - (4-19-26).md",
     "Session Notes/Sessions 10-20/14 - Jonas's Unholy Affliction II (7-23-25).md",
     "Session Notes/Sessions 40+/Session 42 - The North IV - (4-12-26).md",
     "Session Notes/Sessions 40+/Session 41 - The North III - (3-22-26).md",
@@ -197,9 +200,7 @@
     "Session Notes/Sessions 1-10/4 - The Cult of the Devourer (4-27-25).md",
     "Session Notes/Sessions 1-10/5 - Dinner at the Hamlet (5-11-25).md",
     "Session Notes/Sessions 1-10/6 - The Beastmen of Barca I (5-18-25).md",
-    "Session Notes/Sessions 1-10/7 - The Beastmen of Barca II (5-25-25).md",
     "Session Notes/Sessions 40+",
-    "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 31-40",
     "Session Notes/Sessions 21+/Untitled",
     "References/Maps/The Dominion, Pre-Unification.png",
