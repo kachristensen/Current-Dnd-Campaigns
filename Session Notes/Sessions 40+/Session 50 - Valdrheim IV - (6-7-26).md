@@ -9,4 +9,5 @@
 - We fought more things
 	- Lewis willingly provoked an opportunity attack and had his hand cut off by a flutterflesh
 	- Lewis Divine Interventioned Prayer of Healing-ed
-- A ghost woman spoke to us, said travellers come, it brings news. Said its master was awaiting my presence specifically for a long time. 
+- A ghost woman spoke to us, said travellers come, it brings news. Said its master was awaiting Perse's presence specifically for a long time. Wasn't allowed to tell us more but could bring us closer 
+	- Took us into a building and cast a ward in a language we didn't know 
