@@ -37,4 +37,6 @@
 		- Poko Poko said curiosity. He wants to see just how more powerful he can be. 
 		- Rem asked about what he thinks of the God of Knowledge, said they prob both think each other aren't as smart as they say they are
 			- Poko asked how we know, he was curious. Asked if Rem were a drinker, said he'd like to share a drink with him to pick his brain. 
-	- Lewis investigated the statues, if we can divert the beam, that would also prevent the anti magic field from being up. Rem and Valindra pushed it out of the way. 
+	- Lewis investigated the statues, if we can divert the beam, that would also prevent the anti magic field from being up. Rem and Valindra pushed it out of the way. They freed him and he dissipated the ghost.
+	- I asked if he knows anything about my son, he said he did a lot of investigation about me, did a lot of interviewing about me from folks down the underworld.
+		- He says he knows Zagreus is trapped, he has some free reign due to Hades influence. Zag doesn't want to be there. Not a fan of his mother. He's been trying to find me.  
