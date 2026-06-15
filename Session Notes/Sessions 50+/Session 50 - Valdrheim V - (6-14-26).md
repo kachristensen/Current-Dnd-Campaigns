@@ -20,4 +20,10 @@
 		- I asked him how he brought me back, contingency spells. He's managed to alter it in a few ways. 
 	- I asked if he had anything to do with the fate of this city, he said nah, it was the Rexum.
 		- He came to research what happened here and better himself. He wants to study and control what's going on here. Said he could keep the undead contained here. Said if we help him here, we can work together to take control of the undead here.
-			- Rem asked what he intended to do with that power. He stripped down, he's undead, probably a lich. 
+			- Rem asked what he intended to do with that power. He stripped down, he's undead, probably a lich. He wants to understand what's going on here and control it. He doesn't think it can be ended. His theory is that this entire city is a font of energy, it's being concentrated with no release.
+			- Rem asked if he could free the specter here, he said not until he's out.
+	- We asked how to let him out
+		- There are two statues on either side, destroy them
+		- I was skeptical, asked if we let him out could we consider him a friend and ally. He said yes. He speaks honestly cuz of his arrogance. 
+		- He agreed not to harm us. Said if we help him get out of here, he will help us with our goals here.
+		- I asked what he knows about Xchimaltia, not much. 
