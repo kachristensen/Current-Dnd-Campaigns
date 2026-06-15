@@ -14,3 +14,4 @@
 	- Dome isn't magical
 	- I'm a plan C for when shit hit the fan. He calls himself Poco Poco. It means great. He called us northerners. He's of Skediwen, not from across the sea, from the farthest reaches of the southwest. 
 		- Area - Tabenak, desert like, isolated geographically 
+	- Lewis asked how he got here, he is funny, sarcastic, said he walked. I asked why, he came here to research, fell into a trap. 
