@@ -18,3 +18,4 @@
 	- Plan A - don't get in this situation. Plan B - create undead creatures to get himself out. Plan C - contingency. Thought the one who trapped him would be more divine in nature. Needs someone to distract them, cause problems for them. Who better than me?
 		- I asked why? Because my ex husband is boinking her.
 		- He thought if anyone ever did come after him, it would be Xchi'maltia. He's a unique magical scientist. He focuses on the domain of death. 
+		- I asked him how he brought me back, contingency spells. He's managed to alter it in a few ways. 
