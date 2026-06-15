@@ -11,7 +11,7 @@
 - Dome of glowing pink light, a figure inside, clothed/shrouded, goat legs, mummified, egyptian in aesthetic
 	- He greeted me, said it was a pleasure. I asked who he was, he said he was a friend, and that he brought me back. 
 	- Dome is anti magical. There's a staff partially sticking out of it, but it's stuck. The staff is magical. 
-	- I'm a plan C for when shit hit the fan. He calls himself Poco Poco. It means great. He called us northerners. He's of Skediwen, not from across the sea, from the farthest reaches of the southwest. 
+	- I'm a plan C for when shit hit the fan. He calls himself Poko Poko. It means great. He called us northerners. He's of Skediwen, not from across the sea, from the farthest reaches of the southwest. 
 		- Area - Tabenak, desert like, isolated geographically 
 	- Lewis asked how he got here, he is funny, sarcastic, said he walked. I asked why, he came here to research, fell into a trap. 
 	- Plan A - don't get in this situation. Plan B - create undead creaturs to get himself out. Plan C - contingency. Thought the one who trapped him would be more divine in nature. Needs someone to distract them, cause problems for them. Who better than me?
@@ -39,4 +39,5 @@
 			- Poko asked how we know, he was curious. Asked if Rem were a drinker, said he'd like to share a drink with him to pick his brain. 
 	- Lewis investigated the statues, if we can divert the beam, that would also prevent the anti magic field from being up. Rem and Valindra pushed it out of the way. They freed him and he dissipated the ghost.
 	- I asked if he knows anything about my son, he said he did a lot of investigation about me, did a lot of interviewing about me from folks down the underworld.
-		- He says he knows Zagreus is trapped, he has some free reign due to Hades influence. Zag doesn't want to be there. Not a fan of his mother. He's been trying to find me.  
+		- He says he knows Zagreus is trapped, he has some free reign due to Hades influence. Zag doesn't want to be there. Not a fan of his stepmother. He's been trying to find me. 
+- I suggested we long rest, Poko cast Magnificent Mansion
