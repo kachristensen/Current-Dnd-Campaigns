@@ -30,4 +30,11 @@
 		- I asked for his assistance with opposing the Rexum, he'd be open to it. Said he might need a decade or so to establish control over Verdigheim.
 	- Valindra asked about the dragon, he said it's unique and disturbing.
 	- He said the Rexum caused this situation in Valdrheim with an act of great cruelty. 
-		- 40 years ago, Valdrheim rebelled, the Rexum sent a message to the rest of the empire with total destruction. Took no prisoners, killed everyone, including civilians. The King of Valdrheim cursed the Rexum, caused this well of negative energy to be unleashed. 
+		- 40 years ago, Valdrheim rebelled, the Rexum sent a message to the rest of the empire with total destruction. Took no prisoners, killed everyone, including civilians. The King of Valdrheim cursed the Rexum, caused this well of negative energy to be unleashed.
+	- He said we're not the first one to come here, others have searched for the artifacts.
+	- He said he'd work with us. But he won't swear fealty to anyone. He only answers to himself. 
+		- Rem asked what his ideals are. What does he hold dear, aim for, embody, other than greatness?
+		- Poko Poko said curiosity. He wants to see just how more powerful he can be. 
+		- Rem asked about what he thinks of the God of Knowledge, said they prob both think each other aren't as smart as they say they are
+			- Poko asked how we know, he was curious. Asked if Rem were a drinker, said he'd like to share a drink with him to pick his brain. 
+	- Lewis investigated the statues, if we can divert the beam, that would also prevent the anti magic field from being up. 
