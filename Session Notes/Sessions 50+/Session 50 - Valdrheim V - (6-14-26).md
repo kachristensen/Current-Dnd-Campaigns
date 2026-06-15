@@ -19,3 +19,5 @@
 		- I asked why? Because my ex husband is boinking her.
 		- He thought if anyone ever did come after him, it would be Xchi'maltia. He's a unique magical scientist. He focuses on the domain of death. 
 		- I asked him how he brought me back, contingency spells. He's managed to alter it in a few ways. 
+	- I asked if he had anything to do with the fate of this city, he said nah, it was the Rexum.
+		- He came to research what happened here and better himself. 
