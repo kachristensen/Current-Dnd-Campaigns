@@ -41,3 +41,8 @@
 	- I asked if he knows anything about my son, he said he did a lot of investigation about me, did a lot of interviewing about me from folks down the underworld.
 		- He says he knows Zagreus is trapped, he has some free reign due to Hades influence. Zag doesn't want to be there. Not a fan of his stepmother. He's been trying to find me. 
 - I suggested we long rest, Poko cast Magnificent Mansion
+	- He gave us the 4 Investiture spell scrolls 
+		- TODO: Divine between Ria and Persephone
+	- Also cast Elminster's Effulgent Spheres on one of us
+	- And a crystal ball  -- Soul Gem to cast on the king
+	- Mansion is like an ancient egyptian palace 
