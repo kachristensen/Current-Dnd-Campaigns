@@ -10,7 +10,6 @@
 - We defeated the giant undead and continued northwest through an academic district. Ghost warned us about entities living in the bookshelves
 - Dome of glowing pink light, a figure inside, clothed/shrouded, goat legs, mummified, egyptian in aesthetic
 	- He greeted me, said it was a pleasure. I asked who he was, he said he was a friend, and that he brought me back. 
-	- Not celestial, fiend, or undead. 
 	- Dome is anti magical. There's a staff partially sticking out of it, but it's stuck. The staff is magical. 
 	- I'm a plan C for when shit hit the fan. He calls himself Poco Poco. It means great. He called us northerners. He's of Skediwen, not from across the sea, from the farthest reaches of the southwest. 
 		- Area - Tabenak, desert like, isolated geographically 
@@ -20,4 +19,5 @@
 		- He thought if anyone ever did come after him, it would be Xchi'maltia. He's a unique magical scientist. He focuses on the domain of death. 
 		- I asked him how he brought me back, contingency spells. He's managed to alter it in a few ways. 
 	- I asked if he had anything to do with the fate of this city, he said nah, it was the Rexum.
-		- He came to research what happened here and better himself. 
+		- He came to research what happened here and better himself. He wants to study and control what's going on here. Said he could keep the undead contained here. Said if we help him here, we can work together to take control of the undead here.
+			- Rem asked what he intended to do with that power. He stripped down, he's undead, probably a lich. 
