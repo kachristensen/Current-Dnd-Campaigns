@@ -14,7 +14,7 @@
 	- I'm a plan C for when shit hit the fan. He calls himself Poco Poco. It means great. He called us northerners. He's of Skediwen, not from across the sea, from the farthest reaches of the southwest. 
 		- Area - Tabenak, desert like, isolated geographically 
 	- Lewis asked how he got here, he is funny, sarcastic, said he walked. I asked why, he came here to research, fell into a trap. 
-	- Plan A - don't get in this situation. Plan B - create undead creatures to get himself out. Plan C - contingency. Thought the one who trapped him would be more divine in nature. Needs someone to distract them, cause problems for them. Who better than me?
+	- Plan A - don't get in this situation. Plan B - create undead creaturs to get himself out. Plan C - contingency. Thought the one who trapped him would be more divine in nature. Needs someone to distract them, cause problems for them. Who better than me?
 		- I asked why? Because my ex husband is boinking her.
 		- He thought if anyone ever did come after him, it would be Xchi'maltia. He's a unique magical scientist. He focuses on the domain of death. 
 		- I asked him how he brought me back, contingency spells. He's managed to alter it in a few ways. 
@@ -26,4 +26,8 @@
 		- There are two statues on either side, destroy them
 		- I was skeptical, asked if we let him out could we consider him a friend and ally. He said yes. He speaks honestly cuz of his arrogance. 
 		- He agreed not to harm us. Said if we help him get out of here, he will help us with our goals here.
-		- I asked what he knows about Xchimaltia, not much. 
+		- I asked what he knows about Xchimaltia, not much.
+		- I asked for his assistance with opposing the Rexum, he'd be open to it. Said he might need a decade or so to establish control over Verdigheim.
+	- Valindra asked about the dragon, he said it's unique and disturbing.
+	- He said the Rexum caused this situation in Valdrheim with an act of great cruelty. 
+		- 40 years ago, Valdrheim rebelled, the Rexum sent a message to the rest of the empire with total destruction. Took no prisoners, killed everyone, including civilians. The King of Valdrheim cursed the Rexum, caused this well of negative energy to be unleashed. 
