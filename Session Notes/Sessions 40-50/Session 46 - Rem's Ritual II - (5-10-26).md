@@ -1,6 +1,6 @@
 ###### Day 29
 ## Summary
-
+The party slew the creatures that emerged from Rem's blood. After questioning Hypithia, Persephone killed herself in a failed attempt to visit the "Gates of Death" and potentially find her son. Xchimaltia warned Lewis of further meddling.
 
 ## IC Synopsis - Eifert Exsanguinated
 > The chains seared into my flesh as I laid on the ground and writhed in agony. I summoned every ounce of strength to focus on my mother’s locket and the light emanating from it. The pain was overwhelming, between the silver and Lewis’s magic, but what choice did I have? An eternity of torment passed before I felt the prick of Perse’s dagger and the lifeblood poured from my throat. Still I focused on the light until the darkness closed in and took me. The others told me later that my blood gathered into two distinct pools: a dark, fiendish pool from which a demonic creature with both wolf and crab-like features emerged, and a second pool of faintly shimmering divine blood that birthed a grotesque glutton with many mouths. Lewis was taken aback for a moment, not expecting his ritual to yield such results, but found his footing as the rest of our companions sprung into action. He stabilized me while the battle began, Perse trapped the fiendish creature in a dome of force, and Rhenka, Ria, Valindra, and her dragonspawn rushed towards the Gluttony Seraph. The obese angel tried to flee upwards and away from the beatdown, but Perse’s command sent it back down to its doom. Valindra struck the final blow and it dissolved into golden dust.

@@ -1,6 +1,6 @@
 ###### Day 30-31
 ## Summary
-
+The party returned 
 
 ## IC Synopsis - Tales from Persephone
 > **Revels 'Fore Ruin**
