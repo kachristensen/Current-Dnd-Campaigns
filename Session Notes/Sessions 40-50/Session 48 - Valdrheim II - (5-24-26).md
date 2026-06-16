@@ -1,6 +1,6 @@
 ###### Day 31 - 32
 ## Summary
-
+The party made a plan of attack to enter Valdrheim and fought undead.
 
 ## IC Synopsis - Valindra
 > With our first scuffle of Valdrheim behind us, Persephone made the suggestion for us to retreat to calmer lands to inquire with Hypithia. I think her course of thinking was the right of it. We already ran into such fearsome creatures and we were not at the city walls yet, and we were going in blind. 

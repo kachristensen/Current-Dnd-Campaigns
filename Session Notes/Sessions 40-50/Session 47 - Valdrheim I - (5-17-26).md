@@ -1,6 +1,6 @@
 ###### Day 30-31
 ## Summary
-The party returned 
+The party returned to the ice giant camp and celebrated their victory, before heading south to Valdrheim.
 
 ## IC Synopsis - Tales from Persephone
 > **Revels 'Fore Ruin**

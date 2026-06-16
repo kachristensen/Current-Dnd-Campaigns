@@ -1,6 +1,6 @@
 ###### Day 32
 ## Summary
-
+The party continued deeper into Valdrheim and fought more undead.
 
 ## IC Synopsis - Lewis
 >The battle began with Persephone launching a devastating mind sliver into the enemy ranks, opening the fight with a surge of psychic pain. Valindra immediately charged the Dryad, her blades striking twice and carving deep wounds into the creature. I called forth my Spirit Guardians, sending divine spirits swirling around me that tore into two enemies as they advanced. Before we could press our advantage, more foes emerged from the ruins. One cloaked in a dark aura struck Valindra with tremendous force, while Ria unleashed Wuffie's hidden draconic power, bathing the battlefield in dragon breath before following it with a powerful blast of lightning that shattered another foe. Amid the chaos, Rem surged forward and cut down the Dryad, but the victory was short-lived as even more zombies clawed their way from the rubble. Greater zombies rushed our position, and one landed a brutal critical blow against Rem. Somehow, he shrugged it off without serious injury and kept fighting. Persephone called out to the Blighted Acolyte, demanding its attention, but the creature barely acknowledged her. Valindra pressed her attack but failed to land a blow, while I raced through the battlefield, dragging my Spirit Guardians through as many undead as possible and burning them with divine radiance.

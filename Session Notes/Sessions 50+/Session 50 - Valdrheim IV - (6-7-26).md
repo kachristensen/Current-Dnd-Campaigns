@@ -1,6 +1,6 @@
 ###### Day 32
 ## Summary
-
+The party continued to fight undead before following a ghost who requested they come help its trapped master, who knew Persephone.
 
 ## IC Synopsis - Frey
 >With another wave of undead nipping at our heels, we pressed onward along the northward route through Valdrheim. We made little progress before we were stalled by another encounter, although at least this time we were able to somewhat position ourselves beforehand, for lack of yet another shrieking undead dryad. Even so, forward progress was stalled while this next battle ensued. Valindra in particular was badly wounded, Wuffi destroyed and resummoned, and Lewis lost a hand to a bundle of skulls attached to fleshy wings. I would say we are fortunate there were no permanent deaths to report in this instance. 
