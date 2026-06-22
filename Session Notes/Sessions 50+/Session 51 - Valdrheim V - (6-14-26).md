@@ -48,7 +48,7 @@ The party fought undead giants and freed Poko Poko, an amusing and arrogant lich
 - I suggested we long rest, Poko cast Magnificent Mansion
 	- He gave us the 4 Investiture spell scrolls 
 		- TODO: Divine between Ria and Persephone
-	- Also cast Elminster's Effulgent Spheres on one of us
+	- Also cast Elminster's Effulgent Spheres on Ria
 	- And a crystal ball  -- Soul Gem to cast on the king
 	- Mansion is like an ancient egyptian palace 
 - Text RP - bath time, Lewis started constructing his hand with help from Valindra. Perse showed her eye. Inspected Ria, no bug developments. 
