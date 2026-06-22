@@ -3,7 +3,7 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> ****
+> **Advance Through Valdrheim**
    After luxurious bathing and forging new hand
    The party reconvened to discuss our plan
    To slay the cursed king in castle hall
@@ -25,19 +25,9 @@
    We swiftly felled their broken line
    /
    Entering the castle finally, with many a heal
-   Our courage readied, our minds steeled
-   We came across glowing crimson door
+   Our courage was readied, our minds were steeled
+   We came across two glowing crimson doors
    And prepared ourselves to fight once more
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
 
 
 ## Notes
