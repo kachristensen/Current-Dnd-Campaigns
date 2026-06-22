@@ -3,7 +3,18 @@
 
 
 ## IC Synopsis - Tales from Persephone
->
+> **X**
+   After luxurious bathing and forging a hand
+   The party reconvened to discuss our plan
+   To assault the king in castle hall
+   And entrap his soul in crystal ball
+   /
+   Bidding farewell to our newfound lich
+   We delved deeper through the city which
+   Led to an 
+   
+   
+
 
 ## Notes
 - Text RP - bath time, Lewis started constructing his hand with help from Valindra.
