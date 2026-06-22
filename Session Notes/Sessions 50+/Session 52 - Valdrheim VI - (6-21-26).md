@@ -15,12 +15,22 @@
    Against dullahan, ballistae, and mounted knight
    /
    Severing their number with wall of force
-   Shattering and destroying skeletal horse
+   Shattering and incinerating skeletal horse
    Swarming and smiting with spiritual guard
    Granted us clean advance to the courtyard
    /
    Next we faced warriors and ghosts
-   A cleric's turn disabled most
+   A holy censure disabled most
+   Then entangled by magical vine
+   We swiftly felled their broken line
+   /
+   Entering the castle finally, with many a heal
+   Our courage readied, our minds steeled
+   We came across glowing crimson door
+   And prepared ourselves to fight once more
+   
+   
+   
    
    
    
