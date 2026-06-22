@@ -3,7 +3,7 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> **X**
+> ****
    After luxurious bathing and forging new hand
    The party reconvened to discuss our plan
    To slay the cursed king in castle hall

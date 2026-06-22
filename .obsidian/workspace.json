@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "valdrhe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae89a207a519c916",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Session Notes/Sessions 40-50/Session 42 - The North IV - (4-12-26).md",
     "Session Notes/Sessions 40-50/Session 43 - The North V - (4-19-26).md",
