@@ -51,3 +51,4 @@ The party fought undead giants and freed Poko Poko, an amusing and arrogant lich
 	- Also cast Elminster's Effulgent Spheres on one of us
 	- And a crystal ball  -- Soul Gem to cast on the king
 	- Mansion is like an ancient egyptian palace 
+- Text RP - bath time, Lewis started constructing his hand with help from Valindra. Perse showed her eye. Inspected Ria, no bug developments. 
