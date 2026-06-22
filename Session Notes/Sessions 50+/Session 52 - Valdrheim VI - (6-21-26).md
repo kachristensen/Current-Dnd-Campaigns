@@ -26,7 +26,7 @@
    /
    Entering the castle finally, with many a heal
    Our courage was readied, our minds were steeled
-   We came across two glowing crimson doors
+   We came across glowing crimson doors
    And prepared ourselves to fight once more
 
 
