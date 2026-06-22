@@ -4,14 +4,28 @@
 
 ## IC Synopsis - Tales from Persephone
 > **X**
-   After luxurious bathing and forging a hand
+   After luxurious bathing and forging new hand
    The party reconvened to discuss our plan
-   To assault the king in castle hall
+   To slay the cursed king in castle hall
    And entrap his soul in crystal ball
    /
    Bidding farewell to our newfound lich
    We delved deeper through the city which
-   Led to an 
+   Unsurprisingly led to another fight
+   Against dullahan, ballistae, and mounted knight
+   /
+   Severing their number with wall of force
+   Shattering and destroying skeletal horse
+   Swarming and smiting with spiritual guard
+   Granted us clean advance to the courtyard
+   /
+   Next we faced warriors and ghosts
+   A cleric's turn disabled most
+   
+   
+   
+   
+   
    
    
 
