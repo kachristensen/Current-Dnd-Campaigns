@@ -1,6 +1,6 @@
 ###### Day 33
 ## Summary
-
+The party left Poko Poko's mansion and continued fighting through the city.
 
 ## IC Synopsis - Tales from Persephone
 > **Advance Through Valdrheim**
