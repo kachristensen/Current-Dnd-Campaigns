@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "292895759e1a043f",
+  "active": "cb95ffbf2d978591",
   "lastOpenFiles": [
     "Session Notes/Sessions 40-50/Session 42 - The North IV - (4-12-26).md",
     "Session Notes/Sessions 40-50/Session 43 - The North V - (4-19-26).md",
