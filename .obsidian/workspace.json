@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "valdrhe",
+                "query": "zarunok brand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae89a207a519c916",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Session Notes/Sessions 50+/Session 51 - Valdrheim V - (6-14-26).md",
     "Session Notes/Sessions 50+/Session 52 - Valdrheim VI - (6-21-26).md",
