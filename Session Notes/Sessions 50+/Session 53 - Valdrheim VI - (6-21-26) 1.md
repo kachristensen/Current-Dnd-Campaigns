@@ -11,5 +11,4 @@
 - Red hot doors - beyond, boss fight
 	- Dark armored figure, two large chains, burning, halo of chains on fire, magma sword. Mad King Valmont
 	- He kept making Valindra attack Rem, Rem got the killing blow
-	- Rem attuned to Zarunok's chains, he started burning, horns grew from his head, eyes turned red. Speaks Infernal.
-- 
+	- Rem attuned to Zarunok's chains, he started burning, horns grew from his head, eyes turned red. Speaks Infernal, said "I'm fine."
