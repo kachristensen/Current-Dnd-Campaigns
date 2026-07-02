@@ -11,14 +11,12 @@
             "id": "ae89a207a519c916",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Session Notes/Sessions 50+/Session 53 - Valdrheim VI - (6-21-26) 1.md",
-                "mode": "source",
-                "source": false
+                "file": "References/Loot/Etifa's Heart.png"
               },
-              "icon": "lucide-file",
-              "title": "Session 53 - Valdrheim VI - (6-21-26) 1"
+              "icon": "lucide-image",
+              "title": "Etifa's Heart"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zarunok brand",
+                "query": "bracers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,11 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "292895759e1a043f",
+  "active": "ae89a207a519c916",
   "lastOpenFiles": [
+    "References/Loot/Hand of the Living God.png",
+    "References/Loot/Etifa's Heart.png",
+    "Untitled.base",
+    "Session Notes/Sessions 50+/Session 53 - Valdrheim VI - (6-21-26) 1.md",
     "Session Notes/Sessions 50+/Session 51 - Valdrheim V - (6-14-26).md",
     "Session Notes/Sessions 50+/Session 52 - Valdrheim VI - (6-21-26).md",
-    "Session Notes/Sessions 50+/Session 53 - Valdrheim VI - (6-21-26) 1.md",
     "Session Notes/Sessions 40-50/Session 42 - The North IV - (4-12-26).md",
     "Session Notes/Sessions 40-50/Session 43 - The North V - (4-19-26).md",
     "Session Notes/Sessions 40-50/Session 45 - Rem's Ritual I - (5-03-26).md",
@@ -203,20 +203,16 @@
     "Session Notes/Sessions 1-10/9 - The Beastmen of Barca IV (6-8-25).md",
     "Session Notes/Sessions 10-20/14 - Jonas's Unholy Affliction II (7-23-25).md",
     "Session Notes/Sessions 40-50/Session 41 - The North III - (3-22-26).md",
-    "Markdown Cheat Sheet.md",
     "Session Notes/Sessions 40-50",
     "Session Notes/Sessions 31-40",
     "Session Notes/Sessions 21+/Untitled",
     "References/Maps/The Dominion, Pre-Unification.png",
-    "References/Loot/Hand of the Living God.png",
     "References/Maps/The Dominion, Post-Unification.png",
-    "References/Loot/Etifa's Heart.png",
     "Session Notes/Sessions 21-30",
     "Session Notes/Sessions 10-20",
     "Images/17 Maghaven.jpg",
     "Images/Unconfirmed 844243.crdownload",
     "References/Maps/The Dominion.png",
-    "References/Maps",
     "Images/14 Forest.jpg",
     "Images/13 Jonas's Lab.jpg",
     "Images/12 Jonas's Lab.jpg",
