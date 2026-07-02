@@ -11,12 +11,14 @@
             "id": "ae89a207a519c916",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "References/Loot/Etifa's Heart.png"
+                "file": "References/Loot/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Etifa's Heart"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -172,9 +174,10 @@
   },
   "active": "ae89a207a519c916",
   "lastOpenFiles": [
+    "References/Loot/Etifa's Heart.png",
+    "References/Loot/Untitled.md",
     "References/Loot/Hand of the Living God.png",
     "References/Loot/Ciripetti's Scarificator.png",
-    "References/Loot/Etifa's Heart.png",
     "Session Notes/Sessions 10-20/16 - The Veridian Scales II (8-06-25).md",
     "Untitled.base",
     "Session Notes/Sessions 50+/Session 53 - Valdrheim VI - (6-21-26) 1.md",
@@ -203,7 +206,6 @@
     "References/At the Rexum's Behest.pdf",
     "Session Notes/Sessions 1-10/8 - The Beastmen of Barca III (6-1-25).md",
     "Session Notes/Sessions 1-10/9 - The Beastmen of Barca IV (6-8-25).md",
-    "Session Notes/Sessions 10-20/14 - Jonas's Unholy Affliction II (7-23-25).md",
     "Session Notes/Sessions 40-50",
     "Session Notes/Sessions 31-40",
     "Session Notes/Sessions 21+/Untitled",
