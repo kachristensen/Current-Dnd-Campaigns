@@ -14,4 +14,4 @@
 		- Cave ratting from afar
 	- 60 ft ladder up to the surface
 - Bone temple
-	- We ran past a bunch of sentries, chanting
+	- We ran past a bunch of sentries, chanting. Found a 3-headed tentacled chanting humming thing, monster, long mouths.
