@@ -6,5 +6,6 @@
 
 
 ## Notes
-- Cave - more shit to fight
+- Cave - so much more bullshit to fight
 	- Ask Lewis/Rem for 1 more holy water
+	- Short rest - bardic inspo on Rem and Valindra
