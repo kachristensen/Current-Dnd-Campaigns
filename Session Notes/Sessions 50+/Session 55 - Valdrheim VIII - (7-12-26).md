@@ -14,5 +14,5 @@
 		- Cave ratting from afar
 	- 60 ft ladder up to the surface
 - Bone temple
-	- We ran past a bunch of sentries, chanting. Found a 3-headed tentacled chanting humming thing, monster, long mouths.
+	- We ran past a bunch of sentries, chanting. Found a 3-headed tentacled chanting humming thing, monster, long mouths. Abberation.
 		- Valindra tried to charm it with Etifa's heart, it's immune to charm . Recharges in 3 days - Day 36
