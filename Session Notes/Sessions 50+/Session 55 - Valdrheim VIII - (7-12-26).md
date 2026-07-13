@@ -16,3 +16,5 @@
 - Bone temple
 	- We ran past a bunch of sentries, chanting. Found a 3-headed tentacled chanting humming thing, monster, long mouths. Abberation.
 		- Valindra tried to charm it with Etifa's heart, it's immune to charm . Recharges in 3 days - Day 36
+	- More of them, 3
+		- In a shrine room of 3 different gods. One of Zarunok?
