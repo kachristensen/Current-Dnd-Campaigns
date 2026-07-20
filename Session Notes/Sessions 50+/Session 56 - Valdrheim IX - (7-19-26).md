@@ -28,3 +28,5 @@
 		- Why spawn things just to say "and then we're going to skip it?" Why not just use description?
 	- We looted magic items, TBD
 - Went back up, looked at the rest of the god altars, Lewis left some gold at each of them
+	- Tiny Hut
+		- I asked about who would be using the shield, we'll need to all attune to one item to free Hypithia 
