@@ -14,3 +14,4 @@
 - Dragon fight
 	- Rem shouted out and we started it. Flying dragon, flew out of a hole in the roof. 
 	- Rem busted out his wings and flew up to the dragon 
+	- Lewis cast summon celestial 
