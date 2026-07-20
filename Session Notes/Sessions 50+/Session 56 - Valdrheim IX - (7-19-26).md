@@ -26,4 +26,5 @@
 	- Chris had us roll initiative and then just skipped the fight
 		- What's the point of spawning them and rolling initiative if you're just going to skip them? 
 		- Why spawn things just to say "and then we're going to skip it?" Why not just use description?
-	- Magic items 
+	- We looted magic items, TBD
+	- 
