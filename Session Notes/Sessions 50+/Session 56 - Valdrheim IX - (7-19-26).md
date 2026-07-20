@@ -13,3 +13,4 @@
 	- Lewis and Rembrandt didn't want to take the offerings, said to leave it here. 
 - Dragon fight
 	- Rem shouted out and we started it. Flying dragon, flew out of a hole in the roof. 
+	- Rem flew up to the dragon 
