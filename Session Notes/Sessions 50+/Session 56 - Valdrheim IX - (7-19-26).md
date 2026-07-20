@@ -22,3 +22,4 @@
 - Crypt below in a 100ft deep hole, we continued down
 	- Stairway of collapsed tunnel 
 	- Animated coffins
+	- We looted the shield, I threw it at Lewis
