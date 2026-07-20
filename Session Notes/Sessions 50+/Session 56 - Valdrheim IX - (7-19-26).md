@@ -15,3 +15,5 @@
 	- Rem shouted out and we started it. Flying dragon, flew out of a hole in the roof. 
 	- Rem busted out his wings and flew up to the dragon 
 	- Lewis cast summon celestial 
+	- I wall of forced some skeletons off
+	- Valindra drank the potion of speed for Haste 
