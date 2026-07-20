@@ -20,3 +20,4 @@
 	- Lewis turned undead, gave me a potion of holistic wellness to cure my fear/paralyzed 
 	- I polymorphed Valindra
 - Crypt below in a 100ft deep hole, we continued down
+	- Stairway of collapsed tunnel 
