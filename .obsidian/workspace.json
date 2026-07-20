@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dominate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +174,9 @@
   },
   "active": "ae89a207a519c916",
   "lastOpenFiles": [
-    "Session Notes/Sessions 50+/Session 55 - Valdrheim VIII - (7-12-26).md",
+    "Session Notes/Sessions 31-40/Session 36 - The Sanatorium III (2-8-26).md",
     "Session Notes/Sessions 50+/Session 56 - Valdrheim IX - (7-19-26).md",
+    "Session Notes/Sessions 50+/Session 55 - Valdrheim VIII - (7-12-26).md",
     "Session Notes/Sessions 50+/Session 54 - Valdrheim VII - (7-5-26).md",
     "Session Notes/Sessions 50+/Session 53 - Valdrheim VI - (6-28-26).md",
     "Session Notes/Sessions 50+/Session 51 - Valdrheim V - (6-14-26).md",
@@ -196,7 +197,6 @@
     "Session Notes/Sessions 1-10/3 - Crocodiles and the Beach (4-23-25).md",
     "Session Notes/Sessions 40-50/Session 47 - Valdrheim I - (5-17-26).md",
     "Session Notes/Sessions 40-50/Session 44 - The North VI - (4-26-26).md",
-    "Session Notes/Sessions 31-40/Session 36 - The Sanatorium III (2-8-26).md",
     "Session Notes/Sessions 31-40/Session 37 - The Second Attack of the Viridian Scales (2-22-26).md",
     "Session Notes/Sessions 31-40/Session 35 - The Sanatorium II (2-1-26).md",
     "Session Notes/Sessions 31-40/Session 34 - The Sanatorium I (1-25-26).md",

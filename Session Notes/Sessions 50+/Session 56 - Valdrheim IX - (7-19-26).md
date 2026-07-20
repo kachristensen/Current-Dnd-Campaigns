@@ -17,3 +17,4 @@
 	- Lewis cast summon celestial 
 	- I wall of forced some skeletons off
 	- Valindra drank the potion of speed for Haste 
+	- Lewis turned undead, gave me a potion of holistic wellness to cure my fear/paralyzed 
