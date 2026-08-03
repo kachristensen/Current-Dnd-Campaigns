@@ -30,3 +30,4 @@
 - Went back up, looked at the rest of the god altars, Lewis left some gold at each of them
 	- Tiny Hut
 		- I asked about who would be using the shield, we'll need to all attune to one item to free Hypithia 
+- Level up 
