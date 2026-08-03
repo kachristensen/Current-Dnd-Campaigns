@@ -78,3 +78,12 @@ L9 Bard
 - Expertise: Perception, Stealth
 - Synaptic Static
 - Calm Emotions -> Doomtide
+
+L10 Bard
+- Fire Bolt
+- Phantasmal Force -> Fireball
+- Wall of Force
+
+L11 Bard
+- Contingency
+- 
