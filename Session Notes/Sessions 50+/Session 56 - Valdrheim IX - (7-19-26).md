@@ -31,3 +31,12 @@
 	- Tiny Hut
 		- I asked about who would be using the shield, we'll need to all attune to one item to free Hypithia 
 - Level up 
+	- Loot: 
+		- Last Stand Plate Armor
+		- Mace of Smiting
+		- Spellsword
+		- Lute of Thunderous Thumping
+		- Nimbus Coronet
+		- Amulet of the Black Skull
+		- Dragonguard
+		- Sun Blade
