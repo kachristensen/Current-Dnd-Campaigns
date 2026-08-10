@@ -1,6 +1,6 @@
 ###### Day 33
 ## Summary
-The party 
+The party killed the undead dragon in the temple and other stuff. They recovered the artifacts and rested.
 
 ## IC Synopsis - Rem's Rantings
 > We found ourselves in a small room with three altars after dispatching the nun-like aberrations.  The altars depicted Detarch, Etifa, and Zarunok and still had offerings on them, though it had clearly been some time since anyone prayed there.  I felt a pull from Zarunok’s altar during the battle, and offered a proper prayer afterwards.  The chains tightened around my arm in response, and I knew our path was true.  I joined Valindra at Etifa’s altar next, where she seemed worried.  I tried to reassure her before praying to Detarch and departing the altar room.  The low, draconic rumble greeted us once more as we continued to snake around the central room of the temple.  We paused outside the doors and made our final preparations before battle.  There was no monster to be seen as we entered the main chamber, but instead a massive, dark pit consumed nearly half the room.  I called out in draconic, bidding the beast to come forth and meet its doom.  I do not know if it understood my words, but the dragon-like creature crawled out of its pit just the same.
