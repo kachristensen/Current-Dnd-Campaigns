@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Session 56 - Valdrheim IX - (7-19-26)"
             }
+          },
+          {
+            "id": "0ddde00ba84777e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -172,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae89a207a519c916",
+  "active": "0ddde00ba84777e0",
   "lastOpenFiles": [
     "Persephone/Build.md",
     "Session Notes/Sessions 50+/Session 56 - Valdrheim IX - (7-19-26).md",
