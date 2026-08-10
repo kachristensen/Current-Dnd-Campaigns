@@ -17,5 +17,8 @@
 		- Lewis sent to Ulrich, he was surprised we dealt with V so quickly, we'll meet him to the west
 	- He teleported us north and we went to fetch Manny
 - Meeting with Ulrich
-	- They clapped hands and embraced, he commented on how different Rem looked. Was travelling with 3 new recruits. 
-		- Rem expected one to be a squire for him. Ulrich said he wasn't ready yet. 
+	- They clapped hands and embraced, he commented on how different Rem looked. Was travelling with 3 new young recruits. 
+		- Rem expected one to be a squire for him. Ulrich said he wasn't ready yet.
+	- Ulrich was prejudiced against me being a Obscura member, said he expected me to kill the others in their sleep, some kind of psy ops mission. Was not prejudiced against Valindra 
+		- Rem introduced Lewis as the best healer he ever met, who apologized for sending
+		- 
