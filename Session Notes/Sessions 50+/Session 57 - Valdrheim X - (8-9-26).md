@@ -30,4 +30,5 @@
 	- Ulrich said he was to escort us back to the capital, but said we'd be arrested upon our return to the city.
 		- Rem mentioned we either allow ourselves to be captured, or Ulrich proclaims our rebellion. 
 		- Ulrich mentioned unless we were convincing that he fought us, he would be executed upon his return. Rem suggested he not return. Ulrich said it wasn't his intention to apprehend us, and the squires don't know anything. 
-		- Perse proposed curing Lord Aaron, having Ulrich join up with him, having Lewis coordinate the beastmen to rescue and take Maghaven, Poko's undead, Giants in the north
+		- Perse proposed curing Lord Aaron, having Ulrich join up with him, having Lewis coordinate the beastmen to rescue and take Maghaven, Poko's undead, Giants in the north. Mentioned demons could help too
+		- 
