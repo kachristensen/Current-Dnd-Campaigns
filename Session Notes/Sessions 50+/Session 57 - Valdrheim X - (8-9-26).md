@@ -35,4 +35,5 @@
 			- Lewis's insight -- Ulrich is sympathetic to our cause and doesn't want to go back to the Capital. Stressed out and thinking.
 	- Rem and Ulrich told the recruits the basics of the situation, and they were on board with Ulrich.
 	- Can't unlock Hypithia unless we have 5 artifacts from her siblings - need the sword of Karz
-		- Unless we sacrifice an artifact to unleash it 
+		- Unless we sacrifice an artifact to unleash it
+	- Valindra levelled up Etifa's heart to level 2
