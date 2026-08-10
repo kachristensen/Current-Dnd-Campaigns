@@ -25,12 +25,14 @@
             "id": "0ddde00ba84777e0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "Session Notes/Sessions 50+/Session 56 - Valdrheim IX - (7-19-26).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
+              "icon": "lucide-file",
+              "title": "Session 56 - Valdrheim IX - (7-19-26)"
             }
           }
         ],
@@ -189,13 +191,14 @@
   },
   "active": "0ddde00ba84777e0",
   "lastOpenFiles": [
-    "Persephone/Build.md",
+    "Session Notes/Sessions 50+/Session 55 - Valdrheim VIII - (7-12-26).md",
+    "Session Notes/Sessions 50+/Session 54 - Valdrheim VII - (7-5-26).md",
+    "Session Notes/Sessions 50+/Session 57 - Valdrheim X - (8-9-26).md",
     "Session Notes/Sessions 50+/Session 56 - Valdrheim IX - (7-19-26).md",
+    "Persephone/Build.md",
     "References/Loot/Shield of Foshorey 2.png",
     "References/Loot/Shield of Foshorey.png",
     "Session Notes/Sessions 31-40/Session 36 - The Sanatorium III (2-8-26).md",
-    "Session Notes/Sessions 50+/Session 55 - Valdrheim VIII - (7-12-26).md",
-    "Session Notes/Sessions 50+/Session 54 - Valdrheim VII - (7-5-26).md",
     "Session Notes/Sessions 50+/Session 53 - Valdrheim VI - (6-28-26).md",
     "Session Notes/Sessions 50+/Session 51 - Valdrheim V - (6-14-26).md",
     "Session Notes/Sessions 50+/Session 50 - Valdrheim IV - (6-7-26).md",
@@ -220,7 +223,6 @@
     "Session Notes/Sessions 31-40/Session 34 - The Sanatorium I (1-25-26).md",
     "Session Notes/Sessions 31-40/Session 33 - Travelling North VI (1-19-26).md",
     "Session Notes/Sessions 31-40/Session 32 - Travelling North V (12-21-25).md",
-    "Session Notes/Sessions 31-40/Session 31 - Travelling North IV (12-15-25).md",
     "Session Notes/Sessions 50+",
     "Session Notes/Sessions 40-50/Untitled",
     "References/At the Rexum's Behest.pdf",
