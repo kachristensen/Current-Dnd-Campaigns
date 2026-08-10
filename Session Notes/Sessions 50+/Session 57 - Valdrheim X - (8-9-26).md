@@ -17,3 +17,5 @@
 		- Lewis sent to Ulrich, he was surprised we dealt with V so quickly, we'll meet him to the west
 	- He teleported us north and we went to fetch Manny
 - Meeting with Ulrich
+	- They clapped hands and embraced, he commented on how different Rem looked. Was travelling with 3 new recruits. 
+		- Rem expected one to be a squire for him. Ulrich said he wasn't ready yet. 
