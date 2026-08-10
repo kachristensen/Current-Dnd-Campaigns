@@ -33,3 +33,4 @@
 		- Perse proposed curing Lord Aaron, having Ulrich join up with him, having Lewis coordinate the beastmen to rescue and take Maghaven, Poko's undead, Giants in the north. Mentioned demons could help too
 		- I insighted Ulrich, he seems torn. Caught off guard.
 			- Lewis's insight -- Ulrich is sympathetic to our cause and doesn't want to go back to the Capital. Stressed out and thinking.
+	- Rem and Ulrich told the recruits the basics of the situation, and they were on board with Ulrich.
