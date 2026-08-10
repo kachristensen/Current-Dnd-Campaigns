@@ -22,3 +22,4 @@
 	- Ulrich was prejudiced against me being a Obscura member, said he expected me to kill the others in their sleep, some kind of psy ops mission. Was not prejudiced against Valindra 
 		- Rem introduced Lewis as the best healer he ever met, who apologized for sending
 	- I put up the dome, Rem had everyone get in it including the squires, then he told Ulrich about recovering the artifacts and his deal with Zarunok. 
+		- Ulrich didn't seem excited by the news. Said tensions in the Orthodoxy was high, possible schism, inquisitors vs the grand vicar Reinar who believes the Rexum no longer has the GD's favor and must be deposed. That is also how the Cathars feel. The Inquisitors see it as blasphemy, if the Rexum still lives it's bc the GD wants him to. 
