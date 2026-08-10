@@ -25,4 +25,8 @@
 		- Ulrich didn't seem excited by the news. Said tensions in the Orthodoxy was high, possible schism, inquisitors vs the grand vicar Reinar who believes the Rexum no longer has the GD's favor and must be deposed. That is also how the Cathars feel. The Inquisitors see it as blasphemy, if the Rexum still lives it's bc the GD wants him to. 
 			- Rem said we could tell the inquisitors about the secomortis plague being divinely caused by the Rexum slaying Karz.
 				- Inquisitors believe it is meant to show the gods that their actions have consequences, and that mortals should suffer for their disobedience 
-		- Rem told him about the tree bearing fruit soon and about the Rexum's plans to consume it and take Karz's place. We have under 6 months. 
+		- Rem told him about the tree bearing fruit soon and about the Rexum's plans to consume it and take Karz's place. We have under 6 months. Ulrich didn't know what to think. Rem said he wanted to ensure the fruit was used to end the plague. 
+		- Rem told Ulrich about Lewis's cure for secomortis + lycanthropy. Ulrich was stunned. They talked about how it was a difficult process to survive. 
+	- Ulrich said he was to escort us back to the capital, but said we'd be arrested upon our return to the city.
+		- Rem mentioned we either allow ourselves to be captured, or Ulrich proclaims our rebellion. 
+		- Ulrich mentioned unless we were convincing that he fought us, he would be executed upon his return. Rem suggested he not return. Ulrich said it wasn't his intention to apprehend us, and the squires don't know anything. 
