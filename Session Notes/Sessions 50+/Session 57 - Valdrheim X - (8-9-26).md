@@ -21,4 +21,4 @@
 		- Rem expected one to be a squire for him. Ulrich said he wasn't ready yet.
 	- Ulrich was prejudiced against me being a Obscura member, said he expected me to kill the others in their sleep, some kind of psy ops mission. Was not prejudiced against Valindra 
 		- Rem introduced Lewis as the best healer he ever met, who apologized for sending
-		- 
+	- I put up the dome, Rem had everyone get in it including the squires, then he told Ulrich about recovering the artifacts and his deal with Zarunok. 
