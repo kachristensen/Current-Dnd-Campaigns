@@ -36,3 +36,4 @@
 	- Rem and Ulrich told the recruits the basics of the situation, and they were on board with Ulrich.
 	- Can't unlock Hypithia unless we have 5 artifacts from her siblings - need the sword of Karz
 		- Unless we sacrifice an artifact to unleash it
+	- We RP'd more - asked how party members were doing, discussed attuning to artifacts, asking the LG to join our faction
