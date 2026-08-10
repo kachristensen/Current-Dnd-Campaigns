@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "5 artifacts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ddde00ba84777e0",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Session Notes/Sessions 40-50/Session 47 - Valdrheim I - (5-17-26).md",
     "Session Notes/Sessions 40-50/Session 46 - Rem's Ritual II - (5-10-26).md",
