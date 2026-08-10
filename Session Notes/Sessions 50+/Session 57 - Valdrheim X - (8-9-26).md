@@ -15,3 +15,4 @@
 		- Rem asked about how Poko intends to deal with the devourer, Poko isn't interested
 	- He offered to let us stay in his palace, or teleport us out
 		- Lewis sent to Ulrich, he was surprised we dealt with V so quickly, we'll meet him to the west
+	- He teleported us north and we went to fetch Manny 
