@@ -4,8 +4,8 @@
 
 ## IC Synopsis - Tales from Persephone
 > **TITLE**
-   After luxurious bathing and forging new hand
-   The party reconvened to discuss our plan
+   The events of this morn, conveyed by this bard
+   Were 
    To slay the cursed king in castle hall
    And entrap his soul in crystal ball
    /
