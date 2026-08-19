@@ -40,7 +40,9 @@
    I reminded them of my intent to rescue my son
    /
    Later that night, we discussed some more
-   Discussing artifacts and 
+   Discussing artifacts, affairs, and mindsets before
+   Ria attuned to Ciripetti's bracers
+   
    
    
    
