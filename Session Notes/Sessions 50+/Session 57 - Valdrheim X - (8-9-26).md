@@ -3,26 +3,26 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> **TITLE**
+> **The War of Traitors**
    The events of this morn, conveyed by this bard
    Were commenced by the arrival of Poko and his guards
    To him, we delivered the cursed king's soul gem
    So to lichly ownership was Valdrheim condemned
    /
-   Lewis spoke at length of a place to recall
+   Lewis deliberated of a place to recall
    Sanctifying the library as his sacred hall
    Valindra informed Poko of the sewers we scoured
    Which he surmised to be influence of the Devourer
    /
    Poko inquired as to Rem's state of mind
    Which thus far seemed normally inclined
-   Lewis send to Ulrich and Poko teleported us out
+   Lewis sent to Ulrich and Poko teleported us out
    And we fetched Manny 'fore resuming our route
    /
    In meeting with Ulrich and his cohort of squires
    Rem conveyed to him all that had transpired
-   Ulrich informed us of the rising tensions against us
-   And the Rexum's command to bring us back and arrest us
+   Ulrich in turn told of rising tensions against us
+   And the Rexum's command to retrieve and arrest us
    /
    We discussed the state of affairs in great detail
    Gods, plagues, wars, and far more in our tales
@@ -30,18 +30,19 @@
    To tactically advance our treasonous goals
    /
    In agreement, we decided to return to Lord Aaron
-   And recruit him to our side with the cure then
+   And recruit him to our side with the cure, then
    Take Maghaven, join with the rebels, and intervene
    In the approaching execution of Mayor Sabine
    /
-   Giants, undead, rebels, demons, and beastmen
-   Posed a veritable army we might have all between them
+   Giants and undead, demons and beastmen
+   Posed a veritable army we might have between them
    Though I regarded such maneuvering with nostalgia and fun
-   I reminded them of my intent to rescue my son
+   I reminded them of my delayed intent to rescue my son
    /
    Later that night, we discussed some more
-   Discussing artifacts, affairs, and mindsets before
+   About artifacts, affairs, and mindsets before
    Ria attuned to Ciripetti's bracers
+   And we rested 'ere beginning the War of Traitors
    
    
    
