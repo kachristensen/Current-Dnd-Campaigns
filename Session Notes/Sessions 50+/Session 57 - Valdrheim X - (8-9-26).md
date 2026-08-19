@@ -7,11 +7,20 @@
    The events of this morn, conveyed by this bard
    Were commenced by the arrival of Poko and his guards
    To him, we delivered the cursed king's soul gem
-   Thus to lichly ownership was Valdrheim condemned
+   So to lichly ownership was Valdrheim condemned
    /
    Lewis spoke at length of a place to recall
    Sanctifying the library as his sacred hall
-   Valindra informed Poko of abberational horror
+   Valindra informed Poko of the sewers we scoured
+   Which he surmised to be influence of the Devourer
+   /
+   Poko inquired as to Rem's state of mind
+   Which thus far seemed normally inclined
+   Lewis send to Ulrich and Poko teleported us out
+   And we fetched Manny 'fore resuming our route
+   /
+   In meeting with Ulrich, the Cathars embraced
+   
    
    
    
