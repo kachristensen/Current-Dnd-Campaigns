@@ -26,7 +26,21 @@
    /
    We discussed the state of affairs in great detail
    Gods, plagues, wars, and far more in our tales
-   I proposed forth a plan to solidify control in the east
+   I offered forth a plan to solidify eastern control
+   To tactically advance our treasonous goals
+   /
+   In agreement, we decided to return to Lord Aaron
+   And recruit him to our side with the cure then
+   Take Maghaven, join with the rebels, and intervene
+   In the approaching execution of Mayor Sabine
+   /
+   Including giants, undead, and potential beastmen
+   A veritable army we would have between them
+   
+   
+   
+   
+   
    
    
    
