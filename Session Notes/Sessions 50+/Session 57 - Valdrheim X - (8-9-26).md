@@ -36,8 +36,8 @@
    /
    Giants, undead, rebels, demons, and beastmen
    Posed a veritable army we might have all between them
-   Though I conducted such maneuvering with malice and fun
-   I reminded them of my delayed intent to rescue my son
+   Though I regarded such maneuvering with malice and fun
+   I reminded them of my intent to rescue my son
    /
    
    
