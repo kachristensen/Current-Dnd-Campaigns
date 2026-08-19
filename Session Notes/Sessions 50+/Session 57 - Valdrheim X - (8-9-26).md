@@ -19,7 +19,16 @@
    Lewis send to Ulrich and Poko teleported us out
    And we fetched Manny 'fore resuming our route
    /
-   In meeting with Ulrich, the Cathars embraced
+   In meeting with Ulrich and his cohort of squires
+   Rem conveyed to him all that had transpired
+   Ulrich informed us of the rising tensions against us
+   And the Rexum's command to bring us back and arrest us
+   /
+   We discussed the state of affairs in great detail
+   Gods, plagues, wars, and far more in our tales
+   I proposed forth a plan to solidify control in the east
+   
+   
    
    
    
