@@ -36,6 +36,7 @@
    /
    Including giants, undead, and potential beastmen
    A veritable army we would have between them
+   Though 
    
    
    
