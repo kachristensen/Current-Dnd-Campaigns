@@ -34,9 +34,12 @@
    Take Maghaven, join with the rebels, and intervene
    In the approaching execution of Mayor Sabine
    /
-   Including giants, undead, and potential beastmen
-   A veritable army we would have between them
-   Though 
+   Giants, undead, rebels, demons, and beastmen
+   Posed a veritable army we might have all between them
+   Though I conducted such maneuvering with malice and fun
+   I reminded them of my delayed intent to rescue my son
+   /
+   
    
    
    
