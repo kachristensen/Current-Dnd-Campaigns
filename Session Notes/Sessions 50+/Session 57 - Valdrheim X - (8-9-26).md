@@ -5,10 +5,15 @@
 ## IC Synopsis - Tales from Persephone
 > **TITLE**
    The events of this morn, conveyed by this bard
-   Were 
-   To slay the cursed king in castle hall
-   And entrap his soul in crystal ball
+   Were commenced by the arrival of Poko and his guards
+   To him, we delivered the cursed king's soul gem
+   Thus to lichly ownership was Valdrheim condemned
    /
+   Lewis spoke at length of a place to recall
+   Sanctifying the library as his sacred hall
+   Valindra informed Poko of abberational horror
+   
+   
    
 
 
