@@ -20,4 +20,5 @@
 	- V mentioned her meeting with Etifa and her blessing. Rem asked if she asked for anything and what V told her. V said she was willing to give everything. Rem said not to be so quick to offer, gods could take everything. Told her to be careful, next time come to a specific accord like he did with Zarunok. V said it didn't feel as transactional, was warmer. 
 	- I talked to Ria about her spider, it's from Ciripetti not Xi'Talla. She had a vision, quiet working agreement. 
 - Next day - city of Hochstadt
-	- Office of Charlene "Charlie" Marche
+	- Office of Charlene "Charlie" Marche, she requested to see the Cathars, captain of the town guard. Just asked if everything was ok, worried about the number of Cathars. Rem said nothing to worry about, just travelling to Maghaven and stopping to rest.
+	- She asked if we were going to finish the siege of Maghaven or stop it. Rem introduced himself, said he was chosen by Zarunok and flexed his chains. Said he was leading a rebellion. I added the gods chose him. 
