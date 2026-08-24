@@ -29,3 +29,4 @@
 		- Asked if we had a figurehead. Rem said he prefers democracy. WW said it'll be difficult to vs the nobles. Said power changes a person. 
 	- Bertram asked Rem for a strip of cloth from his shirt, tied it around his head like a headband, swore his loyalty. 
 	- Lewis bought some components, diamonds, and a lot of potions 
+	- Valindra bought another saddle of the cavalier
