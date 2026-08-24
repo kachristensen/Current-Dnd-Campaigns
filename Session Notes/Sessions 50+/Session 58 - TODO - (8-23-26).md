@@ -33,4 +33,5 @@
 	- Lewis's mace turned into an Antikythera Mace ![[Pasted image 20260823211626.png]]
 - Cliff edge
 	- Large bird circling us, more of them nearby. Perytons, Valindra knows they understand elvish, said we don't mean trouble, just passing through. 
-- I cast Fly on Annica and tied me and Rem. 
+- I cast Fly on Annica and tied me and Rem. Combat with the Perytons across the edge of a cliff
+	- Voice spoke out to us, massive dragon emerged from the cliff, no wings and broken horn. Can tunnel. 
