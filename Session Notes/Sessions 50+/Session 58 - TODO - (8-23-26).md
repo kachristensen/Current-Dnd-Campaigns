@@ -27,3 +27,4 @@
 - Next day
 	- Governor Wolfred Walstead, well manicured. Rem told him everything - our original mission, what we learned, about the gods and artifacts supporting us, our rebellion we're forming, and our allies. Rem was persuasive. They won't oppose us or tattle on us, and once we succeed our mission in the south, we'll discuss a former alliance. 
 		- Asked if we had a figurehead. Rem said he prefers democracy. WW said it'll be difficult to vs the nobles. Said power changes a person. 
+	- Bertram asked Rem for a strip of cloth from his shirt, tied it around his head like a headband, swore his loyalty. 
