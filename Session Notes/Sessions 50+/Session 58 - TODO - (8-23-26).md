@@ -15,4 +15,4 @@
 		- C let go and pointed to the altar, Maya was there strung up in a web, unconscious. Ria insisted she was dead. Maya eyeless, bandaged. Ciripetti holding a spider, tried to give it to Ria. Ria took it and it crawled up to the back of Ria's neck and bit her, she woke up. Now knows the spell Find Familiar. 
 - Morning
 	- Rem joined the Cathars for their morning routine 
-		- Squires - Bertram, rolled initiative for sparring. Did well. Gamil is another. Thorkle is the last. 
+		- Squires - Bertram, rolled initiative for sparring. Did well. Gamel is another. Thorkel is the last. 
