@@ -30,3 +30,5 @@
 	- Bertram asked Rem for a strip of cloth from his shirt, tied it around his head like a headband, swore his loyalty. 
 	- Lewis bought some components, diamonds, and a lot of potions 
 	- Valindra bought another saddle of the cavalier
+	- Lewis's mace turned into an Antikythera Mace ![[Pasted image 20260823211626.png]]
+- 
