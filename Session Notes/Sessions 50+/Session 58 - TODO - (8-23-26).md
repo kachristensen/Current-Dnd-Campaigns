@@ -1,4 +1,4 @@
-###### Day 34-36
+###### Day 34-37
 ## Summary
 
 
@@ -11,7 +11,7 @@
 		- Etifa asked what matters most to V. Used to be Lord SJ but she just wants to protect her friends now. Etifa asked what she'd be willing to do to make that hapen. V said whatever she has left is ours. Etifa said to always keep her heart open, sipped her tea cup. V sipped it too.
 		- V came back to herself, the necklace felt warmer. Got First Awakening. 
 	- Ria met Ciripetti, dressed in white, had barbed wire all around her penetrating her body. No one has ever seen her face cuz it's wrapped in wire. They both stared at each other. 
-		- Closed doors behind her, banging and knocking started. Ria moved away, Ciripetti extended a hand. Ria took it, severe pain in her hand. Blood running down her face and into her eyes. 
+		- Closed doors behind her, banging and knocking started. Ria moved away, Ciripetti extended a hand. Ria took it, severe pai in her hand. Blood running down her face and into her eyes. 
 		- C let go and pointed to the altar, Maya was there strung up in a web, unconscious. Ria insisted she was dead. Maya eyeless, bandaged. Ciripetti holding a spider, tried to give it to Ria. Ria took it and it crawled up to the back of Ria's neck and bit her, she woke up. Now knows the spell Find Familiar. 
 - Morning
 	- Rem joined the Cathars for their morning routine 
@@ -23,4 +23,6 @@
 	- Office of Charlene "Charlie" Marche, she requested to see the Cathars, captain of the town guard. Just asked if everything was ok, worried about the number of Cathars. Rem said nothing to worry about, just travelling to Maghaven and stopping to rest.
 	- She asked if we were going to finish the siege of Maghaven or stop it. Rem introduced himself, said he was chosen by Zarunok and flexed his chains. Said he was leading a rebellion. I added the gods chose him.
 	- Charlie spoke of her duty against us, Rem talked to her about making the Dominion a better place. She answers to the Governor of the City, Lord Walstead. Rem said she can inform him of what he told her, or we can leave.
-	- She wants to leave a message with the governor. She wanted proof, used Identify. Looked shocked. Recommended us an inn and gave us a voucher. 
+	- She wants to leave a message with the governor. She wanted proof, used Identify. Looked shocked. Recommended us an inn and gave us a voucher. She seemed conflicted but believes we have divine influence. 
+- Next day
+	- Governor Wolfred Walstead, well manicured. 
