@@ -16,3 +16,4 @@
 - Morning
 	- Rem joined the Cathars for their morning routine 
 		- Squires - Bertram, rolled initiative for sparring. Did well. Gamel is another. Thorkel is the last. 
+	- Rem and Lewis wanted to leave the squires at Hochstadt 
