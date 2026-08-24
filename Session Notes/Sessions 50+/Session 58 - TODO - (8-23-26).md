@@ -18,3 +18,4 @@
 		- Squires - Bertram, rolled initiative for sparring. Did well. Gamel is another. Thorkel is the last. 
 	- Rem and Lewis wanted to leave the squires at Hochstadt
 	- V mentioned her meeting with Etifa and her blessing. Rem asked if she asked for anything and what V told her. V said she was willing to give everything. Rem said not to be so quick to offer, gods could take everything. Told her to be careful, next time come to a specific accord like he did with Zarunok. V said it didn't feel as transactional, was warmer. 
+	- I talked to Ria about her spider, it's from Ciripetti not Xi'Talla. 
