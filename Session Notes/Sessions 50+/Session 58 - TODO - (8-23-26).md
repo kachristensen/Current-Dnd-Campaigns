@@ -25,4 +25,4 @@
 	- Charlie spoke of her duty against us, Rem talked to her about making the Dominion a better place. She answers to the Governor of the City, Lord Walstead. Rem said she can inform him of what he told her, or we can leave.
 	- She wants to leave a message with the governor. She wanted proof, used Identify. Looked shocked. Recommended us an inn and gave us a voucher. She seemed conflicted but believes we have divine influence. 
 - Next day
-	- Governor Wolfred Walstead, well manicured. 
+	- Governor Wolfred Walstead, well manicured. Rem told him everything - our original mission, what we learned, about the gods and artifacts supporting us, and our rebellion we're forming
