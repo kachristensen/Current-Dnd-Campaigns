@@ -23,4 +23,4 @@
 	- Office of Charlene "Charlie" Marche, she requested to see the Cathars, captain of the town guard. Just asked if everything was ok, worried about the number of Cathars. Rem said nothing to worry about, just travelling to Maghaven and stopping to rest.
 	- She asked if we were going to finish the siege of Maghaven or stop it. Rem introduced himself, said he was chosen by Zarunok and flexed his chains. Said he was leading a rebellion. I added the gods chose him.
 	- Charlie spoke of her duty against us, Rem talked to her about making the Dominion a better place. She answers to the Governor of the City, Lord Walstead. Rem said she can inform him of what he told her, or we can leave.
-	- She wants to leave a message with the governor. She wanted proof, used detect magic. 
+	- She wants to leave a message with the governor. She wanted proof, used Identify. Looked shocked. 
