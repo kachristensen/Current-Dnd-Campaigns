@@ -31,4 +31,5 @@
 	- Lewis bought some components, diamonds, and a lot of potions 
 	- Valindra bought another saddle of the cavalier
 	- Lewis's mace turned into an Antikythera Mace ![[Pasted image 20260823211626.png]]
-- 
+- Cliff edge
+	- Large bird circling us, more of them nearby 
