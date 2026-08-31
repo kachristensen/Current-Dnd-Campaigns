@@ -11,12 +11,14 @@
             "id": "b93ab12a1a24e474",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "References/At the Rexum's Behest.pdf"
+                "file": "Session Notes/Sessions 50+/Session 59 - Back to Maghaven II - (8-30-26).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "At the Rexum's Behest"
+              "icon": "lucide-file",
+              "title": "Session 59 - Back to Maghaven II - (8-30-26)"
             }
           }
         ]
@@ -174,9 +176,10 @@
   },
   "active": "b93ab12a1a24e474",
   "lastOpenFiles": [
-    "References/The Demonic Age & Session 0.md",
     "Session Notes/Sessions 50+/Session 58 - Back to Maghaven I - (8-23-26).md",
+    "Session Notes/Sessions 50+/Session 59 - Back to Maghaven II - (8-30-26).md",
     "References/At the Rexum's Behest.pdf",
+    "References/The Demonic Age & Session 0.md",
     "Session Notes/Sessions 50+/Session 56 - Valdrheim IX - (7-19-26).md",
     "Session Notes/Sessions 50+/Session 57 - Valdrheim X - (8-9-26).md",
     "Pasted image 20260823211626.png",
@@ -207,7 +210,6 @@
     "Session Notes/Sessions 40-50/Session 44 - The North VI - (4-26-26).md",
     "Session Notes/Sessions 31-40/Session 37 - The Second Attack of the Viridian Scales (2-22-26).md",
     "Session Notes/Sessions 31-40/Session 35 - The Sanatorium II (2-1-26).md",
-    "Session Notes/Sessions 31-40/Session 34 - The Sanatorium I (1-25-26).md",
     "Session Notes/Sessions 50+",
     "Session Notes/Sessions 40-50/Untitled",
     "Session Notes/Sessions 40-50",
