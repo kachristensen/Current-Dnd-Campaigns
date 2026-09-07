@@ -6,4 +6,5 @@
 > 
  
 ## Notes
-- 
+- Perse in stony silence. Ulrich and Rem small talked.
+- Dead elk in the middle of the road
