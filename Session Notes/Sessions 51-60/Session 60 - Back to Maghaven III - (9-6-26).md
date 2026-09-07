@@ -14,4 +14,6 @@
 - I put up a dome
 	- Lewis woke up one of the priests and talked to them. They are scouts. He comforted them. Woke up the captain. He asked if we were scouts ourselves. 
 		- Perse snapped at him for bemoaning that she killed someone. Said they attacked us.
-	- Rem asked about his loyalties, told the captain about our task to depose the Rexum with the godly artifacts. 
+	- Rem asked about his loyalties, told the captain about our task to depose the Rexum with the godly artifacts. Tried to persuade him to join us.
+		- The captain continued to be angry Perse had killed someone. Rem continued to try and persuade him. Said sometimes we have to work with people we wouldn't.
+	- The captain works for the powers in Maghaven, Rem told him about our plan to depose Grubb and put mayor Sabine in power. 
