@@ -1,0 +1,14 @@
+###### Day 37
+## Summary
+
+
+## IC Synopsis - 
+> The battle erupted along the cliff as Ulrich took a massive hit from the perytons. Lewis took flight, released the reins, and unleashed Sunbeam, blasting through the creatures as Rembrandt struck down a peryton. Rembrandt called to the dragon in Draconic, “We have no quarrel with you. Let us kill these beasts and leave.” The dragon demanded a gift for invading its home—Manny the mammoth. Rembrandt promised they would discuss it after the battle and a meal. The party continued their assault, with Ulrich killing another peryton while the dragon tore into the remaining beasts.
+   The dragon then turned on the party. Its Frightful Presence terrified the animals, while Ria, Persephone, Valindra, Lewis, and Ulrich unleashed everything they had. Lightning and magical lances hammered the dragon as Lewis repeatedly used Sunbeam, healing Rembrandt and Manny when needed. The dragon attacked Rembrandt and Glory, but the party kept fighting. When the dragon demanded Manny one final time, Ria answered with another devastating lightning strike. Persephone followed with another lance, and Lewis healed Manny as Rembrandt wrapped his chains around the dragon's neck, seemingly killing it.
+   The dragon's body suddenly plummeted from the cliff, taking Rembrandt and Persephone with it. Lewis watched through his magic as the dragon revealed it had feigned death and dove into the rocks. Rembrandt barely survived the encounter, striking the dragon down before healing it so they could talk. But the dragon immediately prepared its breath weapon, creating a tense standoff. Persephone finally teleported herself and Rembrandt away, furious at Rembrandt's recklessness.
+   Lewis healed the battered party, and they moved 2½ miles from the cliff before stopping for a short rest. Once recovered, they gathered themselves and continued onward toward Maghaven.
+ 
+## Notes
+- Peryton combat continued
+	- Dragon has no quarrel with us but wants a gift before it lets us pass. It held a breath attack weapon at us. I moved us out, it breath attacked the perytons. It wanted to eat the mammoth, would let us pass if we did. I said we were using it as a mount, it said it didn't care. We fought it next.
+	- Dragon went to 0 hp, fell, then recovered, Rem and I fell with it, Rem latched on, it started burrowing in the wall, we followed, managed to kill it but Rem gave it 1 hp, it threatened to breath weapon us, Mexican standoff. Perse dimension doored out, was PISSED at Rem for putting them in that position, Rem said he didn't know she could do that, thought we were trapped so tried to negotiate getting the wyrm to free us. Perse was 
