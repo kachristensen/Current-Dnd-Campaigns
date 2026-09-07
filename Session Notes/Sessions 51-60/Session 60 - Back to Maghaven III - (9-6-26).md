@@ -19,3 +19,4 @@
 	- The captain works for the powers in Maghaven, Rem told him about our plan to depose Grubb and put mayor Sabine in power. Captain said if we had the gods on our side, prove it by performing a miracle to convince him. 
 		- I insighted, he offered to take us into a hidden path into the city, but was hiding something. I suggested we take them prisoner. When they are willing to fight with us, we can set them free. 
 			- The captain suggested that we let his men go, if we do he'll come with us willingly. 
+	- I looked back at the map of Maghaven sewers that I had, 
