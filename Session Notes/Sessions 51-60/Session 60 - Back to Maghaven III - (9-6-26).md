@@ -11,7 +11,7 @@
 	- Ulrich investigated, shot in the back by a crossbow bolt. Ambushed by a group of humans, rebels. They shot me, I went down, healed by Lewis.
 	- Ria counterspelled a lightning bolt that would've killed Ulrich
 	- Their leader surrendered, I was pissed, killed one more, party was torn on what to do. I eventually switched to nonlethal. We took 3 prisoners - 1 priest, captain, assassin
-- I put up a dome
+- I put up a dome. Bardic inspo on Rem and Ria. 
 	- Lewis woke up one of the priests and talked to them. They are scouts. He comforted them. Woke up the captain. He asked if we were scouts ourselves. 
 		- Perse snapped at him for bemoaning that she killed someone. Said they attacked us.
 	- Rem asked about his loyalties, told the captain about our task to depose the Rexum with the godly artifacts. Tried to persuade him to join us.
