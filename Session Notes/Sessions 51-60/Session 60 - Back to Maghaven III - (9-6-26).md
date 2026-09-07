@@ -21,3 +21,4 @@
 			- The captain suggested that we let his men go, if we do he'll come with us willingly. 
 	- I looked back at the map of Maghaven sewers that I had, found an external entrance outside that we could enter. Spoke in Draconic, we don't need him.
 	- Rem cut the others free. Agreed to the captain's terms. 
+		- I asked Ria and Valindra what their thoughts were, Ria didn't respond. 
