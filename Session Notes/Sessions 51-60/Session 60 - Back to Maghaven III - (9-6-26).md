@@ -22,5 +22,5 @@
 	- I looked back at the map of Maghaven sewers that I had, found an external entrance outside that we could enter. Spoke in Draconic, we don't need him.
 	- Rem cut the others free. Agreed to the captain's terms. 
 		- I asked Ria and Valindra what their thoughts were, Ria didn't respond. Ulrich said this is what we're trying to change.
-		- Ria spied on their conversation with her familiar. The captain convinced his others to leave and travel a different route. Said he would kill Persephone though.
+		- Meta: Ria spied on their conversation with her familiar. The captain convinced his others to leave and travel a different route. Said he would kill Persephone though.
 		- Lewis gave the others their things. Captain said his name is Harold.
