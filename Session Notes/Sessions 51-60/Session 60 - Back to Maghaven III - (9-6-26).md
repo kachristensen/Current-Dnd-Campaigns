@@ -16,4 +16,4 @@
 		- Perse snapped at him for bemoaning that she killed someone. Said they attacked us.
 	- Rem asked about his loyalties, told the captain about our task to depose the Rexum with the godly artifacts. Tried to persuade him to join us.
 		- The captain continued to be angry Perse had killed someone. Rem continued to try and persuade him. Said sometimes we have to work with people we wouldn't.
-	- The captain works for the powers in Maghaven, Rem told him about our plan to depose Grubb and put mayor Sabine in power. 
+	- The captain works for the powers in Maghaven, Rem told him about our plan to depose Grubb and put mayor Sabine in power. Captain said if we had the gods on our side, prove it by performing a miracle to convince him. 
