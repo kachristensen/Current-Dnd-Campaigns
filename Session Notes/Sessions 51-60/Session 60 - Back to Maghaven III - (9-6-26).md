@@ -24,3 +24,4 @@
 		- I asked Ria and Valindra what their thoughts were, Ria didn't respond. Ulrich said this is what we're trying to change.
 		- Meta: Ria spied on their conversation with her familiar. The captain convinced his others to leave and travel a different route. Said he would kill Persephone though.
 		- Lewis gave the others their things. Captain said his name is Harold.
+		- I spoke with Rem, questioned why Harold was needed, was useless and a liability. 
