@@ -16,4 +16,6 @@
 	- Ria was approached by a mage, asked about why we were here, was a fan, asked for advice on how to unleash righteous fury.
 	- Lewis and Valindra went to the quartermaster to get a bow. QM called her a thing, assumed Lewis had raised her. They agreed to give her one after we departed. Lewis fangirled over the QM's armor, who walked away. 
 	- Rem went and ate with Harold
-	- Ulrich came and found Rem, Aaron wanted to see him alone 
+	- Ulrich came and found Rem, Aaron wanted to see him alone
+		- Aaron mentioned he was part of the effort to cleanse Shadeleaf. He felt guilty, never recovered. Mentioned he wanted to die a hero's death. Said he wasn't up to the task of fighting further, Rem said we can take up the mantle and lead his armies. Aaron agreed Ulrich would be a fine leader. Aaron wants a soldier's death. Said his body has permanently been altered, will be frail old man, wants to die gloriously, wants Rem to kill him. He doesn't want to be cured, views it as a punishment. 
+			- Rem tries to stand for hope. Aaron's hope is to rest. Rem agreed to 
