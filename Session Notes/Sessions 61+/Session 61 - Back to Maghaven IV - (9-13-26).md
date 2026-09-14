@@ -8,5 +8,5 @@
 ## Notes
 - Otw to Lord Aaron
 	- Lewis told Harold tales of our adventures, but came across as gloating. Harold was quiet and uncomfortable. 
-- 6 hours later. Arrived at camp, gave Harold over as prisoner.
-- 
+- 6 hours later. Arrived at camp, gave Harold over as prisoner. Spoke with Aaron in his tent, who looked sickly.
+	- 
