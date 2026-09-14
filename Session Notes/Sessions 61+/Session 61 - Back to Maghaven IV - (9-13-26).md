@@ -14,4 +14,4 @@
 	- I brought up our plan to oppose the Rexum, Lord Aaron tensed. Rem spoke of our divine support. Aaron said he pledged his loyalty to the Rexum. We persuaded him, I mentioned the Rexum was a great man but broken to a husk, would be a kindness to relieve him. Ulrich stayed to speak with him, he asked for a night to think. Said we could stay unharmed tonight. 
 - Long Rest
 	- Ria was approached by a mage, asked about why we were here, was a fan, asked for advice on how to unleash righteous fury.
-	- Lewis and Valindra went to the quartermaster to get a bow. QM called her a thing, assumed Lewis had raised her. 
+	- Lewis and Valindra went to the quartermaster to get a bow. QM called her a thing, assumed Lewis had raised her. They agreed to give her one after we departed. Lewis fangirled over the QM's armor, who walked away. 
