@@ -31,3 +31,4 @@
 	- I gave Ulrich a copy of the map of the sewers
 		- Aaron mentioned they had probed the entrance, there's a cave and soldiers there from the rebel side.
 		- Rem suggested we bring Captain Harold with us.  
+	- We argued amongst ourselves about what was right/wrong, Rem and Perse butted heads. Lewis said we should spare Maghaven citizens. Valindra said she is a soldier. Ria was silent. 
