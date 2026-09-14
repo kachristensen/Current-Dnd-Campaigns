@@ -22,3 +22,4 @@
 			- Aaron said he used to think the Rexum was chosen by the blade, but what remains is a husk and a reminder of sin. He hopes we can fix it.
 			- Rem executed him. Brought him back for rites. Met with Ulrich, who had a scroll with Aaron passing on control of armies to him. Ulrich thanked him for fulfilling Aaron's wishes.
 				- Rem asked how many more Aasimar, couple dozen were attempted but he was the only one the treatment took to 
+				- Ulrich praised us. Rem was tearing up a bit. They hugged. 
