@@ -15,3 +15,4 @@
 - Long Rest
 	- Ria was approached by a mage, asked about why we were here, was a fan, asked for advice on how to unleash righteous fury.
 	- Lewis and Valindra went to the quartermaster to get a bow. QM called her a thing, assumed Lewis had raised her. They agreed to give her one after we departed. Lewis fangirled over the QM's armor, who walked away. 
+	- Rem went and ate with Harold 
