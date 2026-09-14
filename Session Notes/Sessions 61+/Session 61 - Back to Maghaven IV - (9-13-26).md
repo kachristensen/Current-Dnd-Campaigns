@@ -12,3 +12,5 @@
 	- Rem introduced Valindra and I who hadn't been present last time. Told him our tale. Mentioned that the cure with Jonas had potential but wasn't viable due to the demonic influence. Told him we cured himself. Learned of the truth of the plague, Karz's apple. 
 	- We discussed how we can conduct the cure, Aaron mentioned he's been welded into his armor permanently. 
 	- I brought up our plan to oppose the Rexum, Lord Aaron tensed. Rem spoke of our divine support. Aaron said he pledged his loyalty to the Rexum. We persuaded him, I mentioned the Rexum was a great man but broken to a husk, would be a kindness to relieve him. Ulrich stayed to speak with him, he asked for a night to think. Said we could stay unharmed tonight. 
+- Long Rest
+	- Ria was approached by a mage, asked about why we were here, was a fan, asked for advice on how to unleash righteous fury.
