@@ -37,3 +37,5 @@
 				- Said machines went crazy, most are merged with abominations. All loyalists to Sabine/nobles are imprisoned. 
 - Lewis cast heroes feast
 	- I gave all 4 ppl bardic inspiration for the next hour
+- Cave
+	- Venom troll fight
