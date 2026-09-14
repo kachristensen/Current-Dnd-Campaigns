@@ -20,4 +20,5 @@
 		- Aaron mentioned he was part of the effort to cleanse Shadeleaf. He felt guilty, never recovered. Mentioned he wanted to die a hero's death. Said he wasn't up to the task of fighting further, Rem said we can take up the mantle and lead his armies. Aaron agreed Ulrich would be a fine leader. Aaron wants a soldier's death. Said his body has permanently been altered, will be frail old man, wants to die gloriously, wants Rem to kill him. He doesn't want to be cured, views it as a punishment. 
 			- Rem tries to stand for hope. Aaron's hope is to rest. Rem agreed to kill him.
 			- Aaron said he used to think the Rexum was chosen by the blade, but what remains is a husk and a reminder of sin. He hopes we can fix it.
-			- Rem executed him. 
+			- Rem executed him. Brought him back for rites. Met with Ulrich, who had a scroll with Aaron passing on control of armies to him. Ulrich thanked him for fulfilling Aaron's wishes.
+				- Rem asked how many more Aasimar, couple dozen were attempted but he was the only one the treatment took to 
