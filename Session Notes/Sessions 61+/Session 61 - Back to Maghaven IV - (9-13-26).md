@@ -35,3 +35,4 @@
 		- Ulrich recommended we leave Harold behind. Rem spoke with him, mentioned we didn't want him being seen as a traitor, will leave him there. 
 			- Harold mentioned the cave to the sewers has 2 paths, upper path will take us along the river, southern path will take us to more cave. Both will merge to the entrance of the sewers. There are creatures in there, rebel forces in the cave would be in the lower half. 
 				- Said machines went crazy, most are merged with abominations. All loyalists to Sabine/nobles are imprisoned. 
+- Lewis cast divine intervention for heroes feast
