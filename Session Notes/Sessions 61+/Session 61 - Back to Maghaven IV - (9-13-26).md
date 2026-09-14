@@ -33,3 +33,5 @@
 		- Rem suggested we bring Captain Harold with us.  
 	- We argued amongst ourselves about what was right/wrong, Rem and Perse butted heads. Lewis said we should spare Maghaven citizens. Valindra said she is a soldier. Ria was silent. Rem insisted I show mercy and be the better person. 
 		- Ulrich recommended we leave Harold behind. Rem spoke with him, mentioned we didn't want him being seen as a traitor, will leave him there. 
+			- Harold mentioned the cave to the sewers has 2 paths, upper path will take us along the river, southern path will take us to more cave. Both will merge to the entrance of the sewers. There are creatures in there, rebel forces in the cave would be in the lower half. 
+				- Said machines went crazy, most are merged with abominations. All loyalists to Sabine/nobles are imprisoned. 
