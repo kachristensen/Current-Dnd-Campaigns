@@ -28,4 +28,6 @@
 		- We asked where the prison is, if she has any info that would help rescue her. The prison is to the east of her office. She doesn't know much more, just expect horror. 
 - In the morning, Ulrich announced Aaron's declaration. Ulrich will be taking lead, we'll be finishing the mission with the aid of the Exemplars. After Maghaven's liberation, they'll continue to assist our mission.
 	- We made plans, Ulrich siege distraction while we infiltrated the sewers to rescue Sabine, eliminate the mages in power, and use her to endorse joining us.
-	- 
+	- I gave Ulrich a copy of the map of the sewers
+		- Aaron mentioned they had probed the entrance, there's a cave and soldiers there from the rebel side.
+		- Rem suggested we bring Captain Harold with us. 
