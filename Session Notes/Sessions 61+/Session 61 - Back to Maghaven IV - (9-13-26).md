@@ -23,4 +23,7 @@
 			- Rem executed him. Brought him back for rites. Met with Ulrich, who had a scroll with Aaron passing on control of armies to him. Ulrich thanked him for fulfilling Aaron's wishes.
 				- Rem asked how many more Aasimar, couple dozen were attempted but he was the only one the treatment took to 
 				- Ulrich praised us. Rem was tearing up a bit. They hugged.
-	- Rem spoked with Lewis, said he would not need to 
+	- Rem spoked with Lewis, said he would not need to
+	- Lewis sent a message to Sabine, said we're outside negotiating, asked how she was. Says the prison she's kept in is getting more silent. 
+		- We asked where the prison is, if she has any info that would help rescue her. The prison is to the east of her office. She doesn't know much more, just expect horror. 
+- In the morning, Ulrich announced Aaron's declaration. Ulrich will be taking lead, we'll be finishing the mission with the aid of the Exemplars. After Maghaven's liberation, they'll continue to assist our mission. 
