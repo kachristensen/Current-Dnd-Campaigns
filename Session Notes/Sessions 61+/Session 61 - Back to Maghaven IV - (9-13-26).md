@@ -30,4 +30,4 @@
 	- We made plans, Ulrich siege distraction while we infiltrated the sewers to rescue Sabine, eliminate the mages in power, and use her to endorse joining us.
 	- I gave Ulrich a copy of the map of the sewers
 		- Aaron mentioned they had probed the entrance, there's a cave and soldiers there from the rebel side.
-		- Rem suggested we bring Captain Harold with us. 
+		- Rem suggested we bring Captain Harold with us.  
