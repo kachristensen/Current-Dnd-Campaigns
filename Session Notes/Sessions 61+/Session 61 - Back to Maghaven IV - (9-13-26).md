@@ -6,4 +6,5 @@
 > 
  
 ## Notes
-- 
+- Otw to Lord Aaron
+	- Lewis told Harold tales of our adventures 
