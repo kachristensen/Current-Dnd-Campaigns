@@ -13,4 +13,4 @@
 	- More appeared, some retreated. We knocked them all out. Found an encampment of soldiers they slayed, Perse was going to go back and kill them all, but Valindra was charmed by several and resisted. Ria stealthed away and coup de'gra-ed the ones we left behind. Valindra's charm wore off and she stopped protesting. 
 - Cave afterwards
 	- Massive almalgam of ooze, I summoned giant insect but it couldn't be slowed. Told everyone to keep their distance and stay out of the slime, but Rem and Valindra ignored her, ran forward and immediately got engulfed. I tried to Bardic inspo V but she failed to pull herself out. Lewis mass cure wounds-ed them. It almost crit Lewis but I silvery barbsed it. Relocated us and Ria, I got split in the corner. 
-	- Rem said he couldn't have outrun it and insisted he would've done the most damage from the inside. 
+	- Perse was annoyed at Rem and Valindra, Rem asked if I ever tired of my own voice, I said moreso his stupidity. Rem said he couldn't have outrun it and insisted he would've done the most damage from the inside. 
