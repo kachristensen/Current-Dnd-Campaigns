@@ -81,7 +81,7 @@
    /
    And I considered again if it were the right choice
    To crown him as Skediwen's new tyrant
-   Or to answer his challenge to lead or bow
+   Or to answer his challenge to lead or bootlick
    I should become myself its latest aspirant
    
    
