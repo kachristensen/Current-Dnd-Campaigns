@@ -5,8 +5,62 @@
 ## IC Synopsis - Tales from Persephone
 > **TITLE**
    Whence we continued downriver
-   We came across a most beautiful maiden
+   Trousers soaked and water-laden
    The sight made Lewis's dick quiver
+   Over yon moist nipple-y maiden
+   /
+   She called to us and seemed surprised
+   A youthful and breast-y honeypot
+   I suspected of this a deceitful disguise
+   And trusted this oddity not
+   /
+   Commanding her close, I walloped her head
+   The blow, while swift, not intended to kill
+   Lest I evoke Rem's whinging had I struck her dead
+   Which forced our approach to come to a standstill
+   /
+   Two more lamia women waylaid our path
+   Who seemed persuaded enough to stand down
+   But demanded recompense, or else face their wrath
+   For the wounding of the one we near drowned
+   /
+   Though they began to move to recover their kin
+   In Abyssal, they spoke to make quick work of us all
+   Thus I struck again, launching chain reaction wherein
+   Our unsuccessful standoff erupted into a brawl
+   /
+   In the resulting melee, one fled while screaming
+   We chased her down and knocked her out
+   Of their kind, the cave was teeming
+   Riddled with lamiae and medusae throughout
+   /
+   We defeated them swiftly, though Valindra was charmed
+   In discovering a camp of the soldier's they'd slain
+   She refused to allow us to bring them any harm
+   Despite my efforts to reason in vain
+   /
+   While Rem was useless with his pointless snark
+   Ria, despite oft our conflict abstaining
+   Snuck carefully back under the cover of dark
+   And slew all monsters we left remaining
+   /
+   Freeing Valindra of her charm, we carried forth
+   To next discover an amalgam of ooze
+   Of considerable mass and colossal girth
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    
    
    /
