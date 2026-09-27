@@ -67,25 +67,24 @@
    Us snapping and snarling, he retorted with lies
    Insisting they couldn't outrun it despite his aura of speed
    And my oft-used abilities repositioning our allies
-   Killing quickly it from the inside justified his need
+   Killing it from the quickly and recklessly justified his need
    /
    Exhausted with his senseless stupidity
-   I ceased and summoned my tiny dome
-   Wondering if merely to end his incensing vapidity
+   I ceased arguing and summoned my tiny dome
+   Wondering if merely to end his ceaseless vapidity
    Why I was still here instead of at home
    /
    All this time and effort spend curing his affliction
-   Helping him become Skediwen's peace-bringer
+   Helping him become Skediwen's change-bringer
    Spreading the songs of his most heroic depiction
-   Made the poisonous rage of it all yet linger
+   Made the deepening rage of it all yet linger
    /
-   And I considered again if it were the right choice
-   To crown him as Skediwen's new tyrant
-   Or to answer his challenge to lead or bootlick
+   And I considered again if it he were the right pick
+   To be crowned as Skediwen's new tyrant
+   Or in answer of his challenge to lead or bootlick
    I should become myself its latest aspirant
    
    
- 
 ## Notes
 - River
 	- Found a river, a woman bathing in it. She called to us, seemed surprised. 
