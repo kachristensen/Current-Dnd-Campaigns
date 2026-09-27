@@ -70,15 +70,21 @@
    Killing quickly it from the inside justified his need
    /
    Exhausted with his senseless stupidity
-   I ceased and put up my dome
-   Wondering if merely to stop his annoying vapidity
+   I ceased and summoned my tiny dome
+   Wondering if merely to end his incensing vapidity
+   Why I was still here instead of at home
+   /
+   All this time and effort spend curing his affliction
+   Helping him become Skediwen's peace-bringer
+   Spreading the songs of his most heroic depiction
+   Made the poisonous rage of it all yet linger
+   /
+   And I considered again if it were the right choice
+   To crown him as Skediwen's new tyrant
+   Or to answer his challenge to lead or bow
+   I should become myself its latest aspirant
    
    
-   
-   
-   
-   
-    
  
 ## Notes
 - River
