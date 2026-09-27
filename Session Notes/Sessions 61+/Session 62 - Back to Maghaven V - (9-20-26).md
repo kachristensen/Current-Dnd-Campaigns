@@ -47,25 +47,32 @@
    Freeing Valindra of her charm, we carried forth
    To next discover an amalgam of ooze
    Of considerable mass and colossal girth
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+   Culminating from the sewer's outlet of refuse
    /
+   Knowing our past encounters with gelatinous cubes
+   I summoned spider and warned them to keep a distance
+   Despite this, total idiocy ensued
+   As Rem and Valindra leapt in at their insistence
+   /
+   Wuffi was slain, and the pair was swallowed
+   While the rest of us wisely kept away
+   Web, lightning, and blades followed
+   While Lewis's healing kept death at bay
+   /
+   After we slew the creature, I acerbically spoke
+   Of the pointless risk incurred by foolish choice
+   Rem was quick to anger when provoked
+   And asked if I 'ere tired of my voice
+   /
+   Us snapping and snarling, he retorted with lies
+   Insisting they couldn't outrun it despite his aura of speed
+   Ignoring my oft-used abilities to reposition our allies
    
->  
+   
+   
+   
+   
+    
  
 ## Notes
 - River
