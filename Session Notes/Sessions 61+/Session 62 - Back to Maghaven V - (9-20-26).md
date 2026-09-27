@@ -3,7 +3,15 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> 
+> **TITLE**
+   Whence we continued downriver
+   We came across a most beautiful maiden
+   The sight made Lewis's dick quiver
+   
+   
+   /
+   
+>  
  
 ## Notes
 - River
