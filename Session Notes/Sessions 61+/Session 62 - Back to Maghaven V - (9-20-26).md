@@ -67,8 +67,12 @@
    Us snapping and snarling, he retorted with lies
    Insisting they couldn't outrun it despite his aura of speed
    And my oft-used abilities repositioning our allies
-   Killing it from the inside justified his need
+   Killing quickly it from the inside justified his need
    /
+   Exhausted with his senseless stupidity
+   I ceased and put up my dome
+   Wondering if merely to stop his annoying vapidity
+   
    
    
    
