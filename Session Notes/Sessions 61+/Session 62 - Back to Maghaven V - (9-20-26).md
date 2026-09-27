@@ -3,7 +3,7 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> **TITLE**
+> **On the Waning of Patience**
    Whence we continued downriver
    Trousers soaked and water-laden
    The sight made Lewis's dick quiver
