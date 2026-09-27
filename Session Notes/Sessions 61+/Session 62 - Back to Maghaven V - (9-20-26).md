@@ -66,7 +66,9 @@
    /
    Us snapping and snarling, he retorted with lies
    Insisting they couldn't outrun it despite his aura of speed
-   Ignoring my oft-used abilities to reposition our allies
+   And my oft-used abilities repositioning our allies
+   Killing it from the inside justified his need
+   /
    
    
    
