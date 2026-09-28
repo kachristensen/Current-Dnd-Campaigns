@@ -18,4 +18,4 @@
 	- We continued down the path, encountered large black monstrosity, arms with ivory hooks. Slew them and some ranged ones.
 - Ladder to surface of Maghaven
 	- Prison would be to the top left of the map
-	- We climbed up to the roofs, saw patrolling amethyst crystalline centaurs with mage women. Valindra PWT'd, we snuck past the patrols. Made it to the prison. 
+	- We climbed up to the roofs, saw patrolling amethyst crystalline centaurs with mage women. Valindra PWT'd, I mantle'd, we snuck past the patrols. Made it to the prison. 
