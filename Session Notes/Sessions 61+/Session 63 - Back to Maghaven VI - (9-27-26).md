@@ -15,4 +15,6 @@
 		- Rats seem to control 70% of territory, a lot less goo. They said they'd swear fealty to us all if we helped them control all of the sewers.
 		- Perse said we were warriors/champions of peace driven to find compromise, will try to learn more and consider their proposal.
 		- Said more of our allies are down that way, the big ones with giant hooks and wide mouths. 
-	- We continued down the path, encountered large black monstrosity, arms with ivory hooks
+	- We continued down the path, encountered large black monstrosity, arms with ivory hooks. Slew them and some ranged ones.
+- Ladder to surface of Maghaven
+	- Prison would be to the top left 
