@@ -17,4 +17,5 @@
 		- Said more of our allies are down that way, the big ones with giant hooks and wide mouths. 
 	- We continued down the path, encountered large black monstrosity, arms with ivory hooks. Slew them and some ranged ones.
 - Ladder to surface of Maghaven
-	- Prison would be to the top left 
+	- Prison would be to the top left of the map
+	- We climbed up to the roofs
