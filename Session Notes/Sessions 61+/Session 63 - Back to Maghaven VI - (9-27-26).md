@@ -1,0 +1,9 @@
+###### Day 38
+## Summary
+
+
+## IC Synopsis - Tales from Persephone
+>
+   
+## Notes
+- Valindra pulled me backed, commented about me being snippy, we talked about my antagonistic relationship with Rem, she said it wasn't healthy to defer the conversation but I said there wasn't any compromise to be had, just have to yield to him
