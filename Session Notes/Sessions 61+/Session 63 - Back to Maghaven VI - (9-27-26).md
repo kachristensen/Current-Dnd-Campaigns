@@ -12,4 +12,6 @@
 	- They asked what we were doing here. The Rat King said he thought they had an agreement with Luciuos Grubb. They help them with their war with the goo people. 
 		- Valindra asked what goo people are. Said bigger, blockier, look like our kind. Red colored ones, tentacles, probably only a few left. They've been destroyed. 
 		- They fight the goo people for territory. Ria suggested the war is manufactured, but the Rat King disagreed. Said they were here before Grubb.
-		- Rats seem to control 70% of territory, a lot less goo. They said they'd swear fealty to us all if we helped them control all of the sewers. 
+		- Rats seem to control 70% of territory, a lot less goo. They said they'd swear fealty to us all if we helped them control all of the sewers.
+		- Perse said we were warriors/champions of peace driven to find compromise, will try to learn more and consider their proposal.
+		- Said more of our allies are down that way, the big ones with giant hooks and wide mouths. 
