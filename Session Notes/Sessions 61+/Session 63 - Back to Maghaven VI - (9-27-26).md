@@ -19,4 +19,4 @@
 - Ladder to surface of Maghaven
 	- Prison would be to the top left of the map
 	- We climbed up to the roofs, saw patrolling amethyst crystalline centaurs with mage women. Valindra PWT'd, I mantle'd, we snuck past the patrols. Made it to the prison. 
-		- We saw a guard, ambushed him nonlethally. 
+		- We saw a guard, ambushed him nonlethally. Put him in a box and covered him up. Patrols on the inside.
