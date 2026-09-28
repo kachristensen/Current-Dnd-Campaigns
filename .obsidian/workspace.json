@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hope",
+                "query": "augury",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b93ab12a1a24e474",
+  "active": "292895759e1a043f",
   "lastOpenFiles": [
     "Session Notes/Sessions 61+/Session 62 - Back to Maghaven V - (9-20-26).md",
     "Session Notes/Sessions 61+/Session 63 - Back to Maghaven VI - (9-27-26).md",
