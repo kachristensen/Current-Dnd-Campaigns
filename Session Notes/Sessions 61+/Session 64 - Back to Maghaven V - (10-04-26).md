@@ -8,5 +8,5 @@
 ## Notes
 - Prison fight
 	- We ran in, knocked two guards out. Rem convinced their captain to stand aside, he sounded the retreat. 
-	- Something under the water glowing
+	- Something under the water glowing. Big sea anglerm onster
 	- Vdalindra dominated a Gem Stalker
