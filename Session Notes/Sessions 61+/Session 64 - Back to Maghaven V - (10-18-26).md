@@ -16,3 +16,4 @@
 - Grubb's estate
 	- Molly mentioned there is a side entrance. His room is to the north. 
 	- We headed up a hill and fought some electric zombies 
+	- Slavers here, we recognize them as the same band who had enslaved Rhenka and Anicca 
