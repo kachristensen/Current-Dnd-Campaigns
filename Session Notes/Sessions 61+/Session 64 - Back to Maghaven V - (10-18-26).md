@@ -13,3 +13,5 @@
 - We short rested, then proceeded. Killed two mechanical guards and freed Sabine, Schwarz Bruder, and Molly. 
 	- They were somewhat unhappy since we started this but appreciated our rescue.
 	- Sabine told us where Grubb's estate was, recommend we take Molly. She gives resistance to lightning and can shoot scrap. We strapped her to Anicca. 
+- Grubb's estate
+	- Molly mentioned there is a side entrance. His room is to the north. 
