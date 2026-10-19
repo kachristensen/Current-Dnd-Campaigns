@@ -15,3 +15,4 @@
 	- Sabine told us where Grubb's estate was, recommend we take Molly. She gives resistance to lightning and can shoot scrap. We strapped her to Anicca. 
 - Grubb's estate
 	- Molly mentioned there is a side entrance. His room is to the north. 
+	- We headed up a hill and fought some electric zombies 
