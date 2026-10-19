@@ -10,3 +10,4 @@
 	- Lewis and Rem got Connor
 		- They asked what they were doing to him, the syringe monster was injecting him. He is itchy. Called Ria his princess. She inspected him. 
 	- Perse went up to the Guard Captain, divided the keys up, they'll unlock everyone down in this wing while we go up and clear the north wing. 
+		- We short rested, then proceeded. Killed two mechanical guards and freed Sabine and Schwarz Bruder. 
