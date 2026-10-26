@@ -15,4 +15,4 @@
 	- Him and Bell Beast in a chapel area 
 		- He expected us to return but not to try and liberate the city
 	- Grubb counterspelled but Ria counterspelled it too, I walled off the Bell Beast. Lewis used Divine Intervention to summon Celestial Spirit. Grubb was swiftly dispatched by it. 
-	- I used the 
+	- I used the T rex to keep the bell beast prone, mothered Valindra and gave her some meat to eat. Tore the Bell beast apart afterwards. 
