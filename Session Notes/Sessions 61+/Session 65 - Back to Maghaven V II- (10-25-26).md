@@ -11,3 +11,5 @@
 	- Guards said they would report a scuffle if anyone asked but continue to stand guard
 	- Knocked on the door, skeleton in front of it, someone named Erwin wanted to speak with us. Skeleton is following us. 
 - We fought more constructs, and a mage and an animated dragon statue. I took the porcelain mask off the mage, has runes etched into it that should mark me as an ally to them. I used my glamoured studded leather to make me look like the mage. 
+- Grubb fight
+	- Him and Bell Beast in a chapel area 
