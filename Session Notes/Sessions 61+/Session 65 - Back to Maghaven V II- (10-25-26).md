@@ -14,4 +14,4 @@
 - Grubb fight
 	- Him and Bell Beast in a chapel area 
 		- He expected us to return but not to try and liberate the city
-	- I walled off the Bell Beast. Lewis used Divine Intervention to summon Celestial Spirit 
+	- Grubb counterspelled but Ria counterspelled it too, I walled off the Bell Beast. Lewis used Divine Intervention to summon Celestial Spirit. Grubb was swiftly dispatched by it. 
