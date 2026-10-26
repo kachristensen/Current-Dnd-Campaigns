@@ -13,3 +13,5 @@
 - We fought more constructs, and a mage and an animated dragon statue. I took the porcelain mask off the mage, has runes etched into it that should mark me as an ally to them. I used my glamoured studded leather to make me look like the mage. 
 - Grubb fight
 	- Him and Bell Beast in a chapel area 
+		- He expected us to return but not to try and liberate the city
+	- I walled off the Bell Beast. Lewis used Divine Intervention to summon Celestial Spirit 
