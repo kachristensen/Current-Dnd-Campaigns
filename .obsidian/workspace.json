@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Sessions 61+/Session 64 - Back to Maghaven V - (10-18-26).md",
+                "file": "Session Notes/Sessions 61+/Session 65 - Back to Maghaven V II- (10-25-26).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 64 - Back to Maghaven V - (10-18-26)"
-            }
-          },
-          {
-            "id": "6ebfe35541e2edeb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
+              "title": "Session 65 - Back to Maghaven V II- (10-25-26)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,11 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ebfe35541e2edeb",
+  "active": "b93ab12a1a24e474",
   "lastOpenFiles": [
+    "Session Notes/Sessions 61+/Session 64 - Back to Maghaven VI - (10-18-26).md",
+    "Session Notes/Sessions 61+/Session 65 - Back to Maghaven V II- (10-25-26).md",
     "Session Notes/Sessions 61+/Session 64 - Back to Maghaven V - (10-04-26).md",
     "Session Notes/Sessions 61+/Session 63 - Back to Maghaven VI - (9-27-26).md",
-    "Session Notes/Sessions 61+/Session 64 - Back to Maghaven V - (10-18-26).md",
     "Session Notes/Sessions 61+/Session 62 - Back to Maghaven V - (9-20-26).md",
     "Session Notes/Sessions 51-60/Session 52 - Valdrheim VI - (6-21-26).md",
     "Session Notes/Sessions 51-60/Session 51 - Valdrheim V - (6-14-26).md",
@@ -224,7 +211,6 @@
     "References/Loot/Ciripetti's Scarificator.png",
     "Session Notes/Sessions 10-20/16 - The Veridian Scales II (8-06-25).md",
     "Untitled.base",
-    "Session Notes/Sessions 41-50/Session 42 - The North IV - (4-12-26).md",
     "Session Notes/Sessions 51-60",
     "Session Notes/Sessions 40-50/Untitled",
     "Session Notes/Sessions 41-50",
