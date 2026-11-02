@@ -50,3 +50,4 @@
 		- Mage Bane Poison 
 		- Doom Bloom
 - We stuck Grubb's head on a pole and rode down 
+	- Lewis carried it, Perse suggested he attach a white flag to it. Lewis tore some of his shirt. 
