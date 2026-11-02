@@ -19,4 +19,4 @@
 	- A voice called out -- who has killed Grubb? Identify yourselves. It was Irwin. 
 	- Lewis calmed me down. Ria told them to back up. Valindra also calmed me down, Rem stuck himself in between, I pulled Lewis and Valindra back and curled up protectively around them. 
 	- Conversation with Irwin
-		- Rem told them about our goals. Irwin said they were from Temut as emissaries. 
+		- Rem told them about our goals. Irwin said they were from Temut as emissaries. Said their master had a working relationship with Grubb. They serve the lord of Temut, Lord Dereth. Countess Anastasia should be the ruler there. Lord Dereth conducted a coup and disposed of her, discovered Anastasia was a vampire. They've been collaborating with Grubb on the soldiers. 
