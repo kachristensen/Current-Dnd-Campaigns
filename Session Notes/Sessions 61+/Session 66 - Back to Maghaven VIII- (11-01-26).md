@@ -34,3 +34,4 @@
 	- The others emerged from the north, they had killed a sorceress loyal to Grubb.
 	- We discussed about opinions on experimenting with undead
 	- Rem wanted to speak with Irwin 
+		- They took a captive, unconscious, one of the sorceress with the mask on. 
