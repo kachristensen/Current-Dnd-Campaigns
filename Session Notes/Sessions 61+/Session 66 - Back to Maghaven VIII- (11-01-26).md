@@ -65,4 +65,6 @@
 	- I whispered in Lewis's ear asking if we should return the funds, we returned them 8400g. Agnes thanked him. 
 	- Agnes and Rem will be meeting later in her office
 	- Rem asked Irwin how the works with the constructs are going, well enough, we'll speak with Dereth tomorrow. 
+	- I teased Rem about sleeping with Agnes
+- Lewis said he wants to go to the church, Rem asked if Lewis had been knighted, Rem offered to. Asked if he knew what it meant. 
 	
