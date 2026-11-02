@@ -45,5 +45,5 @@
 	- The mercenaries we knocked out/spared came in, reported all was chill outside, they brought back some loot and offered us some, 
 	- 12k g - they offered us 70%. 8400.
 		- 3 Rings of Mind Shielding
-		- Cube of Teleportation
+		- Cube of Teleportation (Temut, Maghaven)
 		- Mage Bane Poison 
