@@ -29,4 +29,6 @@
 			- In his 70s, necromancer. Jealous of Anastasia, knew about her vampirism for a long time 
 			- The scuffle with the slavers outside the city led to Anastasia sending some of her guards after us, which opened an opportunity for Dareth to strike. She didn't die in the coup but is no longer in Temut. 
 		- Asked about Dareth's moral fiber
-			- They seem to be aligned with the goals of the rebellion. Didn't have many options but deal with Grubb. 
+			- They seem to be aligned with the goals of the rebellion. Didn't have many options but deal with Grubb.
+		- I praised Rem for being more openminded/working with the ones above, we teased each other slightly
+	- The others emerged from the north, they had killed a sorceress loyal to Grubb. 
