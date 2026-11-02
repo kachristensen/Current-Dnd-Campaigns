@@ -51,3 +51,6 @@
 		- Doom Bloom
 - We stuck Grubb's head on a pole and rode down 
 	- Lewis carried it, Perse suggested he attach a white flag to it. Lewis tore some of his shirt. Lewis called out Grubb is dead, put down your weapons. 
+		- Irwin's group also helped
+		- Some skirmishes as mixed groups turned in on themselves, the sorceresses vs the others
+	- 
