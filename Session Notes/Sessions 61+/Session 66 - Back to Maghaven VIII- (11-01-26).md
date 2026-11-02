@@ -63,5 +63,6 @@
 		- Talked about Irwin joining us 
 			- Ulrich was uncomfortable 
 	- I whispered in Lewis's ear asking if we should return the funds, we returned them 8400g. Agnes thanked him. 
-	- Agnes and Rem will be meeting later 
+	- Agnes and Rem will be meeting later in her office
+	- Rem asked Irwin how the works with the constructs are going, well enough, we'll speak with Dereth tomorrow. 
 	
