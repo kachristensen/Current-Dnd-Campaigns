@@ -41,4 +41,5 @@
 		- Irwin's gang has one, we have two
 	- They have the ability to summon Dareth's voice, we'll speak with them on the morrow 
 		- They'll also go and disarm constructs
-	- 
+- We short rested
+	- The mercenaries we knocked out/spared came in, reported all was chill outside
