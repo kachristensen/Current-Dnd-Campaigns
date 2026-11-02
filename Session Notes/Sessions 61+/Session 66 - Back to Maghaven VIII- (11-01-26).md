@@ -48,3 +48,4 @@
 		- 3 Rings of Mind Shielding
 		- Cube of Teleportation (Temut, Maghaven)
 		- Mage Bane Poison 
+		- Doom Bloom
