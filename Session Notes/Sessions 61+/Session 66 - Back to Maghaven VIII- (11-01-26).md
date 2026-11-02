@@ -59,4 +59,5 @@
 	- Meeting in the council room with us, Ulrich, Sabine, Schwartz, and Irwin. 
 		- Connor is ill in an infirmary
 	- Rem apologized, said we needed the artifact Agnes had. If he'd known how quickly things would deteriorate, he wouldn't have left. Things have changed, they realized there's no future with the Rexum at the head of this land. 
+		- Agnes thanked us for saving her life. Still pained but what's done is done. We still share a common enemy. Maghaven will support the rebellion as it always has. 
 	
