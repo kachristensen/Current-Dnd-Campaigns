@@ -66,5 +66,4 @@
 	- Agnes and Rem will be meeting later in her office
 	- Rem asked Irwin how the works with the constructs are going, well enough, we'll speak with Dereth tomorrow. 
 	- I teased Rem about sleeping with Agnes
-- Lewis said he wants to go to the church, Rem asked if Lewis had been knighted, Rem offered to. Asked if he knew what it meant. 
-	
+- Lewis said he wants to go to the church, Rem asked if Lewis had been knighted, Rem offered to. Asked if he knew what it meant. Lewis said he'd follow him, is up to the task. 
