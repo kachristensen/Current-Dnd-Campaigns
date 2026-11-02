@@ -25,3 +25,8 @@
 		- They headed north, we heard thunder cracks coming from their direction. 
 		- Ria dispelled the polymorph. They filled me in
 	- Rem pulled out Hypithia 
+		- Asked about Lord Dareth and his recent coup
+			- In his 70s, necromancer. Jealous of Anastasia, knew about her vampirism for a long time 
+			- The scuffle with the slavers outside the city led to Anastasia sending some of her guards after us, which opened an opportunity for Dareth to strike. She didn't die in the coup but is no longer in Temut. 
+		- Asked about Dareth's moral fiber
+			- They seem to be aligned with the goals of the rebellion. Didn't have many options but deal with Grubb. 
