@@ -72,3 +72,4 @@
 		- Valindra said she wanted to clean the streets but Ulrich said nonsense, she's a brave soldier, deserves leave if she wants it. She treated it like orders.
 			- Rem explained the dynamic to Ulrich. 
 	- Perse said after we talked to Sabine, we'll need to talk as a group. 
+- We'll get our next level up after the arc 
