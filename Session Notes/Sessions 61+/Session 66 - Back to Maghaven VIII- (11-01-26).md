@@ -6,4 +6,5 @@
 
    
 ## Notes
--
+- Grubb Loot
+	- Spell scroll: Dirge
