@@ -62,4 +62,5 @@
 		- Agnes thanked us for saving her life. Still pained but what's done is done. We still share a common enemy. Maghaven will support the rebellion as it always has. 
 		- Talked about Irwin joining us 
 			- Ulrich was uncomfortable 
+	- I whispered in Lewis's ear asking if we should return the funds, we returned them 8400g. 
 	
