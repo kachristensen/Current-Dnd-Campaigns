@@ -17,4 +17,4 @@
 	- A Necromancer cast Circle of Death on us
 	- Initiative - Valindra Thaumaturgied out, she called out Grubb is dead, if they valued their lives we don't have to fight. Voice responded - do what? Was confused. Valindra said someone just damaged us terribly.
 	- A voice called out -- who has killed Grubb? Identify yourselves. It was Irwin. 
-	- Lewis calmed me down.
+	- Lewis calmed me down. Ria 
