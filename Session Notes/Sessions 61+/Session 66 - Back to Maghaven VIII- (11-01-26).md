@@ -58,4 +58,5 @@
 - Next day
 	- Meeting in the council room with us, Ulrich, Sabine, Schwartz, and Irwin. 
 		- Connor is ill in an infirmary
+	- Rem apologized, said we needed the artifact Agnes had. If he'd known how quickly things would deteriorate, he wouldn't have left. Things have changed, they realized there's no future with the Rexum at the head of this land. 
 	
