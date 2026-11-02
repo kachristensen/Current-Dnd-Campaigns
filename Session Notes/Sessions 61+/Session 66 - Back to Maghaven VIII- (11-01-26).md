@@ -31,4 +31,6 @@
 		- Asked about Dareth's moral fiber
 			- They seem to be aligned with the goals of the rebellion. Didn't have many options but deal with Grubb.
 		- I praised Rem for being more openminded/working with the ones above, we teased each other slightly
-	- The others emerged from the north, they had killed a sorceress loyal to Grubb. 
+	- The others emerged from the north, they had killed a sorceress loyal to Grubb.
+	- We discussed about opinions on experimenting with undead
+	- Rem wanted to speak with Irwin 
