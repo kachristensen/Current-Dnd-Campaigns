@@ -39,4 +39,6 @@
 	- Rem woke up the sorceress, she spit at him. She said Grubb gave her life, he said things would always be better. She Misty stepped away, Ria killed her.
 	- Lewis cast Identify on the Mask, the arcane glyph is Grubb's initials, gives the wearer the ability to command the constructs and be considered their allies.
 		- Irwin's gang has one, we have two
-	- They have the ability to summon Dareth's voice, we'll speak with them 
+	- They have the ability to summon Dareth's voice, we'll speak with them on the morrow 
+		- They'll also go and disarm constructs
+	- 
