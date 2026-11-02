@@ -21,4 +21,4 @@
 	- Conversation with Irwin
 		- Rem told them about our goals. Irwin said they were from Temut as emissaries. Said their master had a working relationship with Grubb. They serve the lord of Temut, Lord Dereth. Countess Anastasia should be the ruler there. Lord Dereth conducted a coup and disposed of her, discovered Anastasia was a vampire. They've been collaborating with Grubb on the soldiers. They shared their knowledge of flesh golems and manipulating flesh -- Grubb gave them insight on manipulating metals and other materials. 
 		- Rem asked them to help disarm the constructs in the city, they agreed if they're allowed to pick at Grubb's research. Rem said he couldn't abide Grubb's experiment, they agreed, said that's why they work with the dead, but sometimes you have to do bad things to get better knowledge. 
-		- We'll table the conversation. They'll stay here, remain put for further negotiation. 
+		- We'll table the conversation. They'll stay here, remain put for further negotiation. Apologized for the attack, they were trying to kill the bugs.
