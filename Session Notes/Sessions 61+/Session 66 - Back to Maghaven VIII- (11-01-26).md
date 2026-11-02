@@ -35,3 +35,4 @@
 	- We discussed about opinions on experimenting with undead
 	- Rem wanted to speak with Irwin 
 		- They took a captive, unconscious, one of the sorceress with the mask on. 
+		- I offered to kill the sorceress. Also was quite fascinated with Irwin, apologized about the beast form, 
