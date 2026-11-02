@@ -71,3 +71,4 @@
 		- Ria was distracted, rubbing the arm with the scarificator, said she'd accompany me if she must.
 		- Valindra said she wanted to clean the streets but Ulrich said nonsense, she's a brave soldier, deserves leave if she wants it. She treated it like orders.
 			- Rem explained the dynamic to Ulrich. 
+	- Perse said after we talked to Sabine, we'll need to talk as a group. 
