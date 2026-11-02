@@ -49,4 +49,4 @@
 		- Cube of Teleportation (Temut, Maghaven)
 		- Mage Bane Poison 
 		- Doom Bloom
-	- 
+- We stuck Grubb's head on a pole and rode down 
