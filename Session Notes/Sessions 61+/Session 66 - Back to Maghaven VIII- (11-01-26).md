@@ -35,4 +35,6 @@
 	- We discussed about opinions on experimenting with undead
 	- Rem wanted to speak with Irwin 
 		- They took a captive, unconscious, one of the sorceress with the mask on. 
-		- I offered to kill the sorceress. Also was quite fascinated with Irwin, apologized about the beast form, 
+		- I offered to kill the sorceress. Also was quite fascinated with Irwin, apologized about the beast form, asked about him. Irwin used to be a man but his brain was removed and expanded.
+	- Rem woke up the sorceress, she spit at him. She said Grubb gave her life, he said things would always be better. She Misty stepped away, Ria killed her.
+	- 
