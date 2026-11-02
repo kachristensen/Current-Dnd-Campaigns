@@ -42,4 +42,8 @@
 	- They have the ability to summon Dareth's voice, we'll speak with them on the morrow 
 		- They'll also go and disarm constructs
 - We short rested
-	- The mercenaries we knocked out/spared came in, reported all was chill outside
+	- The mercenaries we knocked out/spared came in, reported all was chill outside, they brought back some loot and offered us some, 
+	- 12k g - they offered us 70%. 8400.
+		- 3 Rings of Mind Shielding
+		- Cube of Teleportation
+		- Mage Bane Poison 
