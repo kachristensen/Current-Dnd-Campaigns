@@ -1,4 +1,4 @@
-###### Day 38
+###### Day 38-39
 ## Summary
 
 
@@ -56,5 +56,6 @@
 	- We opened the gates of Maghaven, our forces dealt with the remaining opposition.
 		- Sabine rallied the people to her side
 - Next day
-	- 
+	- Meeting in the council room with us, Ulrich, Sabine, Schwartz, and Irwin. 
+		- Connor is ill in an infirmary
 	
