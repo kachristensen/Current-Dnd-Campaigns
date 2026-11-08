@@ -9,14 +9,26 @@
 > Rem with decapitated head gave them a fright
 > And explained the circumstances about
 > /
-> 
-> Though Grubb was their master, they asked for clemency
+> Though serving Grubb, they asked for clemency
+> Declining to join our rebellious plans
 > Rem, the merciful, agreed readily
-   I, dark stalker, took Valindra and nested
+> And they departed with the shaking of hands
+> /
+   I, dark stalker, took my baby and nested
    The surrounding swarm lured foolish prey
    Intending to see me of my child divested
    And ill-advised tried to pull her away
    /
+   Upon claw and tail, it met a violent ending
+   And enemies unleashed upon us a lethal spell
+   I lunged forward, murderous rage impending
+   Which the others rushed forward to quell
+   /
+   Calmed by pack and baby, I retreated
+   While Rem and Ria parleyed
+   Emissaries from Temut they greeted
+   
+   
    
    
    
