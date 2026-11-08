@@ -4,6 +4,9 @@
 
 ## IC Synopsis - Tales from Persephone
 > **TITLE**
+   While the others looted Grubb's corpse
+   
+   /
    
    
 ## Notes
