@@ -3,7 +3,7 @@
 
 
 ## IC Synopsis - Tales from Persephone
-> **TITLE**
+> **The Siege's End**
 > While looting Grubb and recovering from the fight
 > A group approached us warily and called out
 > Rem with decapitated head gave them a fright
@@ -40,31 +40,16 @@
    As we led the siege of Maghaven to its rightful end
    /
    On the morrow our council convened
-   Consisting of Iwrin, Ulrich, and us
+   Consisting of Iwrin, Ulrich, and our group
    And the rescued Schwartz and Sabine
-   So was the strength of the rebellion renewed thus
+   So was the strength of the rebellion renewed
    /
    Afterwards, our group separated
    With Lewis and Rem off to procreate
    Us ladies, a visit to Connor necessitated
    The agreement to reconvene for Sabine's date
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+   /
+   And in the eve, discuss what next lay before us
    
 ## Notes
 - Post fight
