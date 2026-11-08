@@ -2,8 +2,9 @@
 ## Summary
 
 
-## IC Synopsis 
-
+## IC Synopsis - Tales from Persephone
+> **TITLE**
+   
    
 ## Notes
 - Post fight
