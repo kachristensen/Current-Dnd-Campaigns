@@ -25,8 +25,19 @@
    Which the others rushed forward to quell
    /
    Calmed by pack and baby, I retreated
-   While Rem and Ria parleyed
-   Emissaries from Temut they greeted
+   Efforts to parley were led by Ria and Rem
+   Emissaries from Temut were greeted
+   And a ceasefire struck with them
+   /
+   Consisting of monsters and creatures bizarre
+   They were led by Irwin from before
+   A massive floating brain in a jar
+   Though we slew Grubb, we struck a rapport
+   /
+   
+   
+   
+   
    
    
    
