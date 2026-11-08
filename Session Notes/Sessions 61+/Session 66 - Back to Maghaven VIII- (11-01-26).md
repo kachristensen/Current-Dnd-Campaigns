@@ -4,9 +4,10 @@
 
 ## IC Synopsis - Tales from Persephone
 > **TITLE**
-   While the others looted the corpse of Grubb
    I, in the swarm, took Valindra and nested
-   A monster  close up
+   While the others looted, a creature drew near
+   Intending to see me of my child divested
+   And ill-advised tried to pull her away
    
    /
    
