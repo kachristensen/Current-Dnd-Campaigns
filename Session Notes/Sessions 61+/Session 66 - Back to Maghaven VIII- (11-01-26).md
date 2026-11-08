@@ -32,8 +32,30 @@
    Consisting of monsters and creatures bizarre
    They were led by Irwin from before
    A massive floating brain in a jar
-   Though we slew Grubb, we struck a rapport
+   Though Grubb was dead, we struck a rapport
    /
+   They explained their alliance and Lord Dareth's coup
+   And expressed interest in making new friends
+   Assisting us with constructs, they joined our crew
+   As we led the siege of Maghaven to its rightful end
+   /
+   On the morrow our council convened
+   Consisting of Iwrin, Ulrich, and us
+   And the rescued Schwartz and Sabine
+   So was the strength of the rebellion renewed thus
+   /
+   Afterwards, our group separated
+   With Lewis and Rem off to procreate
+   Us ladies, a visit to Connor necessitated
+   The agreement to reconvene for Sabine's date
+   
+   
+   
+   
+   
+   
+   
+   
    
    
    
