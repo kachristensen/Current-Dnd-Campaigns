@@ -4,12 +4,21 @@
 
 ## IC Synopsis - Tales from Persephone
 > **TITLE**
-   I, in the swarm, took Valindra and nested
-   While the others looted, a creature drew near
+> While looting Grubb and recovering from the fight
+> A group approached us warily and called out
+> Rem with decapitated head gave them a fright
+> And explained the circumstances about
+> /
+> 
+> Though Grubb was their master, they asked for clemency
+> Rem, the merciful, agreed readily
+   I, dark stalker, took Valindra and nested
+   The surrounding swarm lured foolish prey
    Intending to see me of my child divested
    And ill-advised tried to pull her away
-   
    /
+   
+   
    
    
 ## Notes
