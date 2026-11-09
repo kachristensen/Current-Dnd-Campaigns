@@ -8,47 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b93ab12a1a24e474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Sessions 61+/Session 65 - Back to Maghaven VII- (10-25-26).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 65 - Back to Maghaven VII- (10-25-26)"
-            }
-          },
-          {
-            "id": "1a839f05bf125ca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Sessions 61+/Session 66 - Back to Maghaven VIII- (11-01-26).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 66 - Back to Maghaven VIII- (11-01-26)"
-            }
-          },
-          {
             "id": "59b4bb3c3d4b6b74",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "Session Notes/Sessions 61+/Session 67 - - (11-08-26).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
+              "icon": "lucide-file",
+              "title": "Session 67 - - (11-08-26)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +176,9 @@
   },
   "active": "59b4bb3c3d4b6b74",
   "lastOpenFiles": [
-    "Session Notes/Sessions 61+/Session 62 - Back to Maghaven V - (9-20-26).md",
     "Session Notes/Sessions 61+/Session 66 - Back to Maghaven VIII- (11-01-26).md",
+    "Session Notes/Sessions 61+/Session 67 - - (11-08-26).md",
+    "Session Notes/Sessions 61+/Session 62 - Back to Maghaven V - (9-20-26).md",
     "Session Notes/Sessions 61+/Session 61 - Back to Maghaven IV - (9-13-26).md",
     "Session Notes/Sessions 61+/Session 65 - Back to Maghaven VII- (10-25-26).md",
     "Markdown Cheat Sheet.md",
@@ -233,7 +207,6 @@
     "Persephone/Build.md",
     "References/Loot/Shield of Foshorey 2.png",
     "References/Loot/Shield of Foshorey.png",
-    "Session Notes/Sessions 31-40/Session 36 - The Sanatorium III (2-8-26).md",
     "References/Loot/Hand of the Living God.png",
     "References/Loot/Etifa's Heart.png",
     "References/Loot/Ciripetti's Scarificator.png",
