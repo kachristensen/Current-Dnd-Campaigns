@@ -14,7 +14,7 @@
     - *Darkvision, Fey Ancestry, Fey Step, Perception, Trance (Longbow, rapier)*  
     - *Language: Common, Abyssal, Infernal*  
 - *L4: Fey Touched (CHA \+1), Silvery Barbs, Misty Step*  
-- *L8: Warcaster (Wis \+1)*
+- *L8: Resilient (CON \+1)*
 
 *L1 Bard*
 
