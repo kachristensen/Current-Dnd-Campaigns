@@ -91,3 +91,6 @@ L11 Bard
 L12 Bard
 - War Caster
 - Dissonant Whispers -> Absorb Elements OR Battle Familiar
+- OR
+	- Enchantment Adept
+	- Dissonant Whispers -> Mass Suggestion
