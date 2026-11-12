@@ -87,3 +87,6 @@ L10 Bard
 L11 Bard
 - Contingency
 - Doomtide -> Spirit Guardians
+
+L12 Bard
+- War Caster
