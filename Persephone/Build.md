@@ -90,4 +90,4 @@ L11 Bard
 
 L12 Bard
 - War Caster
-- Dissonant Whispers ->
+- Dissonant Whispers -> Absorb Elements
