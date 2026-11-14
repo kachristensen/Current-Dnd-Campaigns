@@ -1,5 +1,5 @@
 Men are silent for the night
-All turned in as daylight dies
+All who live must one day die
 But one soul lies anxious wide awake
 Fearing all manner of beasts, gods and plagues
 My-dear darling Sally shut your eyes
