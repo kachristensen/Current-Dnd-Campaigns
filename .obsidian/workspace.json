@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Misc"
             }
+          },
+          {
+            "id": "6f96cb28d5780cde",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16347ecfc6e8aeb0",
+  "active": "6f96cb28d5780cde",
   "lastOpenFiles": [
     "Persephone/Songs and Poems/The Ballad of Lem and Rim.md",
     "Persephone/Songs and Poems/The Age of All Knowledge.md",
