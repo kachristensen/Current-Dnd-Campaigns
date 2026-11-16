@@ -74,4 +74,5 @@
 	- Explained to him Mirko/Dareth
 - We cast Teleportation Circle over to Temut
 	- Lord Dareth's mansion, dining room. Flesh golems (constructs) brought in food.
-	- Spoke to Rem as our leader 
+	- Spoke to Rem as our leader
+	- LD didn't like Grubb 
