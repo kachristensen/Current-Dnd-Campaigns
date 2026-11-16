@@ -46,5 +46,5 @@
 			- Perse was livid. 
 - Downstairs
 	- Lady Sabine sent a messenger. Emissary from Temut has arrived.
-	- Valindra, Lewis, and Rem had breakfast
+	- Valindra, Lewis, and Rem had breakfast at the inn
 	- Perse and Ria went down to the sewers to blow up rats 
