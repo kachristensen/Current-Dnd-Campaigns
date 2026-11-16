@@ -96,3 +96,6 @@
 			- Rem said let's get through the next few months first 
 	- He agreed to aid in our effort and abide by our rules as long as they are within reason.
 	- Countess Anastasia fled east to the Deadwoods, lots of undead. 
+	- Lewis sent to Poko Poko explaining Lord Dareth, described him 
+		- Poko Poko wants us to kill him 
+			- Lewis asked Poko Poko to play nice. P said necros don't work together. Either he dies or Poko will make him disappear. 
