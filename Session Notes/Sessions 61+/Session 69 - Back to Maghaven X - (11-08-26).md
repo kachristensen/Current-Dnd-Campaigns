@@ -80,4 +80,8 @@
 		- Rem mentioned that we want him to stop using the Setting Sun as slavers.
 			- They procure exotic specimens to be useful in their work. 
 			- He'll agree to not use slavers. 
-			- I mentioned we'll put them in contact with Poko Poko for research and use of the undead.
+			- I mentioned we'll put them in contact with Poko Poko for research and use of the undead
+			- We were reluctant to allow him to harvest corpses from the field of battle, due to respecting rites.
+				- Rem spoke of a better future. I spoke of preserving the morale of the living.
+				- He was reluctant to follow this, wishy washy. 
+	- Rem asked if Temut is in position to help us, asked if there was anything we can do to assist. 
