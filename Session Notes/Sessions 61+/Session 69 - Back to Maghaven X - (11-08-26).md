@@ -71,4 +71,6 @@
 - Rem went off to talk to Ulrich
 	- Told him of our plans, bid him farewell 
 	- Ulrich heading to Hochstadt, will be there around day 54
-	- Explained to him Mirko/Dareth 
+	- Explained to him Mirko/Dareth
+- We cast Teleportation Circle over to Temut
+- 
