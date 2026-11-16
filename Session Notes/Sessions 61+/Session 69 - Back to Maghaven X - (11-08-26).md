@@ -80,3 +80,4 @@
 		- Rem mentioned that we want him to stop using the Setting Sun as slavers.
 			- They procure exotic specimens to be useful in their work. 
 			- He'll agree to not use slavers. 
+			- I mentioned we'll put them in contact with Poko Poko for research and use of the undead.
