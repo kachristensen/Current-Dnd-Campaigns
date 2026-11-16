@@ -67,4 +67,6 @@
 		- Philter of Ambivalence 
 			- Prevents being charmed for 1 hour
 		- Four potions of healing 
-		- Lewis bought the philter of ambivalence, 4 potions of healing, 1 greater for 560g total 
+		- Lewis bought the philter of ambivalence, 4 potions of healing, 1 greater for 560g total
+- Rem went off to talk to Ulrich
+	- 
