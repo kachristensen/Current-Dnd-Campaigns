@@ -75,4 +75,8 @@
 - We cast Teleportation Circle over to Temut
 	- Lord Dareth's mansion, dining room. Flesh golems (constructs) brought in food.
 	- Spoke to Rem as our leader
-	- LD didn't like Grubb 
+	- LD didn't like Grubb
+		- I asked if he was fine conducting ethical research. He agreed, not very interested in experimenting on the living.
+		- Rem mentioned that we want him to stop using the Setting Sun as slavers.
+			- They procure exotic specimens to be useful in their work. 
+			- He'll agree to not use slavers. 
