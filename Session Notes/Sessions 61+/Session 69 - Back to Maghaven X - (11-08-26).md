@@ -55,4 +55,7 @@
 	- Mirko travelled as a bard, Countess Anastasia became enamoured with him, made him take up a position in her court. Lord Dareth & his flesh constructs conducted the coup. 
 		- Said Lord Dareth is very creepy, but did spare his life. 
 	- Rem asked Mirko to help with good PR for the rebellion. Mirko said he is planning on leaving LD. Said LD is old and proper, fascination with putting dead things back together, is a necromancer. 
-	- Mirko suggested we go see Dareth and explain Mirko is working on an alliance with Sabine. 
+	- Mirko suggested we go see Dareth and explain Mirko is working on an alliance with Sabine.
+	- Rem wants to go shopping to buy some sending stones
+	- Iwrin will meet with us back at the councilroom and we'll cast teleportation circle via the cube to go see Dareth
+	- 
