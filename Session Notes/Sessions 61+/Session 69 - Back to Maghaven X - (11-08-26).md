@@ -25,3 +25,5 @@
 - Morning 
 	- Scarificator levelled up to l2 
 	- Perse and Lewis tried to pull the chains off of Rem that were encircling/restraining him, Rem shoved us off and exerted his will, subdued the chains. 
+	- Valindra noticed her glaive was glowing, it static shocked her when she touched it. Now has lightning damage. 
+	- Ria went and looked for a mirror, tore off her clothes and checked. Some of her scales are flaking off, she investigated, saw chitin. 
