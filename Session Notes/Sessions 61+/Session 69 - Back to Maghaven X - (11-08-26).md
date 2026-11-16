@@ -62,3 +62,9 @@
 	- Sending stones given to Rem for free on Sabine's order
 	- Rem asked Lewis to cast Sending to Taryn to meet up with us near Temut 
 	- Lewis met Ethel, potion seller 
+		- Potion of Psionic Fortitude
+		- Salamander Sauce
+		- Philter of Ambivalence 
+			- Prevents being charmed for 1 hour
+		- Four potions of healing 
+		- Lewis bought the philter of ambivalence, 4 potions of healing, 1 greater
