@@ -69,4 +69,6 @@
 		- Four potions of healing 
 		- Lewis bought the philter of ambivalence, 4 potions of healing, 1 greater for 560g total
 - Rem went off to talk to Ulrich
-	- 
+	- Told him of our plans, bid him farewell 
+	- Ulrich heading to Hochstadt, will be there around day 54
+	- Explained to him Mirko/Dareth 
