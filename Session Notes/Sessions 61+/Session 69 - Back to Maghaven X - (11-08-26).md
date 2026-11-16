@@ -37,4 +37,4 @@
 			- Response: You dare seek audience with me? Bring me the one I told you not to bring?
 		- 2nd Sending - forgive me if my request has offended you, haven't forgot your warning, searches for his god, would like to speak with you
 			- Those who enter my domain are rarely permitted to leave. Come if you wish but heed my warning 
-		- 3rd Sending - thank you, will make sure to be on best behavior, 
+		- 3rd Sending - thank you, will make sure to be on best behavior, or else we'll be at your disposal
