@@ -24,4 +24,4 @@
 		- Ciripetti moved in and knocked her unconscious, ripped her away from the Harbinger. 
 - Morning 
 	- Scarificator levelled up to l2 
-	- Perse and Lewis tried to pull the chains off of Rem that were encircling/restraining him, Rem shoved us off. 
+	- Perse and Lewis tried to pull the chains off of Rem that were encircling/restraining him, Rem shoved us off and exerted his will, subdued the chains. 
