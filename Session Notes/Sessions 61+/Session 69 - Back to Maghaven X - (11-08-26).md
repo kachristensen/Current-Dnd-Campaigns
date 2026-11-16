@@ -7,4 +7,13 @@
    
 ## Notes
 - More god dreams
-	- Valindra woke in a famliar forest with Wuffi. Met by a bronze great wyrm. Lord SJ
+	- Valindra woke in a famliar forest with Wuffi. Met by a bronze great wyrm. Lord SJ is concerned that Valindra is no longer loyal 
+		- Valindra is worried she's done great harm to others.
+			- Lord SJ says the methods are unfavorable but necessary. 
+		- Valindra doesn't want to see Ria die.
+			- Lord SJ says she won't die, just become part of SJ. 
+		- Lord SJ says she needs to return home to his remains, spill the blood of Ria,
+			- V says we're fighting the Rexum rn. SJ warned her Rexum will be a turning point -- if SJ isn't there to bring order, there will be chaos. 
+		- He gestured and Wuffi came over. This Wuffi isn't the real one. 
+		- Valindra reverted to obeisance, felt torn between protecting her friends w/ Etifa.
+		- Lord SJ said he cares about her and has been watching her through Wuffi, says he has granted her more power 
