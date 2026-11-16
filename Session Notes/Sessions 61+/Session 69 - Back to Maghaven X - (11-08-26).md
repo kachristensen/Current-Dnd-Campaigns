@@ -45,4 +45,6 @@
 		- They are emotionally romantic - Gods aren't permitted to be physical with anyone, so says the grand divine. 
 			- Perse was livid. 
 - Downstairs
-	- Lady Sabine sent a messenger. Emissary from Temut has arrived. 
+	- Lady Sabine sent a messenger. Emissary from Temut has arrived.
+	- Valindra, Lewis, and Rem had breakfast
+	- Perse and Ria went down to the sewers to blow up rats 
