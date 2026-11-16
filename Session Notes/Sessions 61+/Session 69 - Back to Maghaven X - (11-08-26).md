@@ -17,4 +17,5 @@
 		- He gestured and Wuffi came over. This Wuffi isn't the real one. 
 		- Valindra reverted to obeisance, felt torn between protecting her friends w/ Etifa.
 		- Lord SJ said he cares about her and has been watching her through Wuffi, says he has granted her more power 
-	- Ria - met Ciripetti 
+	- Ria - Xi'talla's Harbinger  greeted her 
+		- Ria cast lightning bolt, harbinger cast mind blast again 
