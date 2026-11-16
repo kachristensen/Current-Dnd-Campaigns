@@ -61,6 +61,9 @@
 - Market
 	- Sending stones given to Rem for free on Sabine's order
 	- Rem asked Lewis to cast Sending to Taryn to meet up with us near Temut 
+		- She's near Barca spying on the LG. ASked what we need help with. 
+		- Lewis told her it's nothing pressing but Rem wants to talk about lord ZK's service
+			- Taryn will be here on the morrow 
 	- Lewis met Ethel, potion seller 
 		- Potion of Psionic Fortitude
 		- Salamander Sauce
