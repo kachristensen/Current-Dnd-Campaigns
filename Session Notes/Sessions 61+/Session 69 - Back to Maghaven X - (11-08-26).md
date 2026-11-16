@@ -19,4 +19,4 @@
 		- Lord SJ said he cares about her and has been watching her through Wuffi, says he has granted her more power 
 	- Ria - Xi'talla's Harbinger  greeted her 
 		- Ria cast lightning bolt, harbinger cast mind blast again. Tried to convince her to join back
-		- Ciripetti appeared, Ria cast lightning bolt on both of them.
+		- Ciripetti appeared, Ria cast lightning bolt on both of them. Harbinger started corrupting Ria with chitin. Ria cast fireball on the both of them. 
