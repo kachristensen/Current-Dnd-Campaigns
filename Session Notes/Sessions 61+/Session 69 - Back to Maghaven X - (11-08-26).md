@@ -38,3 +38,11 @@
 		- 2nd Sending - forgive me if my request has offended you, haven't forgot your warning, searches for his god, would like to speak with you
 			- Those who enter my domain are rarely permitted to leave. Come if you wish but heed my warning 
 		- 3rd Sending - thank you, will make sure to be on best behavior, or else we'll be at your disposal
+	- Perse opened Hypithia
+		- Asked what the nature of Xchimaltia's and Hades relationship. They are romantic.
+		- She asked what Xchimaltia's goals are.
+			- Unsure, but Xchimaltia is lonely. 
+		- They are emotionally romantic - Gods aren't permitted to be physical with anyone, so says the grand divine. 
+			- Perse was livid. 
+- Downstairs
+	- Lady Sabine sent a messenger. Emissary from Temut has arrived. 
