@@ -91,3 +91,5 @@
 		- Asked to remain lord of Temut, Rem said if he cooperates and remains truthful and ethical, no reason why not.
 			- Perse said we had no reason to remove him if he was ethical
 			- Rem said let's get through the next few months first 
+	- He agreed to aid in our effort and abide by our rules as long as they are within reason.
+	- Countess Anastasia fled east to the Deadwoods, lots of undead. 
