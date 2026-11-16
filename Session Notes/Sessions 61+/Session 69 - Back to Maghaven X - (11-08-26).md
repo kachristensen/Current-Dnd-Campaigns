@@ -61,3 +61,4 @@
 - Market
 	- Sending stones given to Rem for free on Sabine's order
 	- Rem asked Lewis to cast Sending to Taryn to meet up with us near Temut 
+	- Lewis met Ethel, potion seller 
