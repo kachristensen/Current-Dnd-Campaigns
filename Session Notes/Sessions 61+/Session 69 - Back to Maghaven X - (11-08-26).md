@@ -54,3 +54,4 @@
 		- Rem told him he's been cured of the plague. Asked how he came into his employ.
 	- Mirko travelled as a bard, Countess Anastasia became enamoured with him, made him take up a position in her court. Lord Dareth & his flesh constructs conducted the coup. 
 		- Said Lord Dareth is very creepy, but did spare his life. 
+	- Rem asked Mirko to help with good PR for the rebellion. Mirko said he is planning on leaving. 
