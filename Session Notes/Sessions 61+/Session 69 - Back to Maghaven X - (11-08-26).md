@@ -7,4 +7,4 @@
    
 ## Notes
 - More god dreams
-	- Valindra woke in a famliar forest 
+	- Valindra woke in a famliar forest with Wuffi. 
