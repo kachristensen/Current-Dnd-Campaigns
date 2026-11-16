@@ -67,4 +67,4 @@
 		- Philter of Ambivalence 
 			- Prevents being charmed for 1 hour
 		- Four potions of healing 
-		- Lewis bought the philter of ambivalence, 4 potions of healing, 1 greater
+		- Lewis bought the philter of ambivalence, 4 potions of healing, 1 greater for 560g total 
