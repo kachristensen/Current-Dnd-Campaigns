@@ -29,4 +29,12 @@
 	- Ria went and looked for a mirror, tore off her clothes and checked. Some of her scales are flaking off her arm, she investigated, saw chitin. Perse came in after her, tried to convince her to let her cut it out. Ria let her.
 		- I cauterized it then Healing Worded Ria. Both the scales and the chitin were gone, scarred. 
 		- Ria said she doesn't have the ability to resist. Explained her dream. Perse suggested she deepen her bond further with Ciripetti, commune.
-		- Perse started putting her clothes back, tried to encourage her to not lose hope. 
+		- Perse started putting her clothes back, tried to encourage her to not lose hope. Recommended she deepen her connection with Ciripetti faster.
+		- We returned to the others
+	- Perse asked after Valindra. Valindra said she was fine. A bit reticent. Didn't see visions of Etifa.
+	- Lewis send Xchimaltia a message 
+		- Xchimaltia, may I have an audience with you and bring Persephone along? I wish to keep her close and ensure her well-being
+			- Response: You dare seek audience with me? Bring me the one I told you not to bring?
+		- 2nd Sending - forgive me if my request has offended you, haven't forgot your warning, searches for his god, would like to speak with you
+			- Those who enter my domain are rarely permitted to leave. Come if you wish but heed my warning 
+		- 3rd Sending - thank you, will make sure to be on best behavior, 

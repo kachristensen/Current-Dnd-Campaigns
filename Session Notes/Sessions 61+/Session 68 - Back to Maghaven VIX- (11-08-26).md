@@ -51,6 +51,4 @@
 			- Rem said he would depose Osric as he's sworn, but not swear to this. Will consider it.
 	- He levelled up his chains to L2, now lawful evil and cast command, etc
 	- For us -- Rem was hot and sweating in his sleep, glowing a bit.
-- Lewis cast Sending
-	- Xchimaltia, may I have an audience with you and bring Persephone along? I wish to keep her close and ensure her well-being
 - We levelled up
