@@ -86,3 +86,4 @@
 				- He was reluctant to follow this, wishy washy. 
 	- Rem asked if Temut is in position to help us, asked if there was anything we can do to assist. 
 	- Perse asked if Dareth could beautify them to make them more marketable so we can use their forces. He showed us his newest construct, a woman. It spoke, introduced herself as Maritza. He is able to make them speak. She lifted a massive table. 
+	- Rem asked that Dareth introduce the people a waiver that they can sign to opt in to being used after death. 
