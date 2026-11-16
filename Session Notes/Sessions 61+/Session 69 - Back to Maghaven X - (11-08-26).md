@@ -58,4 +58,5 @@
 	- Mirko suggested we go see Dareth and explain Mirko is working on an alliance with Sabine.
 	- Rem wants to go shopping to buy some sending stones
 	- Iwrin will meet with us back at the councilroom and we'll cast teleportation circle via the cube to go see Dareth
-	- 
+- Market
+	- Sending stones given to Rem for free on Sabine's order
