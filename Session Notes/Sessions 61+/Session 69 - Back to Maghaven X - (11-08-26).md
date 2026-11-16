@@ -73,4 +73,4 @@
 	- Ulrich heading to Hochstadt, will be there around day 54
 	- Explained to him Mirko/Dareth
 - We cast Teleportation Circle over to Temut
-	- Lord Dareth's mansion, dining room
+	- Lord Dareth's mansion, dining room. Flesh golems brought in food. 
