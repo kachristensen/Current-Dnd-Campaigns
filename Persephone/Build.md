@@ -89,8 +89,5 @@ L11 Bard
 - Doomtide -> Spirit Guardians
 
 L12 Bard
-- War Caster
-- Dissonant Whispers -> Absorb Elements OR Battle Familiar
-- OR
-	- Enchantment Adept
-	- Dissonant Whispers -> Mass Suggestion
+- War Caster (+1 Wis)
+- Dissonant Whispers -> Absorb Elements
